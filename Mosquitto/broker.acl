@@ -1,0 +1,36 @@
+#############################################################
+# REFERENCE: "Build Your Own IoT Platform" by Anand Tomboli #
+#                                                           #
+# NOTE: Any terms that's surrounded with <> is arbitrary    #
+#############################################################
+
+# GENERAL
+#   Allow anonymous user to subscribe timestamp and its subtopic
+#   But as we prohibited anonymous user from accessing broker, this option will never used.
+topic read timestamp/#
+
+# USERS
+#   Allow administrator to publish or subscribe any topic
+user <Administrator-username>
+topic readwrite #
+
+# APPLICATION AS A USER
+user <Application-username>
+topic read timestamp/#
+#   Allow user to publish or subscribe for given topic and subtopic that is named Client_ID
+#   For example, when username "a" connects with Client_ID "aa" and <topic-name> is "testTopic",
+#   user "a" will have permission to publish or subscribe for topic "testTopic/aa/#" (note that # means all).
+topic readwrite <topic-name>/%c/#
+
+# PATTERNS
+topic read timestamp/#
+#   Allow user that is not specified above to pub/sub only for username/Client_ID specific topic.
+#       Pattern below is to enable user to pub/sub username specific topic.
+#       For example, When user with username "a" connects to broker, that guy will have pub/sub permission to
+#       topic "users/a/#".
+pattern readwrite users/%u/#
+#       Pattern below is to enable user to pub/sub Client_ID specific topic.
+#       For example, When user uses Client_ID "aa", that guy will have publish permission to topic "aa/up/#"
+#       and subscribe permission to topic "aa/dn/#".
+pattern write %c/up/#
+pattern read %c/dn/#

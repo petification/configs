@@ -15,6 +15,7 @@ case "$cmd" in
 
     --down)
         pkill mosquitto
+        echo "Mosquitto down"
         ;;
 
     *)
