@@ -9,7 +9,7 @@ case "$cmd" in
         ;;
 
     --acl)
-        echo "Exporting ACL is not supported right now because of security"
+        cp ./broker.acl /etc/mosquitto/conf.d/broker.acl
         ;;
 
     *)

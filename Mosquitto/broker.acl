@@ -1,7 +1,5 @@
 #############################################################
 # REFERENCE: "Build Your Own IoT Platform" by Anand Tomboli #
-#                                                           #
-# NOTE: Any terms that's surrounded with <> is arbitrary    #
 #############################################################
 
 # GENERAL
@@ -9,18 +7,18 @@
 #   But as we prohibited anonymous user from accessing broker, this option will never used.
 topic read timestamp/#
 
-# USERS
+# ADMINISTRATOR
 #   Allow administrator to publish or subscribe any topic
-user <Administrator-username>
+user blue
 topic readwrite #
 
 # APPLICATION AS A USER
-user <Application-username>
+user testapp
 topic read timestamp/#
 #   Allow user to publish or subscribe for given topic and subtopic that is named Client_ID
 #   For example, when username "a" connects with Client_ID "aa" and <topic-name> is "testTopic",
 #   user "a" will have permission to publish or subscribe for topic "testTopic/aa/#" (note that # means all).
-topic readwrite <topic-name>/%c/#
+topic readwrite testapp/%c/#
 
 # PATTERNS
 topic read timestamp/#
