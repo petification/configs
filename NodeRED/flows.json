@@ -1,0 +1,1345 @@
+[
+    {
+        "id": "e201e2d1a09b1eed",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f2f86710f80408e7",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "node-red",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "sessionExpiry": ""
+    },
+    {
+        "id": "1654a6d7a221376c",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "tSeriesDB",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "86dc12794c7b4f01",
+        "type": "inject",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "15",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 370,
+        "y": 100,
+        "wires": [
+            [
+                "01fd6a7c72a71eb2",
+                "cb6fe3d3bb753a48"
+            ]
+        ]
+    },
+    {
+        "id": "01fd6a7c72a71eb2",
+        "type": "debug",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "cb6fe3d3bb753a48",
+        "type": "mqtt out",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "topic": "timestamp",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 650,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "a7e8b3be49437ef9",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/pub/:topic/:payload",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 350,
+        "y": 300,
+        "wires": [
+            [
+                "4e3ac4fb41476ece"
+            ]
+        ]
+    },
+    {
+        "id": "1a86d1fd43bfe41b",
+        "type": "mqtt out",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "topic": "mqtt",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 770,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "4e3ac4fb41476ece",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateMessage",
+        "func": "msg.topic = msg.req.params.topic.toString();\nmsg.payload = msg.req.params.payload.toString();\nmsg.qos = 2;\nmsg.retain = false;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 300,
+        "wires": [
+            [
+                "e4963a3a546c7ea3",
+                "1a86d1fd43bfe41b"
+            ]
+        ]
+    },
+    {
+        "id": "e4963a3a546c7ea3",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateResponse",
+        "func": "msg.payload = {\n    success: true,\n    message:\"published: \" +\n            msg.req.params.topic + \n            \"/\" + \n            msg.req.params.payload\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 300,
+        "wires": [
+            [
+                "96da0d4eb6e955d5"
+            ]
+        ]
+    },
+    {
+        "id": "96da0d4eb6e955d5",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 990,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "efd3389ba939d57f",
+        "type": "mqtt in",
+        "z": "e201e2d1a09b1eed",
+        "name": "ListenEverything",
+        "topic": "#",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 400,
+        "y": 420,
+        "wires": [
+            [
+                "b6087fa03967b97d"
+            ]
+        ]
+    },
+    {
+        "id": "bdc10140ffe8560d",
+        "type": "debug",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 950,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "b6087fa03967b97d",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "MakeSQLQuery",
+        "func": "// Create query\n// get microtime\nvar timestamp = new Date().getTime()/1000;\n// pad it with trailing zeroes\ntimestamp = timestamp.toString() + \"000\";\n// trim to exact length 10 + 1 + 3\ntimestamp = timestamp.substring(0, 14);\n\nvar strQuery =  \"INSERT INTO thingsData (topic, payload, timestamp, deleted)\" +\n                \"VALUES ('\" + escape(msg.topic) + \"','\" + escape(msg.payload) + \"','\" + timestamp + \"', 0);\";\nmsg.topic = strQuery;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 420,
+        "wires": [
+            [
+                "51ac77f1ebf7ae2d"
+            ]
+        ]
+    },
+    {
+        "id": "51ac77f1ebf7ae2d",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 780,
+        "y": 420,
+        "wires": [
+            [
+                "bdc10140ffe8560d"
+            ]
+        ]
+    },
+    {
+        "id": "b4c26fa8fa10f79f",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "Publish Periodic Timestamp",
+        "info": "",
+        "x": 140,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "f0b69ba145578723",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "Publish by REST/POST",
+        "info": "",
+        "x": 120,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "f2d1b4ad256117db",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "Subscribe & DB/INSERT Everything",
+        "info": "",
+        "x": 160,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "3c204c1a847c86f3",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/GET one or more records from DB",
+        "info": "",
+        "x": 180,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "f8c2f3630add207c",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/record/:topic",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 450,
+        "y": 540,
+        "wires": [
+            [
+                "2a41a513faa8be60"
+            ]
+        ]
+    },
+    {
+        "id": "6a290db97485689b",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/last/:count",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 490,
+        "y": 620,
+        "wires": [
+            [
+                "2a41a513faa8be60"
+            ]
+        ]
+    },
+    {
+        "id": "2a41a513faa8be60",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateQuery",
+        "func": "// Create query\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count) {\n    msg.req.params.count = 1;\n}\n\n// build the sql query\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 580,
+        "wires": [
+            [
+                "eb7d2b0b0549af74"
+            ]
+        ]
+    },
+    {
+        "id": "eb7d2b0b0549af74",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 900,
+        "y": 580,
+        "wires": [
+            [
+                "a61648f5611c8aac"
+            ]
+        ]
+    },
+    {
+        "id": "a61648f5611c8aac",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateResponse",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 580,
+        "wires": [
+            [
+                "f34f97c2fe93999b"
+            ]
+        ]
+    },
+    {
+        "id": "f34f97c2fe93999b",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1250,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "d38c3feb01d610d2",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/topic-like/:topic/payload-like/:payload/last/:count",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 590,
+        "y": 740,
+        "wires": [
+            [
+                "9618f972cad8e616"
+            ]
+        ]
+    },
+    {
+        "id": "9618f972cad8e616",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateSELECT",
+        "func": "// Create query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n            \" FROM thingsData WHERE\" +\n            \" topic LIKE '\" + msg.req.params.topic.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND\" +\n            \" payload LIKE '\" + msg.req.params.payload.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND deleted=0\" +\n            \" AND (\" + msg.req.authFilter + \")\" +\n            \" ORDER BY ID DESC\" +\n            \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 740,
+        "wires": [
+            [
+                "f72c93e78b9ad4dc"
+            ]
+        ]
+    },
+    {
+        "id": "f72c93e78b9ad4dc",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 1120,
+        "y": 740,
+        "wires": [
+            [
+                "e7327554ac29495c"
+            ]
+        ]
+    },
+    {
+        "id": "e7327554ac29495c",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateResponse",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1310,
+        "y": 740,
+        "wires": [
+            [
+                "caba589dba41f0c7"
+            ]
+        ]
+    },
+    {
+        "id": "caba589dba41f0c7",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1490,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "c484b79b88fc37df",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/GET records based on condition",
+        "info": "",
+        "x": 170,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "bf31849111e2a50b",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/after/:time/last/:count",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 520,
+        "y": 840,
+        "wires": [
+            [
+                "f82e9369d1d1ee7b"
+            ]
+        ]
+    },
+    {
+        "id": "a1a2bc7fd55158fa",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/before/:time/last/:count",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 530,
+        "y": 920,
+        "wires": [
+            [
+                "1ce457464e48edc9"
+            ]
+        ]
+    },
+    {
+        "id": "5d5f1f59cf946387",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/duration/:start/:end/last/:count",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 550,
+        "y": 1000,
+        "wires": [
+            [
+                "16b88589dfc23738"
+            ]
+        ]
+    },
+    {
+        "id": "f82e9369d1d1ee7b",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateAFTERQuery",
+        "func": "// Create 'AFTER' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 840,
+        "wires": [
+            [
+                "4f2ed712ef0bf6e2"
+            ]
+        ]
+    },
+    {
+        "id": "1ce457464e48edc9",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateBEFOREQuery",
+        "func": "// Create 'BEFORE' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp <= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 920,
+        "wires": [
+            [
+                "4f2ed712ef0bf6e2"
+            ]
+        ]
+    },
+    {
+        "id": "16b88589dfc23738",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateDURATIONQuery",
+        "func": "// Create 'DURING' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic.replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.start + \"'\" + \" AND\" +\n    \" timestamp <='\" + msg.req.params.end + \"'\" +\n    \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 910,
+        "y": 1000,
+        "wires": [
+            [
+                "4f2ed712ef0bf6e2"
+            ]
+        ]
+    },
+    {
+        "id": "4f2ed712ef0bf6e2",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 1140,
+        "y": 920,
+        "wires": [
+            [
+                "67f2438515c6f8a1"
+            ]
+        ]
+    },
+    {
+        "id": "67f2438515c6f8a1",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateResponse",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1330,
+        "y": 920,
+        "wires": [
+            [
+                "b9376b70539eb71c"
+            ]
+        ]
+    },
+    {
+        "id": "b9376b70539eb71c",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1510,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "6cbd6f9e9912d232",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/GET records based on time period",
+        "info": "",
+        "x": 180,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "d7f6e1e80bc8097b",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/record/:topic/id/:id",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 530,
+        "y": 1120,
+        "wires": [
+            [
+                "13d334d81b4dd461"
+            ]
+        ]
+    },
+    {
+        "id": "1d1802bb96bd4201",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 520,
+        "y": 1180,
+        "wires": [
+            [
+                "084112defca34cab"
+            ]
+        ]
+    },
+    {
+        "id": "64b268990da487ee",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/first/:count",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 560,
+        "y": 1240,
+        "wires": [
+            [
+                "f0a1b196374bcc74"
+            ]
+        ]
+    },
+    {
+        "id": "a94f17f666b5c890",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/last/:count",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 550,
+        "y": 1300,
+        "wires": [
+            [
+                "59cb4de1123efdc0"
+            ]
+        ]
+    },
+    {
+        "id": "13d334d81b4dd461",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateUPDATEQueryByID",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"UPDATE thingsData\" + \" SET deleted=1\" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1120,
+        "wires": [
+            [
+                "39855734a16de5e2"
+            ]
+        ]
+    },
+    {
+        "id": "084112defca34cab",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateUPDATEQueryByTopic",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 1180,
+        "wires": [
+            [
+                "39855734a16de5e2"
+            ]
+        ]
+    },
+    {
+        "id": "f0a1b196374bcc74",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateUPDATEfromFirstQuery",
+        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 1240,
+        "wires": [
+            [
+                "39855734a16de5e2"
+            ]
+        ]
+    },
+    {
+        "id": "59cb4de1123efdc0",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateUPDATEfromLastQuery",
+        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 1300,
+        "wires": [
+            [
+                "39855734a16de5e2"
+            ]
+        ]
+    },
+    {
+        "id": "39855734a16de5e2",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 1180,
+        "y": 1200,
+        "wires": [
+            [
+                "6b74cf91f8131b65"
+            ]
+        ]
+    },
+    {
+        "id": "6b74cf91f8131b65",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateResponse",
+        "func": "// Prepare response\nmsg.payload = {\n    \"found\": msg.payload.affectedRows,\n    \"changed\": msg.payload.changedRows,\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1370,
+        "y": 1200,
+        "wires": [
+            [
+                "5e3e0ad7378df449"
+            ]
+        ]
+    },
+    {
+        "id": "5e3e0ad7378df449",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1550,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "7d5d24f4dbd87bf1",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/PATCH records to deleted based on condition",
+        "info": "",
+        "x": 210,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "a83c826883847961",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateDELETEQueryByTopic",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 1480,
+        "wires": [
+            [
+                "aa11be6ab8f9e2c0"
+            ]
+        ]
+    },
+    {
+        "id": "f9e304ec2842bbc3",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateDELETEfromFirstQuery",
+        "func": "// Purge first few records\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 1540,
+        "wires": [
+            [
+                "aa11be6ab8f9e2c0"
+            ]
+        ]
+    },
+    {
+        "id": "6385bfef8ffff8af",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateDELETEfromLastQuery",
+        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 1600,
+        "wires": [
+            [
+                "aa11be6ab8f9e2c0"
+            ]
+        ]
+    },
+    {
+        "id": "aa11be6ab8f9e2c0",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 1180,
+        "y": 1500,
+        "wires": [
+            [
+                "642633dd20877894"
+            ]
+        ]
+    },
+    {
+        "id": "642633dd20877894",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateResponse",
+        "func": "// Prepare response\nmsg.payload = {\n    \"found\": msg.payload.affectedRows,\n    \"changed\": msg.payload.changedRows,\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1370,
+        "y": 1500,
+        "wires": [
+            [
+                "4ec70007e3be566f"
+            ]
+        ]
+    },
+    {
+        "id": "4ec70007e3be566f",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1550,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "df36b606976f16fd",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "CreateDELETEQueryByID",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1420,
+        "wires": [
+            [
+                "aa11be6ab8f9e2c0"
+            ]
+        ]
+    },
+    {
+        "id": "729784eab2482326",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/record/:topic/id/:id",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 530,
+        "y": 1420,
+        "wires": [
+            [
+                "df36b606976f16fd"
+            ]
+        ]
+    },
+    {
+        "id": "f88a1ba7cc64d21f",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 520,
+        "y": 1480,
+        "wires": [
+            [
+                "a83c826883847961"
+            ]
+        ]
+    },
+    {
+        "id": "e5e3ed7c912c8e55",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/first/:count",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 560,
+        "y": 1540,
+        "wires": [
+            [
+                "f9e304ec2842bbc3"
+            ]
+        ]
+    },
+    {
+        "id": "6b8ea2a582608dab",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/records/:topic/last/:count",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 560,
+        "y": 1600,
+        "wires": [
+            [
+                "6385bfef8ffff8af"
+            ]
+        ]
+    },
+    {
+        "id": "e4b99d993691f9ce",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/DELETE records based on condition",
+        "info": "",
+        "x": 180,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "e3f3439ed27cedfe",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/timestamp",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 640,
+        "y": 1720,
+        "wires": [
+            [
+                "dd8db97a152fa406"
+            ]
+        ]
+    },
+    {
+        "id": "dd8db97a152fa406",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "PrepareTimestamp",
+        "func": "msg.payload = {\n    timestamp: (new Date()).getTime().toString()\n};\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1720,
+        "wires": [
+            [
+                "3bd7c73e7968e3d0"
+            ]
+        ]
+    },
+    {
+        "id": "3bd7c73e7968e3d0",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1070,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "7a32bcd69221e0df",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/GET current timestamp",
+        "info": "",
+        "x": 380,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "dbcc21030ae087e7",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "Microservice Utilities",
+        "info": "",
+        "x": 110,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "6bf685824b366e48",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/GET Random Code",
+        "info": "",
+        "x": 370,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "09b03c934a4ab3c0",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/randomcode/:len",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 640,
+        "y": 1800,
+        "wires": [
+            [
+                "ce8d85bdc51e87f5"
+            ]
+        ]
+    },
+    {
+        "id": "ce8d85bdc51e87f5",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "PrepareRandomCode",
+        "func": "var randomString = function(length) {\n    var text = \"\";\n    var possible = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\";\n    for(var i = 0; i < length; i++) {\n        text += possible.charAt(Math.floor(Math.random() * possible.length));\n    }\n    return text;\n}\n\nmsg.payload = {\n    code: randomString(msg.req.params.len)\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 1800,
+        "wires": [
+            [
+                "b6aafe9d80f5a9ba"
+            ]
+        ]
+    },
+    {
+        "id": "b6aafe9d80f5a9ba",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1110,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "0d6911bc8a74c563",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "REST/GET UUID",
+        "info": "",
+        "x": 340,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "72f4f13cb6f1ce1e",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/uuid",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 540,
+        "y": 1880,
+        "wires": [
+            [
+                "a4ef403cfe69e993"
+            ]
+        ]
+    },
+    {
+        "id": "fbe5a9792fc8e727",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "PrepareResponse",
+        "func": "// Prepare response\nmsg.payload = {\n    uuid: msg.payload\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 910,
+        "y": 1880,
+        "wires": [
+            [
+                "90c2bf04ebac52af"
+            ]
+        ]
+    },
+    {
+        "id": "a4ef403cfe69e993",
+        "type": "uuid",
+        "z": "e201e2d1a09b1eed",
+        "uuidVersion": "v4",
+        "namespaceType": "",
+        "namespace": "",
+        "namespaceCustom": "",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "x": 710,
+        "y": 1880,
+        "wires": [
+            [
+                "fbe5a9792fc8e727"
+            ]
+        ]
+    },
+    {
+        "id": "90c2bf04ebac52af",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1110,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "7d1f9d08ac3fa7fa",
+        "type": "sendgrid",
+        "z": "e201e2d1a09b1eed",
+        "from": "ewqdsacxz2345@gmail.com",
+        "multiple": false,
+        "to": "",
+        "name": "",
+        "content": "text",
+        "templateId": "",
+        "templateData": "",
+        "x": 1140,
+        "y": 2040,
+        "wires": []
+    },
+    {
+        "id": "de1ba5605cb30496",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "url": "/email/to/:to/subject/:subject/message/:message",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 660,
+        "y": 2000,
+        "wires": [
+            [
+                "3b96c03dc72ceed0"
+            ]
+        ]
+    },
+    {
+        "id": "3b96c03dc72ceed0",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "PrepareEmail",
+        "func": "// Prepare email\nmsg.from = \"<ewqdsacxz2345@gmail.com>\";\nmsg.to = msg.req.params.to;\n\n// msg.cc = \"cc_address@example.com\";\n// msg.bcc = \"bcc_address@example.com\";\n\nmsg.topic = msg.req.params.subject;\nmsg.payload = msg.req.params.message;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 2000,
+        "wires": [
+            [
+                "95dca23f54c3d7db",
+                "7d1f9d08ac3fa7fa"
+            ]
+        ]
+    },
+    {
+        "id": "95dca23f54c3d7db",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "name": "PrepareResponse",
+        "func": "// Prepare response\nmsg.payload = {\n    \"to\": msg.to,\n    \"status\": \"email queued\"\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1170,
+        "y": 1960,
+        "wires": [
+            [
+                "26ab1dd3bfb5541a"
+            ]
+        ]
+    },
+    {
+        "id": "26ab1dd3bfb5541a",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1350,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "6136e6773ea491eb",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "name": "Email Service",
+        "info": "",
+        "x": 330,
+        "y": 2000,
+        "wires": []
+    }
+]
