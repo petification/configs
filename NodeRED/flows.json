@@ -26,10 +26,255 @@
             "cb6fe3d3bb753a48",
             "b4c26fa8fa10f79f"
         ],
-        "x": 54,
-        "y": 59,
+        "x": 14,
+        "y": 39,
         "w": 552,
         "h": 202
+    },
+    {
+        "id": "ac50b82aeb5b47b4",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a7e8b3be49437ef9",
+            "1a86d1fd43bfe41b",
+            "4e3ac4fb41476ece",
+            "e4963a3a546c7ea3",
+            "96da0d4eb6e955d5",
+            "f0b69ba145578723"
+        ],
+        "x": 594,
+        "y": 39,
+        "w": 832,
+        "h": 142
+    },
+    {
+        "id": "5f402c5112d69c8c",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "efd3389ba939d57f",
+            "bdc10140ffe8560d",
+            "b6087fa03967b97d",
+            "f2d1b4ad256117db",
+            "4526f408031793c9",
+            "fcdc26fccc7a39e2",
+            "07b44ec7aa98beb6",
+            "51ac77f1ebf7ae2d",
+            "b81d025b4f9d9d99",
+            "786b8e9e2ed4b6fb",
+            "75b0e3d4e03b89ef",
+            "9e114eb01fd8d6d2"
+        ],
+        "x": 14,
+        "y": 259,
+        "w": 1152,
+        "h": 262
+    },
+    {
+        "id": "1ec0358bd5b716b8",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3c204c1a847c86f3",
+            "f8c2f3630add207c",
+            "6a290db97485689b",
+            "2a41a513faa8be60",
+            "a61648f5611c8aac",
+            "f34f97c2fe93999b",
+            "eb7d2b0b0549af74"
+        ],
+        "x": 14,
+        "y": 539,
+        "w": 992,
+        "h": 202
+    },
+    {
+        "id": "249f39951436abc3",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e3f3439ed27cedfe",
+            "dd8db97a152fa406",
+            "3bd7c73e7968e3d0",
+            "7a32bcd69221e0df",
+            "dbcc21030ae087e7",
+            "6bf685824b366e48",
+            "09b03c934a4ab3c0",
+            "ce8d85bdc51e87f5",
+            "b6aafe9d80f5a9ba",
+            "0d6911bc8a74c563",
+            "72f4f13cb6f1ce1e",
+            "fbe5a9792fc8e727",
+            "90c2bf04ebac52af",
+            "de1ba5605cb30496",
+            "3b96c03dc72ceed0",
+            "95dca23f54c3d7db",
+            "26ab1dd3bfb5541a",
+            "6136e6773ea491eb",
+            "a4ef403cfe69e993",
+            "7d1f9d08ac3fa7fa"
+        ],
+        "x": 14,
+        "y": 1799,
+        "w": 1192,
+        "h": 462
+    },
+    {
+        "id": "a469498692e84f80",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a83c826883847961",
+            "f9e304ec2842bbc3",
+            "6385bfef8ffff8af",
+            "642633dd20877894",
+            "4ec70007e3be566f",
+            "df36b606976f16fd",
+            "729784eab2482326",
+            "f88a1ba7cc64d21f",
+            "e5e3ed7c912c8e55",
+            "6b8ea2a582608dab",
+            "e4b99d993691f9ce",
+            "aa11be6ab8f9e2c0"
+        ],
+        "x": 14,
+        "y": 1479,
+        "w": 1232,
+        "h": 302
+    },
+    {
+        "id": "de1964eb876ce865",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d7f6e1e80bc8097b",
+            "1d1802bb96bd4201",
+            "64b268990da487ee",
+            "a94f17f666b5c890",
+            "13d334d81b4dd461",
+            "084112defca34cab",
+            "f0a1b196374bcc74",
+            "59cb4de1123efdc0",
+            "6b74cf91f8131b65",
+            "5e3e0ad7378df449",
+            "7d5d24f4dbd87bf1",
+            "39855734a16de5e2"
+        ],
+        "x": 14,
+        "y": 1159,
+        "w": 1232,
+        "h": 302
+    },
+    {
+        "id": "64725e7983c024e3",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bf31849111e2a50b",
+            "a1a2bc7fd55158fa",
+            "5d5f1f59cf946387",
+            "f82e9369d1d1ee7b",
+            "1ce457464e48edc9",
+            "16b88589dfc23738",
+            "67f2438515c6f8a1",
+            "b9376b70539eb71c",
+            "6cbd6f9e9912d232",
+            "4f2ed712ef0bf6e2"
+        ],
+        "x": 14,
+        "y": 899,
+        "w": 1252,
+        "h": 242
+    },
+    {
+        "id": "390d699e93233c5f",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d38c3feb01d610d2",
+            "9618f972cad8e616",
+            "e7327554ac29495c",
+            "caba589dba41f0c7",
+            "c484b79b88fc37df",
+            "f72c93e78b9ad4dc"
+        ],
+        "x": 14,
+        "y": 759,
+        "w": 1232,
+        "h": 122
     },
     {
         "id": "f2f86710f80408e7",
@@ -92,8 +337,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 210,
-        "y": 160,
+        "x": 170,
+        "y": 140,
         "wires": [
             [
                 "01fd6a7c72a71eb2",
@@ -114,8 +359,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 490,
-        "y": 120,
+        "x": 450,
+        "y": 100,
         "wires": []
     },
     {
@@ -133,21 +378,22 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 490,
-        "y": 220,
+        "x": 450,
+        "y": 200,
         "wires": []
     },
     {
         "id": "a7e8b3be49437ef9",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "ac50b82aeb5b47b4",
         "name": "",
         "url": "/pub/:topic/:payload",
         "method": "post",
         "upload": false,
         "swaggerDoc": "",
-        "x": 350,
-        "y": 300,
+        "x": 730,
+        "y": 140,
         "wires": [
             [
                 "4e3ac4fb41476ece"
@@ -158,6 +404,7 @@
         "id": "1a86d1fd43bfe41b",
         "type": "mqtt out",
         "z": "e201e2d1a09b1eed",
+        "g": "ac50b82aeb5b47b4",
         "name": "",
         "topic": "mqtt",
         "qos": "",
@@ -168,14 +415,15 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 770,
-        "y": 240,
+        "x": 1130,
+        "y": 80,
         "wires": []
     },
     {
         "id": "4e3ac4fb41476ece",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "ac50b82aeb5b47b4",
         "name": "CreateMessage",
         "func": "msg.topic = msg.req.params.topic.toString();\nmsg.payload = msg.req.params.payload.toString();\nmsg.qos = 2;\nmsg.retain = false;\n\nreturn msg;",
         "outputs": 1,
@@ -183,8 +431,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 600,
-        "y": 300,
+        "x": 960,
+        "y": 140,
         "wires": [
             [
                 "e4963a3a546c7ea3",
@@ -196,6 +444,7 @@
         "id": "e4963a3a546c7ea3",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "ac50b82aeb5b47b4",
         "name": "CreateResponse",
         "func": "msg.payload = {\n    success: true,\n    message:\"published: \" +\n            msg.req.params.topic + \n            \"/\" + \n            msg.req.params.payload\n};\n\nreturn msg;",
         "outputs": 1,
@@ -203,8 +452,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 810,
-        "y": 300,
+        "x": 1170,
+        "y": 140,
         "wires": [
             [
                 "96da0d4eb6e955d5"
@@ -215,17 +464,19 @@
         "id": "96da0d4eb6e955d5",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "ac50b82aeb5b47b4",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 990,
-        "y": 300,
+        "x": 1350,
+        "y": 140,
         "wires": []
     },
     {
         "id": "efd3389ba939d57f",
         "type": "mqtt in",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
         "name": "ListenEverything",
         "topic": "#",
         "qos": "2",
@@ -235,11 +486,12 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 400,
-        "y": 380,
+        "x": 120,
+        "y": 400,
         "wires": [
             [
-                "b6087fa03967b97d"
+                "b6087fa03967b97d",
+                "4526f408031793c9"
             ]
         ]
     },
@@ -247,6 +499,7 @@
         "id": "bdc10140ffe8560d",
         "type": "debug",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -255,7 +508,7 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 950,
+        "x": 670,
         "y": 380,
         "wires": []
     },
@@ -263,6 +516,7 @@
         "id": "b6087fa03967b97d",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
         "name": "MakeSQLQuery",
         "func": "// Create query\n// get microtime\nvar timestamp = new Date().getTime()/1000;\n// pad it with trailing zeroes\ntimestamp = timestamp.toString() + \"000\";\n// trim to exact length 10 + 1 + 3\ntimestamp = timestamp.substring(0, 14);\n\nvar strQuery =  \"INSERT INTO thingsData (topic, payload, timestamp, deleted)\" +\n                \"VALUES ('\" + escape(msg.topic) + \"','\" + escape(msg.payload) + \"','\" + timestamp + \"', 0);\";\nmsg.topic = strQuery;\n\nreturn msg;",
         "outputs": 1,
@@ -270,7 +524,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 600,
+        "x": 320,
         "y": 380,
         "wires": [
             [
@@ -285,37 +539,40 @@
         "g": "33021474e1559309",
         "name": "Publish Periodic Timestamp",
         "info": "",
-        "x": 200,
-        "y": 100,
+        "x": 160,
+        "y": 80,
         "wires": []
     },
     {
         "id": "f0b69ba145578723",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "ac50b82aeb5b47b4",
         "name": "Publish by REST/POST",
         "info": "",
-        "x": 120,
-        "y": 300,
+        "x": 720,
+        "y": 80,
         "wires": []
     },
     {
         "id": "f2d1b4ad256117db",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
-        "name": "Subscribe & DB/INSERT Everything",
+        "g": "5f402c5112d69c8c",
+        "name": "DB/INSERT Everything",
         "info": "",
-        "x": 160,
-        "y": 420,
+        "x": 340,
+        "y": 340,
         "wires": []
     },
     {
         "id": "3c204c1a847c86f3",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "1ec0358bd5b716b8",
         "name": "REST/GET one or more records from DB",
         "info": "",
-        "x": 180,
+        "x": 200,
         "y": 580,
         "wires": []
     },
@@ -323,13 +580,14 @@
         "id": "f8c2f3630add207c",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "1ec0358bd5b716b8",
         "name": "",
         "url": "/record/:topic",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 450,
-        "y": 540,
+        "x": 130,
+        "y": 620,
         "wires": [
             [
                 "2a41a513faa8be60"
@@ -340,13 +598,14 @@
         "id": "6a290db97485689b",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "1ec0358bd5b716b8",
         "name": "",
         "url": "/records/:topic/last/:count",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 490,
-        "y": 620,
+        "x": 170,
+        "y": 700,
         "wires": [
             [
                 "2a41a513faa8be60"
@@ -357,6 +616,7 @@
         "id": "2a41a513faa8be60",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "1ec0358bd5b716b8",
         "name": "CreateQuery",
         "func": "// Create query\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count) {\n    msg.req.params.count = 1;\n}\n\n// build the sql query\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -364,8 +624,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 730,
-        "y": 580,
+        "x": 410,
+        "y": 660,
         "wires": [
             [
                 "eb7d2b0b0549af74"
@@ -376,6 +636,7 @@
         "id": "a61648f5611c8aac",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "1ec0358bd5b716b8",
         "name": "CreateResponse",
         "func": "\nreturn msg;",
         "outputs": 1,
@@ -383,8 +644,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1070,
-        "y": 580,
+        "x": 750,
+        "y": 660,
         "wires": [
             [
                 "f34f97c2fe93999b"
@@ -395,24 +656,26 @@
         "id": "f34f97c2fe93999b",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "1ec0358bd5b716b8",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1250,
-        "y": 580,
+        "x": 930,
+        "y": 660,
         "wires": []
     },
     {
         "id": "d38c3feb01d610d2",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "390d699e93233c5f",
         "name": "",
         "url": "/records/topic-like/:topic/payload-like/:payload/last/:count",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 590,
-        "y": 740,
+        "x": 270,
+        "y": 840,
         "wires": [
             [
                 "9618f972cad8e616"
@@ -423,6 +686,7 @@
         "id": "9618f972cad8e616",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "390d699e93233c5f",
         "name": "CreateSELECT",
         "func": "// Create query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n            \" FROM thingsData WHERE\" +\n            \" topic LIKE '\" + msg.req.params.topic.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND\" +\n            \" payload LIKE '\" + msg.req.params.payload.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND deleted=0\" +\n            \" AND (\" + msg.req.authFilter + \")\" +\n            \" ORDER BY ID DESC\" +\n            \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -430,8 +694,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 940,
-        "y": 740,
+        "x": 620,
+        "y": 840,
         "wires": [
             [
                 "f72c93e78b9ad4dc"
@@ -442,6 +706,7 @@
         "id": "e7327554ac29495c",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "390d699e93233c5f",
         "name": "CreateResponse",
         "func": "\nreturn msg;",
         "outputs": 1,
@@ -449,8 +714,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1310,
-        "y": 740,
+        "x": 990,
+        "y": 840,
         "wires": [
             [
                 "caba589dba41f0c7"
@@ -461,34 +726,37 @@
         "id": "caba589dba41f0c7",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "390d699e93233c5f",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1490,
-        "y": 740,
+        "x": 1170,
+        "y": 840,
         "wires": []
     },
     {
         "id": "c484b79b88fc37df",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "390d699e93233c5f",
         "name": "REST/GET records based on condition",
         "info": "",
-        "x": 170,
-        "y": 740,
+        "x": 190,
+        "y": 800,
         "wires": []
     },
     {
         "id": "bf31849111e2a50b",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "",
         "url": "/records/:topic/after/:time/last/:count",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 520,
-        "y": 840,
+        "x": 200,
+        "y": 980,
         "wires": [
             [
                 "f82e9369d1d1ee7b"
@@ -499,13 +767,14 @@
         "id": "a1a2bc7fd55158fa",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "",
         "url": "/records/:topic/before/:time/last/:count",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 530,
-        "y": 920,
+        "x": 210,
+        "y": 1040,
         "wires": [
             [
                 "1ce457464e48edc9"
@@ -516,13 +785,14 @@
         "id": "5d5f1f59cf946387",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "",
         "url": "/records/:topic/duration/:start/:end/last/:count",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 550,
-        "y": 1000,
+        "x": 230,
+        "y": 1100,
         "wires": [
             [
                 "16b88589dfc23738"
@@ -533,6 +803,7 @@
         "id": "f82e9369d1d1ee7b",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "CreateAFTERQuery",
         "func": "// Create 'AFTER' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -540,8 +811,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 890,
-        "y": 840,
+        "x": 570,
+        "y": 980,
         "wires": [
             [
                 "4f2ed712ef0bf6e2"
@@ -552,6 +823,7 @@
         "id": "1ce457464e48edc9",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "CreateBEFOREQuery",
         "func": "// Create 'BEFORE' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp <= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -559,8 +831,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 900,
-        "y": 920,
+        "x": 580,
+        "y": 1040,
         "wires": [
             [
                 "4f2ed712ef0bf6e2"
@@ -571,6 +843,7 @@
         "id": "16b88589dfc23738",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "CreateDURATIONQuery",
         "func": "// Create 'DURING' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic.replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.start + \"'\" + \" AND\" +\n    \" timestamp <='\" + msg.req.params.end + \"'\" +\n    \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -578,8 +851,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 910,
-        "y": 1000,
+        "x": 590,
+        "y": 1100,
         "wires": [
             [
                 "4f2ed712ef0bf6e2"
@@ -590,6 +863,7 @@
         "id": "67f2438515c6f8a1",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "CreateResponse",
         "func": "\nreturn msg;",
         "outputs": 1,
@@ -597,8 +871,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1330,
-        "y": 920,
+        "x": 1010,
+        "y": 1040,
         "wires": [
             [
                 "b9376b70539eb71c"
@@ -609,34 +883,37 @@
         "id": "b9376b70539eb71c",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1510,
-        "y": 920,
+        "x": 1190,
+        "y": 1040,
         "wires": []
     },
     {
         "id": "6cbd6f9e9912d232",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "name": "REST/GET records based on time period",
         "info": "",
-        "x": 180,
-        "y": 920,
+        "x": 200,
+        "y": 940,
         "wires": []
     },
     {
         "id": "d7f6e1e80bc8097b",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "",
         "url": "/record/:topic/id/:id",
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 530,
-        "y": 1120,
+        "x": 150,
+        "y": 1240,
         "wires": [
             [
                 "13d334d81b4dd461"
@@ -647,13 +924,14 @@
         "id": "1d1802bb96bd4201",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "",
         "url": "/records/:topic",
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 520,
-        "y": 1180,
+        "x": 140,
+        "y": 1300,
         "wires": [
             [
                 "084112defca34cab"
@@ -664,13 +942,14 @@
         "id": "64b268990da487ee",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "",
         "url": "/records/:topic/first/:count",
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 560,
-        "y": 1240,
+        "x": 180,
+        "y": 1360,
         "wires": [
             [
                 "f0a1b196374bcc74"
@@ -681,13 +960,14 @@
         "id": "a94f17f666b5c890",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "",
         "url": "/records/:topic/last/:count",
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 550,
-        "y": 1300,
+        "x": 170,
+        "y": 1420,
         "wires": [
             [
                 "59cb4de1123efdc0"
@@ -698,6 +978,7 @@
         "id": "13d334d81b4dd461",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "CreateUPDATEQueryByID",
         "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"UPDATE thingsData\" + \" SET deleted=1\" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -705,8 +986,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 870,
-        "y": 1120,
+        "x": 490,
+        "y": 1240,
         "wires": [
             [
                 "39855734a16de5e2"
@@ -717,6 +998,7 @@
         "id": "084112defca34cab",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "CreateUPDATEQueryByTopic",
         "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
         "outputs": 1,
@@ -724,8 +1006,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 880,
-        "y": 1180,
+        "x": 500,
+        "y": 1300,
         "wires": [
             [
                 "39855734a16de5e2"
@@ -736,6 +1018,7 @@
         "id": "f0a1b196374bcc74",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "CreateUPDATEfromFirstQuery",
         "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -743,8 +1026,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 890,
-        "y": 1240,
+        "x": 510,
+        "y": 1360,
         "wires": [
             [
                 "39855734a16de5e2"
@@ -755,6 +1038,7 @@
         "id": "59cb4de1123efdc0",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "CreateUPDATEfromLastQuery",
         "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -762,8 +1046,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 890,
-        "y": 1300,
+        "x": 510,
+        "y": 1420,
         "wires": [
             [
                 "39855734a16de5e2"
@@ -774,6 +1058,7 @@
         "id": "6b74cf91f8131b65",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "CreateResponse",
         "func": "// Prepare response\nmsg.payload = {\n    \"found\": msg.payload.affectedRows,\n    \"changed\": msg.payload.changedRows,\n};\n\nreturn msg;",
         "outputs": 1,
@@ -781,8 +1066,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1370,
-        "y": 1200,
+        "x": 990,
+        "y": 1320,
         "wires": [
             [
                 "5e3e0ad7378df449"
@@ -793,20 +1078,22 @@
         "id": "5e3e0ad7378df449",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1550,
-        "y": 1200,
+        "x": 1170,
+        "y": 1320,
         "wires": []
     },
     {
         "id": "7d5d24f4dbd87bf1",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "name": "REST/PATCH records to deleted based on condition",
         "info": "",
-        "x": 210,
+        "x": 230,
         "y": 1200,
         "wires": []
     },
@@ -814,6 +1101,7 @@
         "id": "a83c826883847961",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "CreateDELETEQueryByTopic",
         "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
         "outputs": 1,
@@ -821,8 +1109,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 880,
-        "y": 1480,
+        "x": 500,
+        "y": 1620,
         "wires": [
             [
                 "aa11be6ab8f9e2c0"
@@ -833,6 +1121,7 @@
         "id": "f9e304ec2842bbc3",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "CreateDELETEfromFirstQuery",
         "func": "// Purge first few records\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -840,8 +1129,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 890,
-        "y": 1540,
+        "x": 510,
+        "y": 1680,
         "wires": [
             [
                 "aa11be6ab8f9e2c0"
@@ -852,6 +1141,7 @@
         "id": "6385bfef8ffff8af",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "CreateDELETEfromLastQuery",
         "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -859,8 +1149,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 890,
-        "y": 1600,
+        "x": 510,
+        "y": 1740,
         "wires": [
             [
                 "aa11be6ab8f9e2c0"
@@ -871,6 +1161,7 @@
         "id": "642633dd20877894",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "CreateResponse",
         "func": "// Prepare response\nmsg.payload = {\n    \"found\": msg.payload.affectedRows,\n    \"changed\": msg.payload.changedRows,\n};\n\nreturn msg;",
         "outputs": 1,
@@ -878,8 +1169,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1370,
-        "y": 1500,
+        "x": 990,
+        "y": 1640,
         "wires": [
             [
                 "4ec70007e3be566f"
@@ -890,17 +1181,19 @@
         "id": "4ec70007e3be566f",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1550,
-        "y": 1500,
+        "x": 1170,
+        "y": 1640,
         "wires": []
     },
     {
         "id": "df36b606976f16fd",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "CreateDELETEQueryByID",
         "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
         "outputs": 1,
@@ -908,8 +1201,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 870,
-        "y": 1420,
+        "x": 490,
+        "y": 1560,
         "wires": [
             [
                 "aa11be6ab8f9e2c0"
@@ -920,13 +1213,14 @@
         "id": "729784eab2482326",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "",
         "url": "/record/:topic/id/:id",
         "method": "delete",
         "upload": false,
         "swaggerDoc": "",
-        "x": 530,
-        "y": 1420,
+        "x": 150,
+        "y": 1560,
         "wires": [
             [
                 "df36b606976f16fd"
@@ -937,13 +1231,14 @@
         "id": "f88a1ba7cc64d21f",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "",
         "url": "/records/:topic",
         "method": "delete",
         "upload": false,
         "swaggerDoc": "",
-        "x": 520,
-        "y": 1480,
+        "x": 140,
+        "y": 1620,
         "wires": [
             [
                 "a83c826883847961"
@@ -954,13 +1249,14 @@
         "id": "e5e3ed7c912c8e55",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "",
         "url": "/records/:topic/first/:count",
         "method": "delete",
         "upload": false,
         "swaggerDoc": "",
-        "x": 560,
-        "y": 1540,
+        "x": 180,
+        "y": 1680,
         "wires": [
             [
                 "f9e304ec2842bbc3"
@@ -971,13 +1267,14 @@
         "id": "6b8ea2a582608dab",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "",
         "url": "/records/:topic/last/:count",
         "method": "delete",
         "upload": false,
         "swaggerDoc": "",
-        "x": 560,
-        "y": 1600,
+        "x": 180,
+        "y": 1740,
         "wires": [
             [
                 "6385bfef8ffff8af"
@@ -988,23 +1285,25 @@
         "id": "e4b99d993691f9ce",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "name": "REST/DELETE records based on condition",
         "info": "",
-        "x": 180,
-        "y": 1500,
+        "x": 200,
+        "y": 1520,
         "wires": []
     },
     {
         "id": "e3f3439ed27cedfe",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "url": "/timestamp",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 640,
-        "y": 1720,
+        "x": 420,
+        "y": 1900,
         "wires": [
             [
                 "dd8db97a152fa406"
@@ -1015,6 +1314,7 @@
         "id": "dd8db97a152fa406",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "PrepareTimestamp",
         "func": "msg.payload = {\n    timestamp: (new Date()).getTime().toString()\n};\nreturn msg;",
         "outputs": 1,
@@ -1022,8 +1322,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 870,
-        "y": 1720,
+        "x": 650,
+        "y": 1900,
         "wires": [
             [
                 "3bd7c73e7968e3d0"
@@ -1034,54 +1334,59 @@
         "id": "3bd7c73e7968e3d0",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1070,
-        "y": 1720,
+        "x": 850,
+        "y": 1900,
         "wires": []
     },
     {
         "id": "7a32bcd69221e0df",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "REST/GET current timestamp",
         "info": "",
-        "x": 380,
-        "y": 1720,
+        "x": 160,
+        "y": 1900,
         "wires": []
     },
     {
         "id": "dbcc21030ae087e7",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "Microservice Utilities",
         "info": "",
-        "x": 110,
-        "y": 1800,
+        "x": 130,
+        "y": 1840,
         "wires": []
     },
     {
         "id": "6bf685824b366e48",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "REST/GET Random Code",
         "info": "",
-        "x": 370,
-        "y": 1800,
+        "x": 150,
+        "y": 1980,
         "wires": []
     },
     {
         "id": "09b03c934a4ab3c0",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "url": "/randomcode/:len",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 640,
-        "y": 1800,
+        "x": 420,
+        "y": 1980,
         "wires": [
             [
                 "ce8d85bdc51e87f5"
@@ -1092,6 +1397,7 @@
         "id": "ce8d85bdc51e87f5",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "PrepareRandomCode",
         "func": "var randomString = function(length) {\n    var text = \"\";\n    var possible = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\";\n    for(var i = 0; i < length; i++) {\n        text += possible.charAt(Math.floor(Math.random() * possible.length));\n    }\n    return text;\n}\n\nmsg.payload = {\n    code: randomString(msg.req.params.len)\n};\n\nreturn msg;",
         "outputs": 1,
@@ -1099,8 +1405,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 900,
-        "y": 1800,
+        "x": 680,
+        "y": 1980,
         "wires": [
             [
                 "b6aafe9d80f5a9ba"
@@ -1111,34 +1417,37 @@
         "id": "b6aafe9d80f5a9ba",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1110,
-        "y": 1800,
+        "x": 890,
+        "y": 1980,
         "wires": []
     },
     {
         "id": "0d6911bc8a74c563",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "REST/GET UUID",
         "info": "",
-        "x": 340,
-        "y": 1880,
+        "x": 120,
+        "y": 2060,
         "wires": []
     },
     {
         "id": "72f4f13cb6f1ce1e",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "url": "/uuid",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 540,
-        "y": 1880,
+        "x": 320,
+        "y": 2060,
         "wires": [
             [
                 "a4ef403cfe69e993"
@@ -1149,6 +1458,7 @@
         "id": "fbe5a9792fc8e727",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "PrepareResponse",
         "func": "// Prepare response\nmsg.payload = {\n    uuid: msg.payload\n};\n\nreturn msg;",
         "outputs": 1,
@@ -1156,8 +1466,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 910,
-        "y": 1880,
+        "x": 690,
+        "y": 2060,
         "wires": [
             [
                 "90c2bf04ebac52af"
@@ -1168,24 +1478,26 @@
         "id": "90c2bf04ebac52af",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1110,
-        "y": 1880,
+        "x": 890,
+        "y": 2060,
         "wires": []
     },
     {
         "id": "de1ba5605cb30496",
         "type": "http in",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "url": "/email/to/:to/subject/:subject/message/:message",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 660,
-        "y": 2000,
+        "x": 440,
+        "y": 2180,
         "wires": [
             [
                 "3b96c03dc72ceed0"
@@ -1196,6 +1508,7 @@
         "id": "3b96c03dc72ceed0",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "PrepareEmail",
         "func": "// Prepare email\nmsg.from = \"<ewqdsacxz2345@gmail.com>\";\nmsg.to = msg.req.params.to;\n\n// msg.cc = \"cc_address@example.com\";\n// msg.bcc = \"bcc_address@example.com\";\n\nmsg.topic = msg.req.params.subject;\nmsg.payload = msg.req.params.message;\n\nreturn msg;",
         "outputs": 1,
@@ -1203,8 +1516,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 970,
-        "y": 2000,
+        "x": 750,
+        "y": 2180,
         "wires": [
             [
                 "95dca23f54c3d7db",
@@ -1216,6 +1529,7 @@
         "id": "95dca23f54c3d7db",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "PrepareResponse",
         "func": "// Prepare response\nmsg.payload = {\n    \"to\": msg.to,\n    \"status\": \"email queued\"\n};\n\nreturn msg;",
         "outputs": 1,
@@ -1223,8 +1537,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1170,
-        "y": 1960,
+        "x": 950,
+        "y": 2140,
         "wires": [
             [
                 "26ab1dd3bfb5541a"
@@ -1235,36 +1549,39 @@
         "id": "26ab1dd3bfb5541a",
         "type": "http response",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1350,
-        "y": 1960,
+        "x": 1130,
+        "y": 2140,
         "wires": []
     },
     {
         "id": "6136e6773ea491eb",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "name": "Email Service",
         "info": "",
-        "x": 330,
-        "y": 2000,
+        "x": 110,
+        "y": 2180,
         "wires": []
     },
     {
         "id": "4526f408031793c9",
         "type": "function",
         "z": "e201e2d1a09b1eed",
-        "name": "",
-        "func": "\nreturn msg;",
+        "g": "5f402c5112d69c8c",
+        "name": "SearchRules",
+        "func": "// Search rules\nmsg.topic = \"SELECT * FROM rulesData\" +\n            \" WHERE\" +\n            \" ('\" + msg.topic + \"' LIKE topicPattern)\" +\n            \" AND\" +\n            \" ('\" + msg.payload + \"' LIKE payloadPattern)\" +\n            \" AND active=1\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 580,
-        "y": 460,
+        "x": 310,
+        "y": 480,
         "wires": [
             [
                 "b81d025b4f9d9d99"
@@ -1275,18 +1592,19 @@
         "id": "fcdc26fccc7a39e2",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
         "name": "",
-        "func": "\nreturn msg;",
+        "func": "// Call webhook\nif(msg.payload.length !== 0)\n{\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook;\n        node.send([msg]);\n    }\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 940,
-        "y": 460,
+        "x": 660,
+        "y": 480,
         "wires": [
             [
-                "475e25a987d7c5bc"
+                "786b8e9e2ed4b6fb"
             ]
         ]
     },
@@ -1294,6 +1612,7 @@
         "id": "07b44ec7aa98beb6",
         "type": "debug",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -1302,17 +1621,18 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1330,
-        "y": 460,
+        "x": 1050,
+        "y": 480,
         "wires": []
     },
     {
         "id": "51ac77f1ebf7ae2d",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 780,
+        "x": 500,
         "y": 380,
         "wires": [
             [
@@ -1324,10 +1644,11 @@
         "id": "eb7d2b0b0549af74",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "1ec0358bd5b716b8",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 900,
-        "y": 580,
+        "x": 580,
+        "y": 660,
         "wires": [
             [
                 "a61648f5611c8aac"
@@ -1338,10 +1659,11 @@
         "id": "f72c93e78b9ad4dc",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "390d699e93233c5f",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1120,
-        "y": 740,
+        "x": 800,
+        "y": 840,
         "wires": [
             [
                 "e7327554ac29495c"
@@ -1352,10 +1674,11 @@
         "id": "4f2ed712ef0bf6e2",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "64725e7983c024e3",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1140,
-        "y": 920,
+        "x": 820,
+        "y": 1040,
         "wires": [
             [
                 "67f2438515c6f8a1"
@@ -1366,10 +1689,11 @@
         "id": "39855734a16de5e2",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "de1964eb876ce865",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1180,
-        "y": 1200,
+        "x": 800,
+        "y": 1320,
         "wires": [
             [
                 "6b74cf91f8131b65"
@@ -1380,10 +1704,11 @@
         "id": "aa11be6ab8f9e2c0",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "a469498692e84f80",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1180,
-        "y": 1500,
+        "x": 800,
+        "y": 1640,
         "wires": [
             [
                 "642633dd20877894"
@@ -1394,9 +1719,11 @@
         "id": "b81d025b4f9d9d99",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
+        "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 770,
-        "y": 460,
+        "x": 500,
+        "y": 480,
         "wires": [
             [
                 "fcdc26fccc7a39e2"
@@ -1407,6 +1734,7 @@
         "id": "a4ef403cfe69e993",
         "type": "uuid",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "uuidVersion": "v4",
         "namespaceType": "",
         "namespace": "",
@@ -1414,8 +1742,8 @@
         "name": "",
         "field": "payload",
         "fieldType": "msg",
-        "x": 710,
-        "y": 1880,
+        "x": 490,
+        "y": 2060,
         "wires": [
             [
                 "fbe5a9792fc8e727"
@@ -1426,6 +1754,7 @@
         "id": "7d1f9d08ac3fa7fa",
         "type": "sendgrid",
         "z": "e201e2d1a09b1eed",
+        "g": "249f39951436abc3",
         "from": "ewqdsacxz2345@gmail.com",
         "multiple": false,
         "to": "",
@@ -1433,28 +1762,53 @@
         "content": "text",
         "templateId": "",
         "templateData": "",
-        "x": 1140,
-        "y": 2040,
+        "x": 920,
+        "y": 2220,
         "wires": []
     },
     {
-        "id": "475e25a987d7c5bc",
+        "id": "786b8e9e2ed4b6fb",
         "type": "http request",
         "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
         "name": "",
-        "method": "GET",
-        "ret": "txt",
-        "paytoqs": false,
+        "method": "use",
+        "ret": "obj",
+        "paytoqs": "ignore",
         "url": "",
+        "tls": "",
         "persist": false,
+        "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 1130,
-        "y": 460,
+        "x": 850,
+        "y": 480,
         "wires": [
             [
                 "07b44ec7aa98beb6"
             ]
         ]
+    },
+    {
+        "id": "75b0e3d4e03b89ef",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
+        "name": "ListenEverything",
+        "info": "",
+        "x": 120,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "9e114eb01fd8d6d2",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "g": "5f402c5112d69c8c",
+        "name": "Rule Engine",
+        "info": "",
+        "x": 310,
+        "y": 440,
+        "wires": []
     }
 ]
