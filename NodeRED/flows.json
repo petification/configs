@@ -277,6 +277,88 @@
         "h": 122
     },
     {
+        "id": "9aea9324d5ac451d",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "66fe01abf6fe7266",
+            "9452a8a32bbc6bc3",
+            "aad6ef1bb2073790",
+            "e02a03ae88bd28b5",
+            "5b4aa7bf2c540460",
+            "dd6a4ab68140c995",
+            "3c8220faa4d80124",
+            "3536b83ee3937a04"
+        ],
+        "x": 14,
+        "y": 2299,
+        "w": 972,
+        "h": 202
+    },
+    {
+        "id": "ffff053900bb63ca",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9619a5cf30052fea",
+            "aa6596d2526e659b",
+            "3e07cc69cbb8ea96",
+            "f0a2fec2ef68ac63",
+            "ddfba6492c27e12b",
+            "354271f841ef0663"
+        ],
+        "x": 14,
+        "y": 2739,
+        "w": 972,
+        "h": 122
+    },
+    {
+        "id": "6bc1d82a48ceadb0",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bd0a924ca05b5d11",
+            "84a7c674586bc7dd",
+            "bd52e6c83bc0d652",
+            "9b44092adc823348",
+            "effafe1b29e91ed8",
+            "64ae96c2314cc417",
+            "c0b2b2c48ff0c65b",
+            "0d81cc62a3607b9f"
+        ],
+        "x": 14,
+        "y": 2519,
+        "w": 972,
+        "h": 202
+    },
+    {
         "id": "f2f86710f80408e7",
         "type": "mqtt-broker",
         "name": "",
@@ -314,6 +396,20 @@
         "db": "tSeriesDB",
         "tz": "",
         "charset": "UTF8"
+    },
+    {
+        "id": "a2a345f1c4a3679a",
+        "type": "tls-config",
+        "name": "",
+        "cert": "/etc/letsencrypt/live/petificationblue.ddns.net/cert.pem",
+        "key": "/etc/letsencrypt/live/petificationblue.ddns.net/privkey.pem",
+        "ca": "/etc/letsencrypt/live/petificationblue.ddns.net/chain.pem",
+        "certname": "",
+        "keyname": "",
+        "caname": "",
+        "servername": "",
+        "verifyservercert": false,
+        "alpnprotocol": ""
     },
     {
         "id": "86dc12794c7b4f01",
@@ -405,8 +501,8 @@
         "type": "mqtt out",
         "z": "e201e2d1a09b1eed",
         "g": "ac50b82aeb5b47b4",
-        "name": "",
-        "topic": "mqtt",
+        "name": "MQTT",
+        "topic": "",
         "qos": "",
         "retain": "",
         "respTopic": "",
@@ -1593,14 +1689,14 @@
         "type": "function",
         "z": "e201e2d1a09b1eed",
         "g": "5f402c5112d69c8c",
-        "name": "",
-        "func": "// Call webhook\nif(msg.payload.length !== 0)\n{\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook;\n        node.send([msg]);\n    }\n}\n\nreturn msg;",
+        "name": "CreateRequest",
+        "func": "// Call webhook\nif(msg.payload.length !== 0)\n{\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook;\n        node.send([msg]);\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 660,
+        "x": 680,
         "y": 480,
         "wires": [
             [
@@ -1618,7 +1714,8 @@
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complete": "false",
+        "complete": "payload",
+        "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
         "x": 1050,
@@ -1776,12 +1873,12 @@
         "ret": "obj",
         "paytoqs": "ignore",
         "url": "",
-        "tls": "",
+        "tls": "a2a345f1c4a3679a",
         "persist": false,
         "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 850,
+        "x": 870,
         "y": 480,
         "wires": [
             [
@@ -1809,6 +1906,370 @@
         "info": "",
         "x": 310,
         "y": 440,
+        "wires": []
+    },
+    {
+        "id": "66fe01abf6fe7266",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "name": "",
+        "url": "/rules/enable/id/:id",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 150,
+        "y": 2380,
+        "wires": [
+            [
+                "aad6ef1bb2073790"
+            ]
+        ]
+    },
+    {
+        "id": "9452a8a32bbc6bc3",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "name": "",
+        "url": "/rules/disable/id/:id",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 150,
+        "y": 2460,
+        "wires": [
+            [
+                "e02a03ae88bd28b5"
+            ]
+        ]
+    },
+    {
+        "id": "aad6ef1bb2073790",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "name": "CreateQuery",
+        "func": "// Create query for enabling\n\nmsg.action = \"enable\";\n\nmsg.topic =\n    \"UPDATE rulesData\" +\n    \" SET active=1\" +\n    \" WHERE\" +\n    \" id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 2380,
+        "wires": [
+            [
+                "5b4aa7bf2c540460"
+            ]
+        ]
+    },
+    {
+        "id": "e02a03ae88bd28b5",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "name": "CreateQuery",
+        "func": "// Create query for disabling\n\nmsg.action = \"disable\";\n\nmsg.topic =\n    \"UPDATE rulesData\" +\n    \" SET active=0\" +\n    \" WHERE\" +\n    \" id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 2460,
+        "wires": [
+            [
+                "5b4aa7bf2c540460"
+            ]
+        ]
+    },
+    {
+        "id": "5b4aa7bf2c540460",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 540,
+        "y": 2420,
+        "wires": [
+            [
+                "dd6a4ab68140c995"
+            ]
+        ]
+    },
+    {
+        "id": "dd6a4ab68140c995",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "name": "PrepareResponse",
+        "func": "// Prepare response\n\nmsg.payload = {\n    \"status\": msg.action + \" success\"\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 2420,
+        "wires": [
+            [
+                "3c8220faa4d80124"
+            ]
+        ]
+    },
+    {
+        "id": "3c8220faa4d80124",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 910,
+        "y": 2420,
+        "wires": []
+    },
+    {
+        "id": "3536b83ee3937a04",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "g": "9aea9324d5ac451d",
+        "name": "Enable/Disable Rule by ID",
+        "info": "",
+        "x": 150,
+        "y": 2340,
+        "wires": []
+    },
+    {
+        "id": "bd0a924ca05b5d11",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "name": "",
+        "url": "/rules/enable/all",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 2600,
+        "wires": [
+            [
+                "bd52e6c83bc0d652"
+            ]
+        ]
+    },
+    {
+        "id": "84a7c674586bc7dd",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "name": "",
+        "url": "/rules/disable/all",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 2680,
+        "wires": [
+            [
+                "9b44092adc823348"
+            ]
+        ]
+    },
+    {
+        "id": "bd52e6c83bc0d652",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "name": "CreateQuery",
+        "func": "// Create query for enabling all\n\nmsg.action = \"enable all\";\nmsg.topic = \"UPDATE rulesData SET active=1;\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 2600,
+        "wires": [
+            [
+                "effafe1b29e91ed8"
+            ]
+        ]
+    },
+    {
+        "id": "9b44092adc823348",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "name": "CreateQuery",
+        "func": "// Create query for disabling all\n\nmsg.action = \"disable all\";\nmsg.topic = \"UPDATE rulesData SET active=0;\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 2680,
+        "wires": [
+            [
+                "effafe1b29e91ed8"
+            ]
+        ]
+    },
+    {
+        "id": "effafe1b29e91ed8",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 540,
+        "y": 2640,
+        "wires": [
+            [
+                "64ae96c2314cc417"
+            ]
+        ]
+    },
+    {
+        "id": "64ae96c2314cc417",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "name": "PrepareResponse",
+        "func": "// Prepare response\n\nmsg.payload = {\n    \"status\": msg.action + \" success\"\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 2640,
+        "wires": [
+            [
+                "c0b2b2c48ff0c65b"
+            ]
+        ]
+    },
+    {
+        "id": "c0b2b2c48ff0c65b",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 910,
+        "y": 2640,
+        "wires": []
+    },
+    {
+        "id": "9619a5cf30052fea",
+        "type": "http in",
+        "z": "e201e2d1a09b1eed",
+        "g": "ffff053900bb63ca",
+        "name": "",
+        "url": "/rules/:rulename",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 2820,
+        "wires": [
+            [
+                "aa6596d2526e659b"
+            ]
+        ]
+    },
+    {
+        "id": "0d81cc62a3607b9f",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "g": "6bc1d82a48ceadb0",
+        "name": "Enable/Disable All Rules",
+        "info": "",
+        "x": 150,
+        "y": 2560,
+        "wires": []
+    },
+    {
+        "id": "aa6596d2526e659b",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "ffff053900bb63ca",
+        "name": "CreateQuery",
+        "func": "// Create query\nvar ruleName = msg.req.params.rulename;\nvar topicPattern = msg.req.body.topicPattern;\nvar payloadPattern = msg.req.body.payloadPattern;\nvar method = msg.req.body.method;\nvar webHook = msg.req.body.webHook;\n\nmsg.topic =\n\"INSERT INTO rulesData (ruleName, topicPAttern, payloadPattern, method, webHook)\" +\n\" VALUES ('\" + ruleName + \"', '\" + topicPattern + \"', '\" + payloadPattern + \"', '\" + method + \"', '\" + webHook + \"');\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 2820,
+        "wires": [
+            [
+                "3e07cc69cbb8ea96"
+            ]
+        ]
+    },
+    {
+        "id": "3e07cc69cbb8ea96",
+        "type": "mysql",
+        "z": "e201e2d1a09b1eed",
+        "g": "ffff053900bb63ca",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 540,
+        "y": 2820,
+        "wires": [
+            [
+                "f0a2fec2ef68ac63"
+            ]
+        ]
+    },
+    {
+        "id": "f0a2fec2ef68ac63",
+        "type": "function",
+        "z": "e201e2d1a09b1eed",
+        "g": "ffff053900bb63ca",
+        "name": "PrepareResponse",
+        "func": "// Prepare response\n\nif(msg.payload.affectedRows !== 0) {\n    msg.payload = {\n        \"status\": \"rule added\",\n        \"ruleName\": msg.req.params.rulename,\n        \"ruleId\": msg.payload.insertId\n    };\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 2820,
+        "wires": [
+            [
+                "ddfba6492c27e12b"
+            ]
+        ]
+    },
+    {
+        "id": "ddfba6492c27e12b",
+        "type": "http response",
+        "z": "e201e2d1a09b1eed",
+        "g": "ffff053900bb63ca",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 910,
+        "y": 2820,
+        "wires": []
+    },
+    {
+        "id": "354271f841ef0663",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "g": "ffff053900bb63ca",
+        "name": "Create Rule",
+        "info": "",
+        "x": 110,
+        "y": 2780,
         "wires": []
     }
 ]
