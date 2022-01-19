@@ -17,6 +17,10 @@ case "$cmd" in
         tail -f /root/.forever/node-red.log
         ;;
 
+    --diff-flows)
+        diff ./flows.json ~/.node-red/flows.json
+        ;;
+
     *)
         echo "Unknown command '$cmd'"
         exit 1
