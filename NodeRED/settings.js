@@ -20,6 +20,7 @@
  *
  **/
 
+module.paths.push("~/.nvm/versions/node/v16.13.2/lib/node_modules/");
 module.exports = {
 
 /*******************************************************************************
@@ -208,12 +209,86 @@ module.exports = {
      * applied to all http in nodes, or any other sort of common request processing.
      * It can be a single function or an array of middleware functions.
      */
-    //httpNodeMiddleware: function(req,res,next) {
-    //    // Handle/reject the request, or pass it on to the http in node by calling next();
-    //    // Optionally skip our rawBodyParser by setting this to true;
-    //    //req.skipRawBodyParser = true;
-    //    next();
-    //},
+    httpNodeMiddleware: function(req,res,next) {
+        // Handle/reject the request, or pass it on to the http in node by calling next();
+        // Optionally skip our rawBodyParser by setting this to true;
+
+        function getData(query, cbFunction) {
+
+            const connection = require('mysql').createConnection({
+                host: 'localhost',
+                user: 'blue',
+                password: 'oQvfYwOC31kliuDf',
+                database: 'tSeriesDB'
+            });
+
+            connection.query(query, function(err, rows, fields) {
+                if(err)
+                    cbFunction(false, err);
+
+                else
+                    cbFunction(true, rows);
+            });
+
+            connection.end();
+        }
+
+        // get auth details from request header
+        if(req.headers.authorization)
+        {
+            const auth = Buffer.from(req.headers.authorization, 'ascii').toString();
+            // split the string at space-character
+            // typical auth header is like Bearer <access-token>
+ 
+            req.authType = auth.split(' ')[0];
+            req.userToken = auth.split(' ')[1];
+        }
+
+        else
+        {
+            // take some actions if user is not authorized or provide only basic access
+            req.authType = 'None';
+            req.userToken = 'null';
+        }
+
+        getData(
+            'SELECT * FROM authTable' + 
+            ' WHERE token = \"' + req.userToken.toString() + '\"' +
+            ' ORDER BY ID DESC LIMIT 1;',
+
+            function(code, data) {
+
+                // if data query is successful
+                if(code === true)
+                {
+
+                    // if authorization details are not available
+                    if(data.length === 0)
+                    {
+                        // set authFilter='0' if user authorization info is not available
+                        req.auth = false;
+                        req.authFilter= 0;
+                    }
+
+                    else
+                    {
+                        // use pass access string
+                        req.auth = true;
+                        req.authFilter = data[0].access;
+                    }
+
+                    // pass control to http node
+                    next();
+                }
+
+                else
+                {
+                    // if there was an error, respond with 403 and terminate
+                    res.status(403).send("403: FORBIDDEN").end();
+                }
+            }
+        );
+    },
 
     /** When httpAdminRoot is used to move the UI to a different root path, the
      * following property can be used to identify a directory of static content
