@@ -143,32 +143,6 @@
         "h": 442
     },
     {
-        "id": "13c9c279155344a6",
-        "type": "group",
-        "z": "644bccdac689256f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "1f4fc3454e33a4df",
-            "8183907b01fb1c6c",
-            "75827f9b6a5fcf92",
-            "6a99df80205c8c27",
-            "8ae0e30887d58c37",
-            "77f254f64c85765c"
-        ],
-        "x": 14,
-        "y": 719,
-        "w": 992,
-        "h": 182
-    },
-    {
         "id": "152a7e1856d083de",
         "type": "group",
         "z": "644bccdac689256f",
@@ -466,13 +440,84 @@
         "h": 142
     },
     {
+        "id": "f92513d76378bf3c",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "20f4f41054ab6fbb",
+            "4b225b27884db1e4",
+            "7ce853131aab1b80"
+        ],
+        "x": 24,
+        "y": 439,
+        "w": 412,
+        "h": 122
+    },
+    {
+        "id": "e9106a6dd33d76ad",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b3bab409f6dd92ed",
+            "ee43c92062b30b51",
+            "2c3ac744afb64db9"
+        ],
+        "x": 14,
+        "y": 479,
+        "w": 432,
+        "h": 122
+    },
+    {
+        "id": "51c42e34ce7286d6",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9b666f3e.797cb",
+            "e68896f392d7777b",
+            "2d744cd47dc1a51b",
+            "079e7b149184c275",
+            "5c5428893a551428"
+        ],
+        "x": 14,
+        "y": 619,
+        "w": 772,
+        "h": 122
+    },
+    {
         "id": "f2f86710f80408e7",
         "type": "mqtt-broker",
         "name": "",
         "broker": "localhost",
         "port": "1883",
         "clientid": "node-red",
-        "autoConnect": true,
+        "autoConnect": false,
         "usetls": false,
         "protocolVersion": "4",
         "keepalive": "60",
@@ -517,6 +562,11 @@
         "servername": "",
         "verifyservercert": false,
         "alpnprotocol": ""
+    },
+    {
+        "id": "6a166e4c79a4bcbb",
+        "type": "node-red-contrib-whatsapp-cmb-account",
+        "name": ""
     },
     {
         "id": "efd3389ba939d57f",
@@ -1113,6 +1163,67 @@
         "wires": []
     },
     {
+        "id": "20f4f41054ab6fbb",
+        "type": "inject",
+        "z": "e201e2d1a09b1eed",
+        "g": "f92513d76378bf3c",
+        "name": "Dynamic Connection",
+        "props": [
+            {
+                "p": "action",
+                "v": "connect",
+                "vt": "str"
+            },
+            {
+                "p": "broker",
+                "v": "{\"broker\":\"localhost\",\"port\":\"1883\",\"clientid\":\"node-red-dyn\",\"force\":true}",
+                "vt": "json"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 180,
+        "y": 520,
+        "wires": [
+            [
+                "4b225b27884db1e4"
+            ]
+        ]
+    },
+    {
+        "id": "4b225b27884db1e4",
+        "type": "mqtt out",
+        "z": "e201e2d1a09b1eed",
+        "g": "f92513d76378bf3c",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 360,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "7ce853131aab1b80",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "g": "f92513d76378bf3c",
+        "name": "Connection Configuration",
+        "info": "",
+        "x": 160,
+        "y": 480,
+        "wires": []
+    },
+    {
         "id": "290d3110c921f009",
         "type": "mqtt in",
         "z": "471ac2a8a5e8653b",
@@ -1284,6 +1395,175 @@
                 "03dbfc58492a3571"
             ]
         ]
+    },
+    {
+        "id": "b3bab409f6dd92ed",
+        "type": "e-mail",
+        "z": "471ac2a8a5e8653b",
+        "g": "e9106a6dd33d76ad",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "secure": true,
+        "tls": true,
+        "name": "",
+        "dname": "",
+        "x": 370,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "ee43c92062b30b51",
+        "type": "inject",
+        "z": "471ac2a8a5e8653b",
+        "g": "e9106a6dd33d76ad",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "to",
+                "v": "haeram.kim1@gmail.com",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "test topic",
+        "payload": "test payload",
+        "payloadType": "str",
+        "x": 160,
+        "y": 560,
+        "wires": [
+            [
+                "b3bab409f6dd92ed"
+            ]
+        ]
+    },
+    {
+        "id": "9b666f3e.797cb",
+        "type": "inject",
+        "z": "471ac2a8a5e8653b",
+        "g": "51c42e34ce7286d6",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "apikey",
+                "v": "869940",
+                "vt": "str"
+            },
+            {
+                "p": "phonenumber",
+                "v": "+15622416686",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "fuckoff",
+        "payloadType": "str",
+        "x": 110,
+        "y": 700,
+        "wires": [
+            [
+                "e68896f392d7777b"
+            ]
+        ]
+    },
+    {
+        "id": "e68896f392d7777b",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "51c42e34ce7286d6",
+        "name": "CreateRequest",
+        "func": "const RootLink= \"https://api.callmebot.com/whatsapp.php\";\n\n// Call webhook\nif(msg.payload.length !== 0)\n{\n    msg.method = \"GET\";\n    msg.url = RootLink +\n            \"?phone=\" + msg.phonenumber +\n            \"&text=\" + msg.payload +\n            \"&apikey=\" + msg.apikey +\n            \"&source=nodered\";\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 700,
+        "wires": [
+            [
+                "2d744cd47dc1a51b"
+            ]
+        ]
+    },
+    {
+        "id": "2d744cd47dc1a51b",
+        "type": "http request",
+        "z": "471ac2a8a5e8653b",
+        "g": "51c42e34ce7286d6",
+        "name": "Send Whatsapp",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 480,
+        "y": 700,
+        "wires": [
+            [
+                "079e7b149184c275"
+            ]
+        ]
+    },
+    {
+        "id": "079e7b149184c275",
+        "type": "debug",
+        "z": "471ac2a8a5e8653b",
+        "g": "51c42e34ce7286d6",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 670,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "5c5428893a551428",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "51c42e34ce7286d6",
+        "name": "Send WhatsApp",
+        "info": "",
+        "x": 120,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "2c3ac744afb64db9",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "e9106a6dd33d76ad",
+        "name": "Send Email",
+        "info": "",
+        "x": 110,
+        "y": 520,
+        "wires": []
     },
     {
         "id": "68a3f370ae0caa1f",
@@ -1469,88 +1749,6 @@
         "wires": []
     },
     {
-        "id": "1f4fc3454e33a4df",
-        "type": "http in",
-        "z": "644bccdac689256f",
-        "g": "13c9c279155344a6",
-        "name": "",
-        "url": "/email/to/:to/subject/:subject/message/:message",
-        "method": "get",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 240,
-        "y": 820,
-        "wires": [
-            [
-                "8183907b01fb1c6c"
-            ]
-        ]
-    },
-    {
-        "id": "8183907b01fb1c6c",
-        "type": "function",
-        "z": "644bccdac689256f",
-        "g": "13c9c279155344a6",
-        "name": "PrepareEmail",
-        "func": "// Prepare email\nmsg.from = \"<ewqdsacxz2345@gmail.com>\";\nmsg.to = msg.req.params.to;\n\n// msg.cc = \"cc_address@example.com\";\n// msg.bcc = \"bcc_address@example.com\";\n\nmsg.topic = msg.req.params.subject;\nmsg.payload = msg.req.params.message;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 550,
-        "y": 820,
-        "wires": [
-            [
-                "75827f9b6a5fcf92",
-                "77f254f64c85765c"
-            ]
-        ]
-    },
-    {
-        "id": "75827f9b6a5fcf92",
-        "type": "function",
-        "z": "644bccdac689256f",
-        "g": "13c9c279155344a6",
-        "name": "PrepareResponse",
-        "func": "// Prepare response\nmsg.payload = {\n    \"to\": msg.to,\n    \"status\": \"email queued\"\n};\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 750,
-        "y": 780,
-        "wires": [
-            [
-                "6a99df80205c8c27"
-            ]
-        ]
-    },
-    {
-        "id": "6a99df80205c8c27",
-        "type": "http response",
-        "z": "644bccdac689256f",
-        "g": "13c9c279155344a6",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 930,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "8ae0e30887d58c37",
-        "type": "comment",
-        "z": "644bccdac689256f",
-        "g": "13c9c279155344a6",
-        "name": "Email Service",
-        "info": "",
-        "x": 110,
-        "y": 760,
-        "wires": []
-    },
-    {
         "id": "786d6160802049b7",
         "type": "uuid",
         "z": "644bccdac689256f",
@@ -1569,22 +1767,6 @@
                 "97f1ed6c67d27e46"
             ]
         ]
-    },
-    {
-        "id": "77f254f64c85765c",
-        "type": "sendgrid",
-        "z": "644bccdac689256f",
-        "g": "13c9c279155344a6",
-        "from": "ewqdsacxz2345@gmail.com",
-        "multiple": false,
-        "to": "",
-        "name": "",
-        "content": "text",
-        "templateId": "",
-        "templateData": "",
-        "x": 720,
-        "y": 860,
-        "wires": []
     },
     {
         "id": "38949a4110fb0a92",
