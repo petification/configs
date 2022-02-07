@@ -6,7 +6,6 @@ case "$cmd" in
 
     --up)
         mosquitto -c /etc/mosquitto/conf.d/broker.conf -v > mosquitto.log &
-        tail -f mosquitto.log
         ;;
 
     --log)

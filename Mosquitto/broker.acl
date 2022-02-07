@@ -13,12 +13,12 @@ user blue
 topic readwrite #
 
 # APPLICATION AS A USER
-user testapp
+user petification
 topic read timestamp/#
 #   Allow user to publish or subscribe for given topic and subtopic that is named Client_ID
 #   For example, when username "a" connects with Client_ID "aa" and <topic-name> is "testTopic",
 #   user "a" will have permission to publish or subscribe for topic "testTopic/aa/#" (note that # means all).
-topic readwrite testapp/%c/#
+topic readwrite petification/%c/#
 
 # PATTERNS
 topic read timestamp/#
