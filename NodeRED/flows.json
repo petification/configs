@@ -63,9 +63,7 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299,
-        "w": 972,
-        "h": 202
+        "y": 2299
     },
     {
         "id": "ffff053900bb63ca",
@@ -89,9 +87,7 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739,
-        "w": 972,
-        "h": 122
+        "y": 2739
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -117,9 +113,7 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519,
-        "w": 972,
-        "h": 202
+        "y": 2519
     },
     {
         "id": "152a7e1856d083de",
@@ -233,7 +227,9 @@
             "69fd65e799173d30"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 992,
+        "h": 202
     },
     {
         "id": "7457db638135fbdb",
@@ -257,7 +253,9 @@
             "edcb6c70dd6d14e2"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 1232,
+        "h": 122
     },
     {
         "id": "617bb68c7b2284cf",
@@ -285,7 +283,9 @@
             "29544c1af11d03dc"
         ],
         "x": 14,
-        "y": 379
+        "y": 379,
+        "w": 1252,
+        "h": 242
     },
     {
         "id": "778ff3b8764df908",
@@ -315,7 +315,9 @@
             "388d2936128df466"
         ],
         "x": 14,
-        "y": 639
+        "y": 639,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "08368f4a4f432e34",
@@ -345,7 +347,9 @@
             "7a1158daf4dae513"
         ],
         "x": 14,
-        "y": 959
+        "y": 959,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "2dac822f9fa8fa31",
@@ -369,9 +373,7 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 159,
-        "w": 832,
-        "h": 142
+        "y": 159
     },
     {
         "id": "e9106a6dd33d76ad",
@@ -440,9 +442,7 @@
             "247061156250feef"
         ],
         "x": 34,
-        "y": 19,
-        "w": 332,
-        "h": 122
+        "y": 19
     },
     {
         "id": "1d8cdff294b948fa",
@@ -465,9 +465,7 @@
             "0fd8624766b2dc3b"
         ],
         "x": 14,
-        "y": 19,
-        "w": 772,
-        "h": 122
+        "y": 19
     },
     {
         "id": "4b08a40382bbc675",
@@ -488,9 +486,7 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 319,
-        "w": 402,
-        "h": 122
+        "y": 319
     },
     {
         "id": "ebdc7b632451ee75",
@@ -1291,7 +1287,7 @@
         "z": "471ac2a8a5e8653b",
         "g": "ebdc7b632451ee75",
         "name": "CreateRequest",
-        "func": "// Call webhook\nconst parsedTopic = msg.rcvd.topic.split('/');\nconst user = parsedTopic[0];\nconst cid = parsedTopic[1];\nconst subTopic = parsedTopic[2];\nconst payload = msg.rcvd.payload;\n\nif(msg.payload.length !== 0)\n{\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook\n            .replaceAll('yyuser', user)\n            .replaceAll('yycid', cid)\n            .replaceAll('yysub', subTopic)\n            .replaceAll('yypayload', payload);\n        node.send([msg]);\n    }\n}",
+        "func": "// Call webhook\nconst parsedTopic = msg.rcvd.topic.split('/');\nconst user = parsedTopic[0];\nconst cid = parsedTopic[1];\nconst subTopic = parsedTopic[2];\nconst payload = msg.rcvd.payload;\n\nif(msg.payload.length !== 0)\n{\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook\n            .replace(/yyuser/g, user)\n            .replace(/yycid/g, cid)\n            .replace(/yysub/g, subTopic)\n            .replace(/yypayload/g, payload);\n        node.send([msg]);\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2261,7 +2257,7 @@
         "z": "5136785d38f71e48",
         "g": "ed8b5377f33374f1",
         "name": "CreateQuery",
-        "func": "// Create query\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count) {\n    msg.req.params.count = 1;\n}\n\n// build the sql query\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create query\n\n// if no authentication filter defined or available\n// set the default value as 0\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count) {\n    msg.req.params.count = 1;\n}\n\n// build the sql query\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"AND (\" + msg.req.authFilter + \") \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2346,7 +2342,7 @@
         "z": "5136785d38f71e48",
         "g": "7457db638135fbdb",
         "name": "CreateSELECT",
-        "func": "// Create query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n            \" FROM thingsData WHERE\" +\n            \" topic LIKE '\" + msg.req.params.topic.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND\" +\n            \" payload LIKE '\" + msg.req.params.payload.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND deleted=0\" +\n            \" AND (\" + msg.req.authFilter + \")\" +\n            \" ORDER BY ID DESC\" +\n            \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create query\n\n// if no authentication filter defined or available\n// set the default value as 0\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n            \" FROM thingsData WHERE\" +\n            \" topic LIKE '\" + msg.req.params.topic.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND\" +\n            \" payload LIKE '\" + msg.req.params.payload.\n            replace(/\\*/g, \"%\") + \"'\" +\n            \" AND deleted=0\" +\n            \" AND (\" + msg.req.authFilter + \")\" +\n            \" ORDER BY ID DESC\" +\n            \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2478,7 +2474,7 @@
         "z": "5136785d38f71e48",
         "g": "617bb68c7b2284cf",
         "name": "CreateAFTERQuery",
-        "func": "// Create 'AFTER' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create 'AFTER' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2498,7 +2494,7 @@
         "z": "5136785d38f71e48",
         "g": "617bb68c7b2284cf",
         "name": "CreateBEFOREQuery",
-        "func": "// Create 'BEFORE' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp <= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create 'BEFORE' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp <= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2518,7 +2514,7 @@
         "z": "5136785d38f71e48",
         "g": "617bb68c7b2284cf",
         "name": "CreateDURATIONQuery",
-        "func": "// Create 'DURING' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic.replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.start + \"'\" + \" AND\" +\n    \" timestamp <='\" + msg.req.params.end + \"'\" +\n    \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create 'DURING' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic.replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.start + \"'\" + \" AND\" +\n    \" timestamp <='\" + msg.req.params.end + \"'\" +\n    \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2668,7 +2664,7 @@
         "z": "5136785d38f71e48",
         "g": "778ff3b8764df908",
         "name": "CreateUPDATEQueryByID",
-        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"UPDATE thingsData\" + \" SET deleted=1\" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\nmsg.topic =\n    \"UPDATE thingsData\" + \" SET deleted=1\" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2688,7 +2684,7 @@
         "z": "5136785d38f71e48",
         "g": "778ff3b8764df908",
         "name": "CreateUPDATEQueryByTopic",
-        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2708,7 +2704,7 @@
         "z": "5136785d38f71e48",
         "g": "778ff3b8764df908",
         "name": "CreateUPDATEfromFirstQuery",
-        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2728,7 +2724,7 @@
         "z": "5136785d38f71e48",
         "g": "778ff3b8764df908",
         "name": "CreateUPDATEfromLastQuery",
-        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n    \nmsg.topic =\n    \"UPDATE thingsData\" +\n    \" SET deleted=1 \" +\n    \" WHERE\" +\n    \" topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2806,7 +2802,7 @@
         "z": "5136785d38f71e48",
         "g": "08368f4a4f432e34",
         "name": "CreateDELETEQueryByTopic",
-        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \");\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2826,7 +2822,7 @@
         "z": "5136785d38f71e48",
         "g": "08368f4a4f432e34",
         "name": "CreateDELETEfromFirstQuery",
-        "func": "// Purge first few records\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Purge first few records\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id ASC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2846,7 +2842,7 @@
         "z": "5136785d38f71e48",
         "g": "08368f4a4f432e34",
         "name": "CreateDELETEfromLastQuery",
-        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n    \nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count)\n    msg.req.params.count = 1;\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n    \nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY id DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2898,7 +2894,7 @@
         "z": "5136785d38f71e48",
         "g": "08368f4a4f432e34",
         "name": "CreateDELETEQueryByID",
-        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "func": "// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\nmsg.topic =\n    \"DELETE FROM thingsData\" +\n    \" WHERE deleted=1\" +\n    \" AND topic='\" + msg.req.params.topic + \"'\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" AND id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",

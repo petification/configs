@@ -238,7 +238,7 @@ module.exports = {
         {
             const auth = Buffer.from(req.headers.authorization, 'ascii').toString();
             // split the string at space-character
-            // typical auth header is like Bearer <access-token>
+            // typical auth header is like "Bearer <access-token>"
  
             req.authType = auth.split(' ')[0];
             req.userToken = auth.split(' ')[1];
@@ -252,7 +252,7 @@ module.exports = {
         }
 
         getData(
-            'SELECT * FROM authTable' + 
+            'SELECT * FROM userData' + 
             ' WHERE token = \"' + req.userToken.toString() + '\"' +
             ' ORDER BY ID DESC LIMIT 1;',
 
@@ -274,7 +274,7 @@ module.exports = {
                     {
                         // use pass access string
                         req.auth = true;
-                        req.authFilter = data[0].access;
+                        req.authFilter = 1;
                     }
 
                     // pass control to http node
@@ -283,8 +283,8 @@ module.exports = {
 
                 else
                 {
-                    // if there was an error, respond with 403 and terminate
-                    res.status(403).send("403: FORBIDDEN").end();
+                    // if there was an error, respond with 500 and terminate
+                    res.status(500).send("500: INTERNAL SERVER ERROR").end();
                 }
             }
         );
