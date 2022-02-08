@@ -16,25 +16,9 @@
         "env": []
     },
     {
-        "id": "644bccdac689256f",
-        "type": "tab",
-        "label": "Utilities",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
         "id": "5136785d38f71e48",
         "type": "tab",
-        "label": "DB ReST API",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
-        "id": "6247d9d13f3d1415",
-        "type": "tab",
-        "label": "TestCases",
+        "label": "ReST API (Deprecated)",
         "disabled": false,
         "info": "",
         "env": []
@@ -43,6 +27,14 @@
         "id": "1d6a28c3c2b677b5",
         "type": "tab",
         "label": "Device Manager",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6247d9d13f3d1415",
+        "type": "tab",
+        "label": "TestCases",
         "disabled": false,
         "info": "",
         "env": []
@@ -127,103 +119,6 @@
         "x": 14,
         "y": 2519,
         "w": 972,
-        "h": 202
-    },
-    {
-        "id": "152a7e1856d083de",
-        "type": "group",
-        "z": "644bccdac689256f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "9ea877d17bab30c6",
-            "3f78cde70e9df008",
-            "97f1ed6c67d27e46",
-            "b64324774c34298f",
-            "786d6160802049b7"
-        ],
-        "x": 14,
-        "y": 559,
-        "w": 732,
-        "h": 142
-    },
-    {
-        "id": "10568c80269dcce8",
-        "type": "group",
-        "z": "644bccdac689256f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f744725d58d96e39",
-            "61fb47c190aa6997",
-            "cec6558885044a83",
-            "d10ffc5018975a2c"
-        ],
-        "x": 14,
-        "y": 399,
-        "w": 672,
-        "h": 142
-    },
-    {
-        "id": "6704523d31813e77",
-        "type": "group",
-        "z": "644bccdac689256f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "68a3f370ae0caa1f",
-            "73b52990811fc633",
-            "4c8456156ed0d48d",
-            "6a0e034d071e10bb"
-        ],
-        "x": 14,
-        "y": 239,
-        "w": 612,
-        "h": 142
-    },
-    {
-        "id": "73af34b2e9f445fa",
-        "type": "group",
-        "z": "644bccdac689256f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "38949a4110fb0a92",
-            "6b04066642578638",
-            "5dc469d862c3aa6c",
-            "1cd3c91e65ec2636"
-        ],
-        "x": 14,
-        "y": 19,
-        "w": 552,
         "h": 202
     },
     {
@@ -394,8 +289,8 @@
             "3bfda25f5858bb7c",
             "c58f1a558f26bfe6"
         ],
-        "x": 74,
-        "y": 419,
+        "x": 14,
+        "y": 259,
         "w": 832,
         "h": 142
     },
@@ -440,8 +335,8 @@
             "4b225b27884db1e4",
             "7ce853131aab1b80"
         ],
-        "x": 74,
-        "y": 579,
+        "x": 14,
+        "y": 419,
         "w": 402,
         "h": 122
     },
@@ -822,6 +717,159 @@
         "h": 568
     },
     {
+        "id": "9549be372fd05fe1",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "03dbfc58492a3571",
+            "4375a052d4bc7f87",
+            "a4c478c62c932d4c",
+            "febc1d17fe23f57e",
+            "95f7cf496a98ebfa",
+            "d26c7431209e10a7",
+            "6a9beada022e3022",
+            "380f591b24656790"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 672,
+        "h": 362
+    },
+    {
+        "id": "bd052b2d0bb7720e",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bdc10140ffe8560d",
+            "b6087fa03967b97d",
+            "f2d1b4ad256117db",
+            "51ac77f1ebf7ae2d",
+            "0fd8624766b2dc3b",
+            "4a5ac88d5cf67f84",
+            "7a7161d47e31ef97",
+            "400a9ac35151a339"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 892,
+        "h": 222
+    },
+    {
+        "id": "4a3e560d1a01cf3e",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "343fc966dcf2740b",
+            "869efd42aae3079a",
+            "b1a94f49e2c4f63b",
+            "cf7c5fb09faeaaaa",
+            "3ce598360cdb14a1"
+        ],
+        "x": 14,
+        "y": 239,
+        "w": 732,
+        "h": 142
+    },
+    {
+        "id": "7e12d596daeb044b",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "73f3b5bef24d6206",
+            "da82f26fdafe9a47",
+            "0bb1f18f28f510f7",
+            "c07ceed42e06d9b1"
+        ],
+        "x": 454,
+        "y": 159,
+        "w": 552,
+        "h": 202
+    },
+    {
+        "id": "9ea8eb5fbd9fba9b",
+        "type": "group",
+        "z": "5136785d38f71e48",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "30c14daec4a1f749",
+            "77e67a3f4cfd0f70",
+            "b235197fa65b1d61",
+            "cb62d5174fdbc2dc"
+        ],
+        "x": 14,
+        "y": 1439,
+        "w": 672,
+        "h": 142
+    },
+    {
+        "id": "a429ddf13a770b14",
+        "type": "group",
+        "z": "5136785d38f71e48",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f43917740733c55e",
+            "e4740575f27080e7",
+            "0ed1c226b2a3efec",
+            "d3c7fdd2bdc2106c"
+        ],
+        "x": 14,
+        "y": 1279,
+        "w": 612,
+        "h": 142
+    },
+    {
         "id": "f2f86710f80408e7",
         "type": "mqtt-broker",
         "name": "",
@@ -878,6 +926,7 @@
         "id": "bdc10140ffe8560d",
         "type": "debug",
         "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -887,13 +936,14 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 790,
-        "y": 100,
+        "y": 120,
         "wires": []
     },
     {
         "id": "b6087fa03967b97d",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
         "name": "MakeSQLQuery",
         "func": "// Create query\nmsg.topic = \"INSERT INTO thingsData (topic, payload, timestamp, deleted)\" +\n            \"VALUES ('\" + msg.mqtt.topic + \"','\" + msg.mqtt.payload + \"','\" + msg.mqtt.timestamp + \"', 0);\";\n\nreturn msg;",
         "outputs": 1,
@@ -902,7 +952,7 @@
         "finalize": "",
         "libs": [],
         "x": 440,
-        "y": 100,
+        "y": 120,
         "wires": [
             [
                 "51ac77f1ebf7ae2d"
@@ -913,6 +963,7 @@
         "id": "f2d1b4ad256117db",
         "type": "comment",
         "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
         "name": "DB/INSERT Published MSG",
         "info": "",
         "x": 160,
@@ -923,10 +974,11 @@
         "id": "51ac77f1ebf7ae2d",
         "type": "mysql",
         "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 620,
-        "y": 100,
+        "y": 120,
         "wires": [
             [
                 "bdc10140ffe8560d"
@@ -1301,6 +1353,7 @@
         "id": "0fd8624766b2dc3b",
         "type": "mqtt in",
         "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
         "name": "ListenEverything",
         "topic": "#",
         "qos": "1",
@@ -1311,7 +1364,7 @@
         "rh": 0,
         "inputs": 0,
         "x": 120,
-        "y": 100,
+        "y": 120,
         "wires": [
             [
                 "4a5ac88d5cf67f84"
@@ -1328,8 +1381,8 @@
         "method": "post",
         "upload": false,
         "swaggerDoc": "",
-        "x": 210,
-        "y": 520,
+        "x": 150,
+        "y": 360,
         "wires": [
             [
                 "8d82db435247b0de"
@@ -1351,8 +1404,8 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 610,
-        "y": 460,
+        "x": 550,
+        "y": 300,
         "wires": []
     },
     {
@@ -1367,8 +1420,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 440,
-        "y": 520,
+        "x": 380,
+        "y": 360,
         "wires": [
             [
                 "bbf8fda66520b4fb",
@@ -1388,8 +1441,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 650,
-        "y": 520,
+        "x": 590,
+        "y": 360,
         "wires": [
             [
                 "3bfda25f5858bb7c"
@@ -1404,8 +1457,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 830,
-        "y": 520,
+        "x": 770,
+        "y": 360,
         "wires": []
     },
     {
@@ -1415,8 +1468,8 @@
         "g": "2dac822f9fa8fa31",
         "name": "Publish by REST/POST",
         "info": "",
-        "x": 200,
-        "y": 460,
+        "x": 140,
+        "y": 300,
         "wires": []
     },
     {
@@ -1442,8 +1495,8 @@
         "once": true,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 220,
-        "y": 660,
+        "x": 160,
+        "y": 500,
         "wires": [
             [
                 "4b225b27884db1e4"
@@ -1465,8 +1518,8 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 400,
-        "y": 660,
+        "x": 340,
+        "y": 500,
         "wires": []
     },
     {
@@ -1476,14 +1529,15 @@
         "g": "4b08a40382bbc675",
         "name": "Connection Configuration",
         "info": "",
-        "x": 210,
-        "y": 620,
+        "x": 150,
+        "y": 460,
         "wires": []
     },
     {
         "id": "4a5ac88d5cf67f84",
         "type": "function",
         "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
         "name": "Preprocessing",
         "func": "/**\n * MQTT MSG PREPROCESSOR\n */\n\n// MQTT MSG Object\nmsg.mqtt = {};\n\n// Topic\nmsg.mqtt.topic = escape(msg.topic);\n\n// Payload\nmsg.mqtt.payload = escape(msg.payload);\n\n// Timestamp\n// get microtime\nlet timestamp = new Date().getTime()/1000;\n// pad it with trailing zeroes\ntimestamp = timestamp.toString() + \"000\";\n// trim to exact length 10 + 1 + 3\nmsg.mqtt.timestamp = timestamp.substring(0, 14);\n\nreturn msg;",
         "outputs": 1,
@@ -1492,7 +1546,7 @@
         "finalize": "",
         "libs": [],
         "x": 240,
-        "y": 140,
+        "y": 160,
         "wires": [
             [
                 "b6087fa03967b97d",
@@ -1504,19 +1558,32 @@
         "id": "7a7161d47e31ef97",
         "type": "link out",
         "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
         "name": "MQTT MSG Bus Out",
         "mode": "link",
         "links": [
             "6a9beada022e3022"
         ],
         "x": 375,
-        "y": 180,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "400a9ac35151a339",
+        "type": "comment",
+        "z": "e201e2d1a09b1eed",
+        "g": "bd052b2d0bb7720e",
+        "name": "MQTT MSG Bus Out",
+        "info": "",
+        "x": 490,
+        "y": 200,
         "wires": []
     },
     {
         "id": "03dbfc58492a3571",
         "type": "function",
         "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
         "name": "SearchRules",
         "func": "msg.topic = \"SELECT * FROM rulesData\" +\n            \" WHERE\" +\n            \" ('\" + msg.mqtt.topic + \"' LIKE topicPattern)\" +\n            \" AND\" +\n            \" ('\" + msg.mqtt.payload + \"' LIKE payloadPattern)\" +\n            \" AND active=0x01\";\n\nreturn msg;",
         "outputs": 1,
@@ -1524,7 +1591,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 170,
+        "x": 350,
         "y": 100,
         "wires": [
             [
@@ -1536,6 +1603,7 @@
         "id": "4375a052d4bc7f87",
         "type": "function",
         "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
         "name": "CreateRequest",
         "func": "// Call webhook\nif(msg.payload.length !== 0)\n{\n    // Prepare values\n    const parsedTopic = msg.mqtt.topic.split('/');\n    const user = encodeURIComponent(parsedTopic[0]);\n    const cid = encodeURIComponent(parsedTopic[1]);\n    const topic = encodeURIComponent(msg.mqtt.topic);\n    const payload = encodeURIComponent(msg.mqtt.payload);\n    const timestamp = encodeURIComponent(msg.mqtt.timestamp);\n    \n    // Send webHook\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook\n            .replace(/yyuser/g, user)\n            .replace(/yycid/g, cid)\n            .replace(/yytimestamp/g, timestamp)\n            .replace(/yytopic/g, topic)\n            .replace(/yypayload/g, payload);\n        node.send([msg]);\n    }\n}",
         "outputs": 1,
@@ -1543,7 +1611,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 280,
+        "x": 460,
         "y": 220,
         "wires": [
             [
@@ -1555,6 +1623,7 @@
         "id": "a4c478c62c932d4c",
         "type": "debug",
         "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -1564,7 +1633,7 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 390,
+        "x": 570,
         "y": 340,
         "wires": []
     },
@@ -1572,9 +1641,10 @@
         "id": "febc1d17fe23f57e",
         "type": "mysql",
         "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 220,
+        "x": 400,
         "y": 160,
         "wires": [
             [
@@ -1586,6 +1656,7 @@
         "id": "95f7cf496a98ebfa",
         "type": "http request",
         "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
         "name": "",
         "method": "use",
         "ret": "obj",
@@ -1596,7 +1667,7 @@
         "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 330,
+        "x": 510,
         "y": 280,
         "wires": [
             [
@@ -1608,6 +1679,7 @@
         "id": "d26c7431209e10a7",
         "type": "comment",
         "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
         "name": "Auto Activation",
         "info": "",
         "x": 120,
@@ -2289,11 +2361,12 @@
         "id": "6a9beada022e3022",
         "type": "link in",
         "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
         "name": "MQTT MSG Bus In",
         "links": [
             "7a7161d47e31ef97"
         ],
-        "x": 55,
+        "x": 235,
         "y": 100,
         "wires": [
             [
@@ -2449,285 +2522,14 @@
         "wires": []
     },
     {
-        "id": "68a3f370ae0caa1f",
-        "type": "http in",
-        "z": "644bccdac689256f",
-        "g": "6704523d31813e77",
-        "name": "",
-        "url": "/timestamp",
-        "method": "get",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 120,
-        "y": 340,
-        "wires": [
-            [
-                "73b52990811fc633"
-            ]
-        ]
-    },
-    {
-        "id": "73b52990811fc633",
-        "type": "function",
-        "z": "644bccdac689256f",
-        "g": "6704523d31813e77",
-        "name": "PrepareTimestamp",
-        "func": "msg.payload = {\n    timestamp: (new Date()).getTime().toString()\n};\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 350,
-        "y": 340,
-        "wires": [
-            [
-                "4c8456156ed0d48d"
-            ]
-        ]
-    },
-    {
-        "id": "4c8456156ed0d48d",
-        "type": "http response",
-        "z": "644bccdac689256f",
-        "g": "6704523d31813e77",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 550,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "6a0e034d071e10bb",
+        "id": "380f591b24656790",
         "type": "comment",
-        "z": "644bccdac689256f",
-        "g": "6704523d31813e77",
-        "name": "REST/GET current timestamp",
+        "z": "471ac2a8a5e8653b",
+        "g": "9549be372fd05fe1",
+        "name": "MQTT MSG Bus In",
         "info": "",
-        "x": 160,
-        "y": 280,
-        "wires": []
-    },
-    {
-        "id": "f744725d58d96e39",
-        "type": "comment",
-        "z": "644bccdac689256f",
-        "g": "10568c80269dcce8",
-        "name": "REST/GET Random Code",
-        "info": "",
-        "x": 150,
-        "y": 440,
-        "wires": []
-    },
-    {
-        "id": "61fb47c190aa6997",
-        "type": "http in",
-        "z": "644bccdac689256f",
-        "g": "10568c80269dcce8",
-        "name": "",
-        "url": "/randomcode/:len",
-        "method": "get",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 140,
-        "y": 500,
-        "wires": [
-            [
-                "cec6558885044a83"
-            ]
-        ]
-    },
-    {
-        "id": "cec6558885044a83",
-        "type": "function",
-        "z": "644bccdac689256f",
-        "g": "10568c80269dcce8",
-        "name": "PrepareRandomCode",
-        "func": "var randomString = function(length) {\n    var text = \"\";\n    var possible = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\";\n    for(var i = 0; i < length; i++) {\n        text += possible.charAt(Math.floor(Math.random() * possible.length));\n    }\n    return text;\n}\n\nmsg.payload = {\n    code: randomString(msg.req.params.len)\n};\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 400,
-        "y": 500,
-        "wires": [
-            [
-                "d10ffc5018975a2c"
-            ]
-        ]
-    },
-    {
-        "id": "d10ffc5018975a2c",
-        "type": "http response",
-        "z": "644bccdac689256f",
-        "g": "10568c80269dcce8",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 610,
-        "y": 500,
-        "wires": []
-    },
-    {
-        "id": "9ea877d17bab30c6",
-        "type": "comment",
-        "z": "644bccdac689256f",
-        "g": "152a7e1856d083de",
-        "name": "REST/GET UUID",
-        "info": "",
-        "x": 120,
-        "y": 600,
-        "wires": []
-    },
-    {
-        "id": "3f78cde70e9df008",
-        "type": "http in",
-        "z": "644bccdac689256f",
-        "g": "152a7e1856d083de",
-        "name": "",
-        "url": "/uuid",
-        "method": "get",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 100,
-        "y": 660,
-        "wires": [
-            [
-                "786d6160802049b7"
-            ]
-        ]
-    },
-    {
-        "id": "97f1ed6c67d27e46",
-        "type": "function",
-        "z": "644bccdac689256f",
-        "g": "152a7e1856d083de",
-        "name": "PrepareResponse",
-        "func": "// Prepare response\nmsg.payload = {\n    uuid: msg.payload\n};\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 470,
-        "y": 660,
-        "wires": [
-            [
-                "b64324774c34298f"
-            ]
-        ]
-    },
-    {
-        "id": "b64324774c34298f",
-        "type": "http response",
-        "z": "644bccdac689256f",
-        "g": "152a7e1856d083de",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 670,
-        "y": 660,
-        "wires": []
-    },
-    {
-        "id": "786d6160802049b7",
-        "type": "uuid",
-        "z": "644bccdac689256f",
-        "g": "152a7e1856d083de",
-        "uuidVersion": "v4",
-        "namespaceType": "",
-        "namespace": "",
-        "namespaceCustom": "",
-        "name": "",
-        "field": "payload",
-        "fieldType": "msg",
-        "x": 270,
-        "y": 660,
-        "wires": [
-            [
-                "97f1ed6c67d27e46"
-            ]
-        ]
-    },
-    {
-        "id": "38949a4110fb0a92",
-        "type": "inject",
-        "z": "644bccdac689256f",
-        "g": "73af34b2e9f445fa",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "30",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 170,
-        "y": 120,
-        "wires": [
-            [
-                "6b04066642578638",
-                "5dc469d862c3aa6c"
-            ]
-        ]
-    },
-    {
-        "id": "6b04066642578638",
-        "type": "debug",
-        "z": "644bccdac689256f",
-        "g": "73af34b2e9f445fa",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 450,
-        "y": 80,
-        "wires": []
-    },
-    {
-        "id": "5dc469d862c3aa6c",
-        "type": "mqtt out",
-        "z": "644bccdac689256f",
-        "g": "73af34b2e9f445fa",
-        "name": "",
-        "topic": "timestamp",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 450,
-        "y": 180,
-        "wires": []
-    },
-    {
-        "id": "1cd3c91e65ec2636",
-        "type": "comment",
-        "z": "644bccdac689256f",
-        "g": "73af34b2e9f445fa",
-        "name": "Publish Periodic Timestamp",
-        "info": "",
-        "x": 160,
-        "y": 60,
+        "x": 130,
+        "y": 100,
         "wires": []
     },
     {
@@ -3533,6 +3335,354 @@
         ]
     },
     {
+        "id": "30c14daec4a1f749",
+        "type": "comment",
+        "z": "5136785d38f71e48",
+        "g": "9ea8eb5fbd9fba9b",
+        "name": "REST/GET Random Code",
+        "info": "",
+        "x": 150,
+        "y": 1480,
+        "wires": []
+    },
+    {
+        "id": "77e67a3f4cfd0f70",
+        "type": "http in",
+        "z": "5136785d38f71e48",
+        "g": "9ea8eb5fbd9fba9b",
+        "name": "",
+        "url": "/randomcode/:len",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 1540,
+        "wires": [
+            [
+                "b235197fa65b1d61"
+            ]
+        ]
+    },
+    {
+        "id": "b235197fa65b1d61",
+        "type": "function",
+        "z": "5136785d38f71e48",
+        "g": "9ea8eb5fbd9fba9b",
+        "name": "PrepareRandomCode",
+        "func": "var randomString = function(length) {\n    var text = \"\";\n    var possible = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\";\n    for(var i = 0; i < length; i++) {\n        text += possible.charAt(Math.floor(Math.random() * possible.length));\n    }\n    return text;\n}\n\nmsg.payload = {\n    code: randomString(msg.req.params.len)\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 1540,
+        "wires": [
+            [
+                "cb62d5174fdbc2dc"
+            ]
+        ]
+    },
+    {
+        "id": "cb62d5174fdbc2dc",
+        "type": "http response",
+        "z": "5136785d38f71e48",
+        "g": "9ea8eb5fbd9fba9b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 610,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "f43917740733c55e",
+        "type": "http in",
+        "z": "5136785d38f71e48",
+        "g": "a429ddf13a770b14",
+        "name": "",
+        "url": "/timestamp",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 1380,
+        "wires": [
+            [
+                "e4740575f27080e7"
+            ]
+        ]
+    },
+    {
+        "id": "e4740575f27080e7",
+        "type": "function",
+        "z": "5136785d38f71e48",
+        "g": "a429ddf13a770b14",
+        "name": "PrepareTimestamp",
+        "func": "msg.payload = {\n    timestamp: (new Date()).getTime().toString()\n};\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 350,
+        "y": 1380,
+        "wires": [
+            [
+                "0ed1c226b2a3efec"
+            ]
+        ]
+    },
+    {
+        "id": "0ed1c226b2a3efec",
+        "type": "http response",
+        "z": "5136785d38f71e48",
+        "g": "a429ddf13a770b14",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 550,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "d3c7fdd2bdc2106c",
+        "type": "comment",
+        "z": "5136785d38f71e48",
+        "g": "a429ddf13a770b14",
+        "name": "REST/GET current timestamp",
+        "info": "",
+        "x": 160,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "6dcf2f1e68129393",
+        "type": "http in",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "name": "",
+        "url": "/device/status/:cid/:stat",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 170,
+        "y": 140,
+        "wires": [
+            [
+                "548e32c979c8746b"
+            ]
+        ]
+    },
+    {
+        "id": "548e32c979c8746b",
+        "type": "function",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"UPDATE deviceData\" +\n            \" SET status=\" + msg.req.params.stat +\n            \" WHERE\" +\n            \" cid='\" + msg.req.params.cid + \"';\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 140,
+        "wires": [
+            [
+                "683726f9b811e7ba"
+            ]
+        ]
+    },
+    {
+        "id": "683726f9b811e7ba",
+        "type": "mysql",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 580,
+        "y": 140,
+        "wires": [
+            [
+                "837aa64d37cd15ac",
+                "5656d3bc8f820a96"
+            ]
+        ]
+    },
+    {
+        "id": "837aa64d37cd15ac",
+        "type": "http response",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "5656d3bc8f820a96",
+        "type": "switch",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "name": "IsChanged",
+        "property": "payload[\"changedRows\"]",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 750,
+        "y": 100,
+        "wires": [
+            [
+                "caae02f4db574a13"
+            ],
+            [
+                "c7ef3c6652780e66"
+            ]
+        ]
+    },
+    {
+        "id": "c7ef3c6652780e66",
+        "type": "debug",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "name": "Status Changed",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "{\t    \"payload\": \"Device Status Changed\"\t}",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 940,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "caae02f4db574a13",
+        "type": "debug",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "name": "Status Not Changed",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "{\t    \"payload\": \"Status Not Changed\"\t}",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 960,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "13f884a120958926",
+        "type": "comment",
+        "z": "1d6a28c3c2b677b5",
+        "g": "dd5bd293402b6632",
+        "name": "ReST/PATCH Device Status",
+        "info": "",
+        "x": 160,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "343fc966dcf2740b",
+        "type": "comment",
+        "z": "1d6a28c3c2b677b5",
+        "g": "4a3e560d1a01cf3e",
+        "name": "REST/GET UUID (Client ID)",
+        "info": "",
+        "x": 150,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "869efd42aae3079a",
+        "type": "http in",
+        "z": "1d6a28c3c2b677b5",
+        "g": "4a3e560d1a01cf3e",
+        "name": "",
+        "url": "/uuid",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 100,
+        "y": 340,
+        "wires": [
+            [
+                "3ce598360cdb14a1"
+            ]
+        ]
+    },
+    {
+        "id": "b1a94f49e2c4f63b",
+        "type": "function",
+        "z": "1d6a28c3c2b677b5",
+        "g": "4a3e560d1a01cf3e",
+        "name": "PrepareResponse",
+        "func": "// Prepare response\nmsg.payload = {\n    uuid: msg.payload\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 340,
+        "wires": [
+            [
+                "cf7c5fb09faeaaaa"
+            ]
+        ]
+    },
+    {
+        "id": "cf7c5fb09faeaaaa",
+        "type": "http response",
+        "z": "1d6a28c3c2b677b5",
+        "g": "4a3e560d1a01cf3e",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 670,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "3ce598360cdb14a1",
+        "type": "uuid",
+        "z": "1d6a28c3c2b677b5",
+        "g": "4a3e560d1a01cf3e",
+        "uuidVersion": "v4",
+        "namespaceType": "",
+        "namespace": "",
+        "namespaceCustom": "",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "x": 270,
+        "y": 340,
+        "wires": [
+            [
+                "b1a94f49e2c4f63b"
+            ]
+        ]
+    },
+    {
         "id": "5e14e9da9dbc6d0a",
         "type": "inject",
         "z": "6247d9d13f3d1415",
@@ -4021,148 +4171,82 @@
         "wires": []
     },
     {
-        "id": "6dcf2f1e68129393",
-        "type": "http in",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
+        "id": "73f3b5bef24d6206",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "7e12d596daeb044b",
         "name": "",
-        "url": "/device/status/:cid/:stat",
-        "method": "patch",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 170,
-        "y": 140,
-        "wires": [
-            [
-                "548e32c979c8746b"
-            ]
-        ]
-    },
-    {
-        "id": "548e32c979c8746b",
-        "type": "function",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
-        "name": "CreateQuery",
-        "func": "msg.topic = \"UPDATE deviceData\" +\n            \" SET status=\" + msg.req.params.stat +\n            \" WHERE\" +\n            \" cid='\" + msg.req.params.cid + \"';\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 410,
-        "y": 140,
-        "wires": [
-            [
-                "683726f9b811e7ba"
-            ]
-        ]
-    },
-    {
-        "id": "683726f9b811e7ba",
-        "type": "mysql",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 580,
-        "y": 140,
-        "wires": [
-            [
-                "837aa64d37cd15ac",
-                "5656d3bc8f820a96"
-            ]
-        ]
-    },
-    {
-        "id": "837aa64d37cd15ac",
-        "type": "http response",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 730,
-        "y": 180,
-        "wires": []
-    },
-    {
-        "id": "5656d3bc8f820a96",
-        "type": "switch",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
-        "name": "IsChanged",
-        "property": "payload[\"changedRows\"]",
-        "propertyType": "msg",
-        "rules": [
+        "props": [
             {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
+                "p": "payload"
             },
             {
-                "t": "else"
+                "p": "topic",
+                "vt": "str"
             }
         ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 750,
-        "y": 100,
+        "repeat": "30",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 610,
+        "y": 260,
         "wires": [
             [
-                "caae02f4db574a13"
-            ],
-            [
-                "c7ef3c6652780e66"
+                "da82f26fdafe9a47",
+                "0bb1f18f28f510f7"
             ]
         ]
     },
     {
-        "id": "c7ef3c6652780e66",
+        "id": "da82f26fdafe9a47",
         "type": "debug",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
-        "name": "Status Changed",
+        "z": "6247d9d13f3d1415",
+        "g": "7e12d596daeb044b",
+        "name": "",
         "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complete": "{\t    \"payload\": \"Device Status Changed\"\t}",
-        "targetType": "jsonata",
+        "complete": "payload",
+        "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 940,
-        "y": 120,
+        "x": 890,
+        "y": 220,
         "wires": []
     },
     {
-        "id": "caae02f4db574a13",
-        "type": "debug",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
-        "name": "Status Not Changed",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\t    \"payload\": \"Status Not Changed\"\t}",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 960,
-        "y": 80,
+        "id": "0bb1f18f28f510f7",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "7e12d596daeb044b",
+        "name": "",
+        "topic": "timestamp",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 890,
+        "y": 320,
         "wires": []
     },
     {
-        "id": "13f884a120958926",
+        "id": "c07ceed42e06d9b1",
         "type": "comment",
-        "z": "1d6a28c3c2b677b5",
-        "g": "dd5bd293402b6632",
-        "name": "ReST/PATCH Device Status",
+        "z": "6247d9d13f3d1415",
+        "g": "7e12d596daeb044b",
+        "name": "Publish Periodic Timestamp",
         "info": "",
-        "x": 160,
-        "y": 60,
+        "x": 600,
+        "y": 200,
         "wires": []
     }
 ]
