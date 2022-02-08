@@ -18,7 +18,23 @@
     {
         "id": "1d6a28c3c2b677b5",
         "type": "tab",
-        "label": "Device Manager",
+        "label": "Device Management",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "de4cf0a89bfc7b01",
+        "type": "tab",
+        "label": "Dashboard (User Management)",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "cfdddf09d7102807",
+        "type": "tab",
+        "label": "Schedule Management",
         "disabled": false,
         "info": "",
         "env": []
@@ -63,9 +79,7 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299,
-        "w": 972,
-        "h": 202
+        "y": 2299
     },
     {
         "id": "ffff053900bb63ca",
@@ -89,9 +103,7 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739,
-        "w": 972,
-        "h": 122
+        "y": 2739
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -117,9 +129,7 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519,
-        "w": 972,
-        "h": 202
+        "y": 2519
     },
     {
         "id": "ed8b5377f33374f1",
@@ -290,9 +300,7 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 339,
-        "w": 832,
-        "h": 142
+        "y": 339
     },
     {
         "id": "c5351c5c421b358c",
@@ -336,9 +344,7 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 499,
-        "w": 402,
-        "h": 122
+        "y": 499
     },
     {
         "id": "a11b1041e59fd5f1",
@@ -423,30 +429,6 @@
         "h": 202
     },
     {
-        "id": "e5f81379384ef7e4",
-        "type": "group",
-        "z": "6247d9d13f3d1415",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "5546c0669680bb1e",
-            "1cf610b233c5043d",
-            "7a5cbddf24216372",
-            "85b25b4bd0629814"
-        ],
-        "x": 394,
-        "y": 19,
-        "w": 572,
-        "h": 122
-    },
-    {
         "id": "dd5bd293402b6632",
         "type": "group",
         "z": "1d6a28c3c2b677b5",
@@ -470,9 +452,7 @@
             "13f884a120958926"
         ],
         "x": 14,
-        "y": 19,
-        "w": 1092,
-        "h": 202
+        "y": 19
     },
     {
         "id": "47625275f7240e2a",
@@ -533,8 +513,8 @@
             "091eee3ad29c7346",
             "0d5b1751af6329c2"
         ],
-        "x": 34,
-        "y": 439,
+        "x": 514,
+        "y": 19,
         "w": 312,
         "h": 122
     },
@@ -556,8 +536,8 @@
             "9eddf0e384471a2d",
             "d31aab6cc8c7ec1c"
         ],
-        "x": 34,
-        "y": 579,
+        "x": 514,
+        "y": 159,
         "w": 372,
         "h": 122
     },
@@ -579,10 +559,302 @@
             "4769f71730b7e6f7",
             "2a4d9107a01bafb6"
         ],
-        "x": 34,
-        "y": 719,
+        "x": 514,
+        "y": 299,
         "w": 352,
         "h": 122
+    },
+    {
+        "id": "93563550e5e5b8d9",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "52b058fd5cb5b506",
+            "ac06a2cc3f547450",
+            "dce3be978a1f0dc6",
+            "eccdd3341675c67f",
+            "2eeb2c101f1b230b"
+        ],
+        "x": 14,
+        "y": 839,
+        "w": 898,
+        "h": 548
+    },
+    {
+        "id": "9ea8eb5fbd9fba9b",
+        "type": "group",
+        "z": "5136785d38f71e48",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "30c14daec4a1f749",
+            "77e67a3f4cfd0f70",
+            "b235197fa65b1d61",
+            "cb62d5174fdbc2dc"
+        ],
+        "x": 14,
+        "y": 1439,
+        "w": 672,
+        "h": 142
+    },
+    {
+        "id": "a429ddf13a770b14",
+        "type": "group",
+        "z": "5136785d38f71e48",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f43917740733c55e",
+            "e4740575f27080e7",
+            "0ed1c226b2a3efec",
+            "d3c7fdd2bdc2106c"
+        ],
+        "x": 14,
+        "y": 1279,
+        "w": 612,
+        "h": 142
+    },
+    {
+        "id": "f2145b5e6ee8c3d0",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "59914edffebb6f14",
+            "8ce6dd09f395eb1a",
+            "a9338e9508446387",
+            "7a8b1fc663b0bf5b",
+            "a628278c91f48f09",
+            "e5a56f43ee52fc15",
+            "86e4d607c3185bb9",
+            "0409ed639d712c6c"
+        ],
+        "x": 14,
+        "y": 379,
+        "w": 1218,
+        "h": 442
+    },
+    {
+        "id": "827443b04cb37fc9",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d26c7431209e10a7",
+            "6a9beada022e3022",
+            "380f591b24656790",
+            "5a1fee37aaaa0e70",
+            "b172ae4261416e78"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 858,
+        "h": 348
+    },
+    {
+        "id": "20d6d2a97d7b9fa9",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f2d1b4ad256117db",
+            "0fd8624766b2dc3b",
+            "4a5ac88d5cf67f84",
+            "5d6dc5b2b03096cd",
+            "28196b10195ca582"
+        ],
+        "x": 14,
+        "y": 19
+    },
+    {
+        "id": "78810c964d16f3b6",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "343fc966dcf2740b",
+            "869efd42aae3079a",
+            "b1a94f49e2c4f63b",
+            "cf7c5fb09faeaaaa",
+            "3ce598360cdb14a1"
+        ],
+        "x": 1134,
+        "y": 19
+    },
+    {
+        "id": "39d56ac3bdfcb912",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9007b4d286d5cc08",
+            "95730b6fc66fb065",
+            "59e6782306d73259",
+            "42080da9808971e0",
+            "f45d589dd0982571"
+        ],
+        "x": 14,
+        "y": 239
+    },
+    {
+        "id": "707def8204711e94",
+        "type": "group",
+        "z": "de4cf0a89bfc7b01",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e4aaa6bd29ea318e",
+            "496ee6e2867044a2",
+            "4c6db570c360190d",
+            "41fd5d2f442075b7",
+            "6158adba59b15584",
+            "563a4537d95742d1",
+            "5cf26914d910f5d5"
+        ],
+        "x": 14,
+        "y": 19
+    },
+    {
+        "id": "7afd9131bb01f472",
+        "type": "group",
+        "z": "de4cf0a89bfc7b01",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "65d65853a43abedb",
+            "52d707234a0ef984",
+            "f855d8dc8cbdec90",
+            "7048e413a3b7452c",
+            "7d979c489cd8f986"
+        ],
+        "x": 414,
+        "y": 19
+    },
+    {
+        "id": "125992f372147313",
+        "type": "group",
+        "z": "de4cf0a89bfc7b01",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7ddbb441f79cf458",
+            "980db0748f8a9189",
+            "1a92952a16c291c7",
+            "13bd3501b247cb8a",
+            "f1b91460db574379",
+            "0881e86bb8f247dc",
+            "9cda233f1f5c5cee",
+            "fc6f0656d97eaf7b"
+        ],
+        "x": 754,
+        "y": 19
+    },
+    {
+        "id": "2a453a7e3ac8b7d5",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3bd254d2b6aa1289",
+            "7890e0bbca4fb21c",
+            "d7e12f357b37ad4a",
+            "91c825ea46b2a62d",
+            "26c6221db2264c7e"
+        ],
+        "x": 14,
+        "y": 19
     },
     {
         "id": "dce3be978a1f0dc6",
@@ -647,113 +919,16 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "efe2d530a2ab6283",
             "d65bb5b65d13d763",
             "1c9409a84653f09a",
             "f53906daa33a245d",
-            "d00ae14703c5d95b"
+            "d00ae14703c5d95b",
+            "87dbd4b1f03a57b0"
         ],
         "x": 394,
         "y": 1179,
         "w": 492,
-        "h": 202
-    },
-    {
-        "id": "93563550e5e5b8d9",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "52b058fd5cb5b506",
-            "ac06a2cc3f547450",
-            "dce3be978a1f0dc6",
-            "eccdd3341675c67f",
-            "2eeb2c101f1b230b"
-        ],
-        "x": 14,
-        "y": 839,
-        "w": 898,
-        "h": 568
-    },
-    {
-        "id": "7e12d596daeb044b",
-        "type": "group",
-        "z": "6247d9d13f3d1415",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "73f3b5bef24d6206",
-            "da82f26fdafe9a47",
-            "0bb1f18f28f510f7",
-            "c07ceed42e06d9b1"
-        ],
-        "x": 454,
-        "y": 159,
-        "w": 552,
-        "h": 202
-    },
-    {
-        "id": "9ea8eb5fbd9fba9b",
-        "type": "group",
-        "z": "5136785d38f71e48",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "30c14daec4a1f749",
-            "77e67a3f4cfd0f70",
-            "b235197fa65b1d61",
-            "cb62d5174fdbc2dc"
-        ],
-        "x": 14,
-        "y": 1439,
-        "w": 672,
-        "h": 142
-    },
-    {
-        "id": "a429ddf13a770b14",
-        "type": "group",
-        "z": "5136785d38f71e48",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f43917740733c55e",
-            "e4740575f27080e7",
-            "0ed1c226b2a3efec",
-            "d3c7fdd2bdc2106c"
-        ],
-        "x": 14,
-        "y": 1279,
-        "w": 612,
-        "h": 142
+        "h": 182
     },
     {
         "id": "86e4d607c3185bb9",
@@ -807,34 +982,6 @@
         "h": 162
     },
     {
-        "id": "f2145b5e6ee8c3d0",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "59914edffebb6f14",
-            "8ce6dd09f395eb1a",
-            "a9338e9508446387",
-            "7a8b1fc663b0bf5b",
-            "a628278c91f48f09",
-            "e5a56f43ee52fc15",
-            "86e4d607c3185bb9",
-            "0409ed639d712c6c"
-        ],
-        "x": 14,
-        "y": 379,
-        "w": 1218,
-        "h": 442
-    },
-    {
         "id": "5a1fee37aaaa0e70",
         "type": "group",
         "z": "471ac2a8a5e8653b",
@@ -884,31 +1031,6 @@
         "h": 122
     },
     {
-        "id": "827443b04cb37fc9",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "d26c7431209e10a7",
-            "6a9beada022e3022",
-            "380f591b24656790",
-            "5a1fee37aaaa0e70",
-            "b172ae4261416e78"
-        ],
-        "x": 14,
-        "y": 19,
-        "w": 858,
-        "h": 348
-    },
-    {
         "id": "5d6dc5b2b03096cd",
         "type": "group",
         "z": "e201e2d1a09b1eed",
@@ -929,9 +1051,7 @@
             "4d892246ad35ef09"
         ],
         "x": 434,
-        "y": 79,
-        "w": 572,
-        "h": 122
+        "y": 79
     },
     {
         "id": "28196b10195ca582",
@@ -952,59 +1072,7 @@
             "400a9ac35151a339"
         ],
         "x": 434,
-        "y": 219,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "20d6d2a97d7b9fa9",
-        "type": "group",
-        "z": "e201e2d1a09b1eed",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f2d1b4ad256117db",
-            "0fd8624766b2dc3b",
-            "4a5ac88d5cf67f84",
-            "5d6dc5b2b03096cd",
-            "28196b10195ca582"
-        ],
-        "x": 14,
-        "y": 19,
-        "w": 1018,
-        "h": 308
-    },
-    {
-        "id": "78810c964d16f3b6",
-        "type": "group",
-        "z": "1d6a28c3c2b677b5",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "343fc966dcf2740b",
-            "869efd42aae3079a",
-            "b1a94f49e2c4f63b",
-            "cf7c5fb09faeaaaa",
-            "3ce598360cdb14a1"
-        ],
-        "x": 1134,
-        "y": 19,
-        "w": 732,
-        "h": 142
+        "y": 219
     },
     {
         "id": "42080da9808971e0",
@@ -1026,9 +1094,7 @@
             "7fc8e7a46b665229"
         ],
         "x": 474,
-        "y": 299,
-        "w": 392,
-        "h": 122
+        "y": 299
     },
     {
         "id": "f45d589dd0982571",
@@ -1051,14 +1117,13 @@
             "a3658b821c559c70"
         ],
         "x": 474,
-        "y": 439,
-        "w": 552,
-        "h": 122
+        "y": 439
     },
     {
-        "id": "39d56ac3bdfcb912",
+        "id": "91c825ea46b2a62d",
         "type": "group",
-        "z": "1d6a28c3c2b677b5",
+        "z": "cfdddf09d7102807",
+        "g": "2a453a7e3ac8b7d5",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -1069,16 +1134,34 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "9007b4d286d5cc08",
-            "95730b6fc66fb065",
-            "59e6782306d73259",
-            "42080da9808971e0",
-            "f45d589dd0982571"
+            "ef4312c31a094311",
+            "c79ce7257e70319f",
+            "03b0e0d04d47db70"
         ],
-        "x": 14,
-        "y": 239,
-        "w": 1038,
-        "h": 348
+        "x": 274,
+        "y": 159
+    },
+    {
+        "id": "26c6221db2264c7e",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "g": "2a453a7e3ac8b7d5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "aebb19a76eb11b08",
+            "929aa2379c7299fd",
+            "4c2abee3bd26a5b8"
+        ],
+        "x": 654,
+        "y": 159
     },
     {
         "id": "f2f86710f80408e7",
@@ -1881,7 +1964,7 @@
         "g": "b172ae4261416e78",
         "name": "",
         "method": "use",
-        "ret": "obj",
+        "ret": "txt",
         "paytoqs": "ignore",
         "url": "",
         "tls": "a2a345f1c4a3679a",
@@ -2597,18 +2680,6 @@
         ]
     },
     {
-        "id": "efe2d530a2ab6283",
-        "type": "http response",
-        "z": "471ac2a8a5e8653b",
-        "g": "2eeb2c101f1b230b",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 790,
-        "y": 1340,
-        "wires": []
-    },
-    {
         "id": "aa4e5a562cf0ea1d",
         "type": "comment",
         "z": "471ac2a8a5e8653b",
@@ -2671,7 +2742,7 @@
         "z": "471ac2a8a5e8653b",
         "g": "2eeb2c101f1b230b",
         "name": "",
-        "property": "payload.changedRows",
+        "property": "payload.affectedRows",
         "propertyType": "msg",
         "rules": [
             {
@@ -2693,7 +2764,7 @@
                 "1c9409a84653f09a"
             ],
             [
-                "efe2d530a2ab6283"
+                "87dbd4b1f03a57b0"
             ]
         ]
     },
@@ -2728,7 +2799,7 @@
         "y": 1260,
         "wires": [
             [
-                "efe2d530a2ab6283"
+                "87dbd4b1f03a57b0"
             ]
         ]
     },
@@ -2796,6 +2867,18 @@
         "info": "",
         "x": 360,
         "y": 260,
+        "wires": []
+    },
+    {
+        "id": "87dbd4b1f03a57b0",
+        "type": "http response",
+        "z": "471ac2a8a5e8653b",
+        "g": "2eeb2c101f1b230b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 790,
+        "y": 1320,
         "wires": []
     },
     {
@@ -3178,6 +3261,383 @@
         "info": "",
         "x": 590,
         "y": 480,
+        "wires": []
+    },
+    {
+        "id": "e4aaa6bd29ea318e",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "707def8204711e94",
+        "name": "Notification On / Off",
+        "info": "",
+        "x": 130,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "496ee6e2867044a2",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "707def8204711e94",
+        "name": "Set E-Mail Address",
+        "info": "",
+        "x": 130,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "4c6db570c360190d",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "707def8204711e94",
+        "name": "Set Whatsapp API-KEY & Phone Number",
+        "info": "",
+        "x": 200,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "41fd5d2f442075b7",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "707def8204711e94",
+        "name": "Set Name",
+        "info": "",
+        "x": 100,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "6158adba59b15584",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "707def8204711e94",
+        "name": "Show ID",
+        "info": "",
+        "x": 100,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "563a4537d95742d1",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "707def8204711e94",
+        "name": "Show API Token",
+        "info": "",
+        "x": 120,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "65d65853a43abedb",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "7afd9131bb01f472",
+        "name": "Show Water Remaining",
+        "info": "",
+        "x": 540,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "52d707234a0ef984",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "7afd9131bb01f472",
+        "name": "Show Water Consumption",
+        "info": "",
+        "x": 550,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "f855d8dc8cbdec90",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "7afd9131bb01f472",
+        "name": "Show Water Consumption (Daily)",
+        "info": "",
+        "x": 570,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "7ddbb441f79cf458",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "Show Food Remaining (Container)",
+        "info": "",
+        "x": 920,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "980db0748f8a9189",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "Show Food Remaining (Bowl)",
+        "info": "",
+        "x": 900,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "1a92952a16c291c7",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "Show Food Consumption",
+        "info": "",
+        "x": 890,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "13bd3501b247cb8a",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "Show Food Consumption (Daily)",
+        "info": "",
+        "x": 910,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "f1b91460db574379",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "Serve Food (By Button)",
+        "info": "",
+        "x": 880,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "0881e86bb8f247dc",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "Set Food Serve Schedule",
+        "info": "",
+        "x": 890,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "7048e413a3b7452c",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "7afd9131bb01f472",
+        "name": "Show Water-Dispenser Status",
+        "info": "",
+        "x": 560,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "9cda233f1f5c5cee",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "Show Food-Feeder Status",
+        "info": "",
+        "x": 890,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "5cf26914d910f5d5",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "707def8204711e94",
+        "name": "<Settings>",
+        "info": "",
+        "x": 200,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "7d979c489cd8f986",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "7afd9131bb01f472",
+        "name": "<Water-Dispenser>",
+        "info": "",
+        "x": 570,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "fc6f0656d97eaf7b",
+        "type": "comment",
+        "z": "de4cf0a89bfc7b01",
+        "g": "125992f372147313",
+        "name": "<Food-Feeder>",
+        "info": "",
+        "x": 920,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "3bd254d2b6aa1289",
+        "type": "inject",
+        "z": "cfdddf09d7102807",
+        "g": "2a453a7e3ac8b7d5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "60",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 160,
+        "wires": [
+            [
+                "7890e0bbca4fb21c",
+                "ef4312c31a094311"
+            ]
+        ]
+    },
+    {
+        "id": "7890e0bbca4fb21c",
+        "type": "mqtt out",
+        "z": "cfdddf09d7102807",
+        "g": "2a453a7e3ac8b7d5",
+        "name": "",
+        "topic": "timestamp",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 350,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "d7e12f357b37ad4a",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "2a453a7e3ac8b7d5",
+        "name": "Publish Periodic Timestamp",
+        "info": "",
+        "x": 160,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "ef4312c31a094311",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "91c825ea46b2a62d",
+        "name": "CreateQuery",
+        "func": "const dateObj = new Date(msg.payload);\nconst minute = dateObj.getMinutes() < 10\n    ? \"0\" + dateObj.getMinutes()\n    : \"\" + dateObj.getMinutes();\nconst time = `${dateObj.getHours()}:${minute}`;\n\nmsg.topic = \"SELECT userData.name, userData.settings, scheduleData.cid, scheduleData.subtopic\" +\n            \" FROM scheduleData JOIN userData\" +\n            \" WHERE scheduleData.time = '\" + time + \"'\" +\n            \" AND scheduleData.uid = userData.token\" +\n            \" AND (scheduleData.activate);\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 240,
+        "wires": [
+            [
+                "c79ce7257e70319f"
+            ]
+        ]
+    },
+    {
+        "id": "c79ce7257e70319f",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "91c825ea46b2a62d",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 540,
+        "y": 240,
+        "wires": [
+            [
+                "aebb19a76eb11b08"
+            ]
+        ]
+    },
+    {
+        "id": "aebb19a76eb11b08",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "26c6221db2264c7e",
+        "name": "Publish",
+        "func": "const topics = msg.payload;\n\nfor(let topic of topics) {\n    msg.topic = `${topic.name}/${topic.cid}/${topic.subtopic}`;\n    msg.payload = topic.settings.serving;\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 240,
+        "wires": [
+            [
+                "929aa2379c7299fd"
+            ]
+        ]
+    },
+    {
+        "id": "929aa2379c7299fd",
+        "type": "mqtt out",
+        "z": "cfdddf09d7102807",
+        "g": "26c6221db2264c7e",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 890,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "03b0e0d04d47db70",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "91c825ea46b2a62d",
+        "name": "DB/SELECT Schedule",
+        "info": "",
+        "x": 400,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "4c2abee3bd26a5b8",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "26c6221db2264c7e",
+        "name": "Publish Action",
+        "info": "",
+        "x": 750,
+        "y": 200,
         "wires": []
     },
     {
@@ -4175,74 +4635,6 @@
         "wires": []
     },
     {
-        "id": "5546c0669680bb1e",
-        "type": "inject",
-        "z": "6247d9d13f3d1415",
-        "g": "e5f81379384ef7e4",
-        "name": "MakeQuery",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "INSERT INTO userData (name, token, settings) VALUES ('blue', 't00Rt00R', '{\"notification\": true}');",
-        "x": 510,
-        "y": 100,
-        "wires": [
-            [
-                "1cf610b233c5043d"
-            ]
-        ]
-    },
-    {
-        "id": "1cf610b233c5043d",
-        "type": "mysql",
-        "z": "6247d9d13f3d1415",
-        "g": "e5f81379384ef7e4",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 680,
-        "y": 100,
-        "wires": [
-            [
-                "7a5cbddf24216372"
-            ]
-        ]
-    },
-    {
-        "id": "7a5cbddf24216372",
-        "type": "debug",
-        "z": "6247d9d13f3d1415",
-        "g": "e5f81379384ef7e4",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 850,
-        "y": 100,
-        "wires": []
-    },
-    {
-        "id": "85b25b4bd0629814",
-        "type": "comment",
-        "z": "6247d9d13f3d1415",
-        "g": "e5f81379384ef7e4",
-        "name": "INSERT TEST USER",
-        "info": "",
-        "x": 510,
-        "y": 60,
-        "wires": []
-    },
-    {
         "id": "ed6c73a2793ca5a9",
         "type": "inject",
         "z": "6247d9d13f3d1415",
@@ -4412,10 +4804,10 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "petification/water-dispenser/scale/water",
-        "payload": "30",
+        "payload": "97",
         "payloadType": "str",
-        "x": 130,
-        "y": 520,
+        "x": 610,
+        "y": 100,
         "wires": [
             [
                 "091eee3ad29c7346"
@@ -4437,8 +4829,8 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 270,
-        "y": 520,
+        "x": 750,
+        "y": 100,
         "wires": []
     },
     {
@@ -4448,8 +4840,8 @@
         "g": "e4ec5a08b48d755b",
         "name": "TC3: Publish Data \"Water Scale\"",
         "info": "",
-        "x": 190,
-        "y": 480,
+        "x": 670,
+        "y": 60,
         "wires": []
     },
     {
@@ -4482,10 +4874,10 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "petification/food-feeder/scale/container",
-        "payload": "50",
+        "payload": "100",
         "payloadType": "str",
-        "x": 130,
-        "y": 660,
+        "x": 610,
+        "y": 240,
         "wires": [
             [
                 "9eddf0e384471a2d"
@@ -4507,8 +4899,8 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 270,
-        "y": 660,
+        "x": 750,
+        "y": 240,
         "wires": []
     },
     {
@@ -4518,8 +4910,8 @@
         "g": "37e07ac837df916b",
         "name": "TC4: Publish Data \"Food Container Scale\"",
         "info": "",
-        "x": 220,
-        "y": 620,
+        "x": 700,
+        "y": 200,
         "wires": []
     },
     {
@@ -4552,10 +4944,10 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "petification/food-feeder/scale/bowl",
-        "payload": "50",
+        "payload": "100",
         "payloadType": "str",
-        "x": 130,
-        "y": 800,
+        "x": 610,
+        "y": 380,
         "wires": [
             [
                 "4769f71730b7e6f7"
@@ -4577,8 +4969,8 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 270,
-        "y": 800,
+        "x": 750,
+        "y": 380,
         "wires": []
     },
     {
@@ -4588,87 +4980,8 @@
         "g": "ac8de8dddde18929",
         "name": "TC5: Publish Data \"Food Bowl Scale\"",
         "info": "",
-        "x": 210,
-        "y": 760,
-        "wires": []
-    },
-    {
-        "id": "73f3b5bef24d6206",
-        "type": "inject",
-        "z": "6247d9d13f3d1415",
-        "g": "7e12d596daeb044b",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "30",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 610,
-        "y": 260,
-        "wires": [
-            [
-                "da82f26fdafe9a47",
-                "0bb1f18f28f510f7"
-            ]
-        ]
-    },
-    {
-        "id": "da82f26fdafe9a47",
-        "type": "debug",
-        "z": "6247d9d13f3d1415",
-        "g": "7e12d596daeb044b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 890,
-        "y": 220,
-        "wires": []
-    },
-    {
-        "id": "0bb1f18f28f510f7",
-        "type": "mqtt out",
-        "z": "6247d9d13f3d1415",
-        "g": "7e12d596daeb044b",
-        "name": "",
-        "topic": "timestamp",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 890,
-        "y": 320,
-        "wires": []
-    },
-    {
-        "id": "c07ceed42e06d9b1",
-        "type": "comment",
-        "z": "6247d9d13f3d1415",
-        "g": "7e12d596daeb044b",
-        "name": "Publish Periodic Timestamp",
-        "info": "",
-        "x": 600,
-        "y": 200,
+        "x": 690,
+        "y": 340,
         "wires": []
     }
 ]

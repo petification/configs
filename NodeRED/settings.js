@@ -254,7 +254,7 @@ module.exports = {
         getData(
             'SELECT * FROM userData' + 
             ' WHERE token = \"' + req.userToken.toString() + '\"' +
-            ' ORDER BY ID DESC LIMIT 1;',
+            ' LIMIT 1;',
 
             function(code, data) {
 
