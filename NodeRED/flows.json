@@ -471,33 +471,6 @@
         "h": 122
     },
     {
-        "id": "ebdc7b632451ee75",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "03dbfc58492a3571",
-            "4375a052d4bc7f87",
-            "a4c478c62c932d4c",
-            "febc1d17fe23f57e",
-            "95f7cf496a98ebfa",
-            "d26c7431209e10a7",
-            "53bf42fd1785ad3f"
-        ],
-        "x": 14,
-        "y": 19,
-        "w": 692,
-        "h": 382
-    },
-    {
         "id": "a11b1041e59fd5f1",
         "type": "group",
         "z": "471ac2a8a5e8653b",
@@ -518,7 +491,7 @@
             "ad2439c14b8bd202",
             "867e840cf38e4f21"
         ],
-        "x": 834,
+        "x": 734,
         "y": 19,
         "w": 952,
         "h": 122
@@ -546,7 +519,7 @@
             "9db4188f93f88743",
             "210576e9a6ad8c2f"
         ],
-        "x": 834,
+        "x": 734,
         "y": 159,
         "w": 972,
         "h": 202
@@ -574,7 +547,7 @@
             "f576402fd03b60e9",
             "370a61d88bdfc0c7"
         ],
-        "x": 834,
+        "x": 734,
         "y": 379,
         "w": 952,
         "h": 202
@@ -604,40 +577,6 @@
         "h": 122
     },
     {
-        "id": "afef358d2673681e",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "59914edffebb6f14",
-            "5a08bd5d379564fb",
-            "66e4dfb402d103d6",
-            "8ce6dd09f395eb1a",
-            "d842c07a96394264",
-            "8bf7bbaee89bf1bf",
-            "bf4cf524805778f7",
-            "a9338e9508446387",
-            "1e4724d1b89670dd",
-            "367fe98274ddc310",
-            "40dba8a6c8657ada",
-            "7224aa31cde2404b",
-            "7a8b1fc663b0bf5b",
-            "a628278c91f48f09"
-        ],
-        "x": 14,
-        "y": 599,
-        "w": 1232,
-        "h": 422
-    },
-    {
         "id": "dd5bd293402b6632",
         "type": "group",
         "z": "1d6a28c3c2b677b5",
@@ -661,9 +600,206 @@
             "13f884a120958926"
         ],
         "x": 14,
+        "y": 19
+    },
+    {
+        "id": "47625275f7240e2a",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ed6c73a2793ca5a9",
+            "84d20db841946262",
+            "3ea44f65a91ee26c"
+        ],
+        "x": 34,
+        "y": 159,
+        "w": 392,
+        "h": 122
+    },
+    {
+        "id": "2e8c563c95931cf4",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d9b0e5a3250a2956",
+            "a7474bdc7022a0a6",
+            "556876be6c6ceeff"
+        ],
+        "x": 34,
+        "y": 299,
+        "w": 372,
+        "h": 122
+    },
+    {
+        "id": "0750104d65c42a23",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "59914edffebb6f14",
+            "66e4dfb402d103d6",
+            "8ce6dd09f395eb1a",
+            "d842c07a96394264",
+            "8bf7bbaee89bf1bf",
+            "bf4cf524805778f7",
+            "a9338e9508446387",
+            "367fe98274ddc310",
+            "40dba8a6c8657ada",
+            "7224aa31cde2404b",
+            "7a8b1fc663b0bf5b",
+            "a628278c91f48f09",
+            "e5a56f43ee52fc15"
+        ],
+        "x": 14,
+        "y": 599,
+        "w": 1232,
+        "h": 422
+    },
+    {
+        "id": "e7dd704e33e17d50",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "03dbfc58492a3571",
+            "4375a052d4bc7f87",
+            "a4c478c62c932d4c",
+            "febc1d17fe23f57e",
+            "95f7cf496a98ebfa",
+            "d26c7431209e10a7",
+            "53bf42fd1785ad3f"
+        ],
+        "x": 14,
         "y": 19,
-        "w": 1092,
-        "h": 202
+        "w": 692,
+        "h": 362
+    },
+    {
+        "id": "e4ec5a08b48d755b",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2445293428e63a7d",
+            "091eee3ad29c7346",
+            "0d5b1751af6329c2"
+        ],
+        "x": 34,
+        "y": 439,
+        "w": 312,
+        "h": 122
+    },
+    {
+        "id": "37e07ac837df916b",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "38c5aa798e539ecd",
+            "9eddf0e384471a2d",
+            "d31aab6cc8c7ec1c"
+        ],
+        "x": 34,
+        "y": 579,
+        "w": 372,
+        "h": 122
+    },
+    {
+        "id": "ac8de8dddde18929",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d2657c82c2750414",
+            "4769f71730b7e6f7",
+            "2a4d9107a01bafb6"
+        ],
+        "x": 34,
+        "y": 719,
+        "w": 352,
+        "h": 122
+    },
+    {
+        "id": "1d2dcc93697ed66f",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "52b058fd5cb5b506",
+            "6192466b4ba88c60",
+            "0627c62aedfa7aba",
+            "734ed70c0979e82a",
+            "80885f24f9288f70",
+            "1a00839fc5722f5b",
+            "494a8c3f039ca2d4",
+            "4670fdb6564fde24",
+            "ac06a2cc3f547450"
+        ],
+        "x": 14,
+        "y": 1039,
+        "w": 772,
+        "h": 402
     },
     {
         "id": "f2f86710f80408e7",
@@ -1333,7 +1469,7 @@
         "id": "03dbfc58492a3571",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "ebdc7b632451ee75",
+        "g": "e7dd704e33e17d50",
         "name": "SearchRules",
         "func": "// Search rules\nmsg.rcvd = {};\nmsg.rcvd.topic = msg.topic;\nmsg.rcvd.payload = msg.payload;\n\nmsg.topic = \"SELECT * FROM rulesData\" +\n            \" WHERE\" +\n            \" ('\" + msg.rcvd.topic + \"' LIKE topicPattern)\" +\n            \" AND\" +\n            \" ('\" + msg.rcvd.payload + \"' LIKE payloadPattern)\" +\n            \" AND active=0x01\";\n\nreturn msg;",
         "outputs": 1,
@@ -1353,9 +1489,9 @@
         "id": "4375a052d4bc7f87",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "ebdc7b632451ee75",
+        "g": "e7dd704e33e17d50",
         "name": "CreateRequest",
-        "func": "// Call webhook\nconst parsedTopic = msg.rcvd.topic.split('/');\nconst user = parsedTopic[0];\nconst cid = parsedTopic[1];\nconst subTopic = parsedTopic[2];\nconst payload = msg.rcvd.payload;\n\nif(msg.payload.length !== 0)\n{\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook\n            .replace(/yyuser/g, user)\n            .replace(/yycid/g, cid)\n            .replace(/yysub/g, subTopic)\n            .replace(/yypayload/g, payload);\n        node.send([msg]);\n    }\n}",
+        "func": "// Call webhook\nconst parsedTopic = msg.rcvd.topic.split('/');\nconst user = encodeURIComponent(parsedTopic[0]);\nconst cid = encodeURIComponent(parsedTopic[1]);\nconst topic = encodeURIComponent(msg.rcvd.topic);\nconst payload = encodeURIComponent(msg.rcvd.payload);\n\nif(msg.payload.length !== 0)\n{\n    for(var i = 0; i < msg.payload.length; i++)\n    {\n        msg.method = msg.payload[i].method;\n        msg.url = msg.payload[i].webHook\n            .replace(/yyuser/g, user)\n            .replace(/yycid/g, cid)\n            .replace(/yytopic/g, topic)\n            .replace(/yypayload/g, payload);\n        node.send([msg]);\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -1373,7 +1509,7 @@
         "id": "a4c478c62c932d4c",
         "type": "debug",
         "z": "471ac2a8a5e8653b",
-        "g": "ebdc7b632451ee75",
+        "g": "e7dd704e33e17d50",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -1384,14 +1520,14 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 590,
-        "y": 360,
+        "y": 340,
         "wires": []
     },
     {
         "id": "febc1d17fe23f57e",
         "type": "mysql",
         "z": "471ac2a8a5e8653b",
-        "g": "ebdc7b632451ee75",
+        "g": "e7dd704e33e17d50",
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 420,
@@ -1406,7 +1542,7 @@
         "id": "95f7cf496a98ebfa",
         "type": "http request",
         "z": "471ac2a8a5e8653b",
-        "g": "ebdc7b632451ee75",
+        "g": "e7dd704e33e17d50",
         "name": "",
         "method": "use",
         "ret": "obj",
@@ -1418,7 +1554,7 @@
         "authType": "",
         "senderr": false,
         "x": 530,
-        "y": 300,
+        "y": 280,
         "wires": [
             [
                 "a4c478c62c932d4c"
@@ -1429,7 +1565,7 @@
         "id": "d26c7431209e10a7",
         "type": "comment",
         "z": "471ac2a8a5e8653b",
-        "g": "ebdc7b632451ee75",
+        "g": "e7dd704e33e17d50",
         "name": "Auto Activation",
         "info": "",
         "x": 120,
@@ -1440,7 +1576,7 @@
         "id": "53bf42fd1785ad3f",
         "type": "mqtt in",
         "z": "471ac2a8a5e8653b",
-        "g": "ebdc7b632451ee75",
+        "g": "e7dd704e33e17d50",
         "name": "ListenEverything(QoS 1)",
         "topic": "#",
         "qos": "1",
@@ -1468,7 +1604,7 @@
         "method": "post",
         "upload": false,
         "swaggerDoc": "",
-        "x": 960,
+        "x": 860,
         "y": 100,
         "wires": [
             [
@@ -1488,7 +1624,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1170,
+        "x": 1070,
         "y": 100,
         "wires": [
             [
@@ -1503,7 +1639,7 @@
         "g": "a11b1041e59fd5f1",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1340,
+        "x": 1240,
         "y": 100,
         "wires": [
             [
@@ -1523,7 +1659,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1530,
+        "x": 1430,
         "y": 100,
         "wires": [
             [
@@ -1539,7 +1675,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1710,
+        "x": 1610,
         "y": 100,
         "wires": []
     },
@@ -1553,7 +1689,7 @@
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 970,
+        "x": 870,
         "y": 240,
         "wires": [
             [
@@ -1571,7 +1707,7 @@
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 970,
+        "x": 870,
         "y": 320,
         "wires": [
             [
@@ -1591,7 +1727,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1190,
+        "x": 1090,
         "y": 240,
         "wires": [
             [
@@ -1611,7 +1747,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1190,
+        "x": 1090,
         "y": 320,
         "wires": [
             [
@@ -1626,7 +1762,7 @@
         "g": "2ae0cb5db9c8444c",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1360,
+        "x": 1260,
         "y": 280,
         "wires": [
             [
@@ -1646,7 +1782,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1550,
+        "x": 1450,
         "y": 280,
         "wires": [
             [
@@ -1662,7 +1798,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1730,
+        "x": 1630,
         "y": 280,
         "wires": []
     },
@@ -1676,7 +1812,7 @@
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 960,
+        "x": 860,
         "y": 460,
         "wires": [
             [
@@ -1694,7 +1830,7 @@
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
-        "x": 960,
+        "x": 860,
         "y": 540,
         "wires": [
             [
@@ -1714,7 +1850,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1170,
+        "x": 1070,
         "y": 460,
         "wires": [
             [
@@ -1734,7 +1870,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1170,
+        "x": 1070,
         "y": 540,
         "wires": [
             [
@@ -1749,7 +1885,7 @@
         "g": "47469a4b8eaa1d6e",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1340,
+        "x": 1240,
         "y": 500,
         "wires": [
             [
@@ -1769,7 +1905,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1530,
+        "x": 1430,
         "y": 500,
         "wires": [
             [
@@ -1785,7 +1921,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1710,
+        "x": 1610,
         "y": 500,
         "wires": []
     },
@@ -1796,7 +1932,7 @@
         "g": "a11b1041e59fd5f1",
         "name": "ReST/POST New Rule",
         "info": "",
-        "x": 960,
+        "x": 860,
         "y": 60,
         "wires": []
     },
@@ -1807,7 +1943,7 @@
         "g": "2ae0cb5db9c8444c",
         "name": "ReST/PATCH Enable & Disable Rule by ID",
         "info": "",
-        "x": 1020,
+        "x": 920,
         "y": 200,
         "wires": []
     },
@@ -1818,7 +1954,7 @@
         "g": "47469a4b8eaa1d6e",
         "name": "ReST/PATCH Enable & Disable All Rules",
         "info": "",
-        "x": 1020,
+        "x": 920,
         "y": 420,
         "wires": []
     },
@@ -1826,7 +1962,7 @@
         "id": "59914edffebb6f14",
         "type": "http in",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "",
         "url": "/error/:cid/:errormsg",
         "method": "get",
@@ -1841,22 +1977,10 @@
         ]
     },
     {
-        "id": "5a08bd5d379564fb",
-        "type": "http response",
-        "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 930,
-        "y": 980,
-        "wires": []
-    },
-    {
         "id": "66e4dfb402d103d6",
         "type": "e-mail",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "server": "smtp.gmail.com",
         "port": "465",
         "secure": true,
@@ -1871,11 +1995,11 @@
         "id": "8ce6dd09f395eb1a",
         "type": "http response",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 930,
+        "x": 750,
         "y": 800,
         "wires": []
     },
@@ -1883,7 +2007,7 @@
         "id": "d842c07a96394264",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "CreateEmail",
         "func": "if(msg.payload[0][\"settings\"][\"email\"]) {\n    msg.to = msg.payload[0][\"settings\"][\"email\"];\n    msg.topic = `[Petification] \"${msg.req.params.errormsg}\" Error Notice`\n    msg.payload = `Malfunction Notification\\nDevice: ${msg.payload[0][\"name\"]}\\nError Msg: ${msg.req.params.errormsg}`;\n    \n    node.send(msg);\n}",
         "outputs": 1,
@@ -1903,9 +2027,9 @@
         "id": "8bf7bbaee89bf1bf",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "CreateQuery",
-        "func": "msg.topic = \"SELECT userData.settings, deviceData.name FROM userData JOIN deviceData\" +\n            \" WHERE cid='\" + msg.req.params.cid + \"'\" +\n            \" AND (userData.notification)\";\n\nreturn msg;",
+        "func": "msg.topic = \"SELECT userData.settings, deviceData.name\" +\n            \" FROM userData JOIN deviceData\" +\n            \" WHERE cid='\" + msg.req.params.cid + \"'\" +\n            \" AND (userData.notification)\" +\n            \" AND deviceData.status=0;\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -1923,14 +2047,15 @@
         "id": "bf4cf524805778f7",
         "type": "mysql",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 380,
         "y": 820,
         "wires": [
             [
-                "a9338e9508446387"
+                "a9338e9508446387",
+                "7a8b1fc663b0bf5b"
             ]
         ]
     },
@@ -1938,7 +2063,7 @@
         "id": "a9338e9508446387",
         "type": "switch",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "QueryValidation",
         "property": "payload.length",
         "propertyType": "msg",
@@ -1960,31 +2085,10 @@
         "wires": [
             [
                 "d842c07a96394264",
-                "367fe98274ddc310",
-                "7a8b1fc663b0bf5b"
+                "367fe98274ddc310"
             ],
             [
-                "1e4724d1b89670dd"
-            ]
-        ]
-    },
-    {
-        "id": "1e4724d1b89670dd",
-        "type": "function",
-        "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
-        "name": "CreateErrResponse",
-        "func": "msg.payload = {\n    \"status\": \"error\",\n    \"msg\": \"Invalid Client ID\",\n};\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 750,
-        "y": 980,
-        "wires": [
-            [
-                "5a08bd5d379564fb"
+                "e5a56f43ee52fc15"
             ]
         ]
     },
@@ -1992,7 +2096,7 @@
         "id": "367fe98274ddc310",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "CreateWAMSG",
         "func": "// Call webhook\nconst phonenum = msg.payload[0][\"settings\"][\"wa-phonenum\"];\nconst text = encodeURIComponent(`[PETIFICATION NOTICE]\\nDEVICE: ${msg.payload[0][\"name\"]}\\nERROR: ${msg.req.params.errormsg}`);\nconst apikey = msg.payload[0][\"settings\"][\"wa-apikey\"];\n\nif(phonenum && apikey) {\n    msg.method = \"GET\";\n    msg.url = \"https://api.callmebot.com/whatsapp.php\" +\n            \"?phone=\" + phonenum +\n            \"&text=\" + text +\n            \"&apikey=\" + apikey +\n            \"&source=nodered\";\n\n    node.send(msg);\n}",
         "outputs": 1,
@@ -2012,7 +2116,7 @@
         "id": "40dba8a6c8657ada",
         "type": "http request",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "Send Whatsapp",
         "method": "use",
         "ret": "txt",
@@ -2035,7 +2139,7 @@
         "id": "7224aa31cde2404b",
         "type": "debug",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -2052,7 +2156,7 @@
         "id": "7a8b1fc663b0bf5b",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "CreateResponse",
         "func": "msg.payload = {\n    \"status\": \"success\",\n    \"msg\": \"MSG Sent\",\n};\n\nreturn msg;",
         "outputs": 1,
@@ -2060,7 +2164,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 750,
+        "x": 570,
         "y": 800,
         "wires": [
             [
@@ -2072,11 +2176,175 @@
         "id": "a628278c91f48f09",
         "type": "comment",
         "z": "471ac2a8a5e8653b",
-        "g": "afef358d2673681e",
+        "g": "0750104d65c42a23",
         "name": "Error Notify",
         "info": "",
         "x": 110,
         "y": 640,
+        "wires": []
+    },
+    {
+        "id": "e5a56f43ee52fc15",
+        "type": "debug",
+        "z": "471ac2a8a5e8653b",
+        "g": "0750104d65c42a23",
+        "name": "Ignore Error",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "{\t    \"payload\": \"Ignore Error\"\t}",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 730,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "52b058fd5cb5b506",
+        "type": "http in",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "name": "",
+        "url": "/scale/:topic/:payload",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 160,
+        "y": 1120,
+        "wires": [
+            [
+                "0627c62aedfa7aba"
+            ]
+        ]
+    },
+    {
+        "id": "6192466b4ba88c60",
+        "type": "http response",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 710,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "0627c62aedfa7aba",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "name": "CreateQuery",
+        "func": "// build the sql query\nmsg.topic =\n    \"SELECT payload \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT 2;\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 1160,
+        "wires": [
+            [
+                "734ed70c0979e82a"
+            ]
+        ]
+    },
+    {
+        "id": "734ed70c0979e82a",
+        "type": "mysql",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 360,
+        "y": 1200,
+        "wires": [
+            [
+                "80885f24f9288f70"
+            ]
+        ]
+    },
+    {
+        "id": "80885f24f9288f70",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "name": "CalculateDecrease",
+        "func": "if(msg.payload.length == 2 && msg.payload[0][\"payload\"] < msg.payload[1][\"payload\"]) {\n    msg.decr = msg.payload[1][\"payload\"] - msg.payload[0][\"payload\"];\n} else {\n    msg.decr = 0;\n}\n\nmsg.topic = \"SELECT total_decr\" +\n            \" FROM dailyData\" +\n            \" WHERE topic='\" + msg.req.params.topic + \"'\" +\n            \" AND date=CURDATE()\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 1240,
+        "wires": [
+            [
+                "1a00839fc5722f5b"
+            ]
+        ]
+    },
+    {
+        "id": "1a00839fc5722f5b",
+        "type": "mysql",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 540,
+        "y": 1280,
+        "wires": [
+            [
+                "494a8c3f039ca2d4"
+            ]
+        ]
+    },
+    {
+        "id": "494a8c3f039ca2d4",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "name": "",
+        "func": "if(msg.payload.length == 0) {\n    msg.topic = \"INSERT INTO dailyData\" +\n                \" (topic, date, total_decr)\" +\n                \" VALUES\" +\n                \" ('\" + msg.req.params.topic + \"', CURDATE(), 0);\";\n} else {\n    const uvalue = msg.payload[0][\"total_decr\"] + msg.decr;\n    msg.topic = \"UPDATE dailyData\" +\n                \" SET total_decr=\" + uvalue +\n                \" WHERE topic='\" + msg.req.params.topic + \"'\" +\n                \" AND date=CURDATE();\";\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1320,
+        "wires": [
+            [
+                "4670fdb6564fde24"
+            ]
+        ]
+    },
+    {
+        "id": "4670fdb6564fde24",
+        "type": "mysql",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 660,
+        "y": 1360,
+        "wires": [
+            [
+                "6192466b4ba88c60"
+            ]
+        ]
+    },
+    {
+        "id": "ac06a2cc3f547450",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "1d2dcc93697ed66f",
+        "name": "StoreDecrease",
+        "info": "",
+        "x": 120,
+        "y": 1080,
         "wires": []
     },
     {
@@ -2414,7 +2682,7 @@
         "z": "5136785d38f71e48",
         "g": "ed8b5377f33374f1",
         "name": "CreateQuery",
-        "func": "// Create query\n\n// if no authentication filter defined or available\n// set the default value as 0\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count) {\n    msg.req.params.count = 1;\n}\n\n// build the sql query\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"AND (\" + msg.req.authFilter + \") \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create query\n\n// if no authentication filter defined or available\n// set the default value as 0\nif(!msg.req.authFilter)\n    msg.req.authFilter = 1;\n\n// if required record count is not specified\n// set default to 1\nif(!msg.req.params.count) {\n    msg.req.params.count = 1;\n}\n\n// build the sql query\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"AND (\" + msg.req.authFilter + \") \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3299,6 +3567,356 @@
         "info": "",
         "x": 510,
         "y": 60,
+        "wires": []
+    },
+    {
+        "id": "ed6c73a2793ca5a9",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "47625275f7240e2a",
+        "name": "TC1",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            },
+            {
+                "p": "qos",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "p": "retain",
+                "v": "false",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "petification/food-feeder/error",
+        "payload": "Food Container Empty",
+        "payloadType": "str",
+        "x": 130,
+        "y": 240,
+        "wires": [
+            [
+                "84d20db841946262"
+            ]
+        ]
+    },
+    {
+        "id": "84d20db841946262",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "47625275f7240e2a",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 270,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "3ea44f65a91ee26c",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "47625275f7240e2a",
+        "name": "TC1: Publish Error \"Food Container Empty\"",
+        "info": "",
+        "x": 230,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "d9b0e5a3250a2956",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "2e8c563c95931cf4",
+        "name": "TC2",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            },
+            {
+                "p": "qos",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "p": "retain",
+                "v": "false",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "petification/food-feeder/error",
+        "payload": "Food Container Stuck",
+        "payloadType": "str",
+        "x": 130,
+        "y": 380,
+        "wires": [
+            [
+                "a7474bdc7022a0a6"
+            ]
+        ]
+    },
+    {
+        "id": "a7474bdc7022a0a6",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "2e8c563c95931cf4",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 270,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "556876be6c6ceeff",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "2e8c563c95931cf4",
+        "name": "TC2: Publish Error \"Food Container Stuck\"",
+        "info": "",
+        "x": 220,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "2445293428e63a7d",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "e4ec5a08b48d755b",
+        "name": "TC3",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            },
+            {
+                "p": "qos",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "p": "retain",
+                "v": "false",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "petification/water-dispenser/scale/water",
+        "payload": "45",
+        "payloadType": "str",
+        "x": 130,
+        "y": 520,
+        "wires": [
+            [
+                "091eee3ad29c7346"
+            ]
+        ]
+    },
+    {
+        "id": "091eee3ad29c7346",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "e4ec5a08b48d755b",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 270,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "0d5b1751af6329c2",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "e4ec5a08b48d755b",
+        "name": "TC3: Publish Data \"Water Scale\"",
+        "info": "",
+        "x": 190,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "38c5aa798e539ecd",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "37e07ac837df916b",
+        "name": "TC4",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            },
+            {
+                "p": "qos",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "p": "retain",
+                "v": "false",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "petification/food-feeder/scale/container",
+        "payload": "50",
+        "payloadType": "str",
+        "x": 130,
+        "y": 660,
+        "wires": [
+            [
+                "9eddf0e384471a2d"
+            ]
+        ]
+    },
+    {
+        "id": "9eddf0e384471a2d",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "37e07ac837df916b",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 270,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "d31aab6cc8c7ec1c",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "37e07ac837df916b",
+        "name": "TC4: Publish Data \"Food Container Scale\"",
+        "info": "",
+        "x": 220,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "d2657c82c2750414",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "ac8de8dddde18929",
+        "name": "TC5",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            },
+            {
+                "p": "payload"
+            },
+            {
+                "p": "qos",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "p": "retain",
+                "v": "false",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "petification/food-feeder/scale/bowl",
+        "payload": "50",
+        "payloadType": "str",
+        "x": 130,
+        "y": 800,
+        "wires": [
+            [
+                "4769f71730b7e6f7"
+            ]
+        ]
+    },
+    {
+        "id": "4769f71730b7e6f7",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "ac8de8dddde18929",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 270,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "2a4d9107a01bafb6",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "ac8de8dddde18929",
+        "name": "TC5: Publish Data \"Food Bowl Scale\"",
+        "info": "",
+        "x": 210,
+        "y": 760,
         "wires": []
     },
     {
