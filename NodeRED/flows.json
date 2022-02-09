@@ -79,9 +79,7 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299,
-        "w": 972,
-        "h": 202
+        "y": 2299
     },
     {
         "id": "ffff053900bb63ca",
@@ -105,9 +103,7 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739,
-        "w": 972,
-        "h": 122
+        "y": 2739
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -133,9 +129,7 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519,
-        "w": 972,
-        "h": 202
+        "y": 2519
     },
     {
         "id": "ed8b5377f33374f1",
@@ -306,9 +300,7 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 339,
-        "w": 832,
-        "h": 142
+        "y": 339
     },
     {
         "id": "c5351c5c421b358c",
@@ -352,9 +344,7 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 499,
-        "w": 402,
-        "h": 122
+        "y": 499
     },
     {
         "id": "a11b1041e59fd5f1",
@@ -378,9 +368,7 @@
             "867e840cf38e4f21"
         ],
         "x": 1314,
-        "y": 19,
-        "w": 952,
-        "h": 122
+        "y": 19
     },
     {
         "id": "2ae0cb5db9c8444c",
@@ -406,9 +394,7 @@
             "210576e9a6ad8c2f"
         ],
         "x": 1314,
-        "y": 159,
-        "w": 972,
-        "h": 202
+        "y": 159
     },
     {
         "id": "47469a4b8eaa1d6e",
@@ -434,9 +420,7 @@
             "370a61d88bdfc0c7"
         ],
         "x": 1314,
-        "y": 379,
-        "w": 952,
-        "h": 202
+        "y": 379
     },
     {
         "id": "dd5bd293402b6632",
@@ -597,9 +581,7 @@
             "2eeb2c101f1b230b"
         ],
         "x": 14,
-        "y": 839,
-        "w": 898,
-        "h": 548
+        "y": 839
     },
     {
         "id": "9ea8eb5fbd9fba9b",
@@ -672,9 +654,7 @@
             "0409ed639d712c6c"
         ],
         "x": 14,
-        "y": 379,
-        "w": 1218,
-        "h": 442
+        "y": 379
     },
     {
         "id": "827443b04cb37fc9",
@@ -697,9 +677,7 @@
             "b172ae4261416e78"
         ],
         "x": 14,
-        "y": 19,
-        "w": 858,
-        "h": 348
+        "y": 19
     },
     {
         "id": "20d6d2a97d7b9fa9",
@@ -722,9 +700,7 @@
             "28196b10195ca582"
         ],
         "x": 14,
-        "y": 19,
-        "w": 1018,
-        "h": 308
+        "y": 19
     },
     {
         "id": "78810c964d16f3b6",
@@ -799,9 +775,7 @@
             "5cf26914d910f5d5"
         ],
         "x": 14,
-        "y": 19,
-        "w": 372,
-        "h": 342
+        "y": 19
     },
     {
         "id": "7afd9131bb01f472",
@@ -824,9 +798,7 @@
             "7d979c489cd8f986"
         ],
         "x": 414,
-        "y": 19,
-        "w": 312,
-        "h": 262
+        "y": 19
     },
     {
         "id": "125992f372147313",
@@ -852,9 +824,7 @@
             "fc6f0656d97eaf7b"
         ],
         "x": 754,
-        "y": 19,
-        "w": 332,
-        "h": 382
+        "y": 19
     },
     {
         "id": "2a453a7e3ac8b7d5",
@@ -1001,9 +971,7 @@
             "aa4e5a562cf0ea1d"
         ],
         "x": 394,
-        "y": 899,
-        "w": 352,
-        "h": 122
+        "y": 899
     },
     {
         "id": "eccdd3341675c67f",
@@ -1025,9 +993,7 @@
             "9574a7e12874334c"
         ],
         "x": 394,
-        "y": 1039,
-        "w": 352,
-        "h": 122
+        "y": 1039
     },
     {
         "id": "2eeb2c101f1b230b",
@@ -1051,9 +1017,7 @@
             "87dbd4b1f03a57b0"
         ],
         "x": 394,
-        "y": 1179,
-        "w": 492,
-        "h": 182
+        "y": 1179
     },
     {
         "id": "86e4d607c3185bb9",
@@ -1075,9 +1039,7 @@
             "a65d4ec274dcc92b"
         ],
         "x": 274,
-        "y": 439,
-        "w": 352,
-        "h": 122
+        "y": 439
     },
     {
         "id": "0409ed639d712c6c",
@@ -1102,9 +1064,7 @@
             "64c53d1b11cf7d48"
         ],
         "x": 594,
-        "y": 579,
-        "w": 612,
-        "h": 162
+        "y": 579
     },
     {
         "id": "5a1fee37aaaa0e70",
@@ -1126,9 +1086,7 @@
             "cc7b98ab4898a4fc"
         ],
         "x": 254,
-        "y": 79,
-        "w": 352,
-        "h": 122
+        "y": 79
     },
     {
         "id": "b172ae4261416e78",
@@ -1151,9 +1109,7 @@
             "a295b2a6bd4c6133"
         ],
         "x": 254,
-        "y": 219,
-        "w": 592,
-        "h": 122
+        "y": 219
     },
     {
         "id": "5d6dc5b2b03096cd",
@@ -1176,9 +1132,7 @@
             "4d892246ad35ef09"
         ],
         "x": 434,
-        "y": 79,
-        "w": 572,
-        "h": 122
+        "y": 79
     },
     {
         "id": "28196b10195ca582",
@@ -1199,9 +1153,7 @@
             "400a9ac35151a339"
         ],
         "x": 434,
-        "y": 219,
-        "w": 272,
-        "h": 82
+        "y": 219
     },
     {
         "id": "42080da9808971e0",
@@ -1299,6 +1251,81 @@
         "y": 159,
         "w": 312,
         "h": 122
+    },
+    {
+        "id": "4441e0522b732055",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "37abfd26ee635870",
+            "7cd01bde8cbddc0b",
+            "14e50b4da63c7812"
+        ],
+        "x": 594,
+        "y": 419,
+        "w": 352,
+        "h": 122
+    },
+    {
+        "id": "4295e13d20bc5f57",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "07cd26173b29320d",
+            "b13ad32392a2c316",
+            "30fbe78e37c58130"
+        ],
+        "x": 594,
+        "y": 559,
+        "w": 352,
+        "h": 122
+    },
+    {
+        "id": "bbf33d30f2db4f13",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1439383756119db6",
+            "61dea24261b4569d",
+            "3af1f3c3d2212b45",
+            "180406767c3c668d",
+            "b6e7c31b9fe5f71c",
+            "4441e0522b732055",
+            "4295e13d20bc5f57"
+        ],
+        "x": 14,
+        "y": 339,
+        "w": 958,
+        "h": 482
     },
     {
         "id": "f2f86710f80408e7",
@@ -3842,13 +3869,14 @@
         "id": "1439383756119db6",
         "type": "http in",
         "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
         "name": "",
         "url": "/schedule/:time/:topic/:payload",
         "method": "post",
         "upload": false,
         "swaggerDoc": "",
         "x": 190,
-        "y": 440,
+        "y": 460,
         "wires": [
             [
                 "3af1f3c3d2212b45"
@@ -3859,17 +3887,19 @@
         "id": "61dea24261b4569d",
         "type": "http response",
         "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
         "name": "403: Forbidden",
         "statusCode": "403",
         "headers": {},
-        "x": 560,
-        "y": 480,
+        "x": 700,
+        "y": 780,
         "wires": []
     },
     {
         "id": "37abfd26ee635870",
         "type": "function",
         "z": "cfdddf09d7102807",
+        "g": "4441e0522b732055",
         "name": "CreateQuery",
         "func": "msg.topic = \"SELECT settings\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + msg.req.userToken + \"';\"\nreturn msg;",
         "outputs": 1,
@@ -3877,8 +3907,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 650,
-        "y": 420,
+        "x": 690,
+        "y": 500,
         "wires": [
             [
                 "7cd01bde8cbddc0b"
@@ -3889,6 +3919,7 @@
         "id": "3af1f3c3d2212b45",
         "type": "switch",
         "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
         "name": "CheckAuth",
         "property": "req.auth",
         "propertyType": "msg",
@@ -3904,11 +3935,10 @@
         "repair": false,
         "outputs": 2,
         "x": 450,
-        "y": 440,
+        "y": 460,
         "wires": [
             [
-                "37abfd26ee635870",
-                "180406767c3c668d"
+                "37abfd26ee635870"
             ],
             [
                 "61dea24261b4569d"
@@ -3919,21 +3949,23 @@
         "id": "180406767c3c668d",
         "type": "http response",
         "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 610,
-        "y": 360,
+        "x": 670,
+        "y": 720,
         "wires": []
     },
     {
         "id": "7cd01bde8cbddc0b",
         "type": "mysql",
         "z": "cfdddf09d7102807",
+        "g": "4441e0522b732055",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 820,
-        "y": 420,
+        "x": 860,
+        "y": 500,
         "wires": [
             [
                 "07cd26173b29320d"
@@ -3944,18 +3976,69 @@
         "id": "07cd26173b29320d",
         "type": "function",
         "z": "cfdddf09d7102807",
-        "name": "",
-        "func": "const twoDigit = (num) => (num < 10 ? \"0\" + num : \"\" + num);\n\nconst time = msg.req.params.time;\nconst timezone = msg.payload[0].settings.timezone;\nconst local = new Date(`1970-01-01T00:${time}.000${timezone}`);\nconst utc = new Date(local.toLocaleString('en-US', { timeZone: 'Universal' }));\nconst minute = twoDigit(utc.getMinutes());\nconst hour = twoDigit(utc.getHours());\nconst insertTime = `${hour}:${minute}`;\n\nconst topic = msg.req.params.topic;\nconst payload = msg.req.params.payload;\n\n//tommorow\n\nreturn msg;",
+        "g": "4295e13d20bc5f57",
+        "name": "CreateQuery",
+        "func": "const twoDigit = (num) => (num < 10 ? \"0\" + num : \"\" + num);\n\nconst time = msg.req.params.time;\nconst timezone = msg.payload[0].settings.timezone;\nconst local = new Date(`1970-01-01T${time}:00.000${timezone}`);\nconst utc = new Date(local.toLocaleString('en-US', { timeZone: 'Universal' }));\nconst minute = twoDigit(utc.getMinutes());\nconst hour = twoDigit(utc.getHours());\nconst insertTime = `${hour}:${minute}`;\n\nconst topic = msg.req.params.topic;\nconst payload = msg.req.params.payload;\n\n//tommorow\nmsg.topic = \"INSERT INTO scheduleData\" +\n            \" (time, uid, topic, payload)\" +\n            \" VALUES\" +\n            ` ('${hour}:${minute}', '${msg.req.userToken}', '${topic}', '${payload}');`\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 980,
-        "y": 420,
+        "x": 690,
+        "y": 640,
         "wires": [
-            []
+            [
+                "b13ad32392a2c316"
+            ]
         ]
+    },
+    {
+        "id": "14e50b4da63c7812",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "4441e0522b732055",
+        "name": "DB/SELECT Settings",
+        "info": "",
+        "x": 720,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "b13ad32392a2c316",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "4295e13d20bc5f57",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 860,
+        "y": 640,
+        "wires": [
+            [
+                "180406767c3c668d"
+            ]
+        ]
+    },
+    {
+        "id": "30fbe78e37c58130",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "4295e13d20bc5f57",
+        "name": "DB/INSERT Schedule",
+        "info": "",
+        "x": 720,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "b6e7c31b9fe5f71c",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
+        "name": "DB/INSERT New Schedule",
+        "info": "",
+        "x": 150,
+        "y": 380,
+        "wires": []
     },
     {
         "id": "4ef2f9d461607592",
