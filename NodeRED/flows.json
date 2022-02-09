@@ -2543,7 +2543,7 @@
         "z": "471ac2a8a5e8653b",
         "g": "0409ed639d712c6c",
         "name": "CreateEmail",
-        "func": "if(msg.payload[0][\"settings\"][\"email\"]) {\n    msg.to = msg.payload[0][\"settings\"][\"email\"];\n    msg.topic = `[Petification] \"${msg.req.params.errormsg}\" Error Notice`\n    msg.payload = `Malfunction Notification\\nDevice: ${msg.payload[0][\"name\"]}\\nError Msg: ${msg.req.params.errormsg}`;\n    \n    node.send(msg);\n}",
+        "func": "if(msg.payload[0][\"settings\"][\"email\"]) {\n    const err = decodeURIComponent(msg.req.params.errormsg);\n    msg.to = msg.payload[0][\"settings\"][\"email\"];\n    msg.topic = `[Petification] \"${err}\" Error Notice`\n    msg.payload = `Malfunction Notification\\nDevice: ${msg.payload[0][\"name\"]}\\nError Msg: ${err}`;\n    \n    node.send(msg);\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -2632,7 +2632,7 @@
         "z": "471ac2a8a5e8653b",
         "g": "0409ed639d712c6c",
         "name": "CreateWAMSG",
-        "func": "// Call webhook\nconst phonenum = msg.payload[0][\"settings\"][\"wa-phonenum\"];\nconst text = encodeURIComponent(`[PETIFICATION NOTICE]\\nDEVICE: ${msg.payload[0][\"name\"]}\\nERROR: ${msg.req.params.errormsg}`);\nconst apikey = msg.payload[0][\"settings\"][\"wa-apikey\"];\n\nif(phonenum && apikey) {\n    msg.method = \"GET\";\n    msg.url = \"https://api.callmebot.com/whatsapp.php\" +\n            \"?phone=\" + phonenum +\n            \"&text=\" + text +\n            \"&apikey=\" + apikey +\n            \"&source=nodered\";\n\n    node.send(msg);\n}",
+        "func": "// Call webhook\nconst phonenum = msg.payload[0][\"settings\"][\"wa-phonenum\"];\nconst text = `[PETIFICATION NOTICE]\\nDEVICE: ${msg.payload[0][\"name\"]}\\nERROR: ${decodeURIComponent(msg.req.params.errormsg)}`;\nconst apikey = msg.payload[0][\"settings\"][\"wa-apikey\"];\n\nif(phonenum && apikey) {\n    msg.method = \"GET\";\n    msg.url = \"https://api.callmebot.com/whatsapp.php\" +\n            \"?phone=\" + phonenum +\n            \"&text=\" + encodeURIComponent(text) +\n            \"&apikey=\" + apikey +\n            \"&source=nodered\";\n\n    node.send(msg);\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3837,6 +3837,125 @@
         "x": 750,
         "y": 200,
         "wires": []
+    },
+    {
+        "id": "1439383756119db6",
+        "type": "http in",
+        "z": "cfdddf09d7102807",
+        "name": "",
+        "url": "/schedule/:time/:topic/:payload",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 190,
+        "y": 440,
+        "wires": [
+            [
+                "3af1f3c3d2212b45"
+            ]
+        ]
+    },
+    {
+        "id": "61dea24261b4569d",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 560,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "37abfd26ee635870",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"SELECT settings\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + msg.req.userToken + \"';\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 420,
+        "wires": [
+            [
+                "7cd01bde8cbddc0b"
+            ]
+        ]
+    },
+    {
+        "id": "3af1f3c3d2212b45",
+        "type": "switch",
+        "z": "cfdddf09d7102807",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 440,
+        "wires": [
+            [
+                "37abfd26ee635870",
+                "180406767c3c668d"
+            ],
+            [
+                "61dea24261b4569d"
+            ]
+        ]
+    },
+    {
+        "id": "180406767c3c668d",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 610,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "7cd01bde8cbddc0b",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 820,
+        "y": 420,
+        "wires": [
+            [
+                "07cd26173b29320d"
+            ]
+        ]
+    },
+    {
+        "id": "07cd26173b29320d",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "name": "",
+        "func": "const twoDigit = (num) => (num < 10 ? \"0\" + num : \"\" + num);\n\nconst time = msg.req.params.time;\nconst timezone = msg.payload[0].settings.timezone;\nconst local = new Date(`1970-01-01T00:${time}.000${timezone}`);\nconst utc = new Date(local.toLocaleString('en-US', { timeZone: 'Universal' }));\nconst minute = twoDigit(utc.getMinutes());\nconst hour = twoDigit(utc.getHours());\nconst insertTime = `${hour}:${minute}`;\n\nconst topic = msg.req.params.topic;\nconst payload = msg.req.params.payload;\n\n//tommorow\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 980,
+        "y": 420,
+        "wires": [
+            []
+        ]
     },
     {
         "id": "4ef2f9d461607592",
