@@ -162,9 +162,7 @@
             "69fd65e799173d30"
         ],
         "x": 14,
-        "y": 19,
-        "w": 992,
-        "h": 202
+        "y": 19
     },
     {
         "id": "7457db638135fbdb",
@@ -188,9 +186,7 @@
             "edcb6c70dd6d14e2"
         ],
         "x": 14,
-        "y": 239,
-        "w": 1232,
-        "h": 122
+        "y": 239
     },
     {
         "id": "617bb68c7b2284cf",
@@ -218,9 +214,7 @@
             "29544c1af11d03dc"
         ],
         "x": 14,
-        "y": 379,
-        "w": 1252,
-        "h": 242
+        "y": 379
     },
     {
         "id": "778ff3b8764df908",
@@ -250,9 +244,7 @@
             "388d2936128df466"
         ],
         "x": 14,
-        "y": 639,
-        "w": 1232,
-        "h": 302
+        "y": 639
     },
     {
         "id": "08368f4a4f432e34",
@@ -282,9 +274,7 @@
             "7a1158daf4dae513"
         ],
         "x": 14,
-        "y": 959,
-        "w": 1232,
-        "h": 302
+        "y": 959
     },
     {
         "id": "2dac822f9fa8fa31",
@@ -329,9 +319,7 @@
             "247061156250feef"
         ],
         "x": 34,
-        "y": 19,
-        "w": 332,
-        "h": 122
+        "y": 19
     },
     {
         "id": "4b08a40382bbc675",
@@ -475,9 +463,7 @@
             "3ea44f65a91ee26c"
         ],
         "x": 34,
-        "y": 159,
-        "w": 392,
-        "h": 122
+        "y": 159
     },
     {
         "id": "2e8c563c95931cf4",
@@ -498,9 +484,7 @@
             "556876be6c6ceeff"
         ],
         "x": 34,
-        "y": 299,
-        "w": 372,
-        "h": 122
+        "y": 299
     },
     {
         "id": "e4ec5a08b48d755b",
@@ -516,9 +500,7 @@
             "0d5b1751af6329c2"
         ],
         "x": 514,
-        "y": 19,
-        "w": 312,
-        "h": 122
+        "y": 19
     },
     {
         "id": "37e07ac837df916b",
@@ -539,9 +521,7 @@
             "d31aab6cc8c7ec1c"
         ],
         "x": 514,
-        "y": 159,
-        "w": 372,
-        "h": 122
+        "y": 159
     },
     {
         "id": "ac8de8dddde18929",
@@ -562,9 +542,7 @@
             "2a4d9107a01bafb6"
         ],
         "x": 514,
-        "y": 299,
-        "w": 352,
-        "h": 122
+        "y": 299
     },
     {
         "id": "93563550e5e5b8d9",
@@ -609,9 +587,7 @@
             "cb62d5174fdbc2dc"
         ],
         "x": 14,
-        "y": 1439,
-        "w": 672,
-        "h": 142
+        "y": 1439
     },
     {
         "id": "a429ddf13a770b14",
@@ -633,9 +609,7 @@
             "d3c7fdd2bdc2106c"
         ],
         "x": 14,
-        "y": 1279,
-        "w": 612,
-        "h": 142
+        "y": 1279
     },
     {
         "id": "f2145b5e6ee8c3d0",
@@ -775,9 +749,7 @@
             "26c6221db2264c7e"
         ],
         "x": 14,
-        "y": 19,
-        "w": 978,
-        "h": 288
+        "y": 19
     },
     {
         "id": "93bbf3532a16dd26",
@@ -823,9 +795,7 @@
             "0d68f82b9254cd4a"
         ],
         "x": 34,
-        "y": 439,
-        "w": 652,
-        "h": 122
+        "y": 439
     },
     {
         "id": "836b236884538e1e",
@@ -848,9 +818,7 @@
             "075beec50ea49c1f"
         ],
         "x": 34,
-        "y": 579,
-        "w": 652,
-        "h": 122
+        "y": 579
     },
     {
         "id": "dc25248d8126293c",
@@ -873,9 +841,7 @@
             "35a0818c8e8895c8"
         ],
         "x": 34,
-        "y": 719,
-        "w": 652,
-        "h": 122
+        "y": 719
     },
     {
         "id": "bbf33d30f2db4f13",
@@ -900,9 +866,7 @@
             "4295e13d20bc5f57"
         ],
         "x": 14,
-        "y": 339,
-        "w": 958,
-        "h": 482
+        "y": 339
     },
     {
         "id": "92acb726a2151d5e",
@@ -926,9 +890,7 @@
             "fad68b6a6babdd4c"
         ],
         "x": 14,
-        "y": 19,
-        "w": 412,
-        "h": 448
+        "y": 19
     },
     {
         "id": "692cb346c3779bf9",
@@ -951,9 +913,7 @@
             "90f89c2f4fb1c4e8"
         ],
         "x": 454,
-        "y": 19,
-        "w": 378,
-        "h": 388
+        "y": 19
     },
     {
         "id": "648ba0d890144367",
@@ -979,9 +939,172 @@
             "53b148a043c03184"
         ],
         "x": 854,
+        "y": 19
+    },
+    {
+        "id": "926801c45750aac7",
+        "type": "group",
+        "z": "20765a378b80a17c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "eb03c4c4206e34a0",
+            "c8cd84b6c8b65251",
+            "f5b708fde7a3525e",
+            "8b29d26d22c39c95",
+            "7533ee907667a714",
+            "8a4578a1181fd719",
+            "95fa81245b59cfd0"
+        ],
+        "x": 34,
         "y": 19,
-        "w": 378,
-        "h": 508
+        "w": 972,
+        "h": 222
+    },
+    {
+        "id": "a341293ef5642111",
+        "type": "group",
+        "z": "20765a378b80a17c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e13b0e6a5c862b73",
+            "889d16bd563479cf",
+            "aa46d0552c2ef1a5",
+            "5ef998d80b0cedcf",
+            "eecc5d3bb537e4d4",
+            "4c0e0deccb8813f6",
+            "812b94584f08e855",
+            "27a4f73bc89097c5"
+        ],
+        "x": 34,
+        "y": 259,
+        "w": 932,
+        "h": 222
+    },
+    {
+        "id": "c1a92bec2d4f2ffd",
+        "type": "group",
+        "z": "20765a378b80a17c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f44e1fb4ce53c1cc",
+            "b379eb9be8f9bd0e",
+            "f2c959202ecab12c",
+            "8bed97e720144754",
+            "abd4be4e0a3a0175",
+            "43ebf433a40ef2a9",
+            "8539ffc872485d1e"
+        ],
+        "x": 34,
+        "y": 499,
+        "w": 932,
+        "h": 222
+    },
+    {
+        "id": "bc31d529f04a3f51",
+        "type": "group",
+        "z": "20765a378b80a17c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "21d6d807f90884b9",
+            "f0ca86402e34abb3",
+            "24085ac7a32b0d58",
+            "3b37dc1e3982a5f0",
+            "358601b7d2635c5d",
+            "97677e0bdadfb131",
+            "b63fd7d868981526",
+            "7ca7213ab182e8a5"
+        ],
+        "x": 34,
+        "y": 739,
+        "w": 932,
+        "h": 222
+    },
+    {
+        "id": "06caf6156244f53b",
+        "type": "group",
+        "z": "20765a378b80a17c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5709762c393c0e83",
+            "d688478d06f053e3",
+            "b0111bc1660d3582",
+            "68c9cec7fdeb2927",
+            "bd61200bfcfe6578",
+            "3c412cd6e9050860",
+            "639051d6f7b5d18b"
+        ],
+        "x": 34,
+        "y": 979,
+        "w": 972,
+        "h": 222
+    },
+    {
+        "id": "c1fd310ccc3911b0",
+        "type": "group",
+        "z": "20765a378b80a17c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ec85f213cc992cef",
+            "42e5bc09b1f9ebfd",
+            "64e0b9c7ddd69a73",
+            "0d4e46da6283ae7a",
+            "a6e17d126e955afb",
+            "10544240797c83e1",
+            "3031eec230587921",
+            "da4c070a3df2a30d"
+        ],
+        "x": 34,
+        "y": 1219,
+        "w": 932,
+        "h": 222
     },
     {
         "id": "dce3be978a1f0dc6",
@@ -1252,9 +1375,7 @@
             "03b0e0d04d47db70"
         ],
         "x": 274,
-        "y": 159,
-        "w": 352,
-        "h": 122
+        "y": 159
     },
     {
         "id": "26c6221db2264c7e",
@@ -1276,9 +1397,7 @@
             "4c2abee3bd26a5b8"
         ],
         "x": 654,
-        "y": 159,
-        "w": 312,
-        "h": 122
+        "y": 159
     },
     {
         "id": "4441e0522b732055",
@@ -1300,9 +1419,7 @@
             "14e50b4da63c7812"
         ],
         "x": 594,
-        "y": 419,
-        "w": 352,
-        "h": 122
+        "y": 419
     },
     {
         "id": "4295e13d20bc5f57",
@@ -1324,9 +1441,7 @@
             "30fbe78e37c58130"
         ],
         "x": 594,
-        "y": 559,
-        "w": 352,
-        "h": 122
+        "y": 559
     },
     {
         "id": "fad68b6a6babdd4c",
@@ -1348,9 +1463,7 @@
             "7307f2dc5270af07"
         ],
         "x": 54,
-        "y": 259,
-        "w": 212,
-        "h": 182
+        "y": 259
     },
     {
         "id": "90f89c2f4fb1c4e8",
@@ -1371,9 +1484,7 @@
             "f68594fdc6a8126a"
         ],
         "x": 494,
-        "y": 239,
-        "w": 312,
-        "h": 142
+        "y": 239
     },
     {
         "id": "53b148a043c03184",
@@ -1394,119 +1505,7 @@
             "4317d4b7ee72a9b2"
         ],
         "x": 894,
-        "y": 359,
-        "w": 312,
-        "h": 142
-    },
-    {
-        "id": "926801c45750aac7",
-        "type": "group",
-        "z": "20765a378b80a17c",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "eb03c4c4206e34a0",
-            "c8cd84b6c8b65251",
-            "f5b708fde7a3525e",
-            "8b29d26d22c39c95",
-            "7533ee907667a714",
-            "8a4578a1181fd719",
-            "95fa81245b59cfd0"
-        ],
-        "x": 34,
-        "y": 19,
-        "w": 972,
-        "h": 222
-    },
-    {
-        "id": "a341293ef5642111",
-        "type": "group",
-        "z": "20765a378b80a17c",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "e13b0e6a5c862b73",
-            "889d16bd563479cf",
-            "aa46d0552c2ef1a5",
-            "5ef998d80b0cedcf",
-            "eecc5d3bb537e4d4",
-            "4c0e0deccb8813f6",
-            "812b94584f08e855",
-            "27a4f73bc89097c5"
-        ],
-        "x": 34,
-        "y": 259,
-        "w": 932,
-        "h": 222
-    },
-    {
-        "id": "c1a92bec2d4f2ffd",
-        "type": "group",
-        "z": "20765a378b80a17c",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f44e1fb4ce53c1cc",
-            "b379eb9be8f9bd0e",
-            "f2c959202ecab12c",
-            "8bed97e720144754",
-            "abd4be4e0a3a0175",
-            "43ebf433a40ef2a9",
-            "8539ffc872485d1e"
-        ],
-        "x": 34,
-        "y": 499,
-        "w": 932,
-        "h": 222
-    },
-    {
-        "id": "bc31d529f04a3f51",
-        "type": "group",
-        "z": "20765a378b80a17c",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "21d6d807f90884b9",
-            "f0ca86402e34abb3",
-            "24085ac7a32b0d58",
-            "3b37dc1e3982a5f0",
-            "358601b7d2635c5d",
-            "97677e0bdadfb131",
-            "b63fd7d868981526",
-            "7ca7213ab182e8a5"
-        ],
-        "x": 34,
-        "y": 739,
-        "w": 932,
-        "h": 222
+        "y": 359
     },
     {
         "id": "f2f86710f80408e7",
@@ -4431,6 +4430,262 @@
         "wires": [
             [
                 "b63fd7d868981526"
+            ]
+        ]
+    },
+    {
+        "id": "5709762c393c0e83",
+        "type": "http in",
+        "z": "20765a378b80a17c",
+        "g": "06caf6156244f53b",
+        "name": "",
+        "url": "/user/wa/:key/:phonenum",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 190,
+        "y": 1120,
+        "wires": [
+            [
+                "3c412cd6e9050860"
+            ]
+        ]
+    },
+    {
+        "id": "d688478d06f053e3",
+        "type": "function",
+        "z": "20765a378b80a17c",
+        "g": "06caf6156244f53b",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"UPDATE userData\" +\n            \" SET settings=JSON_SET(settings, '$.\\\"wa-apikey\\\"', '\" + msg.req.params.key + \"', '$.\\\"wa-phonenum\\\"', '\" + msg.req.params.phonenum + \"')\" +\n            \" WHERE\" +\n            \" token='\" + msg.req.userToken + \"';\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 1080,
+        "wires": [
+            [
+                "b0111bc1660d3582"
+            ]
+        ]
+    },
+    {
+        "id": "b0111bc1660d3582",
+        "type": "mysql",
+        "z": "20765a378b80a17c",
+        "g": "06caf6156244f53b",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 780,
+        "y": 1080,
+        "wires": [
+            [
+                "639051d6f7b5d18b"
+            ]
+        ]
+    },
+    {
+        "id": "68c9cec7fdeb2927",
+        "type": "comment",
+        "z": "20765a378b80a17c",
+        "g": "06caf6156244f53b",
+        "name": "ReST/PATCH WhatsApp Settings",
+        "info": "",
+        "x": 190,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "bd61200bfcfe6578",
+        "type": "http response",
+        "z": "20765a378b80a17c",
+        "g": "06caf6156244f53b",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 620,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "3c412cd6e9050860",
+        "type": "switch",
+        "z": "20765a378b80a17c",
+        "g": "06caf6156244f53b",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 430,
+        "y": 1120,
+        "wires": [
+            [
+                "d688478d06f053e3"
+            ],
+            [
+                "bd61200bfcfe6578"
+            ]
+        ]
+    },
+    {
+        "id": "639051d6f7b5d18b",
+        "type": "http response",
+        "z": "20765a378b80a17c",
+        "g": "06caf6156244f53b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 930,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "ec85f213cc992cef",
+        "type": "http in",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "name": "",
+        "url": "/user/wa",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 1360,
+        "wires": [
+            [
+                "10544240797c83e1"
+            ]
+        ]
+    },
+    {
+        "id": "42e5bc09b1f9ebfd",
+        "type": "function",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"SELECT JSON_EXTRACT(settings, '$.\\\"wa-apikey\\\"') AS apikey\" +\n            \" , JSON_EXTRACT(settings, '$.\\\"wa-phonenum\\\"') AS phonenum\" +\n            \" FROM userData\" +\n            \" WHERE token='\" + msg.req.userToken + \"';\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 1320,
+        "wires": [
+            [
+                "64e0b9c7ddd69a73"
+            ]
+        ]
+    },
+    {
+        "id": "64e0b9c7ddd69a73",
+        "type": "mysql",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 720,
+        "y": 1320,
+        "wires": [
+            [
+                "da4c070a3df2a30d"
+            ]
+        ]
+    },
+    {
+        "id": "0d4e46da6283ae7a",
+        "type": "comment",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "name": "ReST/GET WhatsApp Settings",
+        "info": "",
+        "x": 190,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "a6e17d126e955afb",
+        "type": "http response",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 560,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "10544240797c83e1",
+        "type": "switch",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 1360,
+        "wires": [
+            [
+                "42e5bc09b1f9ebfd"
+            ],
+            [
+                "a6e17d126e955afb"
+            ]
+        ]
+    },
+    {
+        "id": "3031eec230587921",
+        "type": "http response",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 890,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "da4c070a3df2a30d",
+        "type": "function",
+        "z": "20765a378b80a17c",
+        "g": "c1fd310ccc3911b0",
+        "name": "PrepareResponse",
+        "func": "msg.payload = msg.payload[0];\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 1360,
+        "wires": [
+            [
+                "3031eec230587921"
             ]
         ]
     },
