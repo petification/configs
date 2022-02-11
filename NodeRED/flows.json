@@ -875,13 +875,14 @@
             "3af1f3c3d2212b45",
             "180406767c3c668d",
             "b6e7c31b9fe5f71c",
-            "4441e0522b732055",
-            "4295e13d20bc5f57"
+            "cdce45f9fe67cfde",
+            "07cd26173b29320d",
+            "b13ad32392a2c316"
         ],
         "x": 14,
-        "y": 339,
-        "w": 958,
-        "h": 482
+        "y": 319,
+        "w": 912,
+        "h": 302
     },
     {
         "id": "926801c45750aac7",
@@ -1647,54 +1648,6 @@
         "h": 122
     },
     {
-        "id": "4441e0522b732055",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "37abfd26ee635870",
-            "7cd01bde8cbddc0b",
-            "14e50b4da63c7812"
-        ],
-        "x": 594,
-        "y": 419,
-        "w": 352,
-        "h": 122
-    },
-    {
-        "id": "4295e13d20bc5f57",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "07cd26173b29320d",
-            "b13ad32392a2c316",
-            "30fbe78e37c58130"
-        ],
-        "x": 594,
-        "y": 559,
-        "w": 352,
-        "h": 122
-    },
-    {
         "id": "72d880c1ddc03bbe",
         "type": "group",
         "z": "471ac2a8a5e8653b",
@@ -1770,8 +1723,62 @@
             "1e9d15b0b13107ad"
         ],
         "x": 14,
-        "y": 839,
+        "y": 639,
         "w": 872,
+        "h": 202
+    },
+    {
+        "id": "8decfaef7147e8a7",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f752fad13dce83db",
+            "c5eb88bcf6b0e23f",
+            "9e6b52f5c50888ad",
+            "4d68f0660f051bc1",
+            "14adf85b612d8515",
+            "dcf1cf8bb986869f",
+            "98ce62d30463bb7c",
+            "6851bc608b138880"
+        ],
+        "x": 14,
+        "y": 859,
+        "w": 832,
+        "h": 262
+    },
+    {
+        "id": "415911d8068e972a",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f54faf82623a3f82",
+            "dbb56407c993f3fc",
+            "4978a80267958c57",
+            "f4e1ddef36a6d96e",
+            "436f3a083663cdf8",
+            "7d5ee5d5be10c5e9"
+        ],
+        "x": 1014,
+        "y": 19,
+        "w": 462,
         "h": 202
     },
     {
@@ -5773,7 +5780,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 190,
-        "y": 460,
+        "y": 440,
         "wires": [
             [
                 "3af1f3c3d2212b45"
@@ -5788,29 +5795,9 @@
         "name": "403: Forbidden",
         "statusCode": "403",
         "headers": {},
-        "x": 700,
-        "y": 780,
+        "x": 640,
+        "y": 580,
         "wires": []
-    },
-    {
-        "id": "37abfd26ee635870",
-        "type": "function",
-        "z": "cfdddf09d7102807",
-        "g": "4441e0522b732055",
-        "name": "CreateQuery",
-        "func": "msg.topic = \"SELECT settings\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + msg.req.userToken + \"';\"\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 690,
-        "y": 500,
-        "wires": [
-            [
-                "7cd01bde8cbddc0b"
-            ]
-        ]
     },
     {
         "id": "3af1f3c3d2212b45",
@@ -5832,10 +5819,10 @@
         "repair": false,
         "outputs": 2,
         "x": 450,
-        "y": 460,
+        "y": 440,
         "wires": [
             [
-                "37abfd26ee635870"
+                "cdce45f9fe67cfde"
             ],
             [
                 "61dea24261b4569d"
@@ -5850,80 +5837,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 670,
-        "y": 720,
-        "wires": []
-    },
-    {
-        "id": "7cd01bde8cbddc0b",
-        "type": "mysql",
-        "z": "cfdddf09d7102807",
-        "g": "4441e0522b732055",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 860,
-        "y": 500,
-        "wires": [
-            [
-                "07cd26173b29320d"
-            ]
-        ]
-    },
-    {
-        "id": "07cd26173b29320d",
-        "type": "function",
-        "z": "cfdddf09d7102807",
-        "g": "4295e13d20bc5f57",
-        "name": "CreateQuery",
-        "func": "const twoDigit = (num) => (num < 10 ? \"0\" + num : \"\" + num);\n\nconst time = msg.req.params.time;\nconst timezone = msg.payload[0].settings.timezone;\nconst local = new Date(`1970-01-01T${time}:00.000${timezone}`);\nconst utc = new Date(local.toLocaleString('en-US', { timeZone: 'Universal' }));\nconst minute = twoDigit(utc.getMinutes());\nconst hour = twoDigit(utc.getHours());\nconst insertTime = `${hour}:${minute}`;\n\nconst topic = msg.req.params.topic;\nconst payload = msg.req.params.payload;\n\n//tommorow\nmsg.topic = \"INSERT INTO scheduleData\" +\n            \" (time, uid, topic, payload)\" +\n            \" VALUES\" +\n            ` ('${hour}:${minute}', '${msg.req.userToken}', '${topic}', '${payload}');`\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 690,
-        "y": 640,
-        "wires": [
-            [
-                "b13ad32392a2c316"
-            ]
-        ]
-    },
-    {
-        "id": "14e50b4da63c7812",
-        "type": "comment",
-        "z": "cfdddf09d7102807",
-        "g": "4441e0522b732055",
-        "name": "DB/SELECT Settings",
-        "info": "",
-        "x": 720,
-        "y": 460,
-        "wires": []
-    },
-    {
-        "id": "b13ad32392a2c316",
-        "type": "mysql",
-        "z": "cfdddf09d7102807",
-        "g": "4295e13d20bc5f57",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 860,
-        "y": 640,
-        "wires": [
-            [
-                "180406767c3c668d"
-            ]
-        ]
-    },
-    {
-        "id": "30fbe78e37c58130",
-        "type": "comment",
-        "z": "cfdddf09d7102807",
-        "g": "4295e13d20bc5f57",
-        "name": "DB/INSERT Schedule",
-        "info": "",
-        "x": 720,
-        "y": 600,
+        "x": 850,
+        "y": 520,
         "wires": []
     },
     {
@@ -5934,7 +5849,7 @@
         "name": "ReST/POST New Schedule",
         "info": "",
         "x": 150,
-        "y": 380,
+        "y": 360,
         "wires": []
     },
     {
@@ -5948,7 +5863,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 120,
-        "y": 960,
+        "y": 760,
         "wires": [
             [
                 "86535714f1669122"
@@ -5975,7 +5890,7 @@
         "repair": false,
         "outputs": 2,
         "x": 310,
-        "y": 960,
+        "y": 760,
         "wires": [
             [
                 "726fd996008c57b0"
@@ -5998,7 +5913,7 @@
         "finalize": "",
         "libs": [],
         "x": 490,
-        "y": 920,
+        "y": 720,
         "wires": [
             [
                 "99420c6ae32621eb"
@@ -6013,7 +5928,7 @@
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 660,
-        "y": 920,
+        "y": 720,
         "wires": [
             [
                 "8aa58f6b373d6916"
@@ -6029,7 +5944,7 @@
         "statusCode": "",
         "headers": {},
         "x": 810,
-        "y": 920,
+        "y": 720,
         "wires": []
     },
     {
@@ -6041,7 +5956,7 @@
         "statusCode": "403",
         "headers": {},
         "x": 500,
-        "y": 1000,
+        "y": 800,
         "wires": []
     },
     {
@@ -6052,8 +5967,290 @@
         "name": "ReST/GET Schedules",
         "info": "",
         "x": 140,
-        "y": 880,
+        "y": 680,
         "wires": []
+    },
+    {
+        "id": "f752fad13dce83db",
+        "type": "http in",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "name": "",
+        "url": "/schedule/:id/:time",
+        "method": "patch",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 150,
+        "y": 980,
+        "wires": [
+            [
+                "9e6b52f5c50888ad"
+            ]
+        ]
+    },
+    {
+        "id": "c5eb88bcf6b0e23f",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 560,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "9e6b52f5c50888ad",
+        "type": "switch",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 980,
+        "wires": [
+            [
+                "6851bc608b138880"
+            ],
+            [
+                "c5eb88bcf6b0e23f"
+            ]
+        ]
+    },
+    {
+        "id": "4d68f0660f051bc1",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 770,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "14adf85b612d8515",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "name": "ReST/PATCH A Schedule",
+        "info": "",
+        "x": 150,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "dcf1cf8bb986869f",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"UPDATE scheduleData\" +\n            \" SET time = '\" + msg.utc + \"'\" +\n            \" WHERE id = \" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 940,
+        "wires": [
+            [
+                "98ce62d30463bb7c"
+            ]
+        ]
+    },
+    {
+        "id": "98ce62d30463bb7c",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 720,
+        "y": 980,
+        "wires": [
+            [
+                "4d68f0660f051bc1"
+            ]
+        ]
+    },
+    {
+        "id": "f54faf82623a3f82",
+        "type": "link in",
+        "z": "cfdddf09d7102807",
+        "g": "415911d8068e972a",
+        "name": "getUTC",
+        "links": [],
+        "x": 1055,
+        "y": 100,
+        "wires": [
+            [
+                "4978a80267958c57"
+            ]
+        ]
+    },
+    {
+        "id": "dbb56407c993f3fc",
+        "type": "link out",
+        "z": "cfdddf09d7102807",
+        "g": "415911d8068e972a",
+        "name": "",
+        "mode": "return",
+        "links": [],
+        "x": 1435,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "4978a80267958c57",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "415911d8068e972a",
+        "name": "Get User Timezone",
+        "func": "msg.topic = \"SELECT JSON_EXTRACT(settings, '$.timezone') AS timezone\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + msg.req.userToken + \"';\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1180,
+        "y": 100,
+        "wires": [
+            [
+                "f4e1ddef36a6d96e"
+            ]
+        ]
+    },
+    {
+        "id": "f4e1ddef36a6d96e",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "415911d8068e972a",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 1260,
+        "y": 140,
+        "wires": [
+            [
+                "436f3a083663cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "436f3a083663cdf8",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "415911d8068e972a",
+        "name": "Return UTC",
+        "func": "const twoDigit = (num) => (num < 10 ? \"0\" + num : \"\" + num);\n\nconst time = msg.req.params.time;\nconst timezone = msg.payload[0].timezone;\n\nconst local = new Date(`1970-01-01T${time}:00.000${timezone}`);\nconst utc = new Date(local.toLocaleString('en-US', { timeZone: 'Universal' }));\n\nconst minute = twoDigit(utc.getMinutes());\nconst hour = twoDigit(utc.getHours());\nmsg.utc = `${hour}:${minute}`;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1330,
+        "y": 180,
+        "wires": [
+            [
+                "dbb56407c993f3fc"
+            ]
+        ]
+    },
+    {
+        "id": "7d5ee5d5be10c5e9",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "415911d8068e972a",
+        "name": "getUTC",
+        "info": "params:\n    msg.req.params.time:    HTTP Requested Time\n    msg.req.userToken:      HTTP Bearer Token\n    \nReturn:\n    msg.utc:                Converted UTC",
+        "x": 1090,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "cdce45f9fe67cfde",
+        "type": "link call",
+        "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
+        "name": "Call \"getUTC\"",
+        "links": [
+            "f54faf82623a3f82"
+        ],
+        "timeout": "30",
+        "x": 640,
+        "y": 400,
+        "wires": [
+            [
+                "07cd26173b29320d"
+            ]
+        ]
+    },
+    {
+        "id": "07cd26173b29320d",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"INSERT INTO scheduleData\" +\n            \" (time, uid, topic, payload)\" +\n            \" VALUES\" +\n            ` ('${msg.utc}', '${msg.req.userToken}', '${msg.req.params.topic}', '${msg.req.params.payload}');`\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 440,
+        "wires": [
+            [
+                "b13ad32392a2c316"
+            ]
+        ]
+    },
+    {
+        "id": "b13ad32392a2c316",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "bbf33d30f2db4f13",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 800,
+        "y": 480,
+        "wires": [
+            [
+                "180406767c3c668d"
+            ]
+        ]
+    },
+    {
+        "id": "6851bc608b138880",
+        "type": "link call",
+        "z": "cfdddf09d7102807",
+        "g": "8decfaef7147e8a7",
+        "name": "Call \"getUTC\"",
+        "links": [
+            "f54faf82623a3f82"
+        ],
+        "timeout": "30",
+        "x": 560,
+        "y": 900,
+        "wires": [
+            [
+                "dcf1cf8bb986869f"
+            ]
+        ]
     },
     {
         "id": "4ef2f9d461607592",
