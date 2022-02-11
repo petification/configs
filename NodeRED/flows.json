@@ -87,7 +87,9 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299
+        "y": 2299,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ffff053900bb63ca",
@@ -111,7 +113,9 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739
+        "y": 2739,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -137,7 +141,9 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519
+        "y": 2519,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ed8b5377f33374f1",
@@ -308,7 +314,9 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 339
+        "y": 339,
+        "w": 832,
+        "h": 142
     },
     {
         "id": "c5351c5c421b358c",
@@ -352,7 +360,9 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 499
+        "y": 499,
+        "w": 402,
+        "h": 122
     },
     {
         "id": "a11b1041e59fd5f1",
@@ -667,7 +677,9 @@
             "28196b10195ca582"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 1018,
+        "h": 308
     },
     {
         "id": "78810c964d16f3b6",
@@ -690,7 +702,9 @@
             "3ce598360cdb14a1"
         ],
         "x": 1234,
-        "y": 19
+        "y": 19,
+        "w": 732,
+        "h": 142
     },
     {
         "id": "39d56ac3bdfcb912",
@@ -713,7 +727,9 @@
             "f45d589dd0982571"
         ],
         "x": 14,
-        "y": 359
+        "y": 359,
+        "w": 1038,
+        "h": 348
     },
     {
         "id": "2a453a7e3ac8b7d5",
@@ -761,7 +777,9 @@
             "863e490f3b70d122"
         ],
         "x": 14,
-        "y": 739
+        "y": 739,
+        "w": 772,
+        "h": 142
     },
     {
         "id": "2f09dd3159695cd2",
@@ -1182,7 +1200,88 @@
             "c8b663bf39e4a43e"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 1132,
+        "h": 322
+    },
+    {
+        "id": "d22a6a0df987ebd1",
+        "type": "group",
+        "z": "de4cf0a89bfc7b01",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "65d65853a43abedb",
+            "52d707234a0ef984",
+            "7048e413a3b7452c",
+            "7d979c489cd8f986",
+            "90f89c2f4fb1c4e8"
+        ],
+        "x": 454,
+        "y": 19,
+        "w": 378,
+        "h": 388
+    },
+    {
+        "id": "333aae020fa16f51",
+        "type": "group",
+        "z": "de4cf0a89bfc7b01",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e4aaa6bd29ea318e",
+            "496ee6e2867044a2",
+            "4c6db570c360190d",
+            "5cf26914d910f5d5",
+            "655eb77f7ae0bf03",
+            "fad68b6a6babdd4c"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 412,
+        "h": 448
+    },
+    {
+        "id": "3109a2c1421b909f",
+        "type": "group",
+        "z": "de4cf0a89bfc7b01",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7ddbb441f79cf458",
+            "980db0748f8a9189",
+            "1a92952a16c291c7",
+            "f1b91460db574379",
+            "0881e86bb8f247dc",
+            "9cda233f1f5c5cee",
+            "fc6f0656d97eaf7b",
+            "53b148a043c03184"
+        ],
+        "x": 854,
+        "y": 19,
+        "w": 378,
+        "h": 508
     },
     {
         "id": "fad68b6a6babdd4c",
@@ -1423,7 +1522,9 @@
             "ec36b0fb3abffc7a"
         ],
         "x": 434,
-        "y": 79
+        "y": 79,
+        "w": 572,
+        "h": 122
     },
     {
         "id": "28196b10195ca582",
@@ -1444,7 +1545,9 @@
             "400a9ac35151a339"
         ],
         "x": 434,
-        "y": 219
+        "y": 219,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "42080da9808971e0",
@@ -1466,7 +1569,9 @@
             "7fc8e7a46b665229"
         ],
         "x": 474,
-        "y": 419
+        "y": 419,
+        "w": 392,
+        "h": 122
     },
     {
         "id": "f45d589dd0982571",
@@ -1489,7 +1594,9 @@
             "a3658b821c559c70"
         ],
         "x": 474,
-        "y": 559
+        "y": 559,
+        "w": 552,
+        "h": 122
     },
     {
         "id": "91c825ea46b2a62d",
@@ -1641,9 +1748,9 @@
         "h": 242
     },
     {
-        "id": "d22a6a0df987ebd1",
+        "id": "ddd96c2b5e459d48",
         "type": "group",
-        "z": "de4cf0a89bfc7b01",
+        "z": "cfdddf09d7102807",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -1654,70 +1761,18 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "65d65853a43abedb",
-            "52d707234a0ef984",
-            "7048e413a3b7452c",
-            "7d979c489cd8f986",
-            "90f89c2f4fb1c4e8"
-        ],
-        "x": 454,
-        "y": 19,
-        "w": 378,
-        "h": 388
-    },
-    {
-        "id": "333aae020fa16f51",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "e4aaa6bd29ea318e",
-            "496ee6e2867044a2",
-            "4c6db570c360190d",
-            "5cf26914d910f5d5",
-            "655eb77f7ae0bf03",
-            "fad68b6a6babdd4c"
+            "5e3d80601e419927",
+            "86535714f1669122",
+            "726fd996008c57b0",
+            "99420c6ae32621eb",
+            "8aa58f6b373d6916",
+            "6f9629c94f36d8b3",
+            "1e9d15b0b13107ad"
         ],
         "x": 14,
-        "y": 19,
-        "w": 412,
-        "h": 448
-    },
-    {
-        "id": "3109a2c1421b909f",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "7ddbb441f79cf458",
-            "980db0748f8a9189",
-            "1a92952a16c291c7",
-            "f1b91460db574379",
-            "0881e86bb8f247dc",
-            "9cda233f1f5c5cee",
-            "fc6f0656d97eaf7b",
-            "53b148a043c03184"
-        ],
-        "x": 854,
-        "y": 19,
-        "w": 378,
-        "h": 508
+        "y": 839,
+        "w": 872,
+        "h": 202
     },
     {
         "id": "f2f86710f80408e7",
@@ -5876,10 +5931,128 @@
         "type": "comment",
         "z": "cfdddf09d7102807",
         "g": "bbf33d30f2db4f13",
-        "name": "DB/INSERT New Schedule",
+        "name": "ReST/POST New Schedule",
         "info": "",
         "x": 150,
         "y": 380,
+        "wires": []
+    },
+    {
+        "id": "5e3d80601e419927",
+        "type": "http in",
+        "z": "cfdddf09d7102807",
+        "g": "ddd96c2b5e459d48",
+        "name": "",
+        "url": "/schedules",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 960,
+        "wires": [
+            [
+                "86535714f1669122"
+            ]
+        ]
+    },
+    {
+        "id": "86535714f1669122",
+        "type": "switch",
+        "z": "cfdddf09d7102807",
+        "g": "ddd96c2b5e459d48",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 310,
+        "y": 960,
+        "wires": [
+            [
+                "726fd996008c57b0"
+            ],
+            [
+                "6f9629c94f36d8b3"
+            ]
+        ]
+    },
+    {
+        "id": "726fd996008c57b0",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "ddd96c2b5e459d48",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"SELECT *\" +\n            \" FROM scheduleData\" +\n            \" WHERE uid = '\" + msg.req.userToken + \"';\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 920,
+        "wires": [
+            [
+                "99420c6ae32621eb"
+            ]
+        ]
+    },
+    {
+        "id": "99420c6ae32621eb",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "ddd96c2b5e459d48",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 660,
+        "y": 920,
+        "wires": [
+            [
+                "8aa58f6b373d6916"
+            ]
+        ]
+    },
+    {
+        "id": "8aa58f6b373d6916",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "ddd96c2b5e459d48",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 810,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "6f9629c94f36d8b3",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "ddd96c2b5e459d48",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 500,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "1e9d15b0b13107ad",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "ddd96c2b5e459d48",
+        "name": "ReST/GET Schedules",
+        "info": "",
+        "x": 140,
+        "y": 880,
         "wires": []
     },
     {
