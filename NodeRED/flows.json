@@ -337,9 +337,7 @@
             "247061156250feef"
         ],
         "x": 34,
-        "y": 19,
-        "w": 332,
-        "h": 122
+        "y": 19
     },
     {
         "id": "4b08a40382bbc675",
@@ -465,9 +463,7 @@
             "3ea44f65a91ee26c"
         ],
         "x": 34,
-        "y": 159,
-        "w": 392,
-        "h": 122
+        "y": 159
     },
     {
         "id": "2e8c563c95931cf4",
@@ -488,9 +484,7 @@
             "556876be6c6ceeff"
         ],
         "x": 34,
-        "y": 299,
-        "w": 372,
-        "h": 122
+        "y": 299
     },
     {
         "id": "e4ec5a08b48d755b",
@@ -506,9 +500,7 @@
             "0d5b1751af6329c2"
         ],
         "x": 514,
-        "y": 19,
-        "w": 312,
-        "h": 122
+        "y": 19
     },
     {
         "id": "37e07ac837df916b",
@@ -529,9 +521,7 @@
             "d31aab6cc8c7ec1c"
         ],
         "x": 514,
-        "y": 159,
-        "w": 372,
-        "h": 122
+        "y": 159
     },
     {
         "id": "ac8de8dddde18929",
@@ -552,9 +542,7 @@
             "2a4d9107a01bafb6"
         ],
         "x": 514,
-        "y": 299,
-        "w": 352,
-        "h": 122
+        "y": 299
     },
     {
         "id": "9ea8eb5fbd9fba9b",
@@ -802,9 +790,7 @@
             "0d68f82b9254cd4a"
         ],
         "x": 34,
-        "y": 439,
-        "w": 652,
-        "h": 122
+        "y": 439
     },
     {
         "id": "836b236884538e1e",
@@ -827,9 +813,7 @@
             "075beec50ea49c1f"
         ],
         "x": 34,
-        "y": 579,
-        "w": 652,
-        "h": 122
+        "y": 579
     },
     {
         "id": "dc25248d8126293c",
@@ -852,9 +836,7 @@
             "35a0818c8e8895c8"
         ],
         "x": 34,
-        "y": 719,
-        "w": 652,
-        "h": 122
+        "y": 719
     },
     {
         "id": "bbf33d30f2db4f13",
@@ -1285,6 +1267,87 @@
         "h": 508
     },
     {
+        "id": "ddd96c2b5e459d48",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5e3d80601e419927",
+            "86535714f1669122",
+            "726fd996008c57b0",
+            "99420c6ae32621eb",
+            "8aa58f6b373d6916",
+            "6f9629c94f36d8b3",
+            "1e9d15b0b13107ad"
+        ],
+        "x": 14,
+        "y": 639,
+        "w": 872,
+        "h": 202
+    },
+    {
+        "id": "8decfaef7147e8a7",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f752fad13dce83db",
+            "c5eb88bcf6b0e23f",
+            "9e6b52f5c50888ad",
+            "4d68f0660f051bc1",
+            "14adf85b612d8515",
+            "dcf1cf8bb986869f",
+            "98ce62d30463bb7c",
+            "6851bc608b138880"
+        ],
+        "x": 14,
+        "y": 859,
+        "w": 832,
+        "h": 262
+    },
+    {
+        "id": "415911d8068e972a",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f54faf82623a3f82",
+            "dbb56407c993f3fc",
+            "4978a80267958c57",
+            "f4e1ddef36a6d96e",
+            "436f3a083663cdf8",
+            "7d5ee5d5be10c5e9"
+        ],
+        "x": 1014,
+        "y": 19,
+        "w": 462,
+        "h": 202
+    },
+    {
         "id": "fad68b6a6babdd4c",
         "type": "group",
         "z": "de4cf0a89bfc7b01",
@@ -1701,7 +1764,7 @@
         "h": 242
     },
     {
-        "id": "ddd96c2b5e459d48",
+        "id": "8381699e5b93b16c",
         "type": "group",
         "z": "cfdddf09d7102807",
         "style": {
@@ -1714,49 +1777,21 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "5e3d80601e419927",
-            "86535714f1669122",
-            "726fd996008c57b0",
-            "99420c6ae32621eb",
-            "8aa58f6b373d6916",
-            "6f9629c94f36d8b3",
-            "1e9d15b0b13107ad"
+            "8661bd348dfa67eb",
+            "83915cd28c65f6d3",
+            "0f69318b3ef92d2a",
+            "e55c9c8e013bf9d5",
+            "87ab2dd6692f15c6",
+            "d2d6beddada85433",
+            "fcfac3bfebf68a84"
         ],
         "x": 14,
-        "y": 639,
-        "w": 872,
-        "h": 202
-    },
-    {
-        "id": "8decfaef7147e8a7",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f752fad13dce83db",
-            "c5eb88bcf6b0e23f",
-            "9e6b52f5c50888ad",
-            "4d68f0660f051bc1",
-            "14adf85b612d8515",
-            "dcf1cf8bb986869f",
-            "98ce62d30463bb7c",
-            "6851bc608b138880"
-        ],
-        "x": 14,
-        "y": 859,
-        "w": 832,
+        "y": 1139,
+        "w": 772,
         "h": 262
     },
     {
-        "id": "415911d8068e972a",
+        "id": "1013b1306a18b27b",
         "type": "group",
         "z": "cfdddf09d7102807",
         "style": {
@@ -1769,17 +1804,18 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "f54faf82623a3f82",
-            "dbb56407c993f3fc",
-            "4978a80267958c57",
-            "f4e1ddef36a6d96e",
-            "436f3a083663cdf8",
-            "7d5ee5d5be10c5e9"
+            "1a19f50fbbf50184",
+            "ae8fb248599b0bdb",
+            "5cbdcc4506fd66a0",
+            "315aa27445c93d5a",
+            "a2ca596ea1231aaf",
+            "9bfdbcd3cdb03371",
+            "bf99e8eb292a2e1e"
         ],
-        "x": 1014,
-        "y": 19,
-        "w": 462,
-        "h": 202
+        "x": 14,
+        "y": 1419,
+        "w": 772,
+        "h": 262
     },
     {
         "id": "f2f86710f80408e7",
@@ -6249,6 +6285,242 @@
         "wires": [
             [
                 "dcf1cf8bb986869f"
+            ]
+        ]
+    },
+    {
+        "id": "8661bd348dfa67eb",
+        "type": "http in",
+        "z": "cfdddf09d7102807",
+        "g": "8381699e5b93b16c",
+        "name": "",
+        "url": "/schedule/:id",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 1260,
+        "wires": [
+            [
+                "0f69318b3ef92d2a"
+            ]
+        ]
+    },
+    {
+        "id": "83915cd28c65f6d3",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "8381699e5b93b16c",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 560,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "0f69318b3ef92d2a",
+        "type": "switch",
+        "z": "cfdddf09d7102807",
+        "g": "8381699e5b93b16c",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 1260,
+        "wires": [
+            [
+                "d2d6beddada85433"
+            ],
+            [
+                "83915cd28c65f6d3"
+            ]
+        ]
+    },
+    {
+        "id": "e55c9c8e013bf9d5",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "8381699e5b93b16c",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 710,
+        "y": 1300,
+        "wires": []
+    },
+    {
+        "id": "87ab2dd6692f15c6",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "8381699e5b93b16c",
+        "name": "ReST/DELETE A Schedule",
+        "info": "",
+        "x": 150,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "d2d6beddada85433",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "8381699e5b93b16c",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"DELETE FROM scheduleData\" +\n            \" WHERE id = \" + msg.req.params.id +\n            \" AND uid = '\" + msg.req.userToken + \"';\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 1220,
+        "wires": [
+            [
+                "fcfac3bfebf68a84"
+            ]
+        ]
+    },
+    {
+        "id": "fcfac3bfebf68a84",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "8381699e5b93b16c",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 640,
+        "y": 1260,
+        "wires": [
+            [
+                "e55c9c8e013bf9d5"
+            ]
+        ]
+    },
+    {
+        "id": "1a19f50fbbf50184",
+        "type": "http in",
+        "z": "cfdddf09d7102807",
+        "g": "1013b1306a18b27b",
+        "name": "",
+        "url": "/schedules/all",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 1540,
+        "wires": [
+            [
+                "5cbdcc4506fd66a0"
+            ]
+        ]
+    },
+    {
+        "id": "ae8fb248599b0bdb",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "1013b1306a18b27b",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 560,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "5cbdcc4506fd66a0",
+        "type": "switch",
+        "z": "cfdddf09d7102807",
+        "g": "1013b1306a18b27b",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 1540,
+        "wires": [
+            [
+                "9bfdbcd3cdb03371"
+            ],
+            [
+                "ae8fb248599b0bdb"
+            ]
+        ]
+    },
+    {
+        "id": "315aa27445c93d5a",
+        "type": "http response",
+        "z": "cfdddf09d7102807",
+        "g": "1013b1306a18b27b",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 710,
+        "y": 1580,
+        "wires": []
+    },
+    {
+        "id": "a2ca596ea1231aaf",
+        "type": "comment",
+        "z": "cfdddf09d7102807",
+        "g": "1013b1306a18b27b",
+        "name": "ReST/DELETE A Schedule",
+        "info": "",
+        "x": 150,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "9bfdbcd3cdb03371",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "1013b1306a18b27b",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"DELETE FROM scheduleData\" +\n            \" WHERE uid = '\" + msg.req.userToken + \"';\"\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 1500,
+        "wires": [
+            [
+                "bf99e8eb292a2e1e"
+            ]
+        ]
+    },
+    {
+        "id": "bf99e8eb292a2e1e",
+        "type": "mysql",
+        "z": "cfdddf09d7102807",
+        "g": "1013b1306a18b27b",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 640,
+        "y": 1540,
+        "wires": [
+            [
+                "315aa27445c93d5a"
             ]
         ]
     },
