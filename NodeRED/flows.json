@@ -24,7 +24,7 @@
         "env": []
     },
     {
-        "id": "de4cf0a89bfc7b01",
+        "id": "2807eb5038af723b",
         "type": "tab",
         "label": "Dashboard",
         "disabled": false,
@@ -59,14 +59,6 @@
         "id": "6247d9d13f3d1415",
         "type": "tab",
         "label": "Testing",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
-        "id": "2807eb5038af723b",
-        "type": "tab",
-        "label": "Dashboard",
         "disabled": false,
         "info": "",
         "env": []
@@ -170,7 +162,9 @@
             "69fd65e799173d30"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 992,
+        "h": 202
     },
     {
         "id": "7457db638135fbdb",
@@ -194,7 +188,9 @@
             "edcb6c70dd6d14e2"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 1232,
+        "h": 122
     },
     {
         "id": "617bb68c7b2284cf",
@@ -222,7 +218,9 @@
             "29544c1af11d03dc"
         ],
         "x": 14,
-        "y": 379
+        "y": 379,
+        "w": 1252,
+        "h": 242
     },
     {
         "id": "778ff3b8764df908",
@@ -252,7 +250,9 @@
             "388d2936128df466"
         ],
         "x": 14,
-        "y": 639
+        "y": 639,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "08368f4a4f432e34",
@@ -282,7 +282,9 @@
             "7a1158daf4dae513"
         ],
         "x": 14,
-        "y": 959
+        "y": 959,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "2dac822f9fa8fa31",
@@ -327,7 +329,9 @@
             "247061156250feef"
         ],
         "x": 34,
-        "y": 19
+        "y": 19,
+        "w": 332,
+        "h": 122
     },
     {
         "id": "4b08a40382bbc675",
@@ -445,7 +449,9 @@
             "3ea44f65a91ee26c"
         ],
         "x": 34,
-        "y": 159
+        "y": 159,
+        "w": 392,
+        "h": 122
     },
     {
         "id": "2e8c563c95931cf4",
@@ -466,7 +472,9 @@
             "556876be6c6ceeff"
         ],
         "x": 34,
-        "y": 299
+        "y": 299,
+        "w": 372,
+        "h": 122
     },
     {
         "id": "e4ec5a08b48d755b",
@@ -482,7 +490,9 @@
             "0d5b1751af6329c2"
         ],
         "x": 514,
-        "y": 19
+        "y": 19,
+        "w": 312,
+        "h": 122
     },
     {
         "id": "37e07ac837df916b",
@@ -503,7 +513,9 @@
             "d31aab6cc8c7ec1c"
         ],
         "x": 514,
-        "y": 159
+        "y": 159,
+        "w": 372,
+        "h": 122
     },
     {
         "id": "ac8de8dddde18929",
@@ -524,7 +536,9 @@
             "2a4d9107a01bafb6"
         ],
         "x": 514,
-        "y": 299
+        "y": 299,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "9ea8eb5fbd9fba9b",
@@ -546,7 +560,9 @@
             "cb62d5174fdbc2dc"
         ],
         "x": 14,
-        "y": 1439
+        "y": 1439,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "a429ddf13a770b14",
@@ -568,7 +584,9 @@
             "d3c7fdd2bdc2106c"
         ],
         "x": 14,
-        "y": 1279
+        "y": 1279,
+        "w": 612,
+        "h": 142
     },
     {
         "id": "f2145b5e6ee8c3d0",
@@ -662,7 +680,9 @@
             "3ce598360cdb14a1"
         ],
         "x": 1234,
-        "y": 19
+        "y": 19,
+        "w": 732,
+        "h": 142
     },
     {
         "id": "2a453a7e3ac8b7d5",
@@ -685,7 +705,9 @@
             "26c6221db2264c7e"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 978,
+        "h": 288
     },
     {
         "id": "93bbf3532a16dd26",
@@ -708,7 +730,9 @@
             "863e490f3b70d122"
         ],
         "x": 14,
-        "y": 759
+        "y": 759,
+        "w": 772,
+        "h": 142
     },
     {
         "id": "2f09dd3159695cd2",
@@ -731,7 +755,9 @@
             "0d68f82b9254cd4a"
         ],
         "x": 34,
-        "y": 439
+        "y": 439,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "836b236884538e1e",
@@ -754,7 +780,9 @@
             "075beec50ea49c1f"
         ],
         "x": 34,
-        "y": 579
+        "y": 579,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "dc25248d8126293c",
@@ -777,7 +805,9 @@
             "35a0818c8e8895c8"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "bbf33d30f2db4f13",
@@ -803,7 +833,9 @@
             "b13ad32392a2c316"
         ],
         "x": 14,
-        "y": 319
+        "y": 319,
+        "w": 912,
+        "h": 302
     },
     {
         "id": "926801c45750aac7",
@@ -1026,26 +1058,6 @@
         "h": 222
     },
     {
-        "id": "9b579c9fc40f7e83",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "3a07979c9ddda917",
-            "e7142526c3a74dce"
-        ],
-        "x": 54,
-        "y": 759
-    },
-    {
         "id": "bae83060d3dc982e",
         "type": "group",
         "z": "471ac2a8a5e8653b",
@@ -1068,26 +1080,6 @@
         ],
         "x": 14,
         "y": 839
-    },
-    {
-        "id": "165ad02abc6cf50a",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "c35091324be5c316",
-            "78ec5d44d29dd5f7"
-        ],
-        "x": 54,
-        "y": 859
     },
     {
         "id": "a79f34438c7bae0f",
@@ -1116,80 +1108,9 @@
             "c8b663bf39e4a43e"
         ],
         "x": 14,
-        "y": 19
-    },
-    {
-        "id": "d22a6a0df987ebd1",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "65d65853a43abedb",
-            "52d707234a0ef984",
-            "7048e413a3b7452c",
-            "7d979c489cd8f986",
-            "90f89c2f4fb1c4e8"
-        ],
-        "x": 454,
-        "y": 19
-    },
-    {
-        "id": "333aae020fa16f51",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "e4aaa6bd29ea318e",
-            "496ee6e2867044a2",
-            "4c6db570c360190d",
-            "5cf26914d910f5d5",
-            "655eb77f7ae0bf03",
-            "fad68b6a6babdd4c"
-        ],
-        "x": 14,
-        "y": 19
-    },
-    {
-        "id": "3109a2c1421b909f",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "7ddbb441f79cf458",
-            "980db0748f8a9189",
-            "1a92952a16c291c7",
-            "f1b91460db574379",
-            "0881e86bb8f247dc",
-            "9cda233f1f5c5cee",
-            "fc6f0656d97eaf7b",
-            "53b148a043c03184"
-        ],
-        "x": 854,
-        "y": 19
+        "y": 19,
+        "w": 1132,
+        "h": 322
     },
     {
         "id": "ddd96c2b5e459d48",
@@ -1214,7 +1135,9 @@
             "1e9d15b0b13107ad"
         ],
         "x": 14,
-        "y": 639
+        "y": 639,
+        "w": 872,
+        "h": 202
     },
     {
         "id": "8decfaef7147e8a7",
@@ -1240,7 +1163,9 @@
             "6851bc608b138880"
         ],
         "x": 14,
-        "y": 859
+        "y": 859,
+        "w": 832,
+        "h": 262
     },
     {
         "id": "415911d8068e972a",
@@ -1264,7 +1189,9 @@
             "7d5ee5d5be10c5e9"
         ],
         "x": 1014,
-        "y": 19
+        "y": 19,
+        "w": 462,
+        "h": 202
     },
     {
         "id": "8381699e5b93b16c",
@@ -1289,7 +1216,9 @@
             "fcfac3bfebf68a84"
         ],
         "x": 14,
-        "y": 1139
+        "y": 1139,
+        "w": 772,
+        "h": 262
     },
     {
         "id": "1013b1306a18b27b",
@@ -1314,7 +1243,9 @@
             "bf99e8eb292a2e1e"
         ],
         "x": 14,
-        "y": 1419
+        "y": 1419,
+        "w": 772,
+        "h": 262
     },
     {
         "id": "ad3407b7e112dfab",
@@ -1339,7 +1270,9 @@
             "f45d589dd0982571"
         ],
         "x": 14,
-        "y": 359
+        "y": 359,
+        "w": 1178,
+        "h": 382
     },
     {
         "id": "b9c950cfbd703046",
@@ -1579,70 +1512,6 @@
         "h": 582
     },
     {
-        "id": "fad68b6a6babdd4c",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "g": "333aae020fa16f51",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "6158adba59b15584",
-            "563a4537d95742d1",
-            "7307f2dc5270af07"
-        ],
-        "x": 54,
-        "y": 259
-    },
-    {
-        "id": "90f89c2f4fb1c4e8",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "g": "d22a6a0df987ebd1",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f855d8dc8cbdec90",
-            "f68594fdc6a8126a"
-        ],
-        "x": 494,
-        "y": 239
-    },
-    {
-        "id": "53b148a043c03184",
-        "type": "group",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "13bd3501b247cb8a",
-            "4317d4b7ee72a9b2"
-        ],
-        "x": 894,
-        "y": 359
-    },
-    {
         "id": "dce3be978a1f0dc6",
         "type": "group",
         "z": "471ac2a8a5e8653b",
@@ -1842,7 +1711,9 @@
             "7fc8e7a46b665229"
         ],
         "x": 614,
-        "y": 399
+        "y": 399,
+        "w": 392,
+        "h": 122
     },
     {
         "id": "f45d589dd0982571",
@@ -1865,7 +1736,9 @@
             "a3658b821c559c70"
         ],
         "x": 614,
-        "y": 539
+        "y": 539,
+        "w": 552,
+        "h": 122
     },
     {
         "id": "91c825ea46b2a62d",
@@ -1887,7 +1760,9 @@
             "03b0e0d04d47db70"
         ],
         "x": 274,
-        "y": 159
+        "y": 159,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "26c6221db2264c7e",
@@ -1909,7 +1784,9 @@
             "4c2abee3bd26a5b8"
         ],
         "x": 654,
-        "y": 159
+        "y": 159,
+        "w": 312,
+        "h": 122
     },
     {
         "id": "72d880c1ddc03bbe",
@@ -2091,6 +1968,36 @@
         "h": 342
     },
     {
+        "id": "05ec82e119a7a212",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3aa43b3908b94a87",
+            "b85d976af7d63e03",
+            "ed69f1f0ae9fa808",
+            "f2b3c46d06a2a0ed",
+            "c09c9f79080483ec",
+            "944f70ed4fe97466",
+            "ea728a363f31df95",
+            "d858eda2320d91a7",
+            "d41d0d4dfa028a78",
+            "3dc7b852bdbe91d4"
+        ],
+        "x": 954,
+        "y": 2679,
+        "w": 1152,
+        "h": 322
+    },
+    {
         "id": "f2f86710f80408e7",
         "type": "mqtt-broker",
         "name": "",
@@ -2238,7 +2145,7 @@
     {
         "id": "b1c00c1305e6ac21",
         "type": "ui_group",
-        "name": "API",
+        "name": "WhatsApp",
         "tab": "1d987565aa907a44",
         "order": 4,
         "disp": true,
@@ -4656,10 +4563,10 @@
         "wires": []
     },
     {
-        "id": "e4aaa6bd29ea318e",
+        "id": "a7a8a9d2d3b7ea14",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "333aae020fa16f51",
+        "z": "2807eb5038af723b",
+        "g": "3efc7f94eb3f5feb",
         "name": "Set/Show Notification (On / Off)",
         "info": "Use ReST API of User Management",
         "x": 170,
@@ -4667,10 +4574,10 @@
         "wires": []
     },
     {
-        "id": "496ee6e2867044a2",
+        "id": "ad49d8dd3293b608",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "333aae020fa16f51",
+        "z": "2807eb5038af723b",
+        "g": "3efc7f94eb3f5feb",
         "name": "Set/Show E-Mail Address",
         "info": "Use ReST API of User Management",
         "x": 150,
@@ -4678,10 +4585,10 @@
         "wires": []
     },
     {
-        "id": "4c6db570c360190d",
+        "id": "e8a4362463e56e2f",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "333aae020fa16f51",
+        "z": "2807eb5038af723b",
+        "g": "3efc7f94eb3f5feb",
         "name": "Set/Show Whatsapp API-KEY & Phone Number",
         "info": "Use ReST API of User Management",
         "x": 220,
@@ -4689,10 +4596,10 @@
         "wires": []
     },
     {
-        "id": "6158adba59b15584",
+        "id": "44563deca0d92f28",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "fad68b6a6babdd4c",
+        "z": "2807eb5038af723b",
+        "g": "49ec07d5a9500807",
         "name": "Show ID",
         "info": "",
         "x": 140,
@@ -4700,10 +4607,10 @@
         "wires": []
     },
     {
-        "id": "563a4537d95742d1",
+        "id": "4b552e6339b25e5b",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "fad68b6a6babdd4c",
+        "z": "2807eb5038af723b",
+        "g": "49ec07d5a9500807",
         "name": "Show API Token",
         "info": "",
         "x": 160,
@@ -4711,10 +4618,10 @@
         "wires": []
     },
     {
-        "id": "65d65853a43abedb",
+        "id": "b9fe8424681065f7",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "d22a6a0df987ebd1",
+        "z": "2807eb5038af723b",
+        "g": "e696151fe100b641",
         "name": "Show Water Remaining",
         "info": "Use MSG Subscription",
         "x": 580,
@@ -4722,10 +4629,10 @@
         "wires": []
     },
     {
-        "id": "52d707234a0ef984",
+        "id": "5fe81c0ac1e84a67",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "d22a6a0df987ebd1",
+        "z": "2807eb5038af723b",
+        "g": "e696151fe100b641",
         "name": "Show Water Consumption",
         "info": "Use Event Listeners",
         "x": 590,
@@ -4733,10 +4640,10 @@
         "wires": []
     },
     {
-        "id": "f855d8dc8cbdec90",
+        "id": "71f63defb79a6175",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "90f89c2f4fb1c4e8",
+        "z": "2807eb5038af723b",
+        "g": "de8330487978c7e4",
         "name": "Show Water Consumption (Daily)",
         "info": "",
         "x": 650,
@@ -4744,10 +4651,10 @@
         "wires": []
     },
     {
-        "id": "7ddbb441f79cf458",
+        "id": "d788315f4bedd8a2",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
         "name": "Show Food Remaining (Container)",
         "info": "Use MSG Subscription",
         "x": 1020,
@@ -4755,10 +4662,10 @@
         "wires": []
     },
     {
-        "id": "980db0748f8a9189",
+        "id": "7daea3ec91003b5e",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
         "name": "Show Food Remaining (Bowl)",
         "info": "Use MSG Subscription",
         "x": 1000,
@@ -4766,10 +4673,10 @@
         "wires": []
     },
     {
-        "id": "1a92952a16c291c7",
+        "id": "edc66f109caf9265",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
         "name": "Show Food Consumption",
         "info": "Use Event Listeners",
         "x": 990,
@@ -4777,10 +4684,10 @@
         "wires": []
     },
     {
-        "id": "13bd3501b247cb8a",
+        "id": "3b3498d77a14fe18",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "53b148a043c03184",
+        "z": "2807eb5038af723b",
+        "g": "a93966fcf27fb00d",
         "name": "Show Food Consumption (Daily)",
         "info": "",
         "x": 1050,
@@ -4788,10 +4695,10 @@
         "wires": []
     },
     {
-        "id": "f1b91460db574379",
+        "id": "0d11babe96377c80",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
         "name": "Serve Food (By Button)",
         "info": "Use MSG Publicationn",
         "x": 980,
@@ -4799,10 +4706,10 @@
         "wires": []
     },
     {
-        "id": "0881e86bb8f247dc",
+        "id": "d12290f515b40f63",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
         "name": "Set/Show Food Serve Schedule",
         "info": "",
         "x": 1010,
@@ -4810,10 +4717,10 @@
         "wires": []
     },
     {
-        "id": "7048e413a3b7452c",
+        "id": "f1c4e655881fcf3d",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "d22a6a0df987ebd1",
+        "z": "2807eb5038af723b",
+        "g": "e696151fe100b641",
         "name": "Show Water-Dispenser Status",
         "info": "Use Event Listeners",
         "x": 600,
@@ -4821,10 +4728,10 @@
         "wires": []
     },
     {
-        "id": "9cda233f1f5c5cee",
+        "id": "7b903a2c2c61ce76",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
         "name": "Show Food-Feeder Status",
         "info": "Use Event Listeners",
         "x": 990,
@@ -4832,10 +4739,10 @@
         "wires": []
     },
     {
-        "id": "5cf26914d910f5d5",
+        "id": "ec25f9eb4cb8befd",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "333aae020fa16f51",
+        "z": "2807eb5038af723b",
+        "g": "3efc7f94eb3f5feb",
         "name": "<Settings>",
         "info": "",
         "x": 200,
@@ -4843,10 +4750,10 @@
         "wires": []
     },
     {
-        "id": "7d979c489cd8f986",
+        "id": "b3401fa4f95194f2",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "d22a6a0df987ebd1",
+        "z": "2807eb5038af723b",
+        "g": "e696151fe100b641",
         "name": "<Water-Dispenser>",
         "info": "",
         "x": 610,
@@ -4854,10 +4761,10 @@
         "wires": []
     },
     {
-        "id": "fc6f0656d97eaf7b",
+        "id": "10c1d30aca6894c2",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "3109a2c1421b909f",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
         "name": "<Food-Feeder>",
         "info": "",
         "x": 1020,
@@ -4865,10 +4772,10 @@
         "wires": []
     },
     {
-        "id": "655eb77f7ae0bf03",
+        "id": "7cc8dbda845609bf",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "333aae020fa16f51",
+        "z": "2807eb5038af723b",
+        "g": "3efc7f94eb3f5feb",
         "name": "Set/Show Timezone",
         "info": "Use ReST API of User Management",
         "x": 130,
@@ -4876,10 +4783,10 @@
         "wires": []
     },
     {
-        "id": "7307f2dc5270af07",
+        "id": "cf7373ddd27211bf",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "fad68b6a6babdd4c",
+        "z": "2807eb5038af723b",
+        "g": "49ec07d5a9500807",
         "name": "Enhancement",
         "info": "",
         "x": 150,
@@ -4887,10 +4794,10 @@
         "wires": []
     },
     {
-        "id": "f68594fdc6a8126a",
+        "id": "f58387f2e46bffb0",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "90f89c2f4fb1c4e8",
+        "z": "2807eb5038af723b",
+        "g": "de8330487978c7e4",
         "name": "Enhancement",
         "info": "",
         "x": 590,
@@ -4898,10 +4805,10 @@
         "wires": []
     },
     {
-        "id": "4317d4b7ee72a9b2",
+        "id": "a68eac144d84fa33",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "53b148a043c03184",
+        "z": "2807eb5038af723b",
+        "g": "a93966fcf27fb00d",
         "name": "Enhancement",
         "info": "",
         "x": 990,
@@ -4909,10 +4816,10 @@
         "wires": []
     },
     {
-        "id": "3a07979c9ddda917",
+        "id": "fcb4143e638cc28c",
         "type": "link in",
-        "z": "de4cf0a89bfc7b01",
-        "g": "9b579c9fc40f7e83",
+        "z": "2807eb5038af723b",
+        "g": "b9c950cfbd703046",
         "name": "Device Status Changed Event Listener",
         "links": [
             "82402946b66c1c49"
@@ -4921,15 +4828,15 @@
         "y": 800,
         "wires": [
             [
-                "f8f0f166bb61505a"
+                "5203b836a0ab12c1"
             ]
         ]
     },
     {
-        "id": "e7142526c3a74dce",
+        "id": "c96c8ac51a1fe4fa",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "9b579c9fc40f7e83",
+        "z": "2807eb5038af723b",
+        "g": "b9c950cfbd703046",
         "name": "Device Status Changed Event Listener",
         "info": "Client ID:      msg.payload.cid\nDevice Status:  msg.payload.stat",
         "x": 230,
@@ -4937,10 +4844,10 @@
         "wires": []
     },
     {
-        "id": "c35091324be5c316",
+        "id": "0d5bb3983f555f1d",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
-        "g": "165ad02abc6cf50a",
+        "z": "2807eb5038af723b",
+        "g": "61219b29a4308570",
         "name": "Consumption Event Listener",
         "info": "Topic:          msg.payload.topic\nConsumption:    msg.payload.totalDecr",
         "x": 200,
@@ -4948,10 +4855,10 @@
         "wires": []
     },
     {
-        "id": "78ec5d44d29dd5f7",
+        "id": "b8d3691b4b0db8de",
         "type": "link in",
-        "z": "de4cf0a89bfc7b01",
-        "g": "165ad02abc6cf50a",
+        "z": "2807eb5038af723b",
+        "g": "61219b29a4308570",
         "name": "Consumption Event Listener",
         "links": [
             "1ac02030b1753de6"
@@ -4960,14 +4867,14 @@
         "y": 900,
         "wires": [
             [
-                "08be8f8e0046abc2"
+                "aa4697c67a19127a"
             ]
         ]
     },
     {
-        "id": "f8f0f166bb61505a",
+        "id": "5203b836a0ab12c1",
         "type": "debug",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -4981,9 +4888,9 @@
         "wires": []
     },
     {
-        "id": "08be8f8e0046abc2",
+        "id": "aa4697c67a19127a",
         "type": "debug",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -4997,9 +4904,9 @@
         "wires": []
     },
     {
-        "id": "9714f7957c4bca9b",
+        "id": "826b6aeb20606fc9",
         "type": "mqtt in",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "topic": "users/petification/water-dispenser/scale/water",
         "qos": "2",
@@ -5013,14 +4920,14 @@
         "y": 1040,
         "wires": [
             [
-                "3146668fcbda1eda"
+                "0ba0e146ea4393d3"
             ]
         ]
     },
     {
-        "id": "e9208e97a1d3d401",
+        "id": "f3caa67f3a483ce1",
         "type": "mqtt in",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "topic": "users/petification/food-feeder/scale/container",
         "qos": "2",
@@ -5034,14 +4941,14 @@
         "y": 1080,
         "wires": [
             [
-                "8fafb55e5c060fe8"
+                "659848c0a08174e8"
             ]
         ]
     },
     {
-        "id": "ca58703c1fb3695b",
+        "id": "265d6b5f86cb0f2f",
         "type": "mqtt in",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "topic": "users/petification/food-feeder/scale/bowl",
         "qos": "2",
@@ -5055,14 +4962,14 @@
         "y": 1120,
         "wires": [
             [
-                "0106c8177f994a12"
+                "5e7bc10284ca5e81"
             ]
         ]
     },
     {
-        "id": "3146668fcbda1eda",
+        "id": "0ba0e146ea4393d3",
         "type": "debug",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -5076,9 +4983,9 @@
         "wires": []
     },
     {
-        "id": "8fafb55e5c060fe8",
+        "id": "659848c0a08174e8",
         "type": "debug",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -5092,9 +4999,9 @@
         "wires": []
     },
     {
-        "id": "0106c8177f994a12",
+        "id": "5e7bc10284ca5e81",
         "type": "debug",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -5108,9 +5015,9 @@
         "wires": []
     },
     {
-        "id": "fa52a9973ab032bb",
+        "id": "d835b5ee87091c01",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "Show Water-Dispenser Status",
         "info": "",
         "x": 820,
@@ -5118,9 +5025,9 @@
         "wires": []
     },
     {
-        "id": "45853abef4f8d7aa",
+        "id": "5b035079eb0ca6cb",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "Show Food-Feeder Status",
         "info": "",
         "x": 810,
@@ -5128,9 +5035,9 @@
         "wires": []
     },
     {
-        "id": "0356023202370e9c",
+        "id": "21ce8dc3e9370d5d",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "Show Water Consumption",
         "info": "",
         "x": 810,
@@ -5138,9 +5045,9 @@
         "wires": []
     },
     {
-        "id": "db4ebf28b9ceb845",
+        "id": "866a35fe25e23b4c",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "Show Food Consumption",
         "info": "",
         "x": 810,
@@ -5148,9 +5055,9 @@
         "wires": []
     },
     {
-        "id": "55f8e4b2d64be664",
+        "id": "5708b4e8e1388318",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "Show Water Remaining",
         "info": "",
         "x": 800,
@@ -5158,9 +5065,9 @@
         "wires": []
     },
     {
-        "id": "b0547398189f7304",
+        "id": "071701e687669483",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "Show Food Remaining (Container)",
         "info": "",
         "x": 840,
@@ -5168,14 +5075,1558 @@
         "wires": []
     },
     {
-        "id": "334d2cd60ff7587b",
+        "id": "5a23e129e4e1b4af",
         "type": "comment",
-        "z": "de4cf0a89bfc7b01",
+        "z": "2807eb5038af723b",
         "name": "Show Food Remaining (Bowl)",
         "info": "",
         "x": 820,
         "y": 1120,
         "wires": []
+    },
+    {
+        "id": "c3520c6dfba6688d",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "Water-Dispenser",
+        "info": "",
+        "x": 1060,
+        "y": 1340,
+        "wires": []
+    },
+    {
+        "id": "dba6506e01221984",
+        "type": "ui_chart",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "",
+        "group": "1c59b2e42a6a75ab",
+        "order": 2,
+        "width": "6",
+        "height": "6",
+        "label": "Water Consumption",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1570,
+        "y": 1620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "710b164898209090",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "Show Water Remaining",
+        "info": "",
+        "x": 1080,
+        "y": 1420,
+        "wires": []
+    },
+    {
+        "id": "b517c36974c1d4c5",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "Show Water Consumption",
+        "info": "",
+        "x": 1090,
+        "y": 1560,
+        "wires": []
+    },
+    {
+        "id": "6cb560dfb6fa0c66",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "Show Water-Dispenser Status",
+        "info": "",
+        "x": 1100,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "d26b56931ce8c392",
+        "type": "ui_gauge",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "",
+        "group": "1c59b2e42a6a75ab",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Water ",
+        "label": "units",
+        "format": "{{value}} g",
+        "min": 0,
+        "max": "150",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "50",
+        "seg2": "100",
+        "className": "",
+        "x": 1410,
+        "y": 1480,
+        "wires": []
+    },
+    {
+        "id": "ec9599de4c26f5be",
+        "type": "ui_led",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "order": 4,
+        "group": "1c59b2e42a6a75ab",
+        "width": 0,
+        "height": 0,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "Off",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "On",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 1290,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "f1cf45ac9dcd96bc",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "group": "1c59b2e42a6a75ab",
+        "order": 3,
+        "width": "6",
+        "height": "2",
+        "name": "",
+        "label": "Device Health Check",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1340,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "62b8e8110e80bf00",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "Serve Food(By Button)",
+        "info": "",
+        "x": 240,
+        "y": 1660,
+        "wires": []
+    },
+    {
+        "id": "a4cf1a33a4b16bab",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "Set Food Serve Schedule",
+        "info": "",
+        "x": 250,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "9698410b83a0265f",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "Food Feeder Controll",
+        "info": "",
+        "x": 240,
+        "y": 1340,
+        "wires": []
+    },
+    {
+        "id": "b2ebf6059fcbb1dc",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "cbf76a220ccfb8a7",
+        "name": "UI Dashboard",
+        "info": "",
+        "x": 1130,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "b15d82176c1d2dc6",
+        "type": "ui_template",
+        "z": "2807eb5038af723b",
+        "g": "cbf76a220ccfb8a7",
+        "group": "1c59b2e42a6a75ab",
+        "name": "dashboard CSS",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<style id=\"blue-dashboard\">\n\nbody.nr-dashboard-theme {\n    background: linear-gradient(180deg, #6FD7F4 10.32%, #B9D1DF 64.55%, #C1CAE3 100%);\n}\n\nbody.nr-dashboard-theme md-toolbar {\n   background:rgba(85, 149, 176, 0.56);\n}\n\n/* side-navi */\n\nbody.nr-dashboard-theme md-sidenav {\n    background: linear-gradient(270deg, #59D1F2 10.06%, #72D8F4 40.45%, #90DEF4 65.97%, #B9E7F4 89.41%);\n}\n\nbody.nr-dashboard-theme md-sidenav div.md-list-item-inner {\n    color: rgb(0 0 0);\n    background-color: transparent;\n}\n\n/*\n\neach card panel\n\n    justify-content:space-around;\n*/\nbody.nr-dashboard-theme ui-card-panel {\n    position: absolute;\n    margin-top : 7%; /* additional property*/\n    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);\n    border: 5px solid #4B539C;\n    border-radius: 1em;\n    box-shadow: 0 0 1em 0em rgb(0 0 100 / 50%);\n}\n\nbody.nr-dashboard-theme md-content md-card {\n    background: transparent;\n    color: rgb(75,83,156); /* Basic : rgb(215 223 245); */\n    font-weight: bold; /* additional property */\n   \n    \n}\n\n\n.nr-dashboard-theme .nr-dashboard-template {\n    background:transparent;\n}\n\n\n\n.nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {\n    color: #000000; /* additional property*/\n    font-size: 25px; /* additional property*/\n    text-shadow: 1px 1px 0px rgb(0 0 0 / 50%);\n    font-weight: bolder; /* additional property*/\n}\n\n\n.md-button{\n    border-radius:0.6em;\n    color: #000000; /*fixed. but I don't know what this code do. */\n}\n\n\n\n.nr-dashboard-theme .nr-dashboard-button .md-button {\n    background-color: #053ea8; \n    color:rgb(215 223 245);\n    font-size: 15px; /* additional property*/\n    font-weight: bold; /* additional property*/\n}\n\n.nr-dashboard-theme .nr-dashboard-button .md-button:hover {\n    background-color: #8AA9E1;\n}\n.nr-dashboard-theme .nr-dashboard-button .md-button:focus {\n    background-color: #8AA9E1;\n}\n\n/* here now */\n\n.nr-dashboard-theme .nr-dashboard-numeric .value {\n    background:unset;\n    color: rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form {\n    color:rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form-button {\n    background-color: #053ea8;\n    color:rgb(215 223 245);\n}\n\n.nr-dashboard-theme .nr-dashboard-form-button:hover {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme .nr-dashboard-form-button:focus {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme md-input-container.md-default-theme .md-input, md-input-container .md-input {\n     color:rgb(215 223 245);\n    border-color: #074fd4 !important;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-thumb {\n    background-color: rgb(25 31 153);\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-bar {\n    background-color: rgb(94 94 177);\n    box-shadow: inset 0 0 1px #0000005e;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-bar {\n    background-color: rgb(94 94 177);\n     box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-thumb {\n    background-color: rgb(61 107 232);\n    box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-slider .md-track {\n    background-color: rgb(125 172 249 / 35%);\n}\nmd-slider .md-thumb {\n    box-shadow: 0 0 10px 0px #101086;\n}\n\n.nr-dashboard-theme .nr-dashboard-slider .md-thumb:after {\n    background-color: #3d6be8;\n    border-color: #3d6be8;\n}\n\n.nr-dashboard-theme md-select-menu, .nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(0 0 0 / 12%);\n    color:rgb(215 223 245);\n    border-radius:0.8em;\n}\n\n.nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value, .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value.md-select-placeholder {\n    margin-top: -3px;\n    border-color: #eeeeee7a;\n    \n}\n.nr-dashboard-theme .md-select-menu-container {\n    max-height: 85%;\n    overflow-y: auto;\n    border: none;\n    border-radius: 0.8em;\n}\n.nr-dashboard-theme .nr-dashboard-dropdown .md-select-icon {\n\n}\n.nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(40 53 147);\n   \n    height: 29px;\n    border-radius: 0.6em;\n    margin-left: 10px;\n    margin-right: 10px;\n    margin-top: 2px;\n    box-shadow: 0 0 6px 6px #24202133;\n    transition: 0.3s;\n}\n.nr-dashboard-theme md-select-menu md-option[selected] {\n    color: rgb(130 177 255) !important;\n    background-color: rgb(27 90 197) !important;\n}\n.nr-dashboard-theme md-select-menu md-option:nth-child(even) {\n    background-color: rgb(31 31 152);\n}\n.nr-dashboard-theme md-select-menu md-option:last-child {\n   margin-bottom: 8px;\n}\n.nr-dashboard-theme md-select-menu md-option:hover {\n    background-color: rgb(20 91 211) !important;\n    padding-left: 26px;\n}\n.nr-dashboard-theme md-select-menu md-option > .md-ripple-container{\n     border-radius: 14px;\n}\n\n.formlabel{\n    color : black;\n}\n\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 1140,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1c5f9bdb8cc23666",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "cbf76a220ccfb8a7",
+        "name": "Dashboard CSS",
+        "info": "",
+        "x": 1140,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "945f68680f86a283",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "Food Feeder",
+        "info": "",
+        "x": 1970,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "efd8fb56cdf7bb92",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "Show Food Remaining(Container)",
+        "info": "",
+        "x": 2040,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "40ce3c4e4def2b5c",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "Show Food Remaining(Bowl)",
+        "info": "",
+        "x": 2020,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "242066ee3e34da21",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "Show Food Consumption",
+        "info": "",
+        "x": 2010,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "6ba7415a5c7e9de7",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "Show Food-Feeder Status",
+        "info": "",
+        "x": 2010,
+        "y": 1780,
+        "wires": []
+    },
+    {
+        "id": "dbd87ac1da2ff266",
+        "type": "ui_gauge",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "",
+        "group": "35e893befae8d648",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Container",
+        "label": "units",
+        "format": "{{value}} g",
+        "min": 0,
+        "max": "150",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "50",
+        "seg2": "100",
+        "className": "",
+        "x": 2320,
+        "y": 1420,
+        "wires": []
+    },
+    {
+        "id": "b5bf835afbb8011b",
+        "type": "ui_gauge",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "",
+        "group": "35e893befae8d648",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Bowl",
+        "label": "units",
+        "format": "{{value}} g",
+        "min": 0,
+        "max": "150",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "50",
+        "seg2": "100",
+        "className": "",
+        "x": 2330,
+        "y": 1560,
+        "wires": []
+    },
+    {
+        "id": "31158ce5cbb7ab6e",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "",
+        "func": "//Calculate food consumption logic\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2280,
+        "y": 1640,
+        "wires": [
+            [
+                "40dc2fb9fd1ddd84"
+            ]
+        ]
+    },
+    {
+        "id": "40dc2fb9fd1ddd84",
+        "type": "ui_chart",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "",
+        "group": "35e893befae8d648",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Food Consumption",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 2290,
+        "y": 1700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2fd65db9997e0687",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "group": "35e893befae8d648",
+        "order": 4,
+        "width": "5",
+        "height": "2",
+        "name": "",
+        "label": "Device Health Check",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 2280,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "3dede06d085908f5",
+        "type": "ui_led",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "order": 5,
+        "group": "35e893befae8d648",
+        "width": 0,
+        "height": 0,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "Off",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "On",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 2230,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "ae7580648012c36c",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "",
+        "topic": "users/petification/food-feeder/scale/container",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 2070,
+        "y": 1420,
+        "wires": [
+            [
+                "dbd87ac1da2ff266"
+            ]
+        ]
+    },
+    {
+        "id": "f30c18c67a39581f",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "g": "92ba0c02fad53117",
+        "name": "",
+        "topic": "users/petification/food-feeder/scale/bowl",
+        "qos": "1",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 2050,
+        "y": 1560,
+        "wires": [
+            [
+                "b5bf835afbb8011b",
+                "31158ce5cbb7ab6e"
+            ]
+        ]
+    },
+    {
+        "id": "eda311aeb775aa4a",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "group": "ad292859cba7b247",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "On/Off",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1830,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "81dd938944170e06",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Settings",
+        "info": "",
+        "x": 1020,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "87df79dec94758f4",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "group": "c166754c88d73fc6",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current Timezone",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1390,
+        "y": 3420,
+        "wires": []
+    },
+    {
+        "id": "d56b266c5fbfcc92",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "Set/Show Notification (On/Off)",
+        "info": "",
+        "x": 1100,
+        "y": 2040,
+        "wires": []
+    },
+    {
+        "id": "3aa43b3908b94a87",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "Set/Show Whatsapp API-KEY",
+        "info": "",
+        "x": 1100,
+        "y": 2720,
+        "wires": []
+    },
+    {
+        "id": "7b81c91b3c3389fb",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "Set/Show E-Mail Address",
+        "info": "",
+        "x": 1090,
+        "y": 2360,
+        "wires": []
+    },
+    {
+        "id": "0e7b15f3b4308643",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Set/Show Timezone",
+        "info": "",
+        "x": 1070,
+        "y": 3540,
+        "wires": []
+    },
+    {
+        "id": "bbd0c01eca6d87a2",
+        "type": "ui_led",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "order": 1,
+        "group": "ad292859cba7b247",
+        "width": 0,
+        "height": 0,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "Off",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "On",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 1830,
+        "y": 2260,
+        "wires": []
+    },
+    {
+        "id": "5dd473509ed7873e",
+        "type": "ui_button",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "",
+        "group": "ad292859cba7b247",
+        "order": 2,
+        "width": "3",
+        "height": "2",
+        "passthru": false,
+        "label": "Notice On",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "On",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1040,
+        "y": 2080,
+        "wires": [
+            [
+                "5b653c2cd037eaf3"
+            ]
+        ]
+    },
+    {
+        "id": "653fae619555726b",
+        "type": "ui_button",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "",
+        "group": "ad292859cba7b247",
+        "order": 3,
+        "width": "3",
+        "height": "2",
+        "passthru": false,
+        "label": "Notice Off",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "Off",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1040,
+        "y": 2120,
+        "wires": [
+            [
+                "5b653c2cd037eaf3"
+            ]
+        ]
+    },
+    {
+        "id": "3b71c70dfa224f15",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "group": "eba1d9cc6f3a89fd",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current E-mail",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1760,
+        "y": 2620,
+        "wires": []
+    },
+    {
+        "id": "652a0b26b343d22b",
+        "type": "mqtt out",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "topic": "users/petification/settings/phone/set",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1eb4aa7d746828a2",
+        "x": 1380,
+        "y": 3060,
+        "wires": []
+    },
+    {
+        "id": "c853f610a85f0553",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "func": "// Current Timezone Lookup Query\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 3420,
+        "wires": [
+            [
+                "87df79dec94758f4"
+            ]
+        ]
+    },
+    {
+        "id": "05d353924f21e68d",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Set/Show Phone Number",
+        "info": "",
+        "x": 1070,
+        "y": 3320,
+        "wires": []
+    },
+    {
+        "id": "b85d976af7d63e03",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "group": "b1c00c1305e6ac21",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current API Key",
+        "format": "{{msg.payload.apikey}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 1940,
+        "y": 2920,
+        "wires": []
+    },
+    {
+        "id": "a50cd8bff59e8d75",
+        "type": "mqtt out",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "topic": "users/petification/settings/timezone/set",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 1590,
+        "y": 3380,
+        "wires": []
+    },
+    {
+        "id": "ed69f1f0ae9fa808",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "group": "b1c00c1305e6ac21",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current Phone Number",
+        "format": "{{msg.payload.phonenum}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 1970,
+        "y": 2960,
+        "wires": []
+    },
+    {
+        "id": "eef4f99d1e2e145f",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "func": "// Current Phone Number Lookup Query\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 3100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ab07399b2d2dd390",
+        "type": "mqtt out",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "",
+        "topic": "users/petification/food-feeder/action/quantity",
+        "qos": "1",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 710,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "af20a7bd2074444a",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 490,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "20ccaea429206f1a",
+        "type": "ui_form",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "",
+        "label": "User Control Part to Feeding",
+        "group": "ad04c2ea2866741d",
+        "order": 1,
+        "width": "6",
+        "height": "6",
+        "options": [
+            {
+                "label": "Set Food Quantity (g)",
+                "value": "quantity",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "quantity": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "str",
+        "splitLayout": "",
+        "className": "",
+        "x": 260,
+        "y": 1740,
+        "wires": [
+            [
+                "ab07399b2d2dd390",
+                "af20a7bd2074444a"
+            ]
+        ]
+    },
+    {
+        "id": "7a224b94d6b3b194",
+        "type": "ui_form",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "",
+        "label": "Automatic feeding time setting",
+        "group": "ad04c2ea2866741d",
+        "order": 2,
+        "width": "6",
+        "height": "6",
+        "options": [
+            {
+                "label": "Set Time HH:MM (00:00 ~ 23:59)",
+                "value": "time",
+                "type": "text",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "time": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "str",
+        "splitLayout": "",
+        "className": "",
+        "x": 270,
+        "y": 1520,
+        "wires": [
+            [
+                "6c37dba2cacdeb9a"
+            ]
+        ]
+    },
+    {
+        "id": "6c37dba2cacdeb9a",
+        "type": "mqtt out",
+        "z": "2807eb5038af723b",
+        "g": "77e988936d244eeb",
+        "name": "",
+        "topic": "users/petification/food-feeder/action/time",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 640,
+        "y": 1520,
+        "wires": []
+    },
+    {
+        "id": "40cc21c004cda31e",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "",
+        "topic": "users/petification/water-dispenser/scale/water",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1150,
+        "y": 1480,
+        "wires": [
+            [
+                "d26b56931ce8c392"
+            ]
+        ]
+    },
+    {
+        "id": "f74c5dfbc8c8f5e8",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "g": "775027b3aeae84e6",
+        "name": "",
+        "topic": "users/petification/water-dispenser/scale/consumption",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1170,
+        "y": 1620,
+        "wires": [
+            [
+                "dba6506e01221984"
+            ]
+        ]
+    },
+    {
+        "id": "35309dab547a6e92",
+        "type": "ui_form",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "",
+        "label": "Set E-mail Address",
+        "group": "eba1d9cc6f3a89fd",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Set E-mail Address",
+                "value": "email-address",
+                "type": "email",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "email-address": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "",
+        "topicType": "str",
+        "splitLayout": "",
+        "className": "",
+        "x": 1070,
+        "y": 2400,
+        "wires": [
+            [
+                "018b5775862c0d19"
+            ]
+        ]
+    },
+    {
+        "id": "f2b3c46d06a2a0ed",
+        "type": "ui_form",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "",
+        "label": "WhatsApp Account Settings",
+        "group": "b1c00c1305e6ac21",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Set Phone Number",
+                "value": "phonenum",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Set API Key",
+                "value": "key",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "phonenum": "",
+            "key": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "",
+        "topicType": "str",
+        "splitLayout": false,
+        "className": "",
+        "x": 1100,
+        "y": 2760,
+        "wires": [
+            [
+                "c09c9f79080483ec"
+            ]
+        ]
+    },
+    {
+        "id": "1dd5bf19a71aec8c",
+        "type": "ui_form",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "label": "Time Zone",
+        "group": "4579d83e78dcf2ff",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Set Timezone",
+                "value": "timezone",
+                "type": "text",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "timezone": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 1170,
+        "y": 3380,
+        "wires": [
+            [
+                "a50cd8bff59e8d75"
+            ]
+        ]
+    },
+    {
+        "id": "3f171ebd8f56fbb1",
+        "type": "ui_form",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "label": "Phone Number",
+        "group": "c166754c88d73fc6",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Set Phone Number",
+                "value": "phoneNum",
+                "type": "text",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "phoneNum": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 1050,
+        "y": 3060,
+        "wires": [
+            [
+                "652a0b26b343d22b"
+            ]
+        ]
+    },
+    {
+        "id": "e10f428ed9a68c8c",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "Initial",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1370,
+        "y": 2180,
+        "wires": [
+            [
+                "166790ec6b91915b"
+            ]
+        ]
+    },
+    {
+        "id": "7c5143a1fc6dba5d",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "ReST/GET Notification",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1600,
+        "y": 2200,
+        "wires": [
+            [
+                "667a550584cc237b"
+            ]
+        ]
+    },
+    {
+        "id": "667a550584cc237b",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "toString",
+        "func": "msg.payload = JSON.parse(msg.payload).notification === 1 ? \"On\" : \"Off\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 2240,
+        "wires": [
+            [
+                "eda311aeb775aa4a",
+                "bbd0c01eca6d87a2"
+            ]
+        ]
+    },
+    {
+        "id": "76ff40c0209fdafc",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "ReST/PATCH Notification",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1310,
+        "y": 2140,
+        "wires": [
+            [
+                "166790ec6b91915b"
+            ]
+        ]
+    },
+    {
+        "id": "5b653c2cd037eaf3",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "PreRequest",
+        "func": "msg.method = \"PATCH\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification/${msg.payload === \"On\" ? 1 : 0}`;\n\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 2100,
+        "wires": [
+            [
+                "76ff40c0209fdafc"
+            ]
+        ]
+    },
+    {
+        "id": "166790ec6b91915b",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "01412bd404014ceb",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification`;\n\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1530,
+        "y": 2160,
+        "wires": [
+            [
+                "7c5143a1fc6dba5d"
+            ]
+        ]
+    },
+    {
+        "id": "018b5775862c0d19",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "PreRequest",
+        "func": "if(msg.payload[\"email-address\"]) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/email/${msg.payload[\"email-address\"]}`;\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1170,
+        "y": 2440,
+        "wires": [
+            [
+                "2bf5eacdd9345665"
+            ]
+        ]
+    },
+    {
+        "id": "2bf5eacdd9345665",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "ReST/PATCH Email",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1270,
+        "y": 2480,
+        "wires": [
+            [
+                "d85c4ac4f3628635"
+            ]
+        ]
+    },
+    {
+        "id": "da2320ae16a4f58d",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "Initial",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1310,
+        "y": 2520,
+        "wires": [
+            [
+                "d85c4ac4f3628635"
+            ]
+        ]
+    },
+    {
+        "id": "d85c4ac4f3628635",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/email\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1470,
+        "y": 2500,
+        "wires": [
+            [
+                "2a8dc0507b19bdca"
+            ]
+        ]
+    },
+    {
+        "id": "2a8dc0507b19bdca",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "ReST/GET Email",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1570,
+        "y": 2540,
+        "wires": [
+            [
+                "e25bc056b5db41ce"
+            ]
+        ]
+    },
+    {
+        "id": "e25bc056b5db41ce",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "224e2fc2749d4aba",
+        "name": "toString",
+        "func": "msg.payload = JSON.parse(msg.payload).email;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 2580,
+        "wires": [
+            [
+                "3b71c70dfa224f15"
+            ]
+        ]
+    },
+    {
+        "id": "c09c9f79080483ec",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "PreRequest",
+        "func": "if(msg.payload.key && msg.payload.phonenum) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/wa/${msg.payload.key}/${msg.payload.phonenum}`;\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1230,
+        "y": 2800,
+        "wires": [
+            [
+                "944f70ed4fe97466"
+            ]
+        ]
+    },
+    {
+        "id": "944f70ed4fe97466",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "ReST/PATCH WhatsApp",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1350,
+        "y": 2840,
+        "wires": [
+            [
+                "d858eda2320d91a7"
+            ]
+        ]
+    },
+    {
+        "id": "ea728a363f31df95",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "Initial",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1410,
+        "y": 2880,
+        "wires": [
+            [
+                "d858eda2320d91a7"
+            ]
+        ]
+    },
+    {
+        "id": "d858eda2320d91a7",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/wa\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1570,
+        "y": 2860,
+        "wires": [
+            [
+                "d41d0d4dfa028a78"
+            ]
+        ]
+    },
+    {
+        "id": "d41d0d4dfa028a78",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "ReST/GET WhatsApp",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1680,
+        "y": 2900,
+        "wires": [
+            [
+                "3dc7b852bdbe91d4"
+            ]
+        ]
+    },
+    {
+        "id": "3dc7b852bdbe91d4",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "Parse",
+        "func": "msg.payload = JSON.parse(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1770,
+        "y": 2940,
+        "wires": [
+            [
+                "b85d976af7d63e03",
+                "ed69f1f0ae9fa808"
+            ]
+        ]
     },
     {
         "id": "eb03c4c4206e34a0",
@@ -8726,1971 +10177,5 @@
         "x": 610,
         "y": 800,
         "wires": []
-    },
-    {
-        "id": "a7a8a9d2d3b7ea14",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "3efc7f94eb3f5feb",
-        "name": "Set/Show Notification (On / Off)",
-        "info": "Use ReST API of User Management",
-        "x": 170,
-        "y": 100,
-        "wires": []
-    },
-    {
-        "id": "ad49d8dd3293b608",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "3efc7f94eb3f5feb",
-        "name": "Set/Show E-Mail Address",
-        "info": "Use ReST API of User Management",
-        "x": 150,
-        "y": 140,
-        "wires": []
-    },
-    {
-        "id": "e8a4362463e56e2f",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "3efc7f94eb3f5feb",
-        "name": "Set/Show Whatsapp API-KEY & Phone Number",
-        "info": "Use ReST API of User Management",
-        "x": 220,
-        "y": 180,
-        "wires": []
-    },
-    {
-        "id": "44563deca0d92f28",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "49ec07d5a9500807",
-        "name": "Show ID",
-        "info": "",
-        "x": 140,
-        "y": 360,
-        "wires": []
-    },
-    {
-        "id": "4b552e6339b25e5b",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "49ec07d5a9500807",
-        "name": "Show API Token",
-        "info": "",
-        "x": 160,
-        "y": 400,
-        "wires": []
-    },
-    {
-        "id": "b9fe8424681065f7",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "e696151fe100b641",
-        "name": "Show Water Remaining",
-        "info": "Use MSG Subscription",
-        "x": 580,
-        "y": 120,
-        "wires": []
-    },
-    {
-        "id": "5fe81c0ac1e84a67",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "e696151fe100b641",
-        "name": "Show Water Consumption",
-        "info": "Use Event Listeners",
-        "x": 590,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "71f63defb79a6175",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "de8330487978c7e4",
-        "name": "Show Water Consumption (Daily)",
-        "info": "",
-        "x": 650,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "d788315f4bedd8a2",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food Remaining (Container)",
-        "info": "Use MSG Subscription",
-        "x": 1020,
-        "y": 120,
-        "wires": []
-    },
-    {
-        "id": "7daea3ec91003b5e",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food Remaining (Bowl)",
-        "info": "Use MSG Subscription",
-        "x": 1000,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "edc66f109caf9265",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food Consumption",
-        "info": "Use Event Listeners",
-        "x": 990,
-        "y": 200,
-        "wires": []
-    },
-    {
-        "id": "3b3498d77a14fe18",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "a93966fcf27fb00d",
-        "name": "Show Food Consumption (Daily)",
-        "info": "",
-        "x": 1050,
-        "y": 460,
-        "wires": []
-    },
-    {
-        "id": "0d11babe96377c80",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Serve Food (By Button)",
-        "info": "Use MSG Publicationn",
-        "x": 980,
-        "y": 240,
-        "wires": []
-    },
-    {
-        "id": "d12290f515b40f63",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Set/Show Food Serve Schedule",
-        "info": "",
-        "x": 1010,
-        "y": 280,
-        "wires": []
-    },
-    {
-        "id": "f1c4e655881fcf3d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "e696151fe100b641",
-        "name": "Show Water-Dispenser Status",
-        "info": "Use Event Listeners",
-        "x": 600,
-        "y": 200,
-        "wires": []
-    },
-    {
-        "id": "7b903a2c2c61ce76",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food-Feeder Status",
-        "info": "Use Event Listeners",
-        "x": 990,
-        "y": 320,
-        "wires": []
-    },
-    {
-        "id": "ec25f9eb4cb8befd",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "3efc7f94eb3f5feb",
-        "name": "<Settings>",
-        "info": "",
-        "x": 200,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "b3401fa4f95194f2",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "e696151fe100b641",
-        "name": "<Water-Dispenser>",
-        "info": "",
-        "x": 610,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "10c1d30aca6894c2",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "<Food-Feeder>",
-        "info": "",
-        "x": 1020,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "7cc8dbda845609bf",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "3efc7f94eb3f5feb",
-        "name": "Set/Show Timezone",
-        "info": "Use ReST API of User Management",
-        "x": 130,
-        "y": 220,
-        "wires": []
-    },
-    {
-        "id": "cf7373ddd27211bf",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "49ec07d5a9500807",
-        "name": "Enhancement",
-        "info": "",
-        "x": 150,
-        "y": 300,
-        "wires": []
-    },
-    {
-        "id": "f58387f2e46bffb0",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "de8330487978c7e4",
-        "name": "Enhancement",
-        "info": "",
-        "x": 590,
-        "y": 280,
-        "wires": []
-    },
-    {
-        "id": "a68eac144d84fa33",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "a93966fcf27fb00d",
-        "name": "Enhancement",
-        "info": "",
-        "x": 990,
-        "y": 400,
-        "wires": []
-    },
-    {
-        "id": "fcb4143e638cc28c",
-        "type": "link in",
-        "z": "2807eb5038af723b",
-        "g": "b9c950cfbd703046",
-        "name": "Device Status Changed Event Listener",
-        "links": [
-            "82402946b66c1c49"
-        ],
-        "x": 395,
-        "y": 800,
-        "wires": [
-            [
-                "5203b836a0ab12c1"
-            ]
-        ]
-    },
-    {
-        "id": "c96c8ac51a1fe4fa",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "b9c950cfbd703046",
-        "name": "Device Status Changed Event Listener",
-        "info": "Client ID:      msg.payload.cid\nDevice Status:  msg.payload.stat",
-        "x": 230,
-        "y": 800,
-        "wires": []
-    },
-    {
-        "id": "0d5bb3983f555f1d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "61219b29a4308570",
-        "name": "Consumption Event Listener",
-        "info": "Topic:          msg.payload.topic\nConsumption:    msg.payload.totalDecr",
-        "x": 200,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "b8d3691b4b0db8de",
-        "type": "link in",
-        "z": "2807eb5038af723b",
-        "g": "61219b29a4308570",
-        "name": "Consumption Event Listener",
-        "links": [
-            "1ac02030b1753de6"
-        ],
-        "x": 345,
-        "y": 900,
-        "wires": [
-            [
-                "aa4697c67a19127a"
-            ]
-        ]
-    },
-    {
-        "id": "5203b836a0ab12c1",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 800,
-        "wires": []
-    },
-    {
-        "id": "aa4697c67a19127a",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "826b6aeb20606fc9",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/water-dispenser/scale/water",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 250,
-        "y": 1040,
-        "wires": [
-            [
-                "0ba0e146ea4393d3"
-            ]
-        ]
-    },
-    {
-        "id": "f3caa67f3a483ce1",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/container",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 250,
-        "y": 1080,
-        "wires": [
-            [
-                "659848c0a08174e8"
-            ]
-        ]
-    },
-    {
-        "id": "265d6b5f86cb0f2f",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/bowl",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 240,
-        "y": 1120,
-        "wires": [
-            [
-                "5e7bc10284ca5e81"
-            ]
-        ]
-    },
-    {
-        "id": "0ba0e146ea4393d3",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 1040,
-        "wires": []
-    },
-    {
-        "id": "659848c0a08174e8",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 1080,
-        "wires": []
-    },
-    {
-        "id": "5e7bc10284ca5e81",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "d835b5ee87091c01",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water-Dispenser Status",
-        "info": "",
-        "x": 820,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "5b035079eb0ca6cb",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food-Feeder Status",
-        "info": "",
-        "x": 810,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "21ce8dc3e9370d5d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water Consumption",
-        "info": "",
-        "x": 810,
-        "y": 880,
-        "wires": []
-    },
-    {
-        "id": "866a35fe25e23b4c",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Consumption",
-        "info": "",
-        "x": 810,
-        "y": 920,
-        "wires": []
-    },
-    {
-        "id": "5708b4e8e1388318",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water Remaining",
-        "info": "",
-        "x": 800,
-        "y": 1040,
-        "wires": []
-    },
-    {
-        "id": "071701e687669483",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Remaining (Container)",
-        "info": "",
-        "x": 840,
-        "y": 1080,
-        "wires": []
-    },
-    {
-        "id": "5a23e129e4e1b4af",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Remaining (Bowl)",
-        "info": "",
-        "x": 820,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "c3520c6dfba6688d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Water-Dispenser",
-        "info": "",
-        "x": 1060,
-        "y": 1340,
-        "wires": []
-    },
-    {
-        "id": "dba6506e01221984",
-        "type": "ui_chart",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "",
-        "group": "1c59b2e42a6a75ab",
-        "order": 2,
-        "width": "6",
-        "height": "6",
-        "label": "Water Consumption",
-        "chartType": "line",
-        "legend": "false",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1f77b4",
-            "#aec7e8",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 1570,
-        "y": 1620,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "710b164898209090",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Show Water Remaining",
-        "info": "",
-        "x": 1080,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "b517c36974c1d4c5",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Show Water Consumption",
-        "info": "",
-        "x": 1090,
-        "y": 1560,
-        "wires": []
-    },
-    {
-        "id": "6cb560dfb6fa0c66",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Show Water-Dispenser Status",
-        "info": "",
-        "x": 1100,
-        "y": 1740,
-        "wires": []
-    },
-    {
-        "id": "d26b56931ce8c392",
-        "type": "ui_gauge",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "",
-        "group": "1c59b2e42a6a75ab",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "gtype": "gage",
-        "title": "Water ",
-        "label": "units",
-        "format": "{{value}} g",
-        "min": 0,
-        "max": "150",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "50",
-        "seg2": "100",
-        "className": "",
-        "x": 1410,
-        "y": 1480,
-        "wires": []
-    },
-    {
-        "id": "ec9599de4c26f5be",
-        "type": "ui_led",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "order": 4,
-        "group": "1c59b2e42a6a75ab",
-        "width": 0,
-        "height": 0,
-        "label": "",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "Off",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "On",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "",
-        "x": 1290,
-        "y": 1840,
-        "wires": []
-    },
-    {
-        "id": "f1cf45ac9dcd96bc",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "group": "1c59b2e42a6a75ab",
-        "order": 3,
-        "width": "6",
-        "height": "2",
-        "name": "",
-        "label": "Device Health Check",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1340,
-        "y": 1800,
-        "wires": []
-    },
-    {
-        "id": "62b8e8110e80bf00",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "Serve Food(By Button)",
-        "info": "",
-        "x": 240,
-        "y": 1660,
-        "wires": []
-    },
-    {
-        "id": "a4cf1a33a4b16bab",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "Set Food Serve Schedule",
-        "info": "",
-        "x": 250,
-        "y": 1460,
-        "wires": []
-    },
-    {
-        "id": "9698410b83a0265f",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "Food Feeder Controll",
-        "info": "",
-        "x": 240,
-        "y": 1340,
-        "wires": []
-    },
-    {
-        "id": "b2ebf6059fcbb1dc",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "cbf76a220ccfb8a7",
-        "name": "UI Dashboard",
-        "info": "",
-        "x": 1130,
-        "y": 660,
-        "wires": []
-    },
-    {
-        "id": "b15d82176c1d2dc6",
-        "type": "ui_template",
-        "z": "2807eb5038af723b",
-        "g": "cbf76a220ccfb8a7",
-        "group": "1c59b2e42a6a75ab",
-        "name": "dashboard CSS",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<style id=\"blue-dashboard\">\n\nbody.nr-dashboard-theme {\n    background: linear-gradient(180deg, #6FD7F4 10.32%, #B9D1DF 64.55%, #C1CAE3 100%);\n}\n\nbody.nr-dashboard-theme md-toolbar {\n   background:rgba(85, 149, 176, 0.56);\n}\n\n/* side-navi */\n\nbody.nr-dashboard-theme md-sidenav {\n    background: linear-gradient(270deg, #59D1F2 10.06%, #72D8F4 40.45%, #90DEF4 65.97%, #B9E7F4 89.41%);\n}\n\nbody.nr-dashboard-theme md-sidenav div.md-list-item-inner {\n    color: rgb(0 0 0);\n    background-color: transparent;\n}\n\n/*\n\neach card panel\n\n    justify-content:space-around;\n*/\nbody.nr-dashboard-theme ui-card-panel {\n    position: absolute;\n    margin-top : 7%; /* additional property*/\n    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);\n    border: 5px solid #4B539C;\n    border-radius: 1em;\n    box-shadow: 0 0 1em 0em rgb(0 0 100 / 50%);\n}\n\nbody.nr-dashboard-theme md-content md-card {\n    background: transparent;\n    color: rgb(75,83,156); /* Basic : rgb(215 223 245); */\n    font-weight: bold; /* additional property */\n   \n    \n}\n\n\n.nr-dashboard-theme .nr-dashboard-template {\n    background:transparent;\n}\n\n\n\n.nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {\n    color: #000000; /* additional property*/\n    font-size: 25px; /* additional property*/\n    text-shadow: 1px 1px 0px rgb(0 0 0 / 50%);\n    font-weight: bolder; /* additional property*/\n}\n\n\n.md-button{\n    border-radius:0.6em;\n    color: #000000; /*fixed. but I don't know what this code do. */\n}\n\n\n\n.nr-dashboard-theme .nr-dashboard-button .md-button {\n    background-color: #053ea8; \n    color:rgb(215 223 245);\n    font-size: 15px; /* additional property*/\n    font-weight: bold; /* additional property*/\n}\n\n.nr-dashboard-theme .nr-dashboard-button .md-button:hover {\n    background-color: #8AA9E1;\n}\n.nr-dashboard-theme .nr-dashboard-button .md-button:focus {\n    background-color: #8AA9E1;\n}\n\n/* here now */\n\n.nr-dashboard-theme .nr-dashboard-numeric .value {\n    background:unset;\n    color: rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form {\n    color:rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form-button {\n    background-color: #053ea8;\n    color:rgb(215 223 245);\n}\n\n.nr-dashboard-theme .nr-dashboard-form-button:hover {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme .nr-dashboard-form-button:focus {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme md-input-container.md-default-theme .md-input, md-input-container .md-input {\n     color:rgb(215 223 245);\n    border-color: #074fd4 !important;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-thumb {\n    background-color: rgb(25 31 153);\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-bar {\n    background-color: rgb(94 94 177);\n    box-shadow: inset 0 0 1px #0000005e;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-bar {\n    background-color: rgb(94 94 177);\n     box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-thumb {\n    background-color: rgb(61 107 232);\n    box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-slider .md-track {\n    background-color: rgb(125 172 249 / 35%);\n}\nmd-slider .md-thumb {\n    box-shadow: 0 0 10px 0px #101086;\n}\n\n.nr-dashboard-theme .nr-dashboard-slider .md-thumb:after {\n    background-color: #3d6be8;\n    border-color: #3d6be8;\n}\n\n.nr-dashboard-theme md-select-menu, .nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(0 0 0 / 12%);\n    color:rgb(215 223 245);\n    border-radius:0.8em;\n}\n\n.nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value, .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value.md-select-placeholder {\n    margin-top: -3px;\n    border-color: #eeeeee7a;\n    \n}\n.nr-dashboard-theme .md-select-menu-container {\n    max-height: 85%;\n    overflow-y: auto;\n    border: none;\n    border-radius: 0.8em;\n}\n.nr-dashboard-theme .nr-dashboard-dropdown .md-select-icon {\n\n}\n.nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(40 53 147);\n   \n    height: 29px;\n    border-radius: 0.6em;\n    margin-left: 10px;\n    margin-right: 10px;\n    margin-top: 2px;\n    box-shadow: 0 0 6px 6px #24202133;\n    transition: 0.3s;\n}\n.nr-dashboard-theme md-select-menu md-option[selected] {\n    color: rgb(130 177 255) !important;\n    background-color: rgb(27 90 197) !important;\n}\n.nr-dashboard-theme md-select-menu md-option:nth-child(even) {\n    background-color: rgb(31 31 152);\n}\n.nr-dashboard-theme md-select-menu md-option:last-child {\n   margin-bottom: 8px;\n}\n.nr-dashboard-theme md-select-menu md-option:hover {\n    background-color: rgb(20 91 211) !important;\n    padding-left: 26px;\n}\n.nr-dashboard-theme md-select-menu md-option > .md-ripple-container{\n     border-radius: 14px;\n}\n\n.formlabel{\n    color : black;\n}\n\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 1140,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "1c5f9bdb8cc23666",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "cbf76a220ccfb8a7",
-        "name": "Dashboard CSS",
-        "info": "",
-        "x": 1140,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "945f68680f86a283",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Food Feeder",
-        "info": "",
-        "x": 1970,
-        "y": 1280,
-        "wires": []
-    },
-    {
-        "id": "efd8fb56cdf7bb92",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Show Food Remaining(Container)",
-        "info": "",
-        "x": 2040,
-        "y": 1360,
-        "wires": []
-    },
-    {
-        "id": "40ce3c4e4def2b5c",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Show Food Remaining(Bowl)",
-        "info": "",
-        "x": 2020,
-        "y": 1500,
-        "wires": []
-    },
-    {
-        "id": "242066ee3e34da21",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Show Food Consumption",
-        "info": "",
-        "x": 2010,
-        "y": 1640,
-        "wires": []
-    },
-    {
-        "id": "6ba7415a5c7e9de7",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Show Food-Feeder Status",
-        "info": "",
-        "x": 2010,
-        "y": 1780,
-        "wires": []
-    },
-    {
-        "id": "dbd87ac1da2ff266",
-        "type": "ui_gauge",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "group": "35e893befae8d648",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "gtype": "gage",
-        "title": "Container",
-        "label": "units",
-        "format": "{{value}} g",
-        "min": 0,
-        "max": "150",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "50",
-        "seg2": "100",
-        "className": "",
-        "x": 2320,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "b5bf835afbb8011b",
-        "type": "ui_gauge",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "group": "35e893befae8d648",
-        "order": 2,
-        "width": 0,
-        "height": 0,
-        "gtype": "gage",
-        "title": "Bowl",
-        "label": "units",
-        "format": "{{value}} g",
-        "min": 0,
-        "max": "150",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "50",
-        "seg2": "100",
-        "className": "",
-        "x": 2330,
-        "y": 1560,
-        "wires": []
-    },
-    {
-        "id": "31158ce5cbb7ab6e",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "func": "//Calculate food consumption logic\n\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2280,
-        "y": 1640,
-        "wires": [
-            [
-                "40dc2fb9fd1ddd84"
-            ]
-        ]
-    },
-    {
-        "id": "40dc2fb9fd1ddd84",
-        "type": "ui_chart",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "group": "35e893befae8d648",
-        "order": 3,
-        "width": 0,
-        "height": 0,
-        "label": "Food Consumption",
-        "chartType": "line",
-        "legend": "false",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1f77b4",
-            "#aec7e8",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 2290,
-        "y": 1700,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2fd65db9997e0687",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "group": "35e893befae8d648",
-        "order": 4,
-        "width": "5",
-        "height": "2",
-        "name": "",
-        "label": "Device Health Check",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 2280,
-        "y": 1840,
-        "wires": []
-    },
-    {
-        "id": "3dede06d085908f5",
-        "type": "ui_led",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "order": 5,
-        "group": "35e893befae8d648",
-        "width": 0,
-        "height": 0,
-        "label": "",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "Off",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "On",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "",
-        "x": 2230,
-        "y": 1880,
-        "wires": []
-    },
-    {
-        "id": "ae7580648012c36c",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/container",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 2070,
-        "y": 1420,
-        "wires": [
-            [
-                "dbd87ac1da2ff266"
-            ]
-        ]
-    },
-    {
-        "id": "f30c18c67a39581f",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/bowl",
-        "qos": "1",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 2050,
-        "y": 1560,
-        "wires": [
-            [
-                "b5bf835afbb8011b",
-                "31158ce5cbb7ab6e"
-            ]
-        ]
-    },
-    {
-        "id": "eda311aeb775aa4a",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "group": "ad292859cba7b247",
-        "order": 4,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "On/Off",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1830,
-        "y": 2220,
-        "wires": []
-    },
-    {
-        "id": "81dd938944170e06",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Settings",
-        "info": "",
-        "x": 1020,
-        "y": 1960,
-        "wires": []
-    },
-    {
-        "id": "87df79dec94758f4",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "group": "c166754c88d73fc6",
-        "order": 2,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "Current Timezone",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1490,
-        "y": 3240,
-        "wires": []
-    },
-    {
-        "id": "d56b266c5fbfcc92",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "Set/Show Notification (On/Off)",
-        "info": "",
-        "x": 1100,
-        "y": 2040,
-        "wires": []
-    },
-    {
-        "id": "3aa43b3908b94a87",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Set/Show Whatsapp API-KEY",
-        "info": "",
-        "x": 1120,
-        "y": 2800,
-        "wires": []
-    },
-    {
-        "id": "7b81c91b3c3389fb",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "Set/Show E-Mail Address",
-        "info": "",
-        "x": 1090,
-        "y": 2360,
-        "wires": []
-    },
-    {
-        "id": "0e7b15f3b4308643",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Set/Show Timezone",
-        "info": "",
-        "x": 1070,
-        "y": 3080,
-        "wires": []
-    },
-    {
-        "id": "bbd0c01eca6d87a2",
-        "type": "ui_led",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "order": 1,
-        "group": "ad292859cba7b247",
-        "width": 0,
-        "height": 0,
-        "label": "",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "Off",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "On",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "",
-        "x": 1830,
-        "y": 2260,
-        "wires": []
-    },
-    {
-        "id": "5dd473509ed7873e",
-        "type": "ui_button",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "",
-        "group": "ad292859cba7b247",
-        "order": 2,
-        "width": "3",
-        "height": "2",
-        "passthru": false,
-        "label": "Notice On",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "On",
-        "payloadType": "str",
-        "topic": "",
-        "topicType": "str",
-        "x": 1040,
-        "y": 2080,
-        "wires": [
-            [
-                "5b653c2cd037eaf3"
-            ]
-        ]
-    },
-    {
-        "id": "653fae619555726b",
-        "type": "ui_button",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "",
-        "group": "ad292859cba7b247",
-        "order": 3,
-        "width": "3",
-        "height": "2",
-        "passthru": false,
-        "label": "Notice Off",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "Off",
-        "payloadType": "str",
-        "topic": "",
-        "topicType": "str",
-        "x": 1040,
-        "y": 2120,
-        "wires": [
-            [
-                "5b653c2cd037eaf3"
-            ]
-        ]
-    },
-    {
-        "id": "3b71c70dfa224f15",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "group": "eba1d9cc6f3a89fd",
-        "order": 2,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "Current E-mail",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1760,
-        "y": 2620,
-        "wires": []
-    },
-    {
-        "id": "652a0b26b343d22b",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/settings/phone/set",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "1eb4aa7d746828a2",
-        "x": 1600,
-        "y": 3160,
-        "wires": []
-    },
-    {
-        "id": "c853f610a85f0553",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "func": "// Current Timezone Lookup Query\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1260,
-        "y": 3240,
-        "wires": [
-            [
-                "87df79dec94758f4"
-            ]
-        ]
-    },
-    {
-        "id": "05d353924f21e68d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Set/Show Phone Number",
-        "info": "",
-        "x": 1070,
-        "y": 2860,
-        "wires": []
-    },
-    {
-        "id": "8b19a2faaefc7337",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/settings/api/set",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 1590,
-        "y": 2680,
-        "wires": []
-    },
-    {
-        "id": "2bfdc333c12d4c69",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "func": "// API Key Lookup Query\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1180,
-        "y": 2760,
-        "wires": [
-            [
-                "b85d976af7d63e03"
-            ]
-        ]
-    },
-    {
-        "id": "b85d976af7d63e03",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "group": "b1c00c1305e6ac21",
-        "order": 3,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "Current API Key",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1460,
-        "y": 2760,
-        "wires": []
-    },
-    {
-        "id": "a50cd8bff59e8d75",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/settings/timezone/set",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 1590,
-        "y": 2920,
-        "wires": []
-    },
-    {
-        "id": "ed69f1f0ae9fa808",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "group": "4579d83e78dcf2ff",
-        "order": 2,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "Current Phone Number",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1510,
-        "y": 3000,
-        "wires": []
-    },
-    {
-        "id": "eef4f99d1e2e145f",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "func": "// Current Phone Number Lookup Query\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1160,
-        "y": 3000,
-        "wires": [
-            [
-                "ed69f1f0ae9fa808"
-            ]
-        ]
-    },
-    {
-        "id": "ab07399b2d2dd390",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "",
-        "topic": "users/petification/food-feeder/action/quantity",
-        "qos": "1",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 710,
-        "y": 1740,
-        "wires": []
-    },
-    {
-        "id": "af20a7bd2074444a",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 490,
-        "y": 1800,
-        "wires": []
-    },
-    {
-        "id": "20ccaea429206f1a",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "",
-        "label": "User Control Part to Feeding",
-        "group": "ad04c2ea2866741d",
-        "order": 1,
-        "width": "6",
-        "height": "6",
-        "options": [
-            {
-                "label": "Set Food Quantity (g)",
-                "value": "quantity",
-                "type": "number",
-                "required": false,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "quantity": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "str",
-        "splitLayout": "",
-        "className": "",
-        "x": 260,
-        "y": 1740,
-        "wires": [
-            [
-                "ab07399b2d2dd390",
-                "af20a7bd2074444a"
-            ]
-        ]
-    },
-    {
-        "id": "7a224b94d6b3b194",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "",
-        "label": "Automatic feeding time setting",
-        "group": "ad04c2ea2866741d",
-        "order": 2,
-        "width": "6",
-        "height": "6",
-        "options": [
-            {
-                "label": "Set Time HH:MM (00:00 ~ 23:59)",
-                "value": "time",
-                "type": "text",
-                "required": false,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "time": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "str",
-        "splitLayout": "",
-        "className": "",
-        "x": 270,
-        "y": 1520,
-        "wires": [
-            [
-                "6c37dba2cacdeb9a"
-            ]
-        ]
-    },
-    {
-        "id": "6c37dba2cacdeb9a",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "",
-        "topic": "users/petification/food-feeder/action/time",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 640,
-        "y": 1520,
-        "wires": []
-    },
-    {
-        "id": "40cc21c004cda31e",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "",
-        "topic": "users/petification/water-dispenser/scale/water",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 1150,
-        "y": 1480,
-        "wires": [
-            [
-                "d26b56931ce8c392"
-            ]
-        ]
-    },
-    {
-        "id": "f74c5dfbc8c8f5e8",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "",
-        "topic": "users/petification/water-dispenser/scale/consumption",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 1170,
-        "y": 1620,
-        "wires": [
-            [
-                "dba6506e01221984"
-            ]
-        ]
-    },
-    {
-        "id": "35309dab547a6e92",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "",
-        "label": "Set E-mail Address",
-        "group": "eba1d9cc6f3a89fd",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "options": [
-            {
-                "label": "Set E-mail Address",
-                "value": "email-address",
-                "type": "email",
-                "required": true,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "email-address": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "",
-        "topicType": "str",
-        "splitLayout": "",
-        "className": "",
-        "x": 1070,
-        "y": 2400,
-        "wires": [
-            [
-                "018b5775862c0d19"
-            ]
-        ]
-    },
-    {
-        "id": "f2b3c46d06a2a0ed",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "label": "API Key",
-        "group": "b1c00c1305e6ac21",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "options": [
-            {
-                "label": "Set API Key",
-                "value": "key",
-                "type": "text",
-                "required": false,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "key": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "msg",
-        "splitLayout": "",
-        "className": "",
-        "x": 1170,
-        "y": 2680,
-        "wires": [
-            [
-                "8b19a2faaefc7337"
-            ]
-        ]
-    },
-    {
-        "id": "1dd5bf19a71aec8c",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "label": "Time Zone",
-        "group": "4579d83e78dcf2ff",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "options": [
-            {
-                "label": "Set Timezone",
-                "value": "timezone",
-                "type": "text",
-                "required": false,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "timezone": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "msg",
-        "splitLayout": "",
-        "className": "",
-        "x": 1170,
-        "y": 2920,
-        "wires": [
-            [
-                "a50cd8bff59e8d75"
-            ]
-        ]
-    },
-    {
-        "id": "3f171ebd8f56fbb1",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "label": "Phone Number",
-        "group": "c166754c88d73fc6",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "options": [
-            {
-                "label": "Set Phone Number",
-                "value": "phoneNum",
-                "type": "text",
-                "required": false,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "phoneNum": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "msg",
-        "splitLayout": "",
-        "className": "",
-        "x": 1270,
-        "y": 3160,
-        "wires": [
-            [
-                "652a0b26b343d22b"
-            ]
-        ]
-    },
-    {
-        "id": "e10f428ed9a68c8c",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "Initial",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1370,
-        "y": 2180,
-        "wires": [
-            [
-                "166790ec6b91915b"
-            ]
-        ]
-    },
-    {
-        "id": "7c5143a1fc6dba5d",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "ReST/GET Notification",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1600,
-        "y": 2200,
-        "wires": [
-            [
-                "667a550584cc237b"
-            ]
-        ]
-    },
-    {
-        "id": "667a550584cc237b",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "toString",
-        "func": "msg.payload = JSON.parse(msg.payload).notification === 1 ? \"On\" : \"Off\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1680,
-        "y": 2240,
-        "wires": [
-            [
-                "eda311aeb775aa4a",
-                "bbd0c01eca6d87a2"
-            ]
-        ]
-    },
-    {
-        "id": "76ff40c0209fdafc",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "ReST/PATCH Notification",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1310,
-        "y": 2140,
-        "wires": [
-            [
-                "166790ec6b91915b"
-            ]
-        ]
-    },
-    {
-        "id": "5b653c2cd037eaf3",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "PreRequest",
-        "func": "msg.method = \"PATCH\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification/${msg.payload === \"On\" ? 1 : 0}`;\n\nnode.send(msg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1210,
-        "y": 2100,
-        "wires": [
-            [
-                "76ff40c0209fdafc"
-            ]
-        ]
-    },
-    {
-        "id": "166790ec6b91915b",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "PreRequest",
-        "func": "msg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification`;\n\nnode.send(msg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1530,
-        "y": 2160,
-        "wires": [
-            [
-                "7c5143a1fc6dba5d"
-            ]
-        ]
-    },
-    {
-        "id": "018b5775862c0d19",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "PreRequest",
-        "func": "if(msg.payload[\"email-address\"]) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/email/${msg.payload[\"email-address\"]}`;\n    node.send(msg);\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1170,
-        "y": 2440,
-        "wires": [
-            [
-                "2bf5eacdd9345665"
-            ]
-        ]
-    },
-    {
-        "id": "2bf5eacdd9345665",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "ReST/PATCH Email",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1270,
-        "y": 2480,
-        "wires": [
-            [
-                "d85c4ac4f3628635"
-            ]
-        ]
-    },
-    {
-        "id": "da2320ae16a4f58d",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "Initial",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1310,
-        "y": 2520,
-        "wires": [
-            [
-                "d85c4ac4f3628635"
-            ]
-        ]
-    },
-    {
-        "id": "d85c4ac4f3628635",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "PreRequest",
-        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/email\";\nnode.send(msg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1470,
-        "y": 2500,
-        "wires": [
-            [
-                "2a8dc0507b19bdca"
-            ]
-        ]
-    },
-    {
-        "id": "2a8dc0507b19bdca",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "ReST/GET Email",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1570,
-        "y": 2540,
-        "wires": [
-            [
-                "e25bc056b5db41ce"
-            ]
-        ]
-    },
-    {
-        "id": "e25bc056b5db41ce",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "toString",
-        "func": "msg.payload = JSON.parse(msg.payload).email;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1680,
-        "y": 2580,
-        "wires": [
-            [
-                "3b71c70dfa224f15"
-            ]
-        ]
     }
 ]
