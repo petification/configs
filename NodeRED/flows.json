@@ -162,9 +162,7 @@
             "69fd65e799173d30"
         ],
         "x": 14,
-        "y": 19,
-        "w": 992,
-        "h": 202
+        "y": 19
     },
     {
         "id": "7457db638135fbdb",
@@ -188,9 +186,7 @@
             "edcb6c70dd6d14e2"
         ],
         "x": 14,
-        "y": 239,
-        "w": 1232,
-        "h": 122
+        "y": 239
     },
     {
         "id": "617bb68c7b2284cf",
@@ -218,9 +214,7 @@
             "29544c1af11d03dc"
         ],
         "x": 14,
-        "y": 379,
-        "w": 1252,
-        "h": 242
+        "y": 379
     },
     {
         "id": "778ff3b8764df908",
@@ -250,9 +244,7 @@
             "388d2936128df466"
         ],
         "x": 14,
-        "y": 639,
-        "w": 1232,
-        "h": 302
+        "y": 639
     },
     {
         "id": "08368f4a4f432e34",
@@ -282,9 +274,7 @@
             "7a1158daf4dae513"
         ],
         "x": 14,
-        "y": 959,
-        "w": 1232,
-        "h": 302
+        "y": 959
     },
     {
         "id": "2dac822f9fa8fa31",
@@ -329,9 +319,7 @@
             "247061156250feef"
         ],
         "x": 34,
-        "y": 19,
-        "w": 332,
-        "h": 122
+        "y": 19
     },
     {
         "id": "4b08a40382bbc675",
@@ -376,9 +364,7 @@
             "867e840cf38e4f21"
         ],
         "x": 1314,
-        "y": 19,
-        "w": 952,
-        "h": 122
+        "y": 19
     },
     {
         "id": "2ae0cb5db9c8444c",
@@ -404,9 +390,7 @@
             "210576e9a6ad8c2f"
         ],
         "x": 1314,
-        "y": 159,
-        "w": 972,
-        "h": 202
+        "y": 159
     },
     {
         "id": "47469a4b8eaa1d6e",
@@ -432,9 +416,7 @@
             "370a61d88bdfc0c7"
         ],
         "x": 1314,
-        "y": 379,
-        "w": 952,
-        "h": 202
+        "y": 379
     },
     {
         "id": "47625275f7240e2a",
@@ -455,9 +437,7 @@
             "3ea44f65a91ee26c"
         ],
         "x": 34,
-        "y": 159,
-        "w": 392,
-        "h": 122
+        "y": 159
     },
     {
         "id": "2e8c563c95931cf4",
@@ -478,9 +458,7 @@
             "556876be6c6ceeff"
         ],
         "x": 34,
-        "y": 299,
-        "w": 372,
-        "h": 122
+        "y": 299
     },
     {
         "id": "e4ec5a08b48d755b",
@@ -496,9 +474,7 @@
             "0d5b1751af6329c2"
         ],
         "x": 514,
-        "y": 19,
-        "w": 312,
-        "h": 122
+        "y": 19
     },
     {
         "id": "37e07ac837df916b",
@@ -519,9 +495,7 @@
             "d31aab6cc8c7ec1c"
         ],
         "x": 514,
-        "y": 159,
-        "w": 372,
-        "h": 122
+        "y": 159
     },
     {
         "id": "ac8de8dddde18929",
@@ -542,9 +516,7 @@
             "2a4d9107a01bafb6"
         ],
         "x": 514,
-        "y": 299,
-        "w": 352,
-        "h": 122
+        "y": 299
     },
     {
         "id": "9ea8eb5fbd9fba9b",
@@ -566,9 +538,7 @@
             "cb62d5174fdbc2dc"
         ],
         "x": 14,
-        "y": 1439,
-        "w": 672,
-        "h": 142
+        "y": 1439
     },
     {
         "id": "a429ddf13a770b14",
@@ -590,9 +560,7 @@
             "d3c7fdd2bdc2106c"
         ],
         "x": 14,
-        "y": 1279,
-        "w": 612,
-        "h": 142
+        "y": 1279
     },
     {
         "id": "f2145b5e6ee8c3d0",
@@ -617,9 +585,7 @@
             "0409ed639d712c6c"
         ],
         "x": 14,
-        "y": 379,
-        "w": 1218,
-        "h": 442
+        "y": 379
     },
     {
         "id": "827443b04cb37fc9",
@@ -642,9 +608,7 @@
             "b172ae4261416e78"
         ],
         "x": 14,
-        "y": 19,
-        "w": 858,
-        "h": 348
+        "y": 19
     },
     {
         "id": "20d6d2a97d7b9fa9",
@@ -715,9 +679,7 @@
             "26c6221db2264c7e"
         ],
         "x": 14,
-        "y": 19,
-        "w": 978,
-        "h": 288
+        "y": 19
     },
     {
         "id": "93bbf3532a16dd26",
@@ -765,9 +727,7 @@
             "0d68f82b9254cd4a"
         ],
         "x": 34,
-        "y": 439,
-        "w": 652,
-        "h": 122
+        "y": 439
     },
     {
         "id": "836b236884538e1e",
@@ -790,9 +750,7 @@
             "075beec50ea49c1f"
         ],
         "x": 34,
-        "y": 579,
-        "w": 652,
-        "h": 122
+        "y": 579
     },
     {
         "id": "dc25248d8126293c",
@@ -815,9 +773,7 @@
             "35a0818c8e8895c8"
         ],
         "x": 34,
-        "y": 719,
-        "w": 652,
-        "h": 122
+        "y": 719
     },
     {
         "id": "bbf33d30f2db4f13",
@@ -843,9 +799,7 @@
             "b13ad32392a2c316"
         ],
         "x": 14,
-        "y": 319,
-        "w": 912,
-        "h": 302
+        "y": 319
     },
     {
         "id": "926801c45750aac7",
@@ -1089,9 +1043,7 @@
             "77e21c8437f2396f"
         ],
         "x": 14,
-        "y": 839,
-        "w": 1038,
-        "h": 788
+        "y": 839
     },
     {
         "id": "a79f34438c7bae0f",
@@ -1147,9 +1099,7 @@
             "1e9d15b0b13107ad"
         ],
         "x": 14,
-        "y": 639,
-        "w": 872,
-        "h": 202
+        "y": 639
     },
     {
         "id": "8decfaef7147e8a7",
@@ -1175,9 +1125,7 @@
             "6851bc608b138880"
         ],
         "x": 14,
-        "y": 859,
-        "w": 832,
-        "h": 262
+        "y": 859
     },
     {
         "id": "415911d8068e972a",
@@ -1201,9 +1149,7 @@
             "7d5ee5d5be10c5e9"
         ],
         "x": 1014,
-        "y": 19,
-        "w": 462,
-        "h": 202
+        "y": 19
     },
     {
         "id": "8381699e5b93b16c",
@@ -1228,9 +1174,7 @@
             "fcfac3bfebf68a84"
         ],
         "x": 14,
-        "y": 1139,
-        "w": 772,
-        "h": 262
+        "y": 1139
     },
     {
         "id": "1013b1306a18b27b",
@@ -1255,9 +1199,7 @@
             "bf99e8eb292a2e1e"
         ],
         "x": 14,
-        "y": 1419,
-        "w": 772,
-        "h": 262
+        "y": 1419
     },
     {
         "id": "ad3407b7e112dfab",
@@ -1285,50 +1227,6 @@
         "y": 359,
         "w": 1178,
         "h": 382
-    },
-    {
-        "id": "b9c950cfbd703046",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "fcb4143e638cc28c",
-            "c96c8ac51a1fe4fa"
-        ],
-        "x": 54,
-        "y": 759,
-        "w": 382,
-        "h": 82
-    },
-    {
-        "id": "61219b29a4308570",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0d5bb3983f555f1d",
-            "b8d3691b4b0db8de"
-        ],
-        "x": 54,
-        "y": 859,
-        "w": 332,
-        "h": 82
     },
     {
         "id": "e696151fe100b641",
@@ -1410,57 +1308,6 @@
         "h": 508
     },
     {
-        "id": "77e988936d244eeb",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "62b8e8110e80bf00",
-            "a4cf1a33a4b16bab",
-            "9698410b83a0265f",
-            "ab07399b2d2dd390",
-            "af20a7bd2074444a",
-            "20ccaea429206f1a",
-            "7a224b94d6b3b194",
-            "6c37dba2cacdeb9a"
-        ],
-        "x": 114,
-        "y": 1299,
-        "w": 802,
-        "h": 542
-    },
-    {
-        "id": "cbf76a220ccfb8a7",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "b2ebf6059fcbb1dc",
-            "b15d82176c1d2dc6",
-            "1c5f9bdb8cc23666"
-        ],
-        "x": 1034,
-        "y": 619,
-        "w": 212,
-        "h": 262
-    },
-    {
         "id": "92ba0c02fad53117",
         "type": "group",
         "z": "2807eb5038af723b",
@@ -1494,36 +1341,6 @@
         "h": 682
     },
     {
-        "id": "775027b3aeae84e6",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "c3520c6dfba6688d",
-            "dba6506e01221984",
-            "710b164898209090",
-            "b517c36974c1d4c5",
-            "6cb560dfb6fa0c66",
-            "d26b56931ce8c392",
-            "ec9599de4c26f5be",
-            "f1cf45ac9dcd96bc",
-            "40cc21c004cda31e",
-            "f74c5dfbc8c8f5e8"
-        ],
-        "x": 944,
-        "y": 1299,
-        "w": 752,
-        "h": 582
-    },
-    {
         "id": "dce3be978a1f0dc6",
         "type": "group",
         "z": "471ac2a8a5e8653b",
@@ -1543,9 +1360,7 @@
             "aa4e5a562cf0ea1d"
         ],
         "x": 394,
-        "y": 899,
-        "w": 352,
-        "h": 122
+        "y": 899
     },
     {
         "id": "eccdd3341675c67f",
@@ -1567,9 +1382,7 @@
             "9574a7e12874334c"
         ],
         "x": 394,
-        "y": 1039,
-        "w": 352,
-        "h": 122
+        "y": 1039
     },
     {
         "id": "86e4d607c3185bb9",
@@ -1591,9 +1404,7 @@
             "a65d4ec274dcc92b"
         ],
         "x": 274,
-        "y": 439,
-        "w": 352,
-        "h": 122
+        "y": 439
     },
     {
         "id": "0409ed639d712c6c",
@@ -1618,9 +1429,7 @@
             "64c53d1b11cf7d48"
         ],
         "x": 594,
-        "y": 579,
-        "w": 612,
-        "h": 162
+        "y": 579
     },
     {
         "id": "5a1fee37aaaa0e70",
@@ -1642,9 +1451,7 @@
             "cc7b98ab4898a4fc"
         ],
         "x": 254,
-        "y": 79,
-        "w": 352,
-        "h": 122
+        "y": 79
     },
     {
         "id": "b172ae4261416e78",
@@ -1667,9 +1474,7 @@
             "a295b2a6bd4c6133"
         ],
         "x": 254,
-        "y": 219,
-        "w": 592,
-        "h": 122
+        "y": 219
     },
     {
         "id": "5d6dc5b2b03096cd",
@@ -1784,9 +1589,7 @@
             "03b0e0d04d47db70"
         ],
         "x": 274,
-        "y": 159,
-        "w": 352,
-        "h": 122
+        "y": 159
     },
     {
         "id": "26c6221db2264c7e",
@@ -1808,9 +1611,7 @@
             "4c2abee3bd26a5b8"
         ],
         "x": 654,
-        "y": 159,
-        "w": 312,
-        "h": 122
+        "y": 159
     },
     {
         "id": "72d880c1ddc03bbe",
@@ -1833,9 +1634,7 @@
             "d00ae14703c5d95b"
         ],
         "x": 394,
-        "y": 1179,
-        "w": 552,
-        "h": 162
+        "y": 1179
     },
     {
         "id": "77e21c8437f2396f",
@@ -1861,9 +1660,7 @@
             "c635db36b57752fa"
         ],
         "x": 394,
-        "y": 1359,
-        "w": 632,
-        "h": 242
+        "y": 1359
     },
     {
         "id": "49ec07d5a9500807",
@@ -1936,7 +1733,7 @@
         "h": 142
     },
     {
-        "id": "01412bd404014ceb",
+        "id": "1472bf8acbf251ca",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -1949,25 +1746,208 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "eda311aeb775aa4a",
-            "d56b266c5fbfcc92",
-            "bbd0c01eca6d87a2",
-            "5dd473509ed7873e",
-            "653fae619555726b",
-            "e10f428ed9a68c8c",
-            "7c5143a1fc6dba5d",
-            "667a550584cc237b",
-            "76ff40c0209fdafc",
-            "5b653c2cd037eaf3",
-            "166790ec6b91915b"
+            "8381ca0aaa2cafa4",
+            "1e85f3cdebd559c9",
+            "e4addcf160cc3363",
+            "315ce6c9ba4d25b4",
+            "e8cb69dcf78297a1",
+            "8828acc969c8a34e",
+            "63044a5557975e46",
+            "fe37133d9ed750c3",
+            "73352e99e5f755bf",
+            "01f2def426cf0844",
+            "d6f8102f816e7f80",
+            "8b03a6b2f1141366",
+            "d53ceb7dacc4ce43"
         ],
-        "x": 954,
-        "y": 1999,
+        "x": 34,
+        "y": 599,
+        "w": 1012,
+        "h": 342
+    },
+    {
+        "id": "2bc9c3833257da08",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7986a94a1d338f6c",
+            "2435fc8fb1087bfa",
+            "063dc03feea34008",
+            "35a132ca6b1ff448",
+            "71149ecc78f59558",
+            "1dc4a0307507438c"
+        ],
+        "x": 1264,
+        "y": 19,
+        "w": 322,
+        "h": 242
+    },
+    {
+        "id": "1ca803c99df185bf",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "dcd835f6ebad537b",
+            "c9e03a81936093bf",
+            "14f61d1b2d405e6f"
+        ],
+        "x": 1614,
+        "y": 19,
+        "w": 212,
+        "h": 262
+    },
+    {
+        "id": "c6e159459a9300c9",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b8bbe1126a693417",
+            "271508462aad039e"
+        ],
+        "x": 1854,
+        "y": 19,
+        "w": 382,
+        "h": 82
+    },
+    {
+        "id": "80d68f6c96b39e58",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "14e740697b2a7cd5",
+            "c10d466f3bde8daf"
+        ],
+        "x": 1854,
+        "y": 119,
+        "w": 332,
+        "h": 82
+    },
+    {
+        "id": "bde0f09257fb55c7",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "12dfd1bb22fe8a8a",
+            "3460d0c7b385604a",
+            "b3858ded798f3798",
+            "3ddb3c5806980d4a",
+            "83d3bc6b8ba9d668",
+            "6d3e3465515e2597",
+            "90326f2d5348e448",
+            "50a0413d23a3220f"
+        ],
+        "x": 1634,
+        "y": 1959,
+        "w": 802,
+        "h": 542
+    },
+    {
+        "id": "3a2feb40aae8042e",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4da2f82dca9d7280",
+            "70e996a0dbefde4b",
+            "fba43d5fffa6605b",
+            "5aad395c67d025bf",
+            "7fa4aab064a5779f",
+            "58eb663e412c8dfb",
+            "a5faee9225a6c99b",
+            "842e491697412ebc",
+            "5e451b3e620490e1",
+            "f53e285fc6597c27",
+            "c7cc03d9c217914e"
+        ],
+        "x": 34,
+        "y": 959,
         "w": 952,
+        "h": 262
+    },
+    {
+        "id": "a37e1c5976c357ca",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "76154c5671033256",
+            "a00f359bf3dbcb9f",
+            "bb7d19b6895890c7",
+            "198abdbade9ccfc5",
+            "525ea2738c28d1c4",
+            "8ad245ec97dca623",
+            "9c43ac31675fac87",
+            "2028660bb8ae853a",
+            "5e201c69fc116fea"
+        ],
+        "x": 34,
+        "y": 1239,
+        "w": 852,
         "h": 302
     },
     {
-        "id": "224e2fc2749d4aba",
+        "id": "2fcb3ce189b04b4d",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -1980,23 +1960,24 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "7b81c91b3c3389fb",
-            "3b71c70dfa224f15",
-            "35309dab547a6e92",
-            "018b5775862c0d19",
-            "2bf5eacdd9345665",
-            "da2320ae16a4f58d",
-            "d85c4ac4f3628635",
-            "2a8dc0507b19bdca",
-            "e25bc056b5db41ce"
+            "cd2503f047b4c808",
+            "ad09774f60e026c1",
+            "f68ab5e0874bdcfe",
+            "a88c0ecbd55d0648",
+            "1e06b071bd1b01a2",
+            "564b622117aa89c6",
+            "c0e6186262639ba6",
+            "6d8c453420c81034",
+            "88af194d72d5c519",
+            "26bd6756c18ac347"
         ],
-        "x": 954,
-        "y": 2319,
-        "w": 912,
-        "h": 342
+        "x": 34,
+        "y": 1559,
+        "w": 1112,
+        "h": 282
     },
     {
-        "id": "05ec82e119a7a212",
+        "id": "603ebd9c67ab0d3c",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -2009,50 +1990,20 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "3aa43b3908b94a87",
-            "b85d976af7d63e03",
-            "ed69f1f0ae9fa808",
-            "f2b3c46d06a2a0ed",
-            "c09c9f79080483ec",
-            "944f70ed4fe97466",
-            "ea728a363f31df95",
-            "d858eda2320d91a7",
-            "d41d0d4dfa028a78",
-            "3dc7b852bdbe91d4"
+            "898ae72159457af1",
+            "e8bfea13b216a5d4",
+            "8d703590b22f14ba",
+            "140d5f4901347771",
+            "c455f4853c45958b",
+            "f2b4c1c73a6b3a6c",
+            "18da557133285e3a",
+            "04729c8adab20efb",
+            "c77fd1a058fde16f"
         ],
-        "x": 954,
-        "y": 2679,
-        "w": 1152,
-        "h": 322
-    },
-    {
-        "id": "508acff02277d5fa",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "87df79dec94758f4",
-            "0e7b15f3b4308643",
-            "1dd5bf19a71aec8c",
-            "51d30652c245064b",
-            "83523fc17f7f09fc",
-            "53f1830d150d16fb",
-            "c2d72acf448e68e4",
-            "6033a6ea471c3cf0",
-            "c6f8a7948736aebf"
-        ],
-        "x": 954,
-        "y": 3019,
-        "w": 992,
-        "h": 342
+        "x": 34,
+        "y": 1859,
+        "w": 932,
+        "h": 302
     },
     {
         "id": "f2f86710f80408e7",
@@ -2137,8 +2088,8 @@
     {
         "id": "1c59b2e42a6a75ab",
         "type": "ui_group",
-        "name": "Water-Dispenser",
-        "tab": "24ee9924ddace3c7",
+        "name": "WaterDispenser",
+        "tab": "ca764433f99f8efb",
         "order": 5,
         "disp": true,
         "width": "6",
@@ -2148,12 +2099,13 @@
     {
         "id": "a9de1389895e63c0",
         "type": "ui_group",
-        "name": "Form & Switch",
-        "tab": "",
+        "name": "User Info",
+        "tab": "1d987565aa907a44",
         "order": 1,
         "disp": true,
         "width": "6",
-        "collapse": false
+        "collapse": false,
+        "className": ""
     },
     {
         "id": "35e893befae8d648",
@@ -2205,17 +2157,6 @@
         "name": "WhatsApp",
         "tab": "1d987565aa907a44",
         "order": 4,
-        "disp": true,
-        "width": "6",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "4579d83e78dcf2ff",
-        "type": "ui_group",
-        "name": "Phone Number",
-        "tab": "1d987565aa907a44",
-        "order": 5,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -2344,6 +2285,25 @@
                 "py": 0
             }
         }
+    },
+    {
+        "id": "ca764433f99f8efb",
+        "type": "ui_tab",
+        "name": "Water Supplier",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ae0ea2451b27327f",
+        "type": "ui_group",
+        "name": "Device Selection",
+        "tab": "ca764433f99f8efb",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
     },
     {
         "id": "b6087fa03967b97d",
@@ -4054,7 +4014,8 @@
         "name": "Consumption Event Out",
         "mode": "link",
         "links": [
-            "78ec5d44d29dd5f7"
+            "78ec5d44d29dd5f7",
+            "c10d466f3bde8daf"
         ],
         "x": 775,
         "y": 1560,
@@ -4484,7 +4445,8 @@
         "name": "Device Status Changed Event Out",
         "mode": "link",
         "links": [
-            "3a07979c9ddda917"
+            "3a07979c9ddda917",
+            "b8bbe1126a693417"
         ],
         "x": 795,
         "y": 300,
@@ -4873,519 +4835,6 @@
         "wires": []
     },
     {
-        "id": "fcb4143e638cc28c",
-        "type": "link in",
-        "z": "2807eb5038af723b",
-        "g": "b9c950cfbd703046",
-        "name": "Device Status Changed Event Listener",
-        "links": [
-            "82402946b66c1c49"
-        ],
-        "x": 395,
-        "y": 800,
-        "wires": [
-            [
-                "5203b836a0ab12c1"
-            ]
-        ]
-    },
-    {
-        "id": "c96c8ac51a1fe4fa",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "b9c950cfbd703046",
-        "name": "Device Status Changed Event Listener",
-        "info": "Client ID:      msg.payload.cid\nDevice Status:  msg.payload.stat",
-        "x": 230,
-        "y": 800,
-        "wires": []
-    },
-    {
-        "id": "0d5bb3983f555f1d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "61219b29a4308570",
-        "name": "Consumption Event Listener",
-        "info": "Topic:          msg.payload.topic\nConsumption:    msg.payload.totalDecr",
-        "x": 200,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "b8d3691b4b0db8de",
-        "type": "link in",
-        "z": "2807eb5038af723b",
-        "g": "61219b29a4308570",
-        "name": "Consumption Event Listener",
-        "links": [
-            "1ac02030b1753de6"
-        ],
-        "x": 345,
-        "y": 900,
-        "wires": [
-            [
-                "aa4697c67a19127a"
-            ]
-        ]
-    },
-    {
-        "id": "5203b836a0ab12c1",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 800,
-        "wires": []
-    },
-    {
-        "id": "aa4697c67a19127a",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "826b6aeb20606fc9",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/water-dispenser/scale/water",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 250,
-        "y": 1040,
-        "wires": [
-            [
-                "0ba0e146ea4393d3"
-            ]
-        ]
-    },
-    {
-        "id": "f3caa67f3a483ce1",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/container",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 250,
-        "y": 1080,
-        "wires": [
-            [
-                "659848c0a08174e8"
-            ]
-        ]
-    },
-    {
-        "id": "265d6b5f86cb0f2f",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/bowl",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 240,
-        "y": 1120,
-        "wires": [
-            [
-                "5e7bc10284ca5e81"
-            ]
-        ]
-    },
-    {
-        "id": "0ba0e146ea4393d3",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 1040,
-        "wires": []
-    },
-    {
-        "id": "659848c0a08174e8",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 1080,
-        "wires": []
-    },
-    {
-        "id": "5e7bc10284ca5e81",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "d835b5ee87091c01",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water-Dispenser Status",
-        "info": "",
-        "x": 820,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "5b035079eb0ca6cb",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food-Feeder Status",
-        "info": "",
-        "x": 810,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "21ce8dc3e9370d5d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water Consumption",
-        "info": "",
-        "x": 810,
-        "y": 880,
-        "wires": []
-    },
-    {
-        "id": "866a35fe25e23b4c",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Consumption",
-        "info": "",
-        "x": 810,
-        "y": 920,
-        "wires": []
-    },
-    {
-        "id": "5708b4e8e1388318",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water Remaining",
-        "info": "",
-        "x": 800,
-        "y": 1040,
-        "wires": []
-    },
-    {
-        "id": "071701e687669483",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Remaining (Container)",
-        "info": "",
-        "x": 840,
-        "y": 1080,
-        "wires": []
-    },
-    {
-        "id": "5a23e129e4e1b4af",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Remaining (Bowl)",
-        "info": "",
-        "x": 820,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "c3520c6dfba6688d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Water-Dispenser",
-        "info": "",
-        "x": 1060,
-        "y": 1340,
-        "wires": []
-    },
-    {
-        "id": "dba6506e01221984",
-        "type": "ui_chart",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "",
-        "group": "1c59b2e42a6a75ab",
-        "order": 2,
-        "width": "6",
-        "height": "6",
-        "label": "Water Consumption",
-        "chartType": "line",
-        "legend": "false",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1f77b4",
-            "#aec7e8",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 1570,
-        "y": 1620,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "710b164898209090",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Show Water Remaining",
-        "info": "",
-        "x": 1080,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "b517c36974c1d4c5",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Show Water Consumption",
-        "info": "",
-        "x": 1090,
-        "y": 1560,
-        "wires": []
-    },
-    {
-        "id": "6cb560dfb6fa0c66",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "Show Water-Dispenser Status",
-        "info": "",
-        "x": 1100,
-        "y": 1740,
-        "wires": []
-    },
-    {
-        "id": "d26b56931ce8c392",
-        "type": "ui_gauge",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "name": "",
-        "group": "1c59b2e42a6a75ab",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "gtype": "gage",
-        "title": "Water ",
-        "label": "units",
-        "format": "{{value}} g",
-        "min": 0,
-        "max": "150",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "50",
-        "seg2": "100",
-        "className": "",
-        "x": 1410,
-        "y": 1480,
-        "wires": []
-    },
-    {
-        "id": "ec9599de4c26f5be",
-        "type": "ui_led",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "order": 4,
-        "group": "1c59b2e42a6a75ab",
-        "width": 0,
-        "height": 0,
-        "label": "",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "Off",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "On",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "",
-        "x": 1290,
-        "y": 1840,
-        "wires": []
-    },
-    {
-        "id": "f1cf45ac9dcd96bc",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
-        "group": "1c59b2e42a6a75ab",
-        "order": 3,
-        "width": "6",
-        "height": "2",
-        "name": "",
-        "label": "Device Health Check",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1340,
-        "y": 1800,
-        "wires": []
-    },
-    {
-        "id": "62b8e8110e80bf00",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "Serve Food(By Button)",
-        "info": "",
-        "x": 240,
-        "y": 1660,
-        "wires": []
-    },
-    {
-        "id": "a4cf1a33a4b16bab",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "Set Food Serve Schedule",
-        "info": "",
-        "x": 250,
-        "y": 1460,
-        "wires": []
-    },
-    {
-        "id": "9698410b83a0265f",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
-        "name": "Food Feeder Controll",
-        "info": "",
-        "x": 240,
-        "y": 1340,
-        "wires": []
-    },
-    {
-        "id": "b2ebf6059fcbb1dc",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "cbf76a220ccfb8a7",
-        "name": "UI Dashboard",
-        "info": "",
-        "x": 1130,
-        "y": 660,
-        "wires": []
-    },
-    {
-        "id": "b15d82176c1d2dc6",
-        "type": "ui_template",
-        "z": "2807eb5038af723b",
-        "g": "cbf76a220ccfb8a7",
-        "group": "1c59b2e42a6a75ab",
-        "name": "dashboard CSS",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<style id=\"blue-dashboard\">\n\nbody.nr-dashboard-theme {\n    background: linear-gradient(180deg, #6FD7F4 10.32%, #B9D1DF 64.55%, #C1CAE3 100%);\n}\n\nbody.nr-dashboard-theme md-toolbar {\n   background:rgba(85, 149, 176, 0.56);\n}\n\n/* side-navi */\n\nbody.nr-dashboard-theme md-sidenav {\n    background: linear-gradient(270deg, #59D1F2 10.06%, #72D8F4 40.45%, #90DEF4 65.97%, #B9E7F4 89.41%);\n}\n\nbody.nr-dashboard-theme md-sidenav div.md-list-item-inner {\n    color: rgb(0 0 0);\n    background-color: transparent;\n}\n\n/*\n\neach card panel\n\n    justify-content:space-around;\n*/\nbody.nr-dashboard-theme ui-card-panel {\n    position: absolute;\n    margin-top : 7%; /* additional property*/\n    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);\n    border: 5px solid #4B539C;\n    border-radius: 1em;\n    box-shadow: 0 0 1em 0em rgb(0 0 100 / 50%);\n}\n\nbody.nr-dashboard-theme md-content md-card {\n    background: transparent;\n    color: rgb(75,83,156); /* Basic : rgb(215 223 245); */\n    font-weight: bold; /* additional property */\n   \n    \n}\n\n\n.nr-dashboard-theme .nr-dashboard-template {\n    background:transparent;\n}\n\n\n\n.nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {\n    color: #000000; /* additional property*/\n    font-size: 25px; /* additional property*/\n    text-shadow: 1px 1px 0px rgb(0 0 0 / 50%);\n    font-weight: bolder; /* additional property*/\n}\n\n\n.md-button{\n    border-radius:0.6em;\n    color: #000000; /*fixed. but I don't know what this code do. */\n}\n\n\n\n.nr-dashboard-theme .nr-dashboard-button .md-button {\n    background-color: #053ea8; \n    color:rgb(215 223 245);\n    font-size: 15px; /* additional property*/\n    font-weight: bold; /* additional property*/\n}\n\n.nr-dashboard-theme .nr-dashboard-button .md-button:hover {\n    background-color: #8AA9E1;\n}\n.nr-dashboard-theme .nr-dashboard-button .md-button:focus {\n    background-color: #8AA9E1;\n}\n\n/* here now */\n\n.nr-dashboard-theme .nr-dashboard-numeric .value {\n    background:unset;\n    color: rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form {\n    color:rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form-button {\n    background-color: #053ea8;\n    color:rgb(215 223 245);\n}\n\n.nr-dashboard-theme .nr-dashboard-form-button:hover {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme .nr-dashboard-form-button:focus {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme md-input-container.md-default-theme .md-input, md-input-container .md-input {\n     color:rgb(215 223 245);\n    border-color: #074fd4 !important;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-thumb {\n    background-color: rgb(25 31 153);\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-bar {\n    background-color: rgb(94 94 177);\n    box-shadow: inset 0 0 1px #0000005e;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-bar {\n    background-color: rgb(94 94 177);\n     box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-thumb {\n    background-color: rgb(61 107 232);\n    box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-slider .md-track {\n    background-color: rgb(125 172 249 / 35%);\n}\nmd-slider .md-thumb {\n    box-shadow: 0 0 10px 0px #101086;\n}\n\n.nr-dashboard-theme .nr-dashboard-slider .md-thumb:after {\n    background-color: #3d6be8;\n    border-color: #3d6be8;\n}\n\n.nr-dashboard-theme md-select-menu, .nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(0 0 0 / 12%);\n    color:rgb(215 223 245);\n    border-radius:0.8em;\n}\n\n.nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value, .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value.md-select-placeholder {\n    margin-top: -3px;\n    border-color: #eeeeee7a;\n    \n}\n.nr-dashboard-theme .md-select-menu-container {\n    max-height: 85%;\n    overflow-y: auto;\n    border: none;\n    border-radius: 0.8em;\n}\n.nr-dashboard-theme .nr-dashboard-dropdown .md-select-icon {\n\n}\n.nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(40 53 147);\n   \n    height: 29px;\n    border-radius: 0.6em;\n    margin-left: 10px;\n    margin-right: 10px;\n    margin-top: 2px;\n    box-shadow: 0 0 6px 6px #24202133;\n    transition: 0.3s;\n}\n.nr-dashboard-theme md-select-menu md-option[selected] {\n    color: rgb(130 177 255) !important;\n    background-color: rgb(27 90 197) !important;\n}\n.nr-dashboard-theme md-select-menu md-option:nth-child(even) {\n    background-color: rgb(31 31 152);\n}\n.nr-dashboard-theme md-select-menu md-option:last-child {\n   margin-bottom: 8px;\n}\n.nr-dashboard-theme md-select-menu md-option:hover {\n    background-color: rgb(20 91 211) !important;\n    padding-left: 26px;\n}\n.nr-dashboard-theme md-select-menu md-option > .md-ripple-container{\n     border-radius: 14px;\n}\n\n.formlabel{\n    color : black;\n}\n\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 1140,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "1c5f9bdb8cc23666",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "cbf76a220ccfb8a7",
-        "name": "Dashboard CSS",
-        "info": "",
-        "x": 1140,
-        "y": 780,
-        "wires": []
-    },
-    {
         "id": "945f68680f86a283",
         "type": "comment",
         "z": "2807eb5038af723b",
@@ -5657,244 +5106,737 @@
         ]
     },
     {
-        "id": "eda311aeb775aa4a",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "group": "ad292859cba7b247",
-        "order": 4,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "On/Off",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1830,
-        "y": 2220,
-        "wires": []
-    },
-    {
         "id": "81dd938944170e06",
         "type": "comment",
         "z": "2807eb5038af723b",
         "name": "Settings",
         "info": "",
-        "x": 1020,
-        "y": 1960,
+        "x": 100,
+        "y": 560,
         "wires": []
     },
     {
-        "id": "87df79dec94758f4",
-        "type": "ui_text",
+        "id": "8381ca0aaa2cafa4",
+        "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
-        "group": "c166754c88d73fc6",
-        "order": 2,
-        "width": 0,
-        "height": 0,
+        "g": "1472bf8acbf251ca",
         "name": "",
-        "label": "Current Timezone",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1830,
-        "y": 3320,
-        "wires": []
-    },
-    {
-        "id": "d56b266c5fbfcc92",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "Set/Show Notification (On/Off)",
-        "info": "",
-        "x": 1100,
-        "y": 2040,
-        "wires": []
-    },
-    {
-        "id": "3aa43b3908b94a87",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "name": "Set/Show Whatsapp API & PhoneNum",
-        "info": "",
-        "x": 1130,
-        "y": 2720,
-        "wires": []
-    },
-    {
-        "id": "7b81c91b3c3389fb",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "Set/Show E-Mail Address",
-        "info": "",
-        "x": 1090,
-        "y": 2360,
-        "wires": []
-    },
-    {
-        "id": "0e7b15f3b4308643",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
-        "name": "Set/Show Timezone",
-        "info": "",
-        "x": 1070,
-        "y": 3060,
-        "wires": []
-    },
-    {
-        "id": "bbd0c01eca6d87a2",
-        "type": "ui_led",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "order": 1,
-        "group": "ad292859cba7b247",
+        "label": "User Token Setting",
+        "group": "a9de1389895e63c0",
+        "order": 0,
         "width": 0,
         "height": 0,
-        "label": "",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
+        "options": [
             {
-                "color": "#ff0000",
-                "value": "Off",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "On",
-                "valueType": "str"
+                "label": "Token",
+                "value": "token",
+                "type": "text",
+                "required": true,
+                "rows": null
             }
         ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "",
-        "x": 1830,
-        "y": 2260,
-        "wires": []
-    },
-    {
-        "id": "5dd473509ed7873e",
-        "type": "ui_button",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "",
-        "group": "ad292859cba7b247",
-        "order": 2,
-        "width": "3",
-        "height": "2",
-        "passthru": false,
-        "label": "Notice On",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "On",
-        "payloadType": "str",
+        "formValue": {
+            "token": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
         "topic": "",
         "topicType": "str",
-        "x": 1040,
-        "y": 2080,
+        "splitLayout": "",
+        "className": "",
+        "x": 150,
+        "y": 720,
         "wires": [
             [
-                "5b653c2cd037eaf3"
+                "e8cb69dcf78297a1"
             ]
         ]
     },
     {
-        "id": "653fae619555726b",
-        "type": "ui_button",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "",
-        "group": "ad292859cba7b247",
-        "order": 3,
-        "width": "3",
-        "height": "2",
-        "passthru": false,
-        "label": "Notice Off",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "Off",
-        "payloadType": "str",
-        "topic": "",
-        "topicType": "str",
-        "x": 1040,
-        "y": 2120,
-        "wires": [
-            [
-                "5b653c2cd037eaf3"
-            ]
-        ]
-    },
-    {
-        "id": "3b71c70dfa224f15",
+        "id": "1e85f3cdebd559c9",
         "type": "ui_text",
         "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "group": "eba1d9cc6f3a89fd",
-        "order": 2,
+        "g": "1472bf8acbf251ca",
+        "group": "a9de1389895e63c0",
+        "order": 1,
         "width": 0,
         "height": 0,
-        "name": "",
-        "label": "Current E-mail",
-        "format": "{{msg.payload}}",
+        "name": "ShowToken",
+        "label": "Current User Token",
+        "format": "{{msg.payload.token}}",
         "layout": "row-spread",
         "className": "",
-        "x": 1760,
-        "y": 2620,
+        "x": 830,
+        "y": 780,
         "wires": []
     },
     {
-        "id": "b85d976af7d63e03",
+        "id": "e4addcf160cc3363",
         "type": "ui_text",
         "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "group": "b1c00c1305e6ac21",
-        "order": 3,
-        "width": 0,
-        "height": 0,
-        "name": "",
-        "label": "Current API Key",
-        "format": "{{msg.payload.apikey}}",
-        "layout": "col-center",
-        "className": "",
-        "x": 1940,
-        "y": 2920,
-        "wires": []
-    },
-    {
-        "id": "ed69f1f0ae9fa808",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "group": "b1c00c1305e6ac21",
+        "g": "1472bf8acbf251ca",
+        "group": "a9de1389895e63c0",
         "order": 2,
         "width": 0,
         "height": 0,
-        "name": "",
-        "label": "Current Phone Number",
-        "format": "{{msg.payload.phonenum}}",
-        "layout": "col-center",
+        "name": "ShowUsername",
+        "label": "Current User Name",
+        "format": "{{msg.payload.uname}}",
+        "layout": "row-spread",
         "className": "",
-        "x": 1970,
-        "y": 2960,
+        "x": 840,
+        "y": 840,
         "wires": []
     },
     {
-        "id": "ab07399b2d2dd390",
+        "id": "315ce6c9ba4d25b4",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "Initial",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 270,
+        "y": 800,
+        "wires": [
+            [
+                "8828acc969c8a34e"
+            ]
+        ]
+    },
+    {
+        "id": "e8cb69dcf78297a1",
+        "type": "change",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "token",
+                "pt": "flow",
+                "to": "payload.token",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 240,
+        "y": 760,
+        "wires": [
+            [
+                "8828acc969c8a34e"
+            ]
+        ]
+    },
+    {
+        "id": "8828acc969c8a34e",
+        "type": "switch",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "",
+        "property": "token",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "nempty"
+            },
+            {
+                "t": "empty"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 410,
+        "y": 780,
+        "wires": [
+            [
+                "63044a5557975e46"
+            ],
+            [
+                "01f2def426cf0844"
+            ]
+        ]
+    },
+    {
+        "id": "63044a5557975e46",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "DB/SELECT Username",
+        "func": "msg.topic = \"SELECT uname\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + flow.get('token') + \"';\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 680,
+        "wires": [
+            [
+                "fe37133d9ed750c3"
+            ]
+        ]
+    },
+    {
+        "id": "fe37133d9ed750c3",
+        "type": "mysql",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 600,
+        "y": 740,
+        "wires": [
+            [
+                "73352e99e5f755bf"
+            ]
+        ]
+    },
+    {
+        "id": "73352e99e5f755bf",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = {\n        uname: msg.payload[0].uname,\n        token: flow.get('token'),\n    };\n} else {\n    msg.payload = {\n        uname: \"No Username\",\n        token: \"No Token\",\n    }\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 800,
+        "wires": [
+            [
+                "1e85f3cdebd559c9",
+                "e4addcf160cc3363",
+                "8b03a6b2f1141366"
+            ]
+        ]
+    },
+    {
+        "id": "01f2def426cf0844",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "",
+        "func": "msg.payload = {\n    uname: \"No Username\",\n    token: \"No Token\",\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 860,
+        "wires": [
+            [
+                "1e85f3cdebd559c9",
+                "e4addcf160cc3363",
+                "8b03a6b2f1141366"
+            ]
+        ]
+    },
+    {
+        "id": "d6f8102f816e7f80",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "User Info",
+        "info": "",
+        "x": 120,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "8b03a6b2f1141366",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "Token Change Event Out",
+        "mode": "link",
+        "links": [
+            "04729c8adab20efb",
+            "2028660bb8ae853a",
+            "88af194d72d5c519",
+            "f53e285fc6597c27"
+        ],
+        "x": 775,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "d53ceb7dacc4ce43",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "1472bf8acbf251ca",
+        "name": "Token Change Event Out",
+        "info": "",
+        "x": 910,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "7986a94a1d338f6c",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "2bc9c3833257da08",
+        "name": "HTTP In",
+        "links": [],
+        "x": 1315,
+        "y": 100,
+        "wires": [
+            [
+                "2435fc8fb1087bfa"
+            ]
+        ]
+    },
+    {
+        "id": "2435fc8fb1087bfa",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2bc9c3833257da08",
+        "name": "HTTP Header",
+        "func": "msg.headers = {\n    authorization: \"Bearer \" + flow.get('token'),\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1430,
+        "y": 100,
+        "wires": [
+            [
+                "063dc03feea34008"
+            ]
+        ]
+    },
+    {
+        "id": "063dc03feea34008",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "2bc9c3833257da08",
+        "name": "",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "x": 1420,
+        "y": 160,
+        "wires": [
+            [
+                "35a132ca6b1ff448"
+            ]
+        ]
+    },
+    {
+        "id": "35a132ca6b1ff448",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2bc9c3833257da08",
+        "name": "ParseResponse",
+        "func": "if(msg.statusCode < 400) {\n    msg.payload = JSON.parse(msg.payload);\n} else {\n    msg.payload = {\n        error: msg.statusCode,\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1420,
+        "y": 220,
+        "wires": [
+            [
+                "71149ecc78f59558"
+            ]
+        ]
+    },
+    {
+        "id": "71149ecc78f59558",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "2bc9c3833257da08",
+        "name": "HTTP Out",
+        "mode": "return",
+        "links": [],
+        "x": 1545,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "1dc4a0307507438c",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2bc9c3833257da08",
+        "name": "HTTP Adapter",
+        "info": "",
+        "x": 1360,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "dcd835f6ebad537b",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "1ca803c99df185bf",
+        "name": "UI Dashboard",
+        "info": "",
+        "x": 1710,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "c9e03a81936093bf",
+        "type": "ui_template",
+        "z": "2807eb5038af723b",
+        "g": "1ca803c99df185bf",
+        "group": "1c59b2e42a6a75ab",
+        "name": "dashboard CSS",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<style id=\"blue-dashboard\">\n\nbody.nr-dashboard-theme {\n    background: linear-gradient(180deg, #6FD7F4 10.32%, #B9D1DF 64.55%, #C1CAE3 100%);\n}\n\nbody.nr-dashboard-theme md-toolbar {\n   background:rgba(85, 149, 176, 0.56);\n}\n\n/* side-navi */\n\nbody.nr-dashboard-theme md-sidenav {\n    background: linear-gradient(270deg, #59D1F2 10.06%, #72D8F4 40.45%, #90DEF4 65.97%, #B9E7F4 89.41%);\n}\n\nbody.nr-dashboard-theme md-sidenav div.md-list-item-inner {\n    color: rgb(0 0 0);\n    background-color: transparent;\n}\n\n/*\n\neach card panel\n\n    justify-content:space-around;\n*/\nbody.nr-dashboard-theme ui-card-panel {\n    position: absolute;\n    margin-top : 7%; /* additional property*/\n    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);\n    border: 5px solid #4B539C;\n    border-radius: 1em;\n    box-shadow: 0 0 1em 0em rgb(0 0 100 / 50%);\n}\n\nbody.nr-dashboard-theme md-content md-card {\n    background: transparent;\n    color: rgb(75,83,156); /* Basic : rgb(215 223 245); */\n    font-weight: bold; /* additional property */\n   \n    \n}\n\n\n.nr-dashboard-theme .nr-dashboard-template {\n    background:transparent;\n}\n\n\n\n.nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {\n    color: #000000; /* additional property*/\n    font-size: 25px; /* additional property*/\n    text-shadow: 1px 1px 0px rgb(0 0 0 / 50%);\n    font-weight: bolder; /* additional property*/\n}\n\n\n.md-button{\n    border-radius:0.6em;\n    color: #000000; /*fixed. but I don't know what this code do. */\n}\n\n\n\n.nr-dashboard-theme .nr-dashboard-button .md-button {\n    background-color: #053ea8; \n    color:rgb(215 223 245);\n    font-size: 15px; /* additional property*/\n    font-weight: bold; /* additional property*/\n}\n\n.nr-dashboard-theme .nr-dashboard-button .md-button:hover {\n    background-color: #8AA9E1;\n}\n.nr-dashboard-theme .nr-dashboard-button .md-button:focus {\n    background-color: #8AA9E1;\n}\n\n/* here now */\n\n.nr-dashboard-theme .nr-dashboard-numeric .value {\n    background:unset;\n    color: rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form {\n    color:rgb(215 223 245);\n}\n.nr-dashboard-theme .nr-dashboard-form-button {\n    background-color: #053ea8;\n    color:rgb(215 223 245);\n}\n\n.nr-dashboard-theme .nr-dashboard-form-button:hover {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme .nr-dashboard-form-button:focus {\n    background-color: #0646bd !important;\n}\n.nr-dashboard-theme md-input-container.md-default-theme .md-input, md-input-container .md-input {\n     color:rgb(215 223 245);\n    border-color: #074fd4 !important;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-thumb {\n    background-color: rgb(25 31 153);\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch .md-bar {\n    background-color: rgb(94 94 177);\n    box-shadow: inset 0 0 1px #0000005e;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-bar {\n    background-color: rgb(94 94 177);\n     box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-thumb {\n    background-color: rgb(61 107 232);\n    box-shadow: 0 0 10px 0px #101086;\n}\n.nr-dashboard-theme .nr-dashboard-slider .md-track {\n    background-color: rgb(125 172 249 / 35%);\n}\nmd-slider .md-thumb {\n    box-shadow: 0 0 10px 0px #101086;\n}\n\n.nr-dashboard-theme .nr-dashboard-slider .md-thumb:after {\n    background-color: #3d6be8;\n    border-color: #3d6be8;\n}\n\n.nr-dashboard-theme md-select-menu, .nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(0 0 0 / 12%);\n    color:rgb(215 223 245);\n    border-radius:0.8em;\n}\n\n.nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value, .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value.md-select-placeholder {\n    margin-top: -3px;\n    border-color: #eeeeee7a;\n    \n}\n.nr-dashboard-theme .md-select-menu-container {\n    max-height: 85%;\n    overflow-y: auto;\n    border: none;\n    border-radius: 0.8em;\n}\n.nr-dashboard-theme .nr-dashboard-dropdown .md-select-icon {\n\n}\n.nr-dashboard-theme md-select-menu md-option {\n    background-color: rgb(40 53 147);\n   \n    height: 29px;\n    border-radius: 0.6em;\n    margin-left: 10px;\n    margin-right: 10px;\n    margin-top: 2px;\n    box-shadow: 0 0 6px 6px #24202133;\n    transition: 0.3s;\n}\n.nr-dashboard-theme md-select-menu md-option[selected] {\n    color: rgb(130 177 255) !important;\n    background-color: rgb(27 90 197) !important;\n}\n.nr-dashboard-theme md-select-menu md-option:nth-child(even) {\n    background-color: rgb(31 31 152);\n}\n.nr-dashboard-theme md-select-menu md-option:last-child {\n   margin-bottom: 8px;\n}\n.nr-dashboard-theme md-select-menu md-option:hover {\n    background-color: rgb(20 91 211) !important;\n    padding-left: 26px;\n}\n.nr-dashboard-theme md-select-menu md-option > .md-ripple-container{\n     border-radius: 14px;\n}\n\n.formlabel{\n    color : black;\n}\n\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 1720,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "14f61d1b2d405e6f",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "1ca803c99df185bf",
+        "name": "Dashboard CSS",
+        "info": "",
+        "x": 1720,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "35ed620d2aa3ee45",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2370,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "6b9a66c81778c8cf",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2370,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "9d43962121acb980",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "topic": "users/petification/water-dispenser/scale/water",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 2050,
+        "y": 300,
+        "wires": [
+            [
+                "482961077b20b713"
+            ]
+        ]
+    },
+    {
+        "id": "d3c696b8e3f8cad9",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "topic": "users/petification/food-feeder/scale/container",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 2050,
+        "y": 340,
+        "wires": [
+            [
+                "f8513bee9a118687"
+            ]
+        ]
+    },
+    {
+        "id": "afd191eb78971cfc",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "topic": "users/petification/food-feeder/scale/bowl",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 2040,
+        "y": 380,
+        "wires": [
+            [
+                "8f0b8717387ee080"
+            ]
+        ]
+    },
+    {
+        "id": "482961077b20b713",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2370,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "f8513bee9a118687",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2370,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "8f0b8717387ee080",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2370,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "9df29b0bbd0668b0",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Water-Dispenser Status",
+        "info": "",
+        "x": 2620,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "021ee3f3a5a6f024",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Food-Feeder Status",
+        "info": "",
+        "x": 2610,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "744c98cc17dce929",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Water Consumption",
+        "info": "",
+        "x": 2610,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "47d89ec68e4b3994",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Food Consumption",
+        "info": "",
+        "x": 2610,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "6aa186baa8a1acef",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Water Remaining",
+        "info": "",
+        "x": 2600,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "ba34433725e9904b",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Food Remaining (Container)",
+        "info": "",
+        "x": 2640,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "fa143a30b2177406",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Food Remaining (Bowl)",
+        "info": "",
+        "x": 2620,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "b8bbe1126a693417",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "c6e159459a9300c9",
+        "name": "Device Status Changed Event Listener",
+        "links": [
+            "82402946b66c1c49"
+        ],
+        "x": 2195,
+        "y": 60,
+        "wires": [
+            [
+                "35ed620d2aa3ee45"
+            ]
+        ]
+    },
+    {
+        "id": "271508462aad039e",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "c6e159459a9300c9",
+        "name": "Device Status Changed Event Listener",
+        "info": "Client ID:      msg.payload.cid\nDevice Status:  msg.payload.stat",
+        "x": 2030,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "14e740697b2a7cd5",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "80d68f6c96b39e58",
+        "name": "Consumption Event Listener",
+        "info": "Topic:          msg.payload.topic\nConsumption:    msg.payload.totalDecr",
+        "x": 2000,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "c10d466f3bde8daf",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "80d68f6c96b39e58",
+        "name": "Consumption Event Listener",
+        "links": [
+            "1ac02030b1753de6"
+        ],
+        "x": 2145,
+        "y": 160,
+        "wires": [
+            [
+                "6b9a66c81778c8cf"
+            ]
+        ]
+    },
+    {
+        "id": "12dfd1bb22fe8a8a",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "bde0f09257fb55c7",
+        "name": "Serve Food(By Button)",
+        "info": "",
+        "x": 1760,
+        "y": 2320,
+        "wires": []
+    },
+    {
+        "id": "3460d0c7b385604a",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "bde0f09257fb55c7",
+        "name": "Set Food Serve Schedule",
+        "info": "",
+        "x": 1770,
+        "y": 2120,
+        "wires": []
+    },
+    {
+        "id": "b3858ded798f3798",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "bde0f09257fb55c7",
+        "name": "Food Feeder Controll",
+        "info": "",
+        "x": 1760,
+        "y": 2000,
+        "wires": []
+    },
+    {
+        "id": "3ddb3c5806980d4a",
         "type": "mqtt out",
         "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
+        "g": "bde0f09257fb55c7",
         "name": "",
         "topic": "users/petification/food-feeder/action/quantity",
         "qos": "1",
@@ -5905,15 +5847,15 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 710,
-        "y": 1740,
+        "x": 2230,
+        "y": 2400,
         "wires": []
     },
     {
-        "id": "af20a7bd2074444a",
+        "id": "83d3bc6b8ba9d668",
         "type": "debug",
         "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
+        "g": "bde0f09257fb55c7",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -5923,15 +5865,15 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 490,
-        "y": 1800,
+        "x": 2010,
+        "y": 2460,
         "wires": []
     },
     {
-        "id": "20ccaea429206f1a",
+        "id": "6d3e3465515e2597",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
+        "g": "bde0f09257fb55c7",
         "name": "",
         "label": "User Control Part to Feeding",
         "group": "ad04c2ea2866741d",
@@ -5957,20 +5899,20 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 260,
-        "y": 1740,
+        "x": 1780,
+        "y": 2400,
         "wires": [
             [
-                "ab07399b2d2dd390",
-                "af20a7bd2074444a"
+                "3ddb3c5806980d4a",
+                "83d3bc6b8ba9d668"
             ]
         ]
     },
     {
-        "id": "7a224b94d6b3b194",
+        "id": "90326f2d5348e448",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
+        "g": "bde0f09257fb55c7",
         "name": "",
         "label": "Automatic feeding time setting",
         "group": "ad04c2ea2866741d",
@@ -5996,19 +5938,19 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 270,
-        "y": 1520,
+        "x": 1790,
+        "y": 2180,
         "wires": [
             [
-                "6c37dba2cacdeb9a"
+                "50a0413d23a3220f"
             ]
         ]
     },
     {
-        "id": "6c37dba2cacdeb9a",
+        "id": "50a0413d23a3220f",
         "type": "mqtt out",
         "z": "2807eb5038af723b",
-        "g": "77e988936d244eeb",
+        "g": "bde0f09257fb55c7",
         "name": "",
         "topic": "users/petification/food-feeder/action/time",
         "qos": "",
@@ -6019,59 +5961,268 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 640,
-        "y": 1520,
+        "x": 2160,
+        "y": 2180,
         "wires": []
     },
     {
-        "id": "40cc21c004cda31e",
-        "type": "mqtt in",
+        "id": "4da2f82dca9d7280",
+        "type": "ui_text",
         "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
+        "g": "3a2feb40aae8042e",
+        "group": "ad292859cba7b247",
+        "order": 4,
+        "width": 0,
+        "height": 0,
         "name": "",
-        "topic": "users/petification/water-dispenser/scale/water",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 1150,
-        "y": 1480,
+        "label": "On/Off",
+        "format": "{{msg.payload.notification === 1 ? \"On\" : \"Off\"}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 910,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "70e996a0dbefde4b",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "Set/Show Notification (On/Off)",
+        "info": "",
+        "x": 180,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "fba43d5fffa6605b",
+        "type": "ui_led",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "order": 1,
+        "group": "ad292859cba7b247",
+        "width": 0,
+        "height": 0,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "{\"notification\":1}",
+                "valueType": "json"
+            },
+            {
+                "color": "#ff0000",
+                "value": "{\"notification\":0}",
+                "valueType": "json"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 910,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "5aad395c67d025bf",
+        "type": "ui_button",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "",
+        "group": "ad292859cba7b247",
+        "order": 2,
+        "width": "3",
+        "height": "2",
+        "passthru": false,
+        "label": "Notice On",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "On",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 120,
+        "y": 1040,
         "wires": [
             [
-                "d26b56931ce8c392"
+                "58eb663e412c8dfb"
             ]
         ]
     },
     {
-        "id": "f74c5dfbc8c8f5e8",
-        "type": "mqtt in",
+        "id": "7fa4aab064a5779f",
+        "type": "ui_button",
         "z": "2807eb5038af723b",
-        "g": "775027b3aeae84e6",
+        "g": "3a2feb40aae8042e",
         "name": "",
-        "topic": "users/petification/water-dispenser/scale/consumption",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 1170,
-        "y": 1620,
+        "group": "ad292859cba7b247",
+        "order": 3,
+        "width": "3",
+        "height": "2",
+        "passthru": false,
+        "label": "Notice Off",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "Off",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 120,
+        "y": 1080,
         "wires": [
             [
-                "dba6506e01221984"
+                "58eb663e412c8dfb"
             ]
         ]
     },
     {
-        "id": "35309dab547a6e92",
+        "id": "58eb663e412c8dfb",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "PreRequest",
+        "func": "msg.method = \"PATCH\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification/${msg.payload === \"On\" ? 1 : 0}`;\n\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 1060,
+        "wires": [
+            [
+                "842e491697412ebc"
+            ]
+        ]
+    },
+    {
+        "id": "a5faee9225a6c99b",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification`;\n\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 1120,
+        "wires": [
+            [
+                "5e451b3e620490e1"
+            ]
+        ]
+    },
+    {
+        "id": "842e491697412ebc",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "ReST/PATCH Notification",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 390,
+        "y": 1100,
+        "wires": [
+            [
+                "a5faee9225a6c99b"
+            ]
+        ]
+    },
+    {
+        "id": "5e451b3e620490e1",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "ReST/GET Notification",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 720,
+        "y": 1160,
+        "wires": [
+            [
+                "4da2f82dca9d7280",
+                "fba43d5fffa6605b"
+            ]
+        ]
+    },
+    {
+        "id": "f53e285fc6597c27",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "Token Change Event Listener",
+        "links": [
+            "8b03a6b2f1141366"
+        ],
+        "x": 495,
+        "y": 1160,
+        "wires": [
+            [
+                "a5faee9225a6c99b"
+            ]
+        ]
+    },
+    {
+        "id": "c7cc03d9c217914e",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "3a2feb40aae8042e",
+        "name": "Token Change Event Listener",
+        "info": "",
+        "x": 360,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "76154c5671033256",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "name": "Set/Show E-Mail Address",
+        "info": "",
+        "x": 170,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "a00f359bf3dbcb9f",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "group": "eba1d9cc6f3a89fd",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current E-mail",
+        "format": "{{msg.payload.email}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 780,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "bb7d19b6895890c7",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
+        "g": "a37e1c5976c357ca",
         "name": "",
         "label": "Set E-mail Address",
         "group": "eba1d9cc6f3a89fd",
@@ -6097,19 +6248,170 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 1070,
-        "y": 2400,
+        "x": 150,
+        "y": 1320,
         "wires": [
             [
-                "018b5775862c0d19"
+                "198abdbade9ccfc5"
             ]
         ]
     },
     {
-        "id": "f2b3c46d06a2a0ed",
+        "id": "198abdbade9ccfc5",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "name": "PreRequest",
+        "func": "if(msg.payload[\"email-address\"]) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/email/${msg.payload[\"email-address\"]}`;\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 1360,
+        "wires": [
+            [
+                "8ad245ec97dca623"
+            ]
+        ]
+    },
+    {
+        "id": "525ea2738c28d1c4",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/email\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 1420,
+        "wires": [
+            [
+                "9c43ac31675fac87"
+            ]
+        ]
+    },
+    {
+        "id": "8ad245ec97dca623",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "name": "ReST/PATCH E-Mail",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 360,
+        "y": 1400,
+        "wires": [
+            [
+                "525ea2738c28d1c4"
+            ]
+        ]
+    },
+    {
+        "id": "9c43ac31675fac87",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "name": "ReST/GET Email",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 670,
+        "y": 1460,
+        "wires": [
+            [
+                "a00f359bf3dbcb9f"
+            ]
+        ]
+    },
+    {
+        "id": "2028660bb8ae853a",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "name": "Token Change Event Listener",
+        "links": [
+            "8b03a6b2f1141366"
+        ],
+        "x": 455,
+        "y": 1460,
+        "wires": [
+            [
+                "525ea2738c28d1c4"
+            ]
+        ]
+    },
+    {
+        "id": "5e201c69fc116fea",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "a37e1c5976c357ca",
+        "name": "Token Change Event Listener",
+        "info": "",
+        "x": 320,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "cd2503f047b4c808",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "name": "Set/Show Whatsapp API & PhoneNum",
+        "info": "",
+        "x": 210,
+        "y": 1600,
+        "wires": []
+    },
+    {
+        "id": "ad09774f60e026c1",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "group": "b1c00c1305e6ac21",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current API Key",
+        "format": "{{msg.payload.apikey}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 980,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "f68ab5e0874bdcfe",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "group": "b1c00c1305e6ac21",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current Phone Number",
+        "format": "{{msg.payload.phonenum}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 1010,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "a88c0ecbd55d0648",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
+        "g": "2fcb3ce189b04b4d",
         "name": "",
         "label": "WhatsApp Account Settings",
         "group": "b1c00c1305e6ac21",
@@ -6143,19 +6445,153 @@
         "topicType": "str",
         "splitLayout": false,
         "className": "",
-        "x": 1100,
-        "y": 2760,
+        "x": 180,
+        "y": 1640,
         "wires": [
             [
-                "c09c9f79080483ec"
+                "1e06b071bd1b01a2"
             ]
         ]
     },
     {
-        "id": "1dd5bf19a71aec8c",
+        "id": "1e06b071bd1b01a2",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "name": "PreRequest",
+        "func": "if(msg.payload.key && msg.payload.phonenum) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/wa/${msg.payload.key}/${msg.payload.phonenum}`;\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 1680,
+        "wires": [
+            [
+                "c0e6186262639ba6"
+            ]
+        ]
+    },
+    {
+        "id": "564b622117aa89c6",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/wa\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 1740,
+        "wires": [
+            [
+                "6d8c453420c81034"
+            ]
+        ]
+    },
+    {
+        "id": "c0e6186262639ba6",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "name": "ReST/PATCH WhatsApp",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 430,
+        "y": 1720,
+        "wires": [
+            [
+                "564b622117aa89c6"
+            ]
+        ]
+    },
+    {
+        "id": "6d8c453420c81034",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "name": "ReST/GET WhatsApp",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 760,
+        "y": 1780,
+        "wires": [
+            [
+                "ad09774f60e026c1",
+                "f68ab5e0874bdcfe"
+            ]
+        ]
+    },
+    {
+        "id": "88af194d72d5c519",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "name": "Token Change Event Listener",
+        "links": [
+            "8b03a6b2f1141366"
+        ],
+        "x": 535,
+        "y": 1780,
+        "wires": [
+            [
+                "564b622117aa89c6"
+            ]
+        ]
+    },
+    {
+        "id": "26bd6756c18ac347",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2fcb3ce189b04b4d",
+        "name": "Token Change Event Listener",
+        "info": "",
+        "x": 400,
+        "y": 1780,
+        "wires": []
+    },
+    {
+        "id": "898ae72159457af1",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "603ebd9c67ab0d3c",
+        "group": "c166754c88d73fc6",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Current Timezone",
+        "format": "{{msg.payload.timezone}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 850,
+        "y": 2120,
+        "wires": []
+    },
+    {
+        "id": "e8bfea13b216a5d4",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "603ebd9c67ab0d3c",
+        "name": "Set/Show Timezone",
+        "info": "",
+        "x": 150,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "8d703590b22f14ba",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
+        "g": "603ebd9c67ab0d3c",
         "name": "",
         "label": "Time Zone (ex. \"-05:00\")",
         "group": "c166754c88d73fc6",
@@ -6181,399 +6617,19 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 1090,
-        "y": 3100,
+        "x": 170,
+        "y": 1940,
         "wires": [
             [
-                "51d30652c245064b"
+                "140d5f4901347771"
             ]
         ]
     },
     {
-        "id": "e10f428ed9a68c8c",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "Initial",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1370,
-        "y": 2180,
-        "wires": [
-            [
-                "166790ec6b91915b"
-            ]
-        ]
-    },
-    {
-        "id": "7c5143a1fc6dba5d",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "ReST/GET Notification",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1600,
-        "y": 2200,
-        "wires": [
-            [
-                "667a550584cc237b"
-            ]
-        ]
-    },
-    {
-        "id": "667a550584cc237b",
+        "id": "140d5f4901347771",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "toString",
-        "func": "msg.payload = JSON.parse(msg.payload).notification === 1 ? \"On\" : \"Off\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1680,
-        "y": 2240,
-        "wires": [
-            [
-                "eda311aeb775aa4a",
-                "bbd0c01eca6d87a2"
-            ]
-        ]
-    },
-    {
-        "id": "76ff40c0209fdafc",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "ReST/PATCH Notification",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1310,
-        "y": 2140,
-        "wires": [
-            [
-                "166790ec6b91915b"
-            ]
-        ]
-    },
-    {
-        "id": "5b653c2cd037eaf3",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "PreRequest",
-        "func": "msg.method = \"PATCH\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification/${msg.payload === \"On\" ? 1 : 0}`;\n\nnode.send(msg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1210,
-        "y": 2100,
-        "wires": [
-            [
-                "76ff40c0209fdafc"
-            ]
-        ]
-    },
-    {
-        "id": "166790ec6b91915b",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "01412bd404014ceb",
-        "name": "PreRequest",
-        "func": "msg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/notification`;\n\nnode.send(msg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1530,
-        "y": 2160,
-        "wires": [
-            [
-                "7c5143a1fc6dba5d"
-            ]
-        ]
-    },
-    {
-        "id": "018b5775862c0d19",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "PreRequest",
-        "func": "if(msg.payload[\"email-address\"]) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/email/${msg.payload[\"email-address\"]}`;\n    node.send(msg);\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1170,
-        "y": 2440,
-        "wires": [
-            [
-                "2bf5eacdd9345665"
-            ]
-        ]
-    },
-    {
-        "id": "2bf5eacdd9345665",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "ReST/PATCH Email",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1270,
-        "y": 2480,
-        "wires": [
-            [
-                "d85c4ac4f3628635"
-            ]
-        ]
-    },
-    {
-        "id": "da2320ae16a4f58d",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "Initial",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1310,
-        "y": 2520,
-        "wires": [
-            [
-                "d85c4ac4f3628635"
-            ]
-        ]
-    },
-    {
-        "id": "d85c4ac4f3628635",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "PreRequest",
-        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/email\";\nnode.send(msg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1470,
-        "y": 2500,
-        "wires": [
-            [
-                "2a8dc0507b19bdca"
-            ]
-        ]
-    },
-    {
-        "id": "2a8dc0507b19bdca",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "ReST/GET Email",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1570,
-        "y": 2540,
-        "wires": [
-            [
-                "e25bc056b5db41ce"
-            ]
-        ]
-    },
-    {
-        "id": "e25bc056b5db41ce",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "224e2fc2749d4aba",
-        "name": "toString",
-        "func": "msg.payload = JSON.parse(msg.payload).email;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1680,
-        "y": 2580,
-        "wires": [
-            [
-                "3b71c70dfa224f15"
-            ]
-        ]
-    },
-    {
-        "id": "c09c9f79080483ec",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "name": "PreRequest",
-        "func": "if(msg.payload.key && msg.payload.phonenum) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/wa/${msg.payload.key}/${msg.payload.phonenum}`;\n    node.send(msg);\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1230,
-        "y": 2800,
-        "wires": [
-            [
-                "944f70ed4fe97466"
-            ]
-        ]
-    },
-    {
-        "id": "944f70ed4fe97466",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "name": "ReST/PATCH WhatsApp",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1350,
-        "y": 2840,
-        "wires": [
-            [
-                "d858eda2320d91a7"
-            ]
-        ]
-    },
-    {
-        "id": "ea728a363f31df95",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "name": "Initial",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1410,
-        "y": 2880,
-        "wires": [
-            [
-                "d858eda2320d91a7"
-            ]
-        ]
-    },
-    {
-        "id": "d858eda2320d91a7",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "name": "PreRequest",
-        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/wa\";\nnode.send(msg);",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1570,
-        "y": 2860,
-        "wires": [
-            [
-                "d41d0d4dfa028a78"
-            ]
-        ]
-    },
-    {
-        "id": "d41d0d4dfa028a78",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "name": "ReST/GET WhatsApp",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1680,
-        "y": 2900,
-        "wires": [
-            [
-                "3dc7b852bdbe91d4"
-            ]
-        ]
-    },
-    {
-        "id": "3dc7b852bdbe91d4",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "05ec82e119a7a212",
-        "name": "Parse",
-        "func": "msg.payload = JSON.parse(msg.payload);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1770,
-        "y": 2940,
-        "wires": [
-            [
-                "b85d976af7d63e03",
-                "ed69f1f0ae9fa808"
-            ]
-        ]
-    },
-    {
-        "id": "51d30652c245064b",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
+        "g": "603ebd9c67ab0d3c",
         "name": "PreRequest",
         "func": "if(msg.payload.timezone) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/timezone/${msg.payload.timezone}`;\n    node.send(msg);\n}",
         "outputs": 1,
@@ -6581,62 +6637,19 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1190,
-        "y": 3140,
+        "x": 270,
+        "y": 1980,
         "wires": [
             [
-                "83523fc17f7f09fc"
+                "f2b4c1c73a6b3a6c"
             ]
         ]
     },
     {
-        "id": "83523fc17f7f09fc",
-        "type": "http request",
-        "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
-        "name": "ReST/PATCH Timezone",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1310,
-        "y": 3180,
-        "wires": [
-            [
-                "c2d72acf448e68e4"
-            ]
-        ]
-    },
-    {
-        "id": "53f1830d150d16fb",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
-        "name": "Initial",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 1370,
-        "y": 3220,
-        "wires": [
-            [
-                "c2d72acf448e68e4"
-            ]
-        ]
-    },
-    {
-        "id": "c2d72acf448e68e4",
+        "id": "c455f4853c45958b",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
+        "g": "603ebd9c67ab0d3c",
         "name": "PreRequest",
         "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\nnode.send(msg);",
         "outputs": 1,
@@ -6644,55 +6657,344 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1530,
-        "y": 3200,
+        "x": 610,
+        "y": 2040,
         "wires": [
             [
-                "6033a6ea471c3cf0"
+                "18da557133285e3a"
             ]
         ]
     },
     {
-        "id": "6033a6ea471c3cf0",
-        "type": "http request",
+        "id": "f2b4c1c73a6b3a6c",
+        "type": "link call",
         "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
-        "name": "ReST/GET Timezone",
-        "method": "use",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "a2a345f1c4a3679a",
-        "persist": false,
-        "proxy": "",
-        "authType": "bearer",
-        "senderr": false,
-        "x": 1640,
-        "y": 3240,
+        "g": "603ebd9c67ab0d3c",
+        "name": "ReST/PATCH Timezone",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 390,
+        "y": 2020,
         "wires": [
             [
-                "c6f8a7948736aebf"
+                "c455f4853c45958b"
             ]
         ]
     },
     {
-        "id": "c6f8a7948736aebf",
+        "id": "18da557133285e3a",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "603ebd9c67ab0d3c",
+        "name": "ReST/GET Timezone",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 720,
+        "y": 2080,
+        "wires": [
+            [
+                "898ae72159457af1"
+            ]
+        ]
+    },
+    {
+        "id": "04729c8adab20efb",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "603ebd9c67ab0d3c",
+        "name": "Token Change Event Listener",
+        "links": [
+            "8b03a6b2f1141366"
+        ],
+        "x": 495,
+        "y": 2080,
+        "wires": [
+            [
+                "c455f4853c45958b"
+            ]
+        ]
+    },
+    {
+        "id": "c77fd1a058fde16f",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "603ebd9c67ab0d3c",
+        "name": "Token Change Event Listener",
+        "info": "",
+        "x": 360,
+        "y": 2080,
+        "wires": []
+    },
+    {
+        "id": "0b10204871cef669",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Water-Dispenser",
+        "info": "",
+        "x": 1220,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "678eb9b6773d42d3",
+        "type": "ui_chart",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "group": "1c59b2e42a6a75ab",
+        "order": 2,
+        "width": "6",
+        "height": "6",
+        "label": "Water Consumption",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1720,
+        "y": 1200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "01cebc855c52442a",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Water Remaining",
+        "info": "",
+        "x": 1230,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "6b1f7043724b0ed7",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Water Consumption",
+        "info": "",
+        "x": 1240,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "71725bf6e53fd0af",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Show Water-Dispenser Status",
+        "info": "",
+        "x": 1250,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "e3c76292e5d759dc",
+        "type": "ui_gauge",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "group": "1c59b2e42a6a75ab",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Water ",
+        "label": "units",
+        "format": "{{value}} g",
+        "min": 0,
+        "max": "150",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "50",
+        "seg2": "100",
+        "className": "",
+        "x": 1560,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "7e74b56c67122fd2",
+        "type": "ui_led",
+        "z": "2807eb5038af723b",
+        "order": 4,
+        "group": "1c59b2e42a6a75ab",
+        "width": 0,
+        "height": 0,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "Off",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "On",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 1440,
+        "y": 1420,
+        "wires": []
+    },
+    {
+        "id": "fd6e032637506e5e",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "group": "1c59b2e42a6a75ab",
+        "order": 3,
+        "width": "6",
+        "height": "2",
+        "name": "",
+        "label": "Device Health Check",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1490,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "d7710f7f52438651",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "topic": "users/petification/water-dispenser/scale/water",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1300,
+        "y": 1060,
+        "wires": [
+            [
+                "e3c76292e5d759dc"
+            ]
+        ]
+    },
+    {
+        "id": "e4f59b5fe558ceb9",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "topic": "users/petification/water-dispenser/scale/consumption",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1320,
+        "y": 1200,
+        "wires": [
+            [
+                "678eb9b6773d42d3"
+            ]
+        ]
+    },
+    {
+        "id": "1e2791efad22a49d",
+        "type": "ui_dropdown",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "ae0ea2451b27327f",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "",
+                "value": "",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 1570,
+        "y": 820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "273db411d7425eb8",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "name": "Initial",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1220,
+        "y": 700,
+        "wires": [
+            [
+                "c8970712b08f1cb9"
+            ]
+        ]
+    },
+    {
+        "id": "c8970712b08f1cb9",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "508acff02277d5fa",
-        "name": "Parse",
-        "func": "msg.payload = JSON.parse(msg.payload).timezone;\nreturn msg;",
+        "name": "DB/SELECT",
+        "func": "if(flow.get('token')) {\n    msg.topic = \"SELECT cid, name\" +\n                \" FROM deviceData\" +\n                \" WHERE uid = '\" + flow.get('token') + \"';\";\n    node.send(msg);\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1730,
-        "y": 3280,
+        "x": 1370,
+        "y": 700,
         "wires": [
-            [
-                "87df79dec94758f4"
-            ]
+            []
         ]
     },
     {
