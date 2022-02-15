@@ -682,31 +682,6 @@
         "y": 19
     },
     {
-        "id": "93bbf3532a16dd26",
-        "type": "group",
-        "z": "1d6a28c3c2b677b5",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "d32cb6e3d0f4368b",
-            "e44abfc1c2e2ec0a",
-            "e4c31b976d4277fb",
-            "54cb067b38be771e",
-            "863e490f3b70d122"
-        ],
-        "x": 14,
-        "y": 759,
-        "w": 772,
-        "h": 142
-    },
-    {
         "id": "2f09dd3159695cd2",
         "type": "group",
         "z": "6247d9d13f3d1415",
@@ -2004,6 +1979,58 @@
         "y": 1859,
         "w": 932,
         "h": 302
+    },
+    {
+        "id": "d041fecff350300e",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d32cb6e3d0f4368b",
+            "e44abfc1c2e2ec0a",
+            "e4c31b976d4277fb",
+            "54cb067b38be771e",
+            "3acd4e8f21edcc40"
+        ],
+        "x": 14,
+        "y": 759,
+        "w": 712,
+        "h": 142
+    },
+    {
+        "id": "9a35fa969a2e7b12",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9c1528d52e8cb40e",
+            "9654e1f27661bde0",
+            "e373a067c4ea576e",
+            "bf79fa75dc27fa5e",
+            "015e981f472c6c8b",
+            "6a3cc831ef08b95d",
+            "c6d491ef0b8f56a1"
+        ],
+        "x": 14,
+        "y": 919,
+        "w": 872,
+        "h": 182
     },
     {
         "id": "f2f86710f80408e7",
@@ -4360,7 +4387,7 @@
         "id": "d32cb6e3d0f4368b",
         "type": "comment",
         "z": "1d6a28c3c2b677b5",
-        "g": "93bbf3532a16dd26",
+        "g": "d041fecff350300e",
         "name": "ReST/DELETE Device",
         "info": "",
         "x": 140,
@@ -4371,7 +4398,7 @@
         "id": "e44abfc1c2e2ec0a",
         "type": "http in",
         "z": "1d6a28c3c2b677b5",
-        "g": "93bbf3532a16dd26",
+        "g": "d041fecff350300e",
         "name": "",
         "url": "/device/:cid",
         "method": "delete",
@@ -4389,7 +4416,7 @@
         "id": "e4c31b976d4277fb",
         "type": "function",
         "z": "1d6a28c3c2b677b5",
-        "g": "93bbf3532a16dd26",
+        "g": "d041fecff350300e",
         "name": "CreateQuery",
         "func": "msg.topic = \"DELETE FROM deviceData\" +\n            \" WHERE cid = '\" + msg.req.params.cid + \"';\"\nreturn msg;",
         "outputs": 1,
@@ -4409,33 +4436,16 @@
         "id": "54cb067b38be771e",
         "type": "mysql",
         "z": "1d6a28c3c2b677b5",
-        "g": "93bbf3532a16dd26",
+        "g": "d041fecff350300e",
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 500,
         "y": 860,
         "wires": [
             [
-                "863e490f3b70d122"
+                "3acd4e8f21edcc40"
             ]
         ]
-    },
-    {
-        "id": "863e490f3b70d122",
-        "type": "debug",
-        "z": "1d6a28c3c2b677b5",
-        "g": "93bbf3532a16dd26",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 670,
-        "y": 860,
-        "wires": []
     },
     {
         "id": "82402946b66c1c49",
@@ -4579,6 +4589,136 @@
         "headers": {},
         "x": 580,
         "y": 700,
+        "wires": []
+    },
+    {
+        "id": "9c1528d52e8cb40e",
+        "type": "http in",
+        "z": "1d6a28c3c2b677b5",
+        "g": "9a35fa969a2e7b12",
+        "name": "",
+        "url": "/device/all",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 1020,
+        "wires": [
+            [
+                "e373a067c4ea576e"
+            ]
+        ]
+    },
+    {
+        "id": "9654e1f27661bde0",
+        "type": "function",
+        "z": "1d6a28c3c2b677b5",
+        "g": "9a35fa969a2e7b12",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"SELECT *\" +\n            \" FROM deviceData\" +\n            \" WHERE uid = '\" + msg.req.userToken + \"';\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 980,
+        "wires": [
+            [
+                "015e981f472c6c8b"
+            ]
+        ]
+    },
+    {
+        "id": "e373a067c4ea576e",
+        "type": "switch",
+        "z": "1d6a28c3c2b677b5",
+        "g": "9a35fa969a2e7b12",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 310,
+        "y": 1020,
+        "wires": [
+            [
+                "9654e1f27661bde0"
+            ],
+            [
+                "bf79fa75dc27fa5e"
+            ]
+        ]
+    },
+    {
+        "id": "bf79fa75dc27fa5e",
+        "type": "http response",
+        "z": "1d6a28c3c2b677b5",
+        "g": "9a35fa969a2e7b12",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 500,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "015e981f472c6c8b",
+        "type": "mysql",
+        "z": "1d6a28c3c2b677b5",
+        "g": "9a35fa969a2e7b12",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 660,
+        "y": 980,
+        "wires": [
+            [
+                "6a3cc831ef08b95d"
+            ]
+        ]
+    },
+    {
+        "id": "6a3cc831ef08b95d",
+        "type": "http response",
+        "z": "1d6a28c3c2b677b5",
+        "g": "9a35fa969a2e7b12",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 810,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "3acd4e8f21edcc40",
+        "type": "http response",
+        "z": "1d6a28c3c2b677b5",
+        "g": "d041fecff350300e",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 650,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "c6d491ef0b8f56a1",
+        "type": "comment",
+        "z": "1d6a28c3c2b677b5",
+        "g": "9a35fa969a2e7b12",
+        "name": "ReST/GET All Device",
+        "info": "",
+        "x": 140,
+        "y": 960,
         "wires": []
     },
     {
