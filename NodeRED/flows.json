@@ -87,7 +87,9 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299
+        "y": 2299,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ffff053900bb63ca",
@@ -111,7 +113,9 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739
+        "y": 2739,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -137,7 +141,9 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519
+        "y": 2519,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ed8b5377f33374f1",
@@ -298,7 +304,9 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 339
+        "y": 339,
+        "w": 832,
+        "h": 142
     },
     {
         "id": "c5351c5c421b358c",
@@ -340,7 +348,9 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 499
+        "y": 499,
+        "w": 402,
+        "h": 122
     },
     {
         "id": "a11b1041e59fd5f1",
@@ -631,7 +641,9 @@
             "28196b10195ca582"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 1018,
+        "h": 308
     },
     {
         "id": "78810c964d16f3b6",
@@ -799,9 +811,7 @@
             "95fa81245b59cfd0"
         ],
         "x": 34,
-        "y": 19,
-        "w": 972,
-        "h": 222
+        "y": 19
     },
     {
         "id": "a341293ef5642111",
@@ -827,9 +837,7 @@
             "27a4f73bc89097c5"
         ],
         "x": 34,
-        "y": 259,
-        "w": 932,
-        "h": 222
+        "y": 259
     },
     {
         "id": "c1a92bec2d4f2ffd",
@@ -854,9 +862,7 @@
             "8539ffc872485d1e"
         ],
         "x": 34,
-        "y": 499,
-        "w": 932,
-        "h": 222
+        "y": 499
     },
     {
         "id": "bc31d529f04a3f51",
@@ -882,9 +888,7 @@
             "7ca7213ab182e8a5"
         ],
         "x": 34,
-        "y": 739,
-        "w": 932,
-        "h": 222
+        "y": 739
     },
     {
         "id": "06caf6156244f53b",
@@ -909,9 +913,7 @@
             "639051d6f7b5d18b"
         ],
         "x": 34,
-        "y": 979,
-        "w": 972,
-        "h": 222
+        "y": 979
     },
     {
         "id": "c1fd310ccc3911b0",
@@ -937,9 +939,7 @@
             "da4c070a3df2a30d"
         ],
         "x": 34,
-        "y": 1219,
-        "w": 932,
-        "h": 222
+        "y": 1219
     },
     {
         "id": "cfdc30b671169b82",
@@ -964,9 +964,7 @@
             "2097ad6da7087a33"
         ],
         "x": 34,
-        "y": 1459,
-        "w": 972,
-        "h": 222
+        "y": 1459
     },
     {
         "id": "d459d0b0a70c4a19",
@@ -992,9 +990,7 @@
             "3223e6675b9565bf"
         ],
         "x": 34,
-        "y": 1699,
-        "w": 932,
-        "h": 222
+        "y": 1699
     },
     {
         "id": "bae83060d3dc982e",
@@ -1310,402 +1306,10 @@
             "ae7580648012c36c",
             "f30c18c67a39581f"
         ],
-        "x": 1864,
-        "y": 1239,
+        "x": 2164,
+        "y": 1639,
         "w": 542,
         "h": 682
-    },
-    {
-        "id": "dce3be978a1f0dc6",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0627c62aedfa7aba",
-            "734ed70c0979e82a",
-            "aa4e5a562cf0ea1d"
-        ],
-        "x": 394,
-        "y": 899
-    },
-    {
-        "id": "eccdd3341675c67f",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "541a182f719b1b1a",
-            "081805a62242bda3",
-            "9574a7e12874334c"
-        ],
-        "x": 394,
-        "y": 1039
-    },
-    {
-        "id": "86e4d607c3185bb9",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "f2145b5e6ee8c3d0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "8bf7bbaee89bf1bf",
-            "bf4cf524805778f7",
-            "a65d4ec274dcc92b"
-        ],
-        "x": 274,
-        "y": 439
-    },
-    {
-        "id": "0409ed639d712c6c",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "f2145b5e6ee8c3d0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "66e4dfb402d103d6",
-            "d842c07a96394264",
-            "367fe98274ddc310",
-            "40dba8a6c8657ada",
-            "7224aa31cde2404b",
-            "64c53d1b11cf7d48"
-        ],
-        "x": 594,
-        "y": 579
-    },
-    {
-        "id": "5a1fee37aaaa0e70",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "827443b04cb37fc9",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "03dbfc58492a3571",
-            "febc1d17fe23f57e",
-            "cc7b98ab4898a4fc"
-        ],
-        "x": 254,
-        "y": 79
-    },
-    {
-        "id": "b172ae4261416e78",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "827443b04cb37fc9",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "4375a052d4bc7f87",
-            "a4c478c62c932d4c",
-            "95f7cf496a98ebfa",
-            "a295b2a6bd4c6133"
-        ],
-        "x": 254,
-        "y": 219
-    },
-    {
-        "id": "5d6dc5b2b03096cd",
-        "type": "group",
-        "z": "e201e2d1a09b1eed",
-        "g": "20d6d2a97d7b9fa9",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "b6087fa03967b97d",
-            "51ac77f1ebf7ae2d",
-            "4d892246ad35ef09",
-            "ec36b0fb3abffc7a"
-        ],
-        "x": 434,
-        "y": 79
-    },
-    {
-        "id": "28196b10195ca582",
-        "type": "group",
-        "z": "e201e2d1a09b1eed",
-        "g": "20d6d2a97d7b9fa9",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "7a7161d47e31ef97",
-            "400a9ac35151a339"
-        ],
-        "x": 434,
-        "y": 219
-    },
-    {
-        "id": "42080da9808971e0",
-        "type": "group",
-        "z": "1d6a28c3c2b677b5",
-        "g": "ad3407b7e112dfab",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "fb9f5e0234f29769",
-            "b77a5593eddb7e33",
-            "7fc8e7a46b665229"
-        ],
-        "x": 614,
-        "y": 399,
-        "w": 392,
-        "h": 122
-    },
-    {
-        "id": "f45d589dd0982571",
-        "type": "group",
-        "z": "1d6a28c3c2b677b5",
-        "g": "ad3407b7e112dfab",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "4b24a488d40bee10",
-            "ea30452d1007877b",
-            "92f4f5ff4c1aa6ff",
-            "a3658b821c559c70"
-        ],
-        "x": 614,
-        "y": 539,
-        "w": 552,
-        "h": 122
-    },
-    {
-        "id": "91c825ea46b2a62d",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "g": "2a453a7e3ac8b7d5",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "ef4312c31a094311",
-            "c79ce7257e70319f",
-            "03b0e0d04d47db70"
-        ],
-        "x": 274,
-        "y": 159
-    },
-    {
-        "id": "26c6221db2264c7e",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "g": "2a453a7e3ac8b7d5",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "aebb19a76eb11b08",
-            "929aa2379c7299fd",
-            "4c2abee3bd26a5b8"
-        ],
-        "x": 654,
-        "y": 159
-    },
-    {
-        "id": "72d880c1ddc03bbe",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "d65bb5b65d13d763",
-            "1c9409a84653f09a",
-            "f53906daa33a245d",
-            "d00ae14703c5d95b"
-        ],
-        "x": 394,
-        "y": 1179
-    },
-    {
-        "id": "77e21c8437f2396f",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "87dbd4b1f03a57b0",
-            "437a832f30ee7b56",
-            "466aaa83e869910c",
-            "f4a4d6c8aad80026",
-            "1ac02030b1753de6",
-            "7268087b25c4d0be",
-            "c635db36b57752fa"
-        ],
-        "x": 394,
-        "y": 1359
-    },
-    {
-        "id": "49ec07d5a9500807",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "g": "3efc7f94eb3f5feb",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "44563deca0d92f28",
-            "4b552e6339b25e5b",
-            "cf7373ddd27211bf"
-        ],
-        "x": 54,
-        "y": 259,
-        "w": 212,
-        "h": 182
-    },
-    {
-        "id": "de8330487978c7e4",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "g": "e696151fe100b641",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "71f63defb79a6175",
-            "f58387f2e46bffb0"
-        ],
-        "x": 494,
-        "y": 239,
-        "w": 312,
-        "h": 142
-    },
-    {
-        "id": "a93966fcf27fb00d",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "3b3498d77a14fe18",
-            "a68eac144d84fa33"
-        ],
-        "x": 894,
-        "y": 359,
-        "w": 312,
-        "h": 142
     },
     {
         "id": "1472bf8acbf251ca",
@@ -2031,6 +1635,432 @@
         "y": 919,
         "w": 872,
         "h": 182
+    },
+    {
+        "id": "dce3be978a1f0dc6",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "bae83060d3dc982e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0627c62aedfa7aba",
+            "734ed70c0979e82a",
+            "aa4e5a562cf0ea1d"
+        ],
+        "x": 394,
+        "y": 899
+    },
+    {
+        "id": "eccdd3341675c67f",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "bae83060d3dc982e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "541a182f719b1b1a",
+            "081805a62242bda3",
+            "9574a7e12874334c"
+        ],
+        "x": 394,
+        "y": 1039
+    },
+    {
+        "id": "86e4d607c3185bb9",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "f2145b5e6ee8c3d0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8bf7bbaee89bf1bf",
+            "bf4cf524805778f7",
+            "a65d4ec274dcc92b"
+        ],
+        "x": 274,
+        "y": 439
+    },
+    {
+        "id": "0409ed639d712c6c",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "f2145b5e6ee8c3d0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "66e4dfb402d103d6",
+            "d842c07a96394264",
+            "367fe98274ddc310",
+            "40dba8a6c8657ada",
+            "7224aa31cde2404b",
+            "64c53d1b11cf7d48"
+        ],
+        "x": 594,
+        "y": 579
+    },
+    {
+        "id": "5a1fee37aaaa0e70",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "827443b04cb37fc9",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "03dbfc58492a3571",
+            "febc1d17fe23f57e",
+            "cc7b98ab4898a4fc"
+        ],
+        "x": 254,
+        "y": 79
+    },
+    {
+        "id": "b172ae4261416e78",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "827443b04cb37fc9",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4375a052d4bc7f87",
+            "a4c478c62c932d4c",
+            "95f7cf496a98ebfa",
+            "a295b2a6bd4c6133"
+        ],
+        "x": 254,
+        "y": 219
+    },
+    {
+        "id": "5d6dc5b2b03096cd",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "g": "20d6d2a97d7b9fa9",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b6087fa03967b97d",
+            "51ac77f1ebf7ae2d",
+            "4d892246ad35ef09",
+            "ec36b0fb3abffc7a"
+        ],
+        "x": 434,
+        "y": 79,
+        "w": 572,
+        "h": 122
+    },
+    {
+        "id": "28196b10195ca582",
+        "type": "group",
+        "z": "e201e2d1a09b1eed",
+        "g": "20d6d2a97d7b9fa9",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7a7161d47e31ef97",
+            "400a9ac35151a339"
+        ],
+        "x": 434,
+        "y": 219,
+        "w": 272,
+        "h": 82
+    },
+    {
+        "id": "42080da9808971e0",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "g": "ad3407b7e112dfab",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fb9f5e0234f29769",
+            "b77a5593eddb7e33",
+            "7fc8e7a46b665229"
+        ],
+        "x": 614,
+        "y": 399,
+        "w": 392,
+        "h": 122
+    },
+    {
+        "id": "f45d589dd0982571",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "g": "ad3407b7e112dfab",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4b24a488d40bee10",
+            "ea30452d1007877b",
+            "92f4f5ff4c1aa6ff",
+            "a3658b821c559c70"
+        ],
+        "x": 614,
+        "y": 539,
+        "w": 552,
+        "h": 122
+    },
+    {
+        "id": "91c825ea46b2a62d",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "g": "2a453a7e3ac8b7d5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ef4312c31a094311",
+            "c79ce7257e70319f",
+            "03b0e0d04d47db70"
+        ],
+        "x": 274,
+        "y": 159
+    },
+    {
+        "id": "26c6221db2264c7e",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "g": "2a453a7e3ac8b7d5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "aebb19a76eb11b08",
+            "929aa2379c7299fd",
+            "4c2abee3bd26a5b8"
+        ],
+        "x": 654,
+        "y": 159
+    },
+    {
+        "id": "72d880c1ddc03bbe",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "bae83060d3dc982e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d65bb5b65d13d763",
+            "1c9409a84653f09a",
+            "f53906daa33a245d",
+            "d00ae14703c5d95b"
+        ],
+        "x": 394,
+        "y": 1179
+    },
+    {
+        "id": "77e21c8437f2396f",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "bae83060d3dc982e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "87dbd4b1f03a57b0",
+            "437a832f30ee7b56",
+            "466aaa83e869910c",
+            "f4a4d6c8aad80026",
+            "1ac02030b1753de6",
+            "7268087b25c4d0be",
+            "c635db36b57752fa"
+        ],
+        "x": 394,
+        "y": 1359
+    },
+    {
+        "id": "49ec07d5a9500807",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "3efc7f94eb3f5feb",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "44563deca0d92f28",
+            "4b552e6339b25e5b",
+            "cf7373ddd27211bf"
+        ],
+        "x": 54,
+        "y": 259,
+        "w": 212,
+        "h": 182
+    },
+    {
+        "id": "de8330487978c7e4",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "e696151fe100b641",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "71f63defb79a6175",
+            "f58387f2e46bffb0"
+        ],
+        "x": 494,
+        "y": 239,
+        "w": 312,
+        "h": 142
+    },
+    {
+        "id": "a93966fcf27fb00d",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "aca29bb12e81f5db",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3b3498d77a14fe18",
+            "a68eac144d84fa33"
+        ],
+        "x": 894,
+        "y": 359,
+        "w": 312,
+        "h": 142
+    },
+    {
+        "id": "984a3b613f2b4abc",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1e2791efad22a49d",
+            "e4975558ee3868d0",
+            "3547605771d61b14",
+            "e7b02ce801986909",
+            "f93951d199f6561c",
+            "64eb80a6f67da9c4",
+            "4aa414140e06236c",
+            "5eec2ac1e0cdfe7d",
+            "d48f225f687e0af3",
+            "3aa2a056c41f1ebb"
+        ],
+        "x": 1134,
+        "y": 639,
+        "w": 932,
+        "h": 362
     },
     {
         "id": "f2f86710f80408e7",
@@ -4597,7 +4627,7 @@
         "z": "1d6a28c3c2b677b5",
         "g": "9a35fa969a2e7b12",
         "name": "",
-        "url": "/device/all",
+        "url": "/devices/all",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
@@ -4981,8 +5011,8 @@
         "g": "92ba0c02fad53117",
         "name": "Food Feeder",
         "info": "",
-        "x": 1970,
-        "y": 1280,
+        "x": 2270,
+        "y": 1680,
         "wires": []
     },
     {
@@ -4992,8 +5022,8 @@
         "g": "92ba0c02fad53117",
         "name": "Show Food Remaining(Container)",
         "info": "",
-        "x": 2040,
-        "y": 1360,
+        "x": 2340,
+        "y": 1760,
         "wires": []
     },
     {
@@ -5003,8 +5033,8 @@
         "g": "92ba0c02fad53117",
         "name": "Show Food Remaining(Bowl)",
         "info": "",
-        "x": 2020,
-        "y": 1500,
+        "x": 2320,
+        "y": 1900,
         "wires": []
     },
     {
@@ -5014,8 +5044,8 @@
         "g": "92ba0c02fad53117",
         "name": "Show Food Consumption",
         "info": "",
-        "x": 2010,
-        "y": 1640,
+        "x": 2310,
+        "y": 2040,
         "wires": []
     },
     {
@@ -5025,8 +5055,8 @@
         "g": "92ba0c02fad53117",
         "name": "Show Food-Feeder Status",
         "info": "",
-        "x": 2010,
-        "y": 1780,
+        "x": 2310,
+        "y": 2180,
         "wires": []
     },
     {
@@ -5053,8 +5083,8 @@
         "seg1": "50",
         "seg2": "100",
         "className": "",
-        "x": 2320,
-        "y": 1420,
+        "x": 2620,
+        "y": 1820,
         "wires": []
     },
     {
@@ -5081,8 +5111,8 @@
         "seg1": "50",
         "seg2": "100",
         "className": "",
-        "x": 2330,
-        "y": 1560,
+        "x": 2630,
+        "y": 1960,
         "wires": []
     },
     {
@@ -5097,8 +5127,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2280,
-        "y": 1640,
+        "x": 2580,
+        "y": 2040,
         "wires": [
             [
                 "40dc2fb9fd1ddd84"
@@ -5144,8 +5174,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 2290,
-        "y": 1700,
+        "x": 2590,
+        "y": 2100,
         "wires": [
             []
         ]
@@ -5164,8 +5194,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 2280,
-        "y": 1840,
+        "x": 2580,
+        "y": 2240,
         "wires": []
     },
     {
@@ -5196,8 +5226,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 2230,
-        "y": 1880,
+        "x": 2530,
+        "y": 2280,
         "wires": []
     },
     {
@@ -5214,8 +5244,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 2070,
-        "y": 1420,
+        "x": 2370,
+        "y": 1820,
         "wires": [
             [
                 "dbd87ac1da2ff266"
@@ -5236,8 +5266,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 2050,
-        "y": 1560,
+        "x": 2350,
+        "y": 1960,
         "wires": [
             [
                 "b5bf835afbb8011b",
@@ -5508,7 +5538,8 @@
             "04729c8adab20efb",
             "2028660bb8ae853a",
             "88af194d72d5c519",
-            "f53e285fc6597c27"
+            "f53e285fc6597c27",
+            "e4975558ee3868d0"
         ],
         "x": 775,
         "y": 900,
@@ -6876,7 +6907,7 @@
         "name": "Water-Dispenser",
         "info": "",
         "x": 1220,
-        "y": 640,
+        "y": 600,
         "wires": []
     },
     {
@@ -6917,8 +6948,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1720,
-        "y": 1200,
+        "x": 2020,
+        "y": 1600,
         "wires": [
             []
         ]
@@ -6929,8 +6960,8 @@
         "z": "2807eb5038af723b",
         "name": "Show Water Remaining",
         "info": "",
-        "x": 1230,
-        "y": 1000,
+        "x": 1530,
+        "y": 1400,
         "wires": []
     },
     {
@@ -6939,8 +6970,8 @@
         "z": "2807eb5038af723b",
         "name": "Show Water Consumption",
         "info": "",
-        "x": 1240,
-        "y": 1140,
+        "x": 1540,
+        "y": 1540,
         "wires": []
     },
     {
@@ -6949,8 +6980,8 @@
         "z": "2807eb5038af723b",
         "name": "Show Water-Dispenser Status",
         "info": "",
-        "x": 1250,
-        "y": 1320,
+        "x": 1550,
+        "y": 1720,
         "wires": []
     },
     {
@@ -6976,8 +7007,8 @@
         "seg1": "50",
         "seg2": "100",
         "className": "",
-        "x": 1560,
-        "y": 1060,
+        "x": 1860,
+        "y": 1460,
         "wires": []
     },
     {
@@ -7007,8 +7038,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 1440,
-        "y": 1420,
+        "x": 1450,
+        "y": 1160,
         "wires": []
     },
     {
@@ -7024,8 +7055,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 1490,
-        "y": 1380,
+        "x": 1500,
+        "y": 1120,
         "wires": []
     },
     {
@@ -7041,8 +7072,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 1300,
-        "y": 1060,
+        "x": 1600,
+        "y": 1460,
         "wires": [
             [
                 "e3c76292e5d759dc"
@@ -7062,8 +7093,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 1320,
-        "y": 1200,
+        "x": 1620,
+        "y": 1600,
         "wires": [
             [
                 "678eb9b6773d42d3"
@@ -7074,6 +7105,7 @@
         "id": "1e2791efad22a49d",
         "type": "ui_dropdown",
         "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
         "name": "",
         "label": "",
         "tooltip": "",
@@ -7084,58 +7116,158 @@
         "height": 0,
         "passthru": true,
         "multiple": false,
-        "options": [
-            {
-                "label": "",
-                "value": "",
-                "type": "str"
-            }
-        ],
+        "options": [],
         "payload": "",
-        "topic": "topic",
-        "topicType": "msg",
-        "className": "",
-        "x": 1570,
-        "y": 820,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "273db411d7425eb8",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "name": "Initial",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
         "topic": "",
-        "x": 1220,
-        "y": 700,
+        "topicType": "str",
+        "className": "",
+        "x": 1710,
+        "y": 880,
         "wires": [
             [
-                "c8970712b08f1cb9"
+                "4aa414140e06236c"
             ]
         ]
     },
     {
-        "id": "c8970712b08f1cb9",
+        "id": "e4975558ee3868d0",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "Token Change Event Listener",
+        "links": [
+            "8b03a6b2f1141366"
+        ],
+        "x": 1415,
+        "y": 720,
+        "wires": [
+            [
+                "e7b02ce801986909"
+            ]
+        ]
+    },
+    {
+        "id": "3547605771d61b14",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "Token Change Event Listener",
+        "info": "",
+        "x": 1280,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "e7b02ce801986909",
         "type": "function",
         "z": "2807eb5038af723b",
-        "name": "DB/SELECT",
-        "func": "if(flow.get('token')) {\n    msg.topic = \"SELECT cid, name\" +\n                \" FROM deviceData\" +\n                \" WHERE uid = '\" + flow.get('token') + \"';\";\n    node.send(msg);\n}",
+        "g": "984a3b613f2b4abc",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/devices/all\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1370,
-        "y": 700,
+        "x": 1430,
+        "y": 760,
         "wires": [
-            []
+            [
+                "f93951d199f6561c"
+            ]
         ]
+    },
+    {
+        "id": "f93951d199f6561c",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "ReST/GET Devices",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 1530,
+        "y": 800,
+        "wires": [
+            [
+                "64eb80a6f67da9c4"
+            ]
+        ]
+    },
+    {
+        "id": "64eb80a6f67da9c4",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "ConvPayload",
+        "func": "const res = [];\n\nfor(let obj of msg.payload) {\n    const item = {};\n    item[obj.name] = obj.cid;\n    res.push(item);\n}\n\nmsg.options = res;\nmsg.payload = {};\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1630,
+        "y": 840,
+        "wires": [
+            [
+                "1e2791efad22a49d"
+            ]
+        ]
+    },
+    {
+        "id": "4aa414140e06236c",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "SaveCid",
+        "func": "flow.set('waterSupplier', msg.payload);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1780,
+        "y": 920,
+        "wires": [
+            [
+                "d48f225f687e0af3"
+            ]
+        ]
+    },
+    {
+        "id": "5eec2ac1e0cdfe7d",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "Device Selection",
+        "info": "",
+        "x": 1240,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "d48f225f687e0af3",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "",
+        "mode": "link",
+        "links": [],
+        "x": 1795,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "3aa2a056c41f1ebb",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "984a3b613f2b4abc",
+        "name": "Device Selection Event Out",
+        "info": "",
+        "x": 1930,
+        "y": 960,
+        "wires": []
     },
     {
         "id": "eb03c4c4206e34a0",
