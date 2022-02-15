@@ -376,7 +376,9 @@
             "867e840cf38e4f21"
         ],
         "x": 1314,
-        "y": 19
+        "y": 19,
+        "w": 952,
+        "h": 122
     },
     {
         "id": "2ae0cb5db9c8444c",
@@ -402,7 +404,9 @@
             "210576e9a6ad8c2f"
         ],
         "x": 1314,
-        "y": 159
+        "y": 159,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "47469a4b8eaa1d6e",
@@ -428,7 +432,9 @@
             "370a61d88bdfc0c7"
         ],
         "x": 1314,
-        "y": 379
+        "y": 379,
+        "w": 952,
+        "h": 202
     },
     {
         "id": "47625275f7240e2a",
@@ -611,7 +617,9 @@
             "0409ed639d712c6c"
         ],
         "x": 14,
-        "y": 379
+        "y": 379,
+        "w": 1218,
+        "h": 442
     },
     {
         "id": "827443b04cb37fc9",
@@ -634,7 +642,9 @@
             "b172ae4261416e78"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 858,
+        "h": 348
     },
     {
         "id": "20d6d2a97d7b9fa9",
@@ -1079,7 +1089,9 @@
             "77e21c8437f2396f"
         ],
         "x": 14,
-        "y": 839
+        "y": 839,
+        "w": 1038,
+        "h": 788
     },
     {
         "id": "a79f34438c7bae0f",
@@ -1531,7 +1543,9 @@
             "aa4e5a562cf0ea1d"
         ],
         "x": 394,
-        "y": 899
+        "y": 899,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "eccdd3341675c67f",
@@ -1553,7 +1567,9 @@
             "9574a7e12874334c"
         ],
         "x": 394,
-        "y": 1039
+        "y": 1039,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "86e4d607c3185bb9",
@@ -1575,7 +1591,9 @@
             "a65d4ec274dcc92b"
         ],
         "x": 274,
-        "y": 439
+        "y": 439,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "0409ed639d712c6c",
@@ -1600,7 +1618,9 @@
             "64c53d1b11cf7d48"
         ],
         "x": 594,
-        "y": 579
+        "y": 579,
+        "w": 612,
+        "h": 162
     },
     {
         "id": "5a1fee37aaaa0e70",
@@ -1622,7 +1642,9 @@
             "cc7b98ab4898a4fc"
         ],
         "x": 254,
-        "y": 79
+        "y": 79,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "b172ae4261416e78",
@@ -1645,7 +1667,9 @@
             "a295b2a6bd4c6133"
         ],
         "x": 254,
-        "y": 219
+        "y": 219,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "5d6dc5b2b03096cd",
@@ -1809,7 +1833,9 @@
             "d00ae14703c5d95b"
         ],
         "x": 394,
-        "y": 1179
+        "y": 1179,
+        "w": 552,
+        "h": 162
     },
     {
         "id": "77e21c8437f2396f",
@@ -1835,7 +1861,9 @@
             "c635db36b57752fa"
         ],
         "x": 394,
-        "y": 1359
+        "y": 1359,
+        "w": 632,
+        "h": 242
     },
     {
         "id": "49ec07d5a9500807",
@@ -1996,6 +2024,35 @@
         "y": 2679,
         "w": 1152,
         "h": 322
+    },
+    {
+        "id": "508acff02277d5fa",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "87df79dec94758f4",
+            "0e7b15f3b4308643",
+            "1dd5bf19a71aec8c",
+            "51d30652c245064b",
+            "83523fc17f7f09fc",
+            "53f1830d150d16fb",
+            "c2d72acf448e68e4",
+            "6033a6ea471c3cf0",
+            "c6f8a7948736aebf"
+        ],
+        "x": 954,
+        "y": 3019,
+        "w": 992,
+        "h": 342
     },
     {
         "id": "f2f86710f80408e7",
@@ -5631,6 +5688,7 @@
         "id": "87df79dec94758f4",
         "type": "ui_text",
         "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
         "group": "c166754c88d73fc6",
         "order": 2,
         "width": 0,
@@ -5640,8 +5698,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 1390,
-        "y": 3420,
+        "x": 1830,
+        "y": 3320,
         "wires": []
     },
     {
@@ -5660,9 +5718,9 @@
         "type": "comment",
         "z": "2807eb5038af723b",
         "g": "05ec82e119a7a212",
-        "name": "Set/Show Whatsapp API-KEY",
+        "name": "Set/Show Whatsapp API & PhoneNum",
         "info": "",
-        "x": 1100,
+        "x": 1130,
         "y": 2720,
         "wires": []
     },
@@ -5681,10 +5739,11 @@
         "id": "0e7b15f3b4308643",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
         "name": "Set/Show Timezone",
         "info": "",
         "x": 1070,
-        "y": 3540,
+        "y": 3060,
         "wires": []
     },
     {
@@ -5796,53 +5855,6 @@
         "wires": []
     },
     {
-        "id": "652a0b26b343d22b",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/settings/phone/set",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "1eb4aa7d746828a2",
-        "x": 1380,
-        "y": 3060,
-        "wires": []
-    },
-    {
-        "id": "c853f610a85f0553",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "func": "// Current Timezone Lookup Query\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1160,
-        "y": 3420,
-        "wires": [
-            [
-                "87df79dec94758f4"
-            ]
-        ]
-    },
-    {
-        "id": "05d353924f21e68d",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Set/Show Phone Number",
-        "info": "",
-        "x": 1070,
-        "y": 3320,
-        "wires": []
-    },
-    {
         "id": "b85d976af7d63e03",
         "type": "ui_text",
         "z": "2807eb5038af723b",
@@ -5858,24 +5870,6 @@
         "className": "",
         "x": 1940,
         "y": 2920,
-        "wires": []
-    },
-    {
-        "id": "a50cd8bff59e8d75",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/settings/timezone/set",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 1590,
-        "y": 3380,
         "wires": []
     },
     {
@@ -5895,23 +5889,6 @@
         "x": 1970,
         "y": 2960,
         "wires": []
-    },
-    {
-        "id": "eef4f99d1e2e145f",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "func": "// Current Phone Number Lookup Query\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1040,
-        "y": 3100,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "ab07399b2d2dd390",
@@ -6178,9 +6155,10 @@
         "id": "1dd5bf19a71aec8c",
         "type": "ui_form",
         "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
         "name": "",
-        "label": "Time Zone",
-        "group": "4579d83e78dcf2ff",
+        "label": "Time Zone (ex. \"-05:00\")",
+        "group": "c166754c88d73fc6",
         "order": 1,
         "width": 0,
         "height": 0,
@@ -6189,7 +6167,7 @@
                 "label": "Set Timezone",
                 "value": "timezone",
                 "type": "text",
-                "required": false,
+                "required": true,
                 "rows": null
             }
         ],
@@ -6199,52 +6177,15 @@
         "payload": "",
         "submit": "submit",
         "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "msg",
+        "topic": "",
+        "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 1170,
-        "y": 3380,
+        "x": 1090,
+        "y": 3100,
         "wires": [
             [
-                "a50cd8bff59e8d75"
-            ]
-        ]
-    },
-    {
-        "id": "3f171ebd8f56fbb1",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "label": "Phone Number",
-        "group": "c166754c88d73fc6",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "options": [
-            {
-                "label": "Set Phone Number",
-                "value": "phoneNum",
-                "type": "text",
-                "required": false,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "phoneNum": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "msg",
-        "splitLayout": "",
-        "className": "",
-        "x": 1050,
-        "y": 3060,
-        "wires": [
-            [
-                "652a0b26b343d22b"
+                "51d30652c245064b"
             ]
         ]
     },
@@ -6625,6 +6566,132 @@
             [
                 "b85d976af7d63e03",
                 "ed69f1f0ae9fa808"
+            ]
+        ]
+    },
+    {
+        "id": "51d30652c245064b",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
+        "name": "PreRequest",
+        "func": "if(msg.payload.timezone) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/timezone/${msg.payload.timezone}`;\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 3140,
+        "wires": [
+            [
+                "83523fc17f7f09fc"
+            ]
+        ]
+    },
+    {
+        "id": "83523fc17f7f09fc",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
+        "name": "ReST/PATCH Timezone",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1310,
+        "y": 3180,
+        "wires": [
+            [
+                "c2d72acf448e68e4"
+            ]
+        ]
+    },
+    {
+        "id": "53f1830d150d16fb",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
+        "name": "Initial",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1370,
+        "y": 3220,
+        "wires": [
+            [
+                "c2d72acf448e68e4"
+            ]
+        ]
+    },
+    {
+        "id": "c2d72acf448e68e4",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1530,
+        "y": 3200,
+        "wires": [
+            [
+                "6033a6ea471c3cf0"
+            ]
+        ]
+    },
+    {
+        "id": "6033a6ea471c3cf0",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
+        "name": "ReST/GET Timezone",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1640,
+        "y": 3240,
+        "wires": [
+            [
+                "c6f8a7948736aebf"
+            ]
+        ]
+    },
+    {
+        "id": "c6f8a7948736aebf",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "508acff02277d5fa",
+        "name": "Parse",
+        "func": "msg.payload = JSON.parse(msg.payload).timezone;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1730,
+        "y": 3280,
+        "wires": [
+            [
+                "87df79dec94758f4"
             ]
         ]
     },
