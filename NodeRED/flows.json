@@ -2063,6 +2063,33 @@
         "h": 362
     },
     {
+        "id": "611d250489b1c0ff",
+        "type": "group",
+        "z": "1d6a28c3c2b677b5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a4e3c0b945b93a24",
+            "7549139606991c98",
+            "72877edb9bb8517a",
+            "4e3a67e78026db50",
+            "81870ad6a3dc1d87",
+            "593f5d7943534a24",
+            "4d6331de40f9f25a"
+        ],
+        "x": 14,
+        "y": 1119,
+        "w": 872,
+        "h": 182
+    },
+    {
         "id": "f2f86710f80408e7",
         "type": "mqtt-broker",
         "name": "",
@@ -4749,6 +4776,124 @@
         "info": "",
         "x": 140,
         "y": 960,
+        "wires": []
+    },
+    {
+        "id": "a4e3c0b945b93a24",
+        "type": "http in",
+        "z": "1d6a28c3c2b677b5",
+        "g": "611d250489b1c0ff",
+        "name": "",
+        "url": "/device/:cid",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 1220,
+        "wires": [
+            [
+                "72877edb9bb8517a"
+            ]
+        ]
+    },
+    {
+        "id": "7549139606991c98",
+        "type": "function",
+        "z": "1d6a28c3c2b677b5",
+        "g": "611d250489b1c0ff",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"SELECT *\" +\n            \" FROM deviceData\" +\n            \" WHERE uid = '\" + msg.req.userToken + \"'\" +\n            \" AND cid = '\" + msg.req.params.cid + \"';\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 1180,
+        "wires": [
+            [
+                "81870ad6a3dc1d87"
+            ]
+        ]
+    },
+    {
+        "id": "72877edb9bb8517a",
+        "type": "switch",
+        "z": "1d6a28c3c2b677b5",
+        "g": "611d250489b1c0ff",
+        "name": "CheckAuth",
+        "property": "req.auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 310,
+        "y": 1220,
+        "wires": [
+            [
+                "7549139606991c98"
+            ],
+            [
+                "4e3a67e78026db50"
+            ]
+        ]
+    },
+    {
+        "id": "4e3a67e78026db50",
+        "type": "http response",
+        "z": "1d6a28c3c2b677b5",
+        "g": "611d250489b1c0ff",
+        "name": "403: Forbidden",
+        "statusCode": "403",
+        "headers": {},
+        "x": 500,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "81870ad6a3dc1d87",
+        "type": "mysql",
+        "z": "1d6a28c3c2b677b5",
+        "g": "611d250489b1c0ff",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 660,
+        "y": 1180,
+        "wires": [
+            [
+                "593f5d7943534a24"
+            ]
+        ]
+    },
+    {
+        "id": "593f5d7943534a24",
+        "type": "http response",
+        "z": "1d6a28c3c2b677b5",
+        "g": "611d250489b1c0ff",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 810,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "4d6331de40f9f25a",
+        "type": "comment",
+        "z": "1d6a28c3c2b677b5",
+        "g": "611d250489b1c0ff",
+        "name": "ReST/GET A Device",
+        "info": "",
+        "x": 130,
+        "y": 1160,
         "wires": []
     },
     {
