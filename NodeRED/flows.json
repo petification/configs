@@ -364,7 +364,9 @@
             "867e840cf38e4f21"
         ],
         "x": 1314,
-        "y": 19
+        "y": 19,
+        "w": 952,
+        "h": 122
     },
     {
         "id": "2ae0cb5db9c8444c",
@@ -390,7 +392,9 @@
             "210576e9a6ad8c2f"
         ],
         "x": 1314,
-        "y": 159
+        "y": 159,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "47469a4b8eaa1d6e",
@@ -416,7 +420,9 @@
             "370a61d88bdfc0c7"
         ],
         "x": 1314,
-        "y": 379
+        "y": 379,
+        "w": 952,
+        "h": 202
     },
     {
         "id": "47625275f7240e2a",
@@ -585,7 +591,9 @@
             "0409ed639d712c6c"
         ],
         "x": 14,
-        "y": 379
+        "y": 379,
+        "w": 1218,
+        "h": 442
     },
     {
         "id": "827443b04cb37fc9",
@@ -608,7 +616,9 @@
             "b172ae4261416e78"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 858,
+        "h": 348
     },
     {
         "id": "20d6d2a97d7b9fa9",
@@ -654,7 +664,9 @@
             "3ce598360cdb14a1"
         ],
         "x": 1234,
-        "y": 19
+        "y": 19,
+        "w": 732,
+        "h": 142
     },
     {
         "id": "2a453a7e3ac8b7d5",
@@ -749,34 +761,6 @@
         ],
         "x": 34,
         "y": 719
-    },
-    {
-        "id": "bbf33d30f2db4f13",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "1439383756119db6",
-            "61dea24261b4569d",
-            "3af1f3c3d2212b45",
-            "180406767c3c668d",
-            "b6e7c31b9fe5f71c",
-            "cdce45f9fe67cfde",
-            "07cd26173b29320d",
-            "b13ad32392a2c316"
-        ],
-        "x": 14,
-        "y": 319,
-        "w": 912,
-        "h": 302
     },
     {
         "id": "926801c45750aac7",
@@ -1020,7 +1004,9 @@
             "77e21c8437f2396f"
         ],
         "x": 14,
-        "y": 839
+        "y": 839,
+        "w": 1038,
+        "h": 788
     },
     {
         "id": "a79f34438c7bae0f",
@@ -1049,61 +1035,9 @@
             "c8b663bf39e4a43e"
         ],
         "x": 14,
-        "y": 19
-    },
-    {
-        "id": "8decfaef7147e8a7",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f752fad13dce83db",
-            "c5eb88bcf6b0e23f",
-            "9e6b52f5c50888ad",
-            "4d68f0660f051bc1",
-            "14adf85b612d8515",
-            "dcf1cf8bb986869f",
-            "98ce62d30463bb7c",
-            "6851bc608b138880"
-        ],
-        "x": 14,
-        "y": 859,
-        "w": 832,
-        "h": 262
-    },
-    {
-        "id": "415911d8068e972a",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f54faf82623a3f82",
-            "dbb56407c993f3fc",
-            "4978a80267958c57",
-            "f4e1ddef36a6d96e",
-            "436f3a083663cdf8",
-            "7d5ee5d5be10c5e9"
-        ],
-        "x": 1014,
         "y": 19,
-        "w": 462,
-        "h": 202
+        "w": 1132,
+        "h": 322
     },
     {
         "id": "8381699e5b93b16c",
@@ -1128,7 +1062,7 @@
             "fcfac3bfebf68a84"
         ],
         "x": 14,
-        "y": 1139,
+        "y": 1059,
         "w": 772,
         "h": 262
     },
@@ -1155,7 +1089,7 @@
             "bf99e8eb292a2e1e"
         ],
         "x": 14,
-        "y": 1419,
+        "y": 1339,
         "w": 772,
         "h": 262
     },
@@ -1182,7 +1116,9 @@
             "f45d589dd0982571"
         ],
         "x": 14,
-        "y": 359
+        "y": 359,
+        "w": 1178,
+        "h": 382
     },
     {
         "id": "e696151fe100b641",
@@ -1467,7 +1403,9 @@
             "3acd4e8f21edcc40"
         ],
         "x": 14,
-        "y": 759
+        "y": 759,
+        "w": 712,
+        "h": 142
     },
     {
         "id": "9a35fa969a2e7b12",
@@ -1492,7 +1430,9 @@
             "c6d491ef0b8f56a1"
         ],
         "x": 14,
-        "y": 919
+        "y": 919,
+        "w": 872,
+        "h": 182
     },
     {
         "id": "984a3b613f2b4abc",
@@ -1547,7 +1487,9 @@
             "4d6331de40f9f25a"
         ],
         "x": 14,
-        "y": 1119
+        "y": 1119,
+        "w": 872,
+        "h": 182
     },
     {
         "id": "e17ef39765cae756",
@@ -1663,7 +1605,9 @@
             "b1ab6c1a9db2e8eb"
         ],
         "x": 14,
-        "y": 1319
+        "y": 1319,
+        "w": 932,
+        "h": 182
     },
     {
         "id": "f42877e73b463e5a",
@@ -1813,37 +1757,10 @@
             "586327e44ffa4ffe",
             "ca92f6cd88cb9b8b"
         ],
-        "x": 3714,
-        "y": 1099,
+        "x": 3594,
+        "y": 1239,
         "w": 612,
         "h": 122
-    },
-    {
-        "id": "9e6a2bce75144e23",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "5e3d80601e419927",
-            "86535714f1669122",
-            "726fd996008c57b0",
-            "99420c6ae32621eb",
-            "8aa58f6b373d6916",
-            "6f9629c94f36d8b3",
-            "1e9d15b0b13107ad"
-        ],
-        "x": 14,
-        "y": 639,
-        "w": 912,
-        "h": 202
     },
     {
         "id": "65031937e0b0efd7",
@@ -1888,7 +1805,9 @@
             "aa4e5a562cf0ea1d"
         ],
         "x": 394,
-        "y": 899
+        "y": 899,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "eccdd3341675c67f",
@@ -1910,7 +1829,9 @@
             "9574a7e12874334c"
         ],
         "x": 394,
-        "y": 1039
+        "y": 1039,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "86e4d607c3185bb9",
@@ -1932,7 +1853,9 @@
             "a65d4ec274dcc92b"
         ],
         "x": 274,
-        "y": 439
+        "y": 439,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "0409ed639d712c6c",
@@ -1957,7 +1880,9 @@
             "64c53d1b11cf7d48"
         ],
         "x": 594,
-        "y": 579
+        "y": 579,
+        "w": 612,
+        "h": 162
     },
     {
         "id": "5a1fee37aaaa0e70",
@@ -1979,7 +1904,9 @@
             "cc7b98ab4898a4fc"
         ],
         "x": 254,
-        "y": 79
+        "y": 79,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "b172ae4261416e78",
@@ -2002,7 +1929,9 @@
             "a295b2a6bd4c6133"
         ],
         "x": 254,
-        "y": 219
+        "y": 219,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "5d6dc5b2b03096cd",
@@ -2068,7 +1997,9 @@
             "7fc8e7a46b665229"
         ],
         "x": 614,
-        "y": 399
+        "y": 399,
+        "w": 392,
+        "h": 122
     },
     {
         "id": "f45d589dd0982571",
@@ -2091,7 +2022,9 @@
             "a3658b821c559c70"
         ],
         "x": 614,
-        "y": 539
+        "y": 539,
+        "w": 552,
+        "h": 122
     },
     {
         "id": "91c825ea46b2a62d",
@@ -2162,7 +2095,9 @@
             "d00ae14703c5d95b"
         ],
         "x": 394,
-        "y": 1179
+        "y": 1179,
+        "w": 552,
+        "h": 162
     },
     {
         "id": "77e21c8437f2396f",
@@ -2188,7 +2123,9 @@
             "c635db36b57752fa"
         ],
         "x": 394,
-        "y": 1359
+        "y": 1359,
+        "w": 632,
+        "h": 242
     },
     {
         "id": "49ec07d5a9500807",
@@ -2294,6 +2231,196 @@
         "h": 462
     },
     {
+        "id": "cead35b1f0c7cffb",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1439383756119db6",
+            "61dea24261b4569d",
+            "3af1f3c3d2212b45",
+            "180406767c3c668d",
+            "b6e7c31b9fe5f71c",
+            "07cd26173b29320d",
+            "b13ad32392a2c316"
+        ],
+        "x": 14,
+        "y": 319,
+        "w": 832,
+        "h": 242
+    },
+    {
+        "id": "699401b8c0ebaa1c",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f752fad13dce83db",
+            "c5eb88bcf6b0e23f",
+            "9e6b52f5c50888ad",
+            "4d68f0660f051bc1",
+            "14adf85b612d8515",
+            "dcf1cf8bb986869f",
+            "98ce62d30463bb7c"
+        ],
+        "x": 14,
+        "y": 819,
+        "w": 732,
+        "h": 222
+    },
+    {
+        "id": "e53c5d01e47e2909",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5e3d80601e419927",
+            "86535714f1669122",
+            "726fd996008c57b0",
+            "99420c6ae32621eb",
+            "8aa58f6b373d6916",
+            "6f9629c94f36d8b3",
+            "1e9d15b0b13107ad",
+            "32e05e030777c838"
+        ],
+        "x": 14,
+        "y": 579,
+        "w": 912,
+        "h": 222
+    },
+    {
+        "id": "97b7444c24969a61",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "90326f2d5348e448",
+            "19fd6e82dadd1282",
+            "ccd6ce4a5d9991e6",
+            "ef23052da338b320"
+        ],
+        "x": 3614,
+        "y": 779,
+        "w": 552,
+        "h": 202
+    },
+    {
+        "id": "b947df7e17470543",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3a072ccc2e6d7d23",
+            "62993187ae4b034e",
+            "60d7d8d0453f9fbb",
+            "4c35fb61563899fa",
+            "b62818cdcac224ce",
+            "9f5e20d5925c5aba"
+        ],
+        "x": 4214,
+        "y": 659,
+        "w": 652,
+        "h": 242
+    },
+    {
+        "id": "2e5dbb8d5d2b88f1",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9fba4c58e4832285",
+            "66abe7a7c40f4767",
+            "fbf869e7dd7f2cc9",
+            "0a2584dcd3238481",
+            "a2b15791680a05d4",
+            "c5a49d7524b6315f",
+            "b9ef77fe4aa82872"
+        ],
+        "x": 4214,
+        "y": 919,
+        "w": 692,
+        "h": 282
+    },
+    {
+        "id": "8b61d9e21f61dbe1",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3460d0c7b385604a",
+            "4f8c02041511ef4f",
+            "04bfe2c13a6893a7",
+            "fd9681c5376095c3",
+            "fbef4ca7c629168b",
+            "97b7444c24969a61",
+            "b947df7e17470543",
+            "2e5dbb8d5d2b88f1"
+        ],
+        "x": 3588,
+        "y": 619,
+        "w": 1344,
+        "h": 608
+    },
+    {
         "id": "f2f86710f80408e7",
         "type": "mqtt-broker",
         "name": "",
@@ -2373,7 +2500,7 @@
         "type": "ui_group",
         "name": "Feed Machine Statistics",
         "tab": "24ee9924ddace3c7",
-        "order": 3,
+        "order": 2,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -2428,7 +2555,7 @@
         "type": "ui_group",
         "name": "Serve Food",
         "tab": "24ee9924ddace3c7",
-        "order": 2,
+        "order": 3,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -2439,6 +2566,7 @@
         "type": "ui_tab",
         "name": "Feed Machine",
         "icon": "pets",
+        "order": 1,
         "disabled": false,
         "hidden": false
     },
@@ -2447,6 +2575,7 @@
         "type": "ui_tab",
         "name": "Settings",
         "icon": "settings",
+        "order": 3,
         "disabled": false,
         "hidden": false
     },
@@ -2529,10 +2658,10 @@
             }
         },
         "site": {
-            "name": "Node-RED Dashboard",
+            "name": "Petification Dashboard",
             "hideToolbar": "false",
             "allowSwipe": "false",
-            "lockMenu": "false",
+            "lockMenu": "true",
             "allowTempTheme": "true",
             "dateFormat": "DD/MM/YYYY",
             "sizes": {
@@ -2542,8 +2671,8 @@
                 "gy": 6,
                 "cx": 6,
                 "cy": 6,
-                "px": 0,
-                "py": 0
+                "px": 6,
+                "py": 6
             }
         }
     },
@@ -2552,6 +2681,7 @@
         "type": "ui_tab",
         "name": "Water Supplier",
         "icon": "pets",
+        "order": 2,
         "disabled": false,
         "hidden": false
     },
@@ -2571,11 +2701,31 @@
         "type": "ui_group",
         "name": "Device Info",
         "tab": "24ee9924ddace3c7",
-        "order": 3,
+        "order": 1,
         "disp": true,
         "width": "6",
         "collapse": false,
         "className": ""
+    },
+    {
+        "id": "5ddce720755e9962",
+        "type": "ui_spacer",
+        "z": "2807eb5038af723b",
+        "name": "spacer",
+        "group": "b9bec03efffc885d",
+        "order": 3,
+        "width": "6",
+        "height": "1"
+    },
+    {
+        "id": "9e9ce08837fa5952",
+        "type": "ui_spacer",
+        "z": "2807eb5038af723b",
+        "name": "spacer",
+        "group": "ad04c2ea2866741d",
+        "order": 2,
+        "width": "6",
+        "height": "1"
     },
     {
         "id": "b6087fa03967b97d",
@@ -5523,8 +5673,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 4130,
-        "y": 500,
+        "x": 4290,
+        "y": 440,
         "wires": [
             []
         ]
@@ -5542,8 +5692,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 3890,
-        "y": 360,
+        "x": 3900,
+        "y": 480,
         "wires": [
             [
                 "31158ce5cbb7ab6e"
@@ -6218,18 +6368,19 @@
         "g": "42c1fdbfda8baa20",
         "name": "Serve Food(By Button)",
         "info": "",
-        "x": 3840,
-        "y": 1140,
+        "x": 3720,
+        "y": 1280,
         "wires": []
     },
     {
         "id": "3460d0c7b385604a",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
         "name": "Set Food Serve Schedule",
         "info": "",
-        "x": 3850,
-        "y": 900,
+        "x": 3730,
+        "y": 660,
         "wires": []
     },
     {
@@ -6238,8 +6389,8 @@
         "z": "2807eb5038af723b",
         "name": "Food Feeder Controll",
         "info": "",
-        "x": 3840,
-        "y": 780,
+        "x": 3680,
+        "y": 600,
         "wires": []
     },
     {
@@ -6272,8 +6423,8 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 3860,
-        "y": 1180,
+        "x": 3740,
+        "y": 1320,
         "wires": [
             [
                 "586327e44ffa4ffe"
@@ -6284,17 +6435,18 @@
         "id": "90326f2d5348e448",
         "type": "ui_form",
         "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
         "name": "",
         "label": "Automatic feeding time setting",
         "group": "ad04c2ea2866741d",
-        "order": 2,
+        "order": 5,
         "width": "6",
         "height": "6",
         "options": [
             {
-                "label": "Set Time HH:MM (00:00 ~ 23:59)",
+                "label": "Set Time",
                 "value": "time",
-                "type": "text",
+                "type": "time",
                 "required": true,
                 "rows": null
             },
@@ -6317,11 +6469,10 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 3870,
-        "y": 960,
+        "x": 3770,
+        "y": 860,
         "wires": [
             [
-                "7e6c98d8b0673a98",
                 "19fd6e82dadd1282"
             ]
         ]
@@ -6362,9 +6513,9 @@
         "g": "3a2feb40aae8042e",
         "order": 1,
         "group": "ad292859cba7b247",
-        "width": 0,
-        "height": 0,
-        "label": "",
+        "width": "6",
+        "height": "1",
+        "label": "Notification Status",
         "labelPlacement": "left",
         "labelAlignment": "left",
         "colorForValue": [
@@ -6931,7 +7082,7 @@
         "name": "",
         "label": "Current Timezone",
         "format": "{{msg.payload.timezone}}",
-        "layout": "row-spread",
+        "layout": "col-center",
         "className": "",
         "x": 1090,
         "y": 2280,
@@ -7160,10 +7311,10 @@
         "type": "ui_led",
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
-        "order": 4,
+        "order": 3,
         "group": "ae0ea2451b27327f",
-        "width": 0,
-        "height": 0,
+        "width": "1",
+        "height": "1",
         "label": "",
         "labelPlacement": "left",
         "labelAlignment": "left",
@@ -7198,9 +7349,9 @@
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
         "group": "ae0ea2451b27327f",
-        "order": 3,
-        "width": "6",
-        "height": "2",
+        "order": 2,
+        "width": "5",
+        "height": "1",
         "name": "",
         "label": "Device Status",
         "format": "{{msg.payload}}",
@@ -7241,7 +7392,7 @@
         "tooltip": "",
         "place": "Select device",
         "group": "ae0ea2451b27327f",
-        "order": 5,
+        "order": 1,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -7796,7 +7947,7 @@
         "tooltip": "",
         "place": "Select device",
         "group": "93952d2944d4170e",
-        "order": 5,
+        "order": 1,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -7964,10 +8115,10 @@
         "type": "ui_led",
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
-        "order": 4,
+        "order": 3,
         "group": "93952d2944d4170e",
-        "width": 0,
-        "height": 0,
+        "width": "1",
+        "height": "1",
         "label": "",
         "labelPlacement": "left",
         "labelAlignment": "left",
@@ -8002,9 +8153,9 @@
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
         "group": "93952d2944d4170e",
-        "order": 3,
-        "width": "6",
-        "height": "2",
+        "order": 2,
+        "width": "5",
+        "height": "1",
         "name": "",
         "label": "Device Status",
         "format": "{{msg.payload}}",
@@ -8537,8 +8688,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4090,
-        "y": 1180,
+        "x": 3970,
+        "y": 1320,
         "wires": [
             [
                 "ca92f6cd88cb9b8b"
@@ -8560,57 +8711,76 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 4250,
-        "y": 1180,
+        "x": 4130,
+        "y": 1320,
         "wires": []
     },
     {
         "id": "3a072ccc2e6d7d23",
         "type": "ui_table",
         "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
         "group": "ad04c2ea2866741d",
-        "name": "",
-        "order": 2,
+        "name": "Schedule Status",
+        "order": 4,
         "width": 0,
         "height": 0,
-        "columns": [],
+        "columns": [
+            {
+                "field": "id",
+                "title": "ID",
+                "width": "10%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "time",
+                "title": "Time",
+                "width": "40%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "weight",
+                "title": "Serve Amount",
+                "width": "50%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
         "outputs": 1,
         "cts": true,
-        "x": 4130,
-        "y": 760,
+        "x": 4600,
+        "y": 860,
         "wires": [
-            []
+            [
+                "66abe7a7c40f4767"
+            ]
         ]
-    },
-    {
-        "id": "7e6c98d8b0673a98",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 4130,
-        "y": 960,
-        "wires": []
     },
     {
         "id": "19fd6e82dadd1282",
         "type": "function",
         "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
         "name": "PreRequest",
-        "func": "// [POST] /schedule/:time/:topic/:payload\n\nconst time = msg.payload.time;\nconst topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\nconst payload = msg.payload.weight;\n\nmsg.method = \"POST\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedule/${time}/${topic}/${payload}`;\nreturn msg;",
+        "func": "// [POST] /schedule/:time/:topic/:payload\n\nconst time = msg.payload.time.substring(11, 16);\nconst topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\nconst payload = msg.payload.weight;\n\nmsg.method = \"POST\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedule/${time}/${topic}/${payload}`;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4090,
-        "y": 1000,
+        "x": 3910,
+        "y": 900,
         "wires": [
             [
                 "ccd6ce4a5d9991e6"
@@ -8621,27 +8791,31 @@
         "id": "ccd6ce4a5d9991e6",
         "type": "link call",
         "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
         "name": "ReST/POST Schedule",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 4300,
-        "y": 1000,
+        "x": 4040,
+        "y": 940,
         "wires": [
-            []
+            [
+                "62993187ae4b034e"
+            ]
         ]
     },
     {
         "id": "4f8c02041511ef4f",
         "type": "link in",
         "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
         "name": "Feed Machine Selection Event Listener",
         "links": [
             "f3801119dcfd5901"
         ],
-        "x": 3955,
-        "y": 820,
+        "x": 4155,
+        "y": 700,
         "wires": [
             [
                 "62993187ae4b034e"
@@ -8652,16 +8826,18 @@
         "id": "04bfe2c13a6893a7",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
-        "x": 3790,
-        "y": 820,
+        "x": 3990,
+        "y": 700,
         "wires": []
     },
     {
         "id": "62993187ae4b034e",
         "type": "function",
         "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
         "name": "PreRequest",
         "func": "const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\n\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedules/${topic}`;\n\nreturn msg;",
         "outputs": 1,
@@ -8669,8 +8845,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3990,
-        "y": 860,
+        "x": 4310,
+        "y": 740,
         "wires": [
             [
                 "60d7d8d0453f9fbb"
@@ -8681,34 +8857,19 @@
         "id": "60d7d8d0453f9fbb",
         "type": "link call",
         "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
         "name": "ReST/GET Schedule",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 4100,
-        "y": 900,
+        "x": 4420,
+        "y": 780,
         "wires": [
             [
-                "f9a475a6424e4513"
+                "4c35fb61563899fa"
             ]
         ]
-    },
-    {
-        "id": "f9a475a6424e4513",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 4310,
-        "y": 900,
-        "wires": []
     },
     {
         "id": "72a4115908d159dd",
@@ -8809,7 +8970,7 @@
         "width": 0,
         "height": 0,
         "passthru": false,
-        "label": "button",
+        "label": "submit",
         "tooltip": "",
         "color": "",
         "bgcolor": "",
@@ -8826,6 +8987,212 @@
                 "140d5f4901347771"
             ]
         ]
+    },
+    {
+        "id": "4c35fb61563899fa",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
+        "name": "Formatter",
+        "func": "const res = [];\n\nfor(let schedule of msg.payload) {\n    res.push({\n        id: schedule.id,\n        time: schedule.time,\n        weight: schedule.payload,\n    });\n}\n\nmsg.payload = res;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4520,
+        "y": 820,
+        "wires": [
+            [
+                "3a072ccc2e6d7d23"
+            ]
+        ]
+    },
+    {
+        "id": "9fba4c58e4832285",
+        "type": "ui_toast",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 4390,
+        "y": 1040,
+        "wires": [
+            [
+                "fbf869e7dd7f2cc9"
+            ]
+        ]
+    },
+    {
+        "id": "66abe7a7c40f4767",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "SaveTemp",
+        "func": "flow.set('temp', msg.payload.id);\nmsg.topic = \"Delete Confirmation\";\nmsg.payload = \"Do you really want to delete this schedule?\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4310,
+        "y": 1000,
+        "wires": [
+            [
+                "9fba4c58e4832285"
+            ]
+        ]
+    },
+    {
+        "id": "fbf869e7dd7f2cc9",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "FilterOK",
+        "func": "if(msg.payload === \"OK\") {\n    msg.method = \"DELETE\";\n    msg.url = `https://petificationblue.ddns.net:1880/schedule/${flow.get('temp')}`;\n    return msg;\n}\n\nreturn null;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4460,
+        "y": 1080,
+        "wires": [
+            [
+                "0a2584dcd3238481"
+            ]
+        ]
+    },
+    {
+        "id": "0a2584dcd3238481",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "ReST/DELETE Schedule",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 4570,
+        "y": 1120,
+        "wires": [
+            [
+                "a2b15791680a05d4"
+            ]
+        ]
+    },
+    {
+        "id": "a2b15791680a05d4",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "Schedule Delete Event Out",
+        "mode": "link",
+        "links": [
+            "fd9681c5376095c3"
+        ],
+        "x": 4635,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "fd9681c5376095c3",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "name": "Schedule Delete Event Listener",
+        "links": [
+            "a2b15791680a05d4"
+        ],
+        "x": 4155,
+        "y": 740,
+        "wires": [
+            [
+                "62993187ae4b034e"
+            ]
+        ]
+    },
+    {
+        "id": "fbef4ca7c629168b",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "name": "Schedule Delete Event Listener",
+        "info": "",
+        "x": 4010,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "c5a49d7524b6315f",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "Schedule Delete Event Out",
+        "info": "",
+        "x": 4770,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "ef23052da338b320",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
+        "name": "Add New Schedule",
+        "info": "",
+        "x": 3730,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "b62818cdcac224ce",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
+        "name": "Show Schedule Table",
+        "info": "",
+        "x": 4340,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "b9ef77fe4aa82872",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "Click to Delete Schedule",
+        "info": "",
+        "x": 4350,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "9f5e20d5925c5aba",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
+        "group": "ad04c2ea2866741d",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Click Table Row to Delete Schedule",
+        "format": "",
+        "layout": "row-spread",
+        "className": "",
+        "x": 4700,
+        "y": 740,
+        "wires": []
     },
     {
         "id": "eb03c4c4206e34a0",
@@ -10150,7 +10517,7 @@
         "id": "1439383756119db6",
         "type": "http in",
         "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
+        "g": "cead35b1f0c7cffb",
         "name": "",
         "url": "/schedule/:time/:topic/:payload",
         "method": "post",
@@ -10168,19 +10535,19 @@
         "id": "61dea24261b4569d",
         "type": "http response",
         "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
+        "g": "cead35b1f0c7cffb",
         "name": "403: Forbidden",
         "statusCode": "403",
         "headers": {},
         "x": 640,
-        "y": 580,
+        "y": 520,
         "wires": []
     },
     {
         "id": "3af1f3c3d2212b45",
         "type": "switch",
         "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
+        "g": "cead35b1f0c7cffb",
         "name": "CheckAuth",
         "property": "req.auth",
         "propertyType": "msg",
@@ -10199,7 +10566,7 @@
         "y": 440,
         "wires": [
             [
-                "cdce45f9fe67cfde"
+                "07cd26173b29320d"
             ],
             [
                 "61dea24261b4569d"
@@ -10210,19 +10577,19 @@
         "id": "180406767c3c668d",
         "type": "http response",
         "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
+        "g": "cead35b1f0c7cffb",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 850,
-        "y": 520,
+        "x": 770,
+        "y": 480,
         "wires": []
     },
     {
         "id": "b6e7c31b9fe5f71c",
         "type": "comment",
         "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
+        "g": "cead35b1f0c7cffb",
         "name": "ReST/POST New Schedule",
         "info": "",
         "x": 150,
@@ -10233,14 +10600,14 @@
         "id": "5e3d80601e419927",
         "type": "http in",
         "z": "cfdddf09d7102807",
-        "g": "9e6a2bce75144e23",
+        "g": "e53c5d01e47e2909",
         "name": "",
         "url": "/schedules/:topic",
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
         "x": 140,
-        "y": 760,
+        "y": 700,
         "wires": [
             [
                 "86535714f1669122"
@@ -10251,7 +10618,7 @@
         "id": "86535714f1669122",
         "type": "switch",
         "z": "cfdddf09d7102807",
-        "g": "9e6a2bce75144e23",
+        "g": "e53c5d01e47e2909",
         "name": "CheckAuth",
         "property": "req.auth",
         "propertyType": "msg",
@@ -10267,7 +10634,7 @@
         "repair": false,
         "outputs": 2,
         "x": 350,
-        "y": 760,
+        "y": 700,
         "wires": [
             [
                 "726fd996008c57b0"
@@ -10281,16 +10648,16 @@
         "id": "726fd996008c57b0",
         "type": "function",
         "z": "cfdddf09d7102807",
-        "g": "9e6a2bce75144e23",
+        "g": "e53c5d01e47e2909",
         "name": "CreateQuery",
-        "func": "msg.topic = \"SELECT *\" +\n            \" FROM scheduleData\" +\n            \" WHERE uid = '\" + msg.req.userToken + \"'\" +\n            \" AND topic = '\" + msg.req.params.topic + \"'\" +\n            \" AND activate = 1;\";\n\nreturn msg;",
+        "func": "msg.topic = \"SELECT sd.*, JSON_EXTRACT(ud.settings, '$.timezone') AS timezone\" +\n            \" FROM scheduleData sd JOIN userData ud\" +\n            \" WHERE sd.uid = '\" + msg.req.userToken + \"'\" +\n            \" AND sd.topic = '\" + msg.req.params.topic + \"'\" +\n            \" AND sd.activate = 1;\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 530,
-        "y": 720,
+        "y": 660,
         "wires": [
             [
                 "99420c6ae32621eb"
@@ -10301,14 +10668,14 @@
         "id": "99420c6ae32621eb",
         "type": "mysql",
         "z": "cfdddf09d7102807",
-        "g": "9e6a2bce75144e23",
+        "g": "e53c5d01e47e2909",
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 700,
-        "y": 720,
+        "y": 660,
         "wires": [
             [
-                "8aa58f6b373d6916"
+                "32e05e030777c838"
             ]
         ]
     },
@@ -10316,49 +10683,49 @@
         "id": "8aa58f6b373d6916",
         "type": "http response",
         "z": "cfdddf09d7102807",
-        "g": "9e6a2bce75144e23",
+        "g": "e53c5d01e47e2909",
         "name": "",
         "statusCode": "",
         "headers": {},
         "x": 850,
-        "y": 720,
+        "y": 740,
         "wires": []
     },
     {
         "id": "6f9629c94f36d8b3",
         "type": "http response",
         "z": "cfdddf09d7102807",
-        "g": "9e6a2bce75144e23",
+        "g": "e53c5d01e47e2909",
         "name": "403: Forbidden",
         "statusCode": "403",
         "headers": {},
         "x": 540,
-        "y": 800,
+        "y": 760,
         "wires": []
     },
     {
         "id": "1e9d15b0b13107ad",
         "type": "comment",
         "z": "cfdddf09d7102807",
-        "g": "9e6a2bce75144e23",
+        "g": "e53c5d01e47e2909",
         "name": "ReST/GET Schedules",
         "info": "",
         "x": 140,
-        "y": 680,
+        "y": 620,
         "wires": []
     },
     {
         "id": "f752fad13dce83db",
         "type": "http in",
         "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
+        "g": "699401b8c0ebaa1c",
         "name": "",
         "url": "/schedule/:id/:time",
         "method": "patch",
         "upload": false,
         "swaggerDoc": "",
         "x": 150,
-        "y": 980,
+        "y": 940,
         "wires": [
             [
                 "9e6b52f5c50888ad"
@@ -10369,19 +10736,19 @@
         "id": "c5eb88bcf6b0e23f",
         "type": "http response",
         "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
+        "g": "699401b8c0ebaa1c",
         "name": "403: Forbidden",
         "statusCode": "403",
         "headers": {},
         "x": 560,
-        "y": 1080,
+        "y": 1000,
         "wires": []
     },
     {
         "id": "9e6b52f5c50888ad",
         "type": "switch",
         "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
+        "g": "699401b8c0ebaa1c",
         "name": "CheckAuth",
         "property": "req.auth",
         "propertyType": "msg",
@@ -10397,10 +10764,10 @@
         "repair": false,
         "outputs": 2,
         "x": 370,
-        "y": 980,
+        "y": 940,
         "wires": [
             [
-                "6851bc608b138880"
+                "dcf1cf8bb986869f"
             ],
             [
                 "c5eb88bcf6b0e23f"
@@ -10411,39 +10778,39 @@
         "id": "4d68f0660f051bc1",
         "type": "http response",
         "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
+        "g": "699401b8c0ebaa1c",
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 770,
-        "y": 1020,
+        "x": 670,
+        "y": 960,
         "wires": []
     },
     {
         "id": "14adf85b612d8515",
         "type": "comment",
         "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
+        "g": "699401b8c0ebaa1c",
         "name": "ReST/PATCH A Schedule",
         "info": "",
         "x": 150,
-        "y": 900,
+        "y": 860,
         "wires": []
     },
     {
         "id": "dcf1cf8bb986869f",
         "type": "function",
         "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
+        "g": "699401b8c0ebaa1c",
         "name": "CreateQuery",
-        "func": "msg.topic = \"UPDATE scheduleData\" +\n            \" SET time = '\" + msg.utc + \"'\" +\n            \" WHERE id = \" + msg.req.params.id + \";\";\n\nreturn msg;",
+        "func": "msg.topic = \"UPDATE scheduleData\" +\n            \" SET time = '\" + msg.req.params.time + \"'\" +\n            \" WHERE id = \" + msg.req.params.id + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 650,
-        "y": 940,
+        "x": 550,
+        "y": 880,
         "wires": [
             [
                 "98ce62d30463bb7c"
@@ -10454,11 +10821,11 @@
         "id": "98ce62d30463bb7c",
         "type": "mysql",
         "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
+        "g": "699401b8c0ebaa1c",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 720,
-        "y": 980,
+        "x": 620,
+        "y": 920,
         "wires": [
             [
                 "4d68f0660f051bc1"
@@ -10469,7 +10836,6 @@
         "id": "f54faf82623a3f82",
         "type": "link in",
         "z": "cfdddf09d7102807",
-        "g": "415911d8068e972a",
         "name": "getUTC",
         "links": [],
         "x": 1055,
@@ -10484,19 +10850,17 @@
         "id": "dbb56407c993f3fc",
         "type": "link out",
         "z": "cfdddf09d7102807",
-        "g": "415911d8068e972a",
         "name": "",
         "mode": "return",
         "links": [],
-        "x": 1435,
-        "y": 180,
+        "x": 1595,
+        "y": 380,
         "wires": []
     },
     {
         "id": "4978a80267958c57",
         "type": "function",
         "z": "cfdddf09d7102807",
-        "g": "415911d8068e972a",
         "name": "Get User Timezone",
         "func": "msg.topic = \"SELECT JSON_EXTRACT(settings, '$.timezone') AS timezone\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + msg.req.userToken + \"';\"\nreturn msg;",
         "outputs": 1,
@@ -10516,14 +10880,13 @@
         "id": "f4e1ddef36a6d96e",
         "type": "mysql",
         "z": "cfdddf09d7102807",
-        "g": "415911d8068e972a",
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 1260,
         "y": 140,
         "wires": [
             [
-                "436f3a083663cdf8"
+                "03236e4c5ff59196"
             ]
         ]
     },
@@ -10531,7 +10894,6 @@
         "id": "436f3a083663cdf8",
         "type": "function",
         "z": "cfdddf09d7102807",
-        "g": "415911d8068e972a",
         "name": "Return UTC",
         "func": "const twoDigit = (num) => (num < 10 ? \"0\" + num : \"\" + num);\n\nconst time = msg.req.params.time;\nconst timezone = msg.payload[0].timezone;\n\nconst local = new Date(`1970-01-01T${time}:00.000${timezone}`);\nconst utc = new Date(local.toLocaleString('en-US', { timeZone: 'Universal' }));\n\nconst minute = twoDigit(utc.getMinutes());\nconst hour = twoDigit(utc.getHours());\nmsg.utc = `${hour}:${minute}`;\n\nreturn msg;",
         "outputs": 1,
@@ -10539,8 +10901,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1330,
-        "y": 180,
+        "x": 1350,
+        "y": 320,
         "wires": [
             [
                 "dbb56407c993f3fc"
@@ -10551,7 +10913,6 @@
         "id": "7d5ee5d5be10c5e9",
         "type": "comment",
         "z": "cfdddf09d7102807",
-        "g": "415911d8068e972a",
         "name": "getUTC",
         "info": "params:\n    msg.req.params.time:    HTTP Requested Time\n    msg.req.userToken:      HTTP Bearer Token\n    \nReturn:\n    msg.utc:                Converted UTC",
         "x": 1090,
@@ -10559,37 +10920,19 @@
         "wires": []
     },
     {
-        "id": "cdce45f9fe67cfde",
-        "type": "link call",
-        "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
-        "name": "Call \"getUTC\"",
-        "links": [
-            "f54faf82623a3f82"
-        ],
-        "timeout": "30",
-        "x": 640,
-        "y": 400,
-        "wires": [
-            [
-                "07cd26173b29320d"
-            ]
-        ]
-    },
-    {
         "id": "07cd26173b29320d",
         "type": "function",
         "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
+        "g": "cead35b1f0c7cffb",
         "name": "CreateQuery",
-        "func": "msg.topic = \"INSERT INTO scheduleData\" +\n            \" (time, uid, topic, payload)\" +\n            \" VALUES\" +\n            ` ('${msg.utc}', '${msg.req.userToken}', '${msg.req.params.topic}', '${msg.req.params.payload}');`\n\nreturn msg;",
+        "func": "msg.topic = \"INSERT INTO scheduleData\" +\n            \" (time, uid, topic, payload)\" +\n            \" VALUES\" +\n            ` ('${msg.req.params.time}', '${msg.req.userToken}', '${msg.req.params.topic}', '${msg.req.params.payload}');`\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 730,
-        "y": 440,
+        "x": 630,
+        "y": 400,
         "wires": [
             [
                 "b13ad32392a2c316"
@@ -10600,32 +10943,14 @@
         "id": "b13ad32392a2c316",
         "type": "mysql",
         "z": "cfdddf09d7102807",
-        "g": "bbf33d30f2db4f13",
+        "g": "cead35b1f0c7cffb",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 800,
-        "y": 480,
+        "x": 700,
+        "y": 440,
         "wires": [
             [
                 "180406767c3c668d"
-            ]
-        ]
-    },
-    {
-        "id": "6851bc608b138880",
-        "type": "link call",
-        "z": "cfdddf09d7102807",
-        "g": "8decfaef7147e8a7",
-        "name": "Call \"getUTC\"",
-        "links": [
-            "f54faf82623a3f82"
-        ],
-        "timeout": "30",
-        "x": 560,
-        "y": 900,
-        "wires": [
-            [
-                "dcf1cf8bb986869f"
             ]
         ]
     },
@@ -10640,7 +10965,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 140,
-        "y": 1260,
+        "y": 1180,
         "wires": [
             [
                 "0f69318b3ef92d2a"
@@ -10656,7 +10981,7 @@
         "statusCode": "403",
         "headers": {},
         "x": 560,
-        "y": 1360,
+        "y": 1280,
         "wires": []
     },
     {
@@ -10679,7 +11004,7 @@
         "repair": false,
         "outputs": 2,
         "x": 370,
-        "y": 1260,
+        "y": 1180,
         "wires": [
             [
                 "d2d6beddada85433"
@@ -10698,7 +11023,7 @@
         "statusCode": "",
         "headers": {},
         "x": 710,
-        "y": 1300,
+        "y": 1220,
         "wires": []
     },
     {
@@ -10709,7 +11034,7 @@
         "name": "ReST/DELETE A Schedule",
         "info": "",
         "x": 150,
-        "y": 1180,
+        "y": 1100,
         "wires": []
     },
     {
@@ -10725,7 +11050,7 @@
         "finalize": "",
         "libs": [],
         "x": 550,
-        "y": 1220,
+        "y": 1140,
         "wires": [
             [
                 "fcfac3bfebf68a84"
@@ -10740,7 +11065,7 @@
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 640,
-        "y": 1260,
+        "y": 1180,
         "wires": [
             [
                 "e55c9c8e013bf9d5"
@@ -10758,7 +11083,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 140,
-        "y": 1540,
+        "y": 1460,
         "wires": [
             [
                 "5cbdcc4506fd66a0"
@@ -10774,7 +11099,7 @@
         "statusCode": "403",
         "headers": {},
         "x": 560,
-        "y": 1640,
+        "y": 1560,
         "wires": []
     },
     {
@@ -10797,7 +11122,7 @@
         "repair": false,
         "outputs": 2,
         "x": 370,
-        "y": 1540,
+        "y": 1460,
         "wires": [
             [
                 "9bfdbcd3cdb03371"
@@ -10816,7 +11141,7 @@
         "statusCode": "",
         "headers": {},
         "x": 710,
-        "y": 1580,
+        "y": 1500,
         "wires": []
     },
     {
@@ -10827,7 +11152,7 @@
         "name": "ReST/DELETE All Schedule",
         "info": "",
         "x": 160,
-        "y": 1460,
+        "y": 1380,
         "wires": []
     },
     {
@@ -10843,7 +11168,7 @@
         "finalize": "",
         "libs": [],
         "x": 550,
-        "y": 1500,
+        "y": 1420,
         "wires": [
             [
                 "bf99e8eb292a2e1e"
@@ -10858,7 +11183,7 @@
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 640,
-        "y": 1540,
+        "y": 1460,
         "wires": [
             [
                 "315aa27445c93d5a"
@@ -10882,10 +11207,47 @@
         "output": "",
         "outputType": "msg",
         "outTz": "Africa/Abidjan",
-        "x": 1290,
-        "y": 440,
+        "x": 1440,
+        "y": 220,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "03236e4c5ff59196",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "name": "Refinement",
+        "func": "msg.payload = msg.payload[0].timezone;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1350,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "32e05e030777c838",
+        "type": "function",
+        "z": "cfdddf09d7102807",
+        "g": "e53c5d01e47e2909",
+        "name": "Localization",
+        "func": "msg.payload = msg.payload.map((el) => {\n    const utc = new Date(`1970-01-01T${el.time}:00.000+00:00`);\n    const localArray = utc.toLocaleString('en-US', { timeZone: el.timezone }).split(' ');\n    const time = localArray[1].substring(0, localArray[1].length - 3);\n    const ampm = localArray[2];\n    el.time = time + ' ' + ampm;\n    return el;\n})\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 700,
+        "wires": [
+            [
+                "8aa58f6b373d6916"
+            ]
         ]
     },
     {
