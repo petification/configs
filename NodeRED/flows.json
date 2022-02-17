@@ -87,7 +87,9 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299
+        "y": 2299,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ffff053900bb63ca",
@@ -111,7 +113,9 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739
+        "y": 2739,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -137,7 +141,9 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519
+        "y": 2519,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ed8b5377f33374f1",
@@ -162,7 +168,9 @@
             "69fd65e799173d30"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 992,
+        "h": 202
     },
     {
         "id": "7457db638135fbdb",
@@ -186,7 +194,9 @@
             "edcb6c70dd6d14e2"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 1232,
+        "h": 122
     },
     {
         "id": "617bb68c7b2284cf",
@@ -214,7 +224,9 @@
             "29544c1af11d03dc"
         ],
         "x": 14,
-        "y": 379
+        "y": 379,
+        "w": 1252,
+        "h": 242
     },
     {
         "id": "778ff3b8764df908",
@@ -244,7 +256,9 @@
             "388d2936128df466"
         ],
         "x": 14,
-        "y": 639
+        "y": 639,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "08368f4a4f432e34",
@@ -274,7 +288,9 @@
             "7a1158daf4dae513"
         ],
         "x": 14,
-        "y": 959
+        "y": 959,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "2dac822f9fa8fa31",
@@ -298,7 +314,9 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 339
+        "y": 339,
+        "w": 832,
+        "h": 142
     },
     {
         "id": "c5351c5c421b358c",
@@ -319,7 +337,9 @@
             "247061156250feef"
         ],
         "x": 34,
-        "y": 19
+        "y": 19,
+        "w": 332,
+        "h": 122
     },
     {
         "id": "4b08a40382bbc675",
@@ -340,7 +360,9 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 499
+        "y": 499,
+        "w": 402,
+        "h": 122
     },
     {
         "id": "a11b1041e59fd5f1",
@@ -443,7 +465,9 @@
             "3ea44f65a91ee26c"
         ],
         "x": 34,
-        "y": 159
+        "y": 159,
+        "w": 392,
+        "h": 122
     },
     {
         "id": "2e8c563c95931cf4",
@@ -464,7 +488,9 @@
             "556876be6c6ceeff"
         ],
         "x": 34,
-        "y": 299
+        "y": 299,
+        "w": 372,
+        "h": 122
     },
     {
         "id": "e4ec5a08b48d755b",
@@ -480,7 +506,9 @@
             "0d5b1751af6329c2"
         ],
         "x": 514,
-        "y": 19
+        "y": 19,
+        "w": 312,
+        "h": 122
     },
     {
         "id": "37e07ac837df916b",
@@ -501,7 +529,9 @@
             "d31aab6cc8c7ec1c"
         ],
         "x": 514,
-        "y": 159
+        "y": 159,
+        "w": 372,
+        "h": 122
     },
     {
         "id": "ac8de8dddde18929",
@@ -522,7 +552,9 @@
             "2a4d9107a01bafb6"
         ],
         "x": 514,
-        "y": 299
+        "y": 299,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "9ea8eb5fbd9fba9b",
@@ -544,7 +576,9 @@
             "cb62d5174fdbc2dc"
         ],
         "x": 14,
-        "y": 1439
+        "y": 1439,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "a429ddf13a770b14",
@@ -566,7 +600,9 @@
             "d3c7fdd2bdc2106c"
         ],
         "x": 14,
-        "y": 1279
+        "y": 1279,
+        "w": 612,
+        "h": 142
     },
     {
         "id": "f2145b5e6ee8c3d0",
@@ -641,7 +677,9 @@
             "28196b10195ca582"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 1018,
+        "h": 308
     },
     {
         "id": "78810c964d16f3b6",
@@ -689,9 +727,7 @@
             "26c6221db2264c7e"
         ],
         "x": 14,
-        "y": 19,
-        "w": 978,
-        "h": 288
+        "y": 19
     },
     {
         "id": "2f09dd3159695cd2",
@@ -714,7 +750,9 @@
             "0d68f82b9254cd4a"
         ],
         "x": 34,
-        "y": 439
+        "y": 439,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "836b236884538e1e",
@@ -737,7 +775,9 @@
             "075beec50ea49c1f"
         ],
         "x": 34,
-        "y": 579
+        "y": 579,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "dc25248d8126293c",
@@ -760,7 +800,9 @@
             "35a0818c8e8895c8"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "926801c45750aac7",
@@ -785,9 +827,7 @@
             "95fa81245b59cfd0"
         ],
         "x": 34,
-        "y": 19,
-        "w": 972,
-        "h": 222
+        "y": 19
     },
     {
         "id": "a341293ef5642111",
@@ -813,9 +853,7 @@
             "27a4f73bc89097c5"
         ],
         "x": 34,
-        "y": 259,
-        "w": 932,
-        "h": 222
+        "y": 259
     },
     {
         "id": "c1a92bec2d4f2ffd",
@@ -840,9 +878,7 @@
             "8539ffc872485d1e"
         ],
         "x": 34,
-        "y": 499,
-        "w": 932,
-        "h": 222
+        "y": 499
     },
     {
         "id": "bc31d529f04a3f51",
@@ -868,9 +904,7 @@
             "7ca7213ab182e8a5"
         ],
         "x": 34,
-        "y": 739,
-        "w": 932,
-        "h": 222
+        "y": 739
     },
     {
         "id": "06caf6156244f53b",
@@ -895,9 +929,7 @@
             "639051d6f7b5d18b"
         ],
         "x": 34,
-        "y": 979,
-        "w": 972,
-        "h": 222
+        "y": 979
     },
     {
         "id": "c1fd310ccc3911b0",
@@ -923,9 +955,7 @@
             "da4c070a3df2a30d"
         ],
         "x": 34,
-        "y": 1219,
-        "w": 932,
-        "h": 222
+        "y": 1219
     },
     {
         "id": "cfdc30b671169b82",
@@ -950,9 +980,7 @@
             "2097ad6da7087a33"
         ],
         "x": 34,
-        "y": 1459,
-        "w": 972,
-        "h": 222
+        "y": 1459
     },
     {
         "id": "d459d0b0a70c4a19",
@@ -978,35 +1006,7 @@
             "3223e6675b9565bf"
         ],
         "x": 34,
-        "y": 1699,
-        "w": 932,
-        "h": 222
-    },
-    {
-        "id": "bae83060d3dc982e",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "52b058fd5cb5b506",
-            "ac06a2cc3f547450",
-            "dce3be978a1f0dc6",
-            "eccdd3341675c67f",
-            "72d880c1ddc03bbe",
-            "77e21c8437f2396f"
-        ],
-        "x": 14,
-        "y": 839,
-        "w": 1038,
-        "h": 788
+        "y": 1699
     },
     {
         "id": "a79f34438c7bae0f",
@@ -1062,9 +1062,7 @@
             "fcfac3bfebf68a84"
         ],
         "x": 14,
-        "y": 1059,
-        "w": 772,
-        "h": 262
+        "y": 1059
     },
     {
         "id": "1013b1306a18b27b",
@@ -1089,9 +1087,7 @@
             "bf99e8eb292a2e1e"
         ],
         "x": 14,
-        "y": 1339,
-        "w": 772,
-        "h": 262
+        "y": 1339
     },
     {
         "id": "ad3407b7e112dfab",
@@ -1320,7 +1316,7 @@
         ],
         "x": 34,
         "y": 959,
-        "w": 952,
+        "w": 1032,
         "h": 262
     },
     {
@@ -1515,9 +1511,7 @@
             "d59067572cb17c56"
         ],
         "x": 34,
-        "y": 1939,
-        "w": 932,
-        "h": 222
+        "y": 1939
     },
     {
         "id": "ac174e7784e809ce",
@@ -1551,36 +1545,6 @@
         "y": 599,
         "w": 1052,
         "h": 342
-    },
-    {
-        "id": "2c4a0504fadaa3d6",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "01cebc855c52442a",
-            "e3c76292e5d759dc",
-            "fe5cd6ea4f60ed48",
-            "d73b46a160cf656b",
-            "eac250045db34d86",
-            "fbad5870331e550d",
-            "5ff5c950f427e565",
-            "5920a648af435001",
-            "57d1b5a6d939c419",
-            "9fb84f2411852ded"
-        ],
-        "x": 1254,
-        "y": 1479,
-        "w": 1032,
-        "h": 242
     },
     {
         "id": "2dc65e056ff031bc",
@@ -1709,36 +1673,6 @@
         "h": 242
     },
     {
-        "id": "e81927e59114b6b3",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "bde2e3d8333824a0",
-            "899d32f86ed28a3c",
-            "92f189a434d251ca",
-            "908a8e22a62388f5",
-            "4271846e7bd991fd",
-            "c20f61e0a8ca70bc",
-            "3578deeb95fe02fc",
-            "c0df4cd1d7e78050",
-            "d9b266a200b9063f",
-            "4f09ce5b685d23c6"
-        ],
-        "x": 2454,
-        "y": 1279,
-        "w": 1092,
-        "h": 242
-    },
-    {
         "id": "42c1fdbfda8baa20",
         "type": "group",
         "z": "2807eb5038af723b",
@@ -1763,6 +1697,362 @@
         "h": 122
     },
     {
+        "id": "67a563a3d4b27dd2",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "898ae72159457af1",
+            "e8bfea13b216a5d4",
+            "140d5f4901347771",
+            "c455f4853c45958b",
+            "f2b4c1c73a6b3a6c",
+            "18da557133285e3a",
+            "04729c8adab20efb",
+            "c77fd1a058fde16f",
+            "72a4115908d159dd",
+            "03adfc778873b29d",
+            "cc8880d237dba1de",
+            "5072b85543a1f166",
+            "ff4f10c92e13dfe1"
+        ],
+        "x": 34,
+        "y": 1859,
+        "w": 1172,
+        "h": 462
+    },
+    {
+        "id": "cead35b1f0c7cffb",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1439383756119db6",
+            "61dea24261b4569d",
+            "3af1f3c3d2212b45",
+            "180406767c3c668d",
+            "b6e7c31b9fe5f71c",
+            "07cd26173b29320d",
+            "b13ad32392a2c316"
+        ],
+        "x": 14,
+        "y": 319
+    },
+    {
+        "id": "699401b8c0ebaa1c",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f752fad13dce83db",
+            "c5eb88bcf6b0e23f",
+            "9e6b52f5c50888ad",
+            "4d68f0660f051bc1",
+            "14adf85b612d8515",
+            "dcf1cf8bb986869f",
+            "98ce62d30463bb7c"
+        ],
+        "x": 14,
+        "y": 819
+    },
+    {
+        "id": "e53c5d01e47e2909",
+        "type": "group",
+        "z": "cfdddf09d7102807",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5e3d80601e419927",
+            "86535714f1669122",
+            "726fd996008c57b0",
+            "99420c6ae32621eb",
+            "8aa58f6b373d6916",
+            "6f9629c94f36d8b3",
+            "1e9d15b0b13107ad",
+            "32e05e030777c838"
+        ],
+        "x": 14,
+        "y": 579
+    },
+    {
+        "id": "8b61d9e21f61dbe1",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3460d0c7b385604a",
+            "4f8c02041511ef4f",
+            "04bfe2c13a6893a7",
+            "fd9681c5376095c3",
+            "fbef4ca7c629168b",
+            "97b7444c24969a61",
+            "b947df7e17470543",
+            "2e5dbb8d5d2b88f1"
+        ],
+        "x": 3588,
+        "y": 619,
+        "w": 1344,
+        "h": 608
+    },
+    {
+        "id": "16094cbe2c1fddf3",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "aa7a28635c00b505",
+            "4fe3d8334951ab89",
+            "d63af224dc407bd9",
+            "39d70b7779832bf3",
+            "970a146e03b550bf"
+        ],
+        "x": 34,
+        "y": 859,
+        "w": 652,
+        "h": 122
+    },
+    {
+        "id": "aa358f7d0ae037ad",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "81cf1181f47298c6",
+            "1ff6cf75eda4f20f",
+            "6683c6c389b4d2cd",
+            "4f6f4058b4f8a86e",
+            "4d6d08862a084ef8"
+        ],
+        "x": 34,
+        "y": 999,
+        "w": 652,
+        "h": 122
+    },
+    {
+        "id": "f1bed747c4a3535f",
+        "type": "group",
+        "z": "6247d9d13f3d1415",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1b395d4e2512bc1c",
+            "1cb2e8c665ecc714",
+            "06111fe15620dcb2",
+            "d59ef9e388b10299",
+            "f241c937eeb9d331"
+        ],
+        "x": 34,
+        "y": 1139,
+        "w": 652,
+        "h": 122
+    },
+    {
+        "id": "dce3be978a1f0dc6",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "705b33b727722b8f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0627c62aedfa7aba",
+            "734ed70c0979e82a",
+            "aa4e5a562cf0ea1d"
+        ],
+        "x": 434,
+        "y": 899,
+        "w": 352,
+        "h": 122
+    },
+    {
+        "id": "62f8e1873335ab3c",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6baa2ac2d58a73e9",
+            "0f5efb3bab246385",
+            "5bf56b14ecb6c654"
+        ],
+        "x": 2294,
+        "y": 2019,
+        "w": 452,
+        "h": 122
+    },
+    {
+        "id": "4ab8d85b109120ad",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fc008c3870619ad1",
+            "23aaec7e4fd2edb6",
+            "9244f43e4870fab2"
+        ],
+        "x": 394,
+        "y": 1699,
+        "w": 352,
+        "h": 122
+    },
+    {
+        "id": "b36d157603fc720f",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "55beb0dfb9534654",
+            "6cf196b90168b1be",
+            "911de99a7389b9f9"
+        ],
+        "x": 394,
+        "y": 1839,
+        "w": 352,
+        "h": 122
+    },
+    {
+        "id": "bd78b621430919ea",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cb4d9bc0f8b57f01",
+            "b20916a1ed3f234c",
+            "46039d030ae717cf",
+            "2abcf7999dba97c0"
+        ],
+        "x": 394,
+        "y": 1979,
+        "w": 552,
+        "h": 162
+    },
+    {
+        "id": "9ba71cc5e5edaee7",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6ba0bc561e6d403e",
+            "29e60baafe8dab10",
+            "2c25bf7254878b45",
+            "8b2e31b07c59c664",
+            "d0f80dc94f7cd216",
+            "a0cc3f1594e92d7b",
+            "c61472743923acf9"
+        ],
+        "x": 394,
+        "y": 2159,
+        "w": 632,
+        "h": 242
+    },
+    {
         "id": "65031937e0b0efd7",
         "type": "group",
         "z": "2807eb5038af723b",
@@ -1784,54 +2074,6 @@
         "y": 1219,
         "w": 382,
         "h": 82
-    },
-    {
-        "id": "dce3be978a1f0dc6",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0627c62aedfa7aba",
-            "734ed70c0979e82a",
-            "aa4e5a562cf0ea1d"
-        ],
-        "x": 394,
-        "y": 899,
-        "w": 352,
-        "h": 122
-    },
-    {
-        "id": "eccdd3341675c67f",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "541a182f719b1b1a",
-            "081805a62242bda3",
-            "9574a7e12874334c"
-        ],
-        "x": 394,
-        "y": 1039,
-        "w": 352,
-        "h": 122
     },
     {
         "id": "86e4d607c3185bb9",
@@ -1924,9 +2166,9 @@
         },
         "nodes": [
             "4375a052d4bc7f87",
-            "a4c478c62c932d4c",
             "95f7cf496a98ebfa",
-            "a295b2a6bd4c6133"
+            "a295b2a6bd4c6133",
+            "75ee3710a7f713cd"
         ],
         "x": 254,
         "y": 219,
@@ -1951,10 +2193,12 @@
             "b6087fa03967b97d",
             "51ac77f1ebf7ae2d",
             "4d892246ad35ef09",
-            "ec36b0fb3abffc7a"
+            "7668a9aa2f66d7f2"
         ],
         "x": 434,
-        "y": 79
+        "y": 79,
+        "w": 572,
+        "h": 122
     },
     {
         "id": "28196b10195ca582",
@@ -1975,7 +2219,9 @@
             "400a9ac35151a339"
         ],
         "x": 434,
-        "y": 219
+        "y": 219,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "42080da9808971e0",
@@ -2046,9 +2292,7 @@
             "03b0e0d04d47db70"
         ],
         "x": 274,
-        "y": 159,
-        "w": 352,
-        "h": 122
+        "y": 159
     },
     {
         "id": "26c6221db2264c7e",
@@ -2070,62 +2314,7 @@
             "4c2abee3bd26a5b8"
         ],
         "x": 654,
-        "y": 159,
-        "w": 312,
-        "h": 122
-    },
-    {
-        "id": "72d880c1ddc03bbe",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "d65bb5b65d13d763",
-            "1c9409a84653f09a",
-            "f53906daa33a245d",
-            "d00ae14703c5d95b"
-        ],
-        "x": 394,
-        "y": 1179,
-        "w": 552,
-        "h": 162
-    },
-    {
-        "id": "77e21c8437f2396f",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "87dbd4b1f03a57b0",
-            "437a832f30ee7b56",
-            "466aaa83e869910c",
-            "f4a4d6c8aad80026",
-            "1ac02030b1753de6",
-            "7268087b25c4d0be",
-            "c635db36b57752fa"
-        ],
-        "x": 394,
-        "y": 1359,
-        "w": 632,
-        "h": 242
+        "y": 159
     },
     {
         "id": "49ec07d5a9500807",
@@ -2196,121 +2385,6 @@
         "y": 359,
         "w": 312,
         "h": 142
-    },
-    {
-        "id": "67a563a3d4b27dd2",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "898ae72159457af1",
-            "e8bfea13b216a5d4",
-            "140d5f4901347771",
-            "c455f4853c45958b",
-            "f2b4c1c73a6b3a6c",
-            "18da557133285e3a",
-            "04729c8adab20efb",
-            "c77fd1a058fde16f",
-            "72a4115908d159dd",
-            "03adfc778873b29d",
-            "cc8880d237dba1de",
-            "5072b85543a1f166",
-            "ff4f10c92e13dfe1"
-        ],
-        "x": 34,
-        "y": 1859,
-        "w": 1172,
-        "h": 462
-    },
-    {
-        "id": "cead35b1f0c7cffb",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "1439383756119db6",
-            "61dea24261b4569d",
-            "3af1f3c3d2212b45",
-            "180406767c3c668d",
-            "b6e7c31b9fe5f71c",
-            "07cd26173b29320d",
-            "b13ad32392a2c316"
-        ],
-        "x": 14,
-        "y": 319,
-        "w": 832,
-        "h": 242
-    },
-    {
-        "id": "699401b8c0ebaa1c",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f752fad13dce83db",
-            "c5eb88bcf6b0e23f",
-            "9e6b52f5c50888ad",
-            "4d68f0660f051bc1",
-            "14adf85b612d8515",
-            "dcf1cf8bb986869f",
-            "98ce62d30463bb7c"
-        ],
-        "x": 14,
-        "y": 819,
-        "w": 732,
-        "h": 222
-    },
-    {
-        "id": "e53c5d01e47e2909",
-        "type": "group",
-        "z": "cfdddf09d7102807",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "5e3d80601e419927",
-            "86535714f1669122",
-            "726fd996008c57b0",
-            "99420c6ae32621eb",
-            "8aa58f6b373d6916",
-            "6f9629c94f36d8b3",
-            "1e9d15b0b13107ad",
-            "32e05e030777c838"
-        ],
-        "x": 14,
-        "y": 579,
-        "w": 912,
-        "h": 222
     },
     {
         "id": "97b7444c24969a61",
@@ -2393,7 +2467,57 @@
         "h": 282
     },
     {
-        "id": "8b61d9e21f61dbe1",
+        "id": "07e096004b84132f",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "705b33b727722b8f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "541a182f719b1b1a",
+            "9574a7e12874334c",
+            "154f50307afe43ba"
+        ],
+        "x": 434,
+        "y": 1039,
+        "w": 372,
+        "h": 122
+    },
+    {
+        "id": "705b33b727722b8f",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "52b058fd5cb5b506",
+            "ac06a2cc3f547450",
+            "06626f0390ba708e",
+            "79ae4379f43a37c6",
+            "dce3be978a1f0dc6",
+            "07e096004b84132f"
+        ],
+        "x": 14,
+        "y": 839,
+        "w": 1072,
+        "h": 402
+    },
+    {
+        "id": "bf4be24c050477c8",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -2406,19 +2530,129 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "3460d0c7b385604a",
-            "4f8c02041511ef4f",
-            "04bfe2c13a6893a7",
-            "fd9681c5376095c3",
-            "fbef4ca7c629168b",
-            "97b7444c24969a61",
-            "b947df7e17470543",
-            "2e5dbb8d5d2b88f1"
+            "01cebc855c52442a",
+            "e3c76292e5d759dc",
+            "fe5cd6ea4f60ed48",
+            "d73b46a160cf656b",
+            "eac250045db34d86",
+            "fbad5870331e550d",
+            "5ff5c950f427e565",
+            "5920a648af435001",
+            "57d1b5a6d939c419",
+            "9fb84f2411852ded",
+            "98069c6e47ad8d25",
+            "353c649f465840ea"
         ],
-        "x": 3588,
-        "y": 619,
-        "w": 1344,
-        "h": 608
+        "x": 1254,
+        "y": 1539,
+        "w": 1232,
+        "h": 282
+    },
+    {
+        "id": "ee4e63b1070a71a3",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "92b29a3808405772",
+            "cb38e50eb17dddb1",
+            "84d8623739b4a940"
+        ],
+        "x": 1974,
+        "y": 2079,
+        "w": 292,
+        "h": 162
+    },
+    {
+        "id": "5e2620e7642ef2d3",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bde2e3d8333824a0",
+            "899d32f86ed28a3c",
+            "92f189a434d251ca",
+            "908a8e22a62388f5",
+            "4271846e7bd991fd",
+            "c20f61e0a8ca70bc",
+            "3578deeb95fe02fc",
+            "c0df4cd1d7e78050",
+            "d9b266a200b9063f",
+            "4f09ce5b685d23c6"
+        ],
+        "x": 2454,
+        "y": 1279,
+        "w": 1092,
+        "h": 242
+    },
+    {
+        "id": "dd11f9225183ec86",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "dfb30754afab5488",
+            "678f70c0d1631edc",
+            "fe79331d5ed4c1b9",
+            "ea58f5c894db0458",
+            "896f4f5906456c34",
+            "8cf2051dcf95925e",
+            "77451b9b778d3933"
+        ],
+        "x": 1614,
+        "y": 1879,
+        "w": 652,
+        "h": 182
+    },
+    {
+        "id": "1492aa4f7c261798",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cced0b43202f5982",
+            "9986b14df18cca3c",
+            "165cb2eb60dd0eb3",
+            "99bf8f66d5649841",
+            "a9728267a249ebbf",
+            "246fbc71e30c6e0c"
+        ],
+        "x": 1634,
+        "y": 2259,
+        "w": 632,
+        "h": 242
     },
     {
         "id": "f2f86710f80408e7",
@@ -2587,7 +2821,7 @@
             "lightTheme": {
                 "default": "#0094CE",
                 "baseColor": "#0094CE",
-                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "baseFont": "Arial,Arial,Helvetica,sans-serif",
                 "edited": true,
                 "reset": false
             },
@@ -2646,7 +2880,7 @@
                     "edited": false
                 },
                 "base-font": {
-                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                    "value": "Arial,Arial,Helvetica,sans-serif"
                 }
             },
             "angularTheme": {
@@ -2769,7 +3003,7 @@
         "y": 160,
         "wires": [
             [
-                "ec36b0fb3abffc7a"
+                "7668a9aa2f66d7f2"
             ]
         ]
     },
@@ -3327,7 +3561,7 @@
         "z": "e201e2d1a09b1eed",
         "g": "20d6d2a97d7b9fa9",
         "name": "Preprocessing",
-        "func": "/****************************************************\n * MQTT MSG PREPROCESSOR                            *\n *                                                  *\n * REVD MSG FORMAT GUIDE:                           *\n *                                                  *\n * Topic:   users/$user_name/$client_id/$sub_topic  *\n * Payload: $payload                                *\n *                                                  *\n * PREPROCESSED RESULT:                             *\n * msg.mqtt: {                                      *\n *      topic:      $full_topic,                    *\n *      uname:      $user_name,                     *\n *      cid:        $client_id,                     *\n *      subTopic:   $sub_topic,                     *\n *      payload:    $payload,                       *\n *      timestamp:  current timestamp               *\n * }                                                *\n ****************************************************/\n\n// MQTT MSG Object\nmsg.mqtt = {};\n\n// Full Topic\nmsg.mqtt.topic = escape(msg.topic);\n\nconst parsed = msg.topic.split('/');\n\n// User_ID\nmsg.mqtt.uname = escape(parsed[1]);\n\n// Client_ID\nmsg.mqtt.cid = escape(parsed[2]);\n\n// Sub Topic\nmsg.mqtt.subTopic = escape(parsed[3]);\n\n// Payload\nmsg.mqtt.payload = escape(msg.payload);\n\n// Timestamp\n// get microtime\nlet timestamp = new Date().getTime()/1000;\n// pad it with trailing zeroes\ntimestamp = timestamp.toString() + \"000\";\n// trim to exact length 10 + 1 + 3\nmsg.mqtt.timestamp = timestamp.substring(0, 14);\n\nreturn msg;",
+        "func": "/****************************************************\n * MQTT MSG PREPROCESSOR                            *\n *                                                  *\n * REVD MSG FORMAT GUIDE:                           *\n *                                                  *\n * Topic:   users/$user_name/$client_id/$sub_topic  *\n * Payload: $payload                                *\n *                                                  *\n * PREPROCESSED RESULT:                             *\n * msg.mqtt: {                                      *\n *      topic:      $full_topic,                    *\n *      uname:      $user_name,                     *\n *      cid:        $client_id,                     *\n *      subTopic:   $sub_topic,                     *\n *      payload:    $payload,                       *\n *      timestamp:  current timestamp               *\n * }                                                *\n ****************************************************/\n\n// MQTT MSG Object\nmsg.mqtt = {};\n\n// Full Topic\nmsg.mqtt.topic = escape(msg.topic);\n\nconst parsed = msg.topic.split('/');\n\n// User_ID\nmsg.mqtt.uname = escape(parsed[1]);\n\n// Client_ID\nmsg.mqtt.cid = escape(parsed[2]);\n\n// Sub Topic\nmsg.mqtt.subTopic = escape(parsed[3]);\n\n// Payload\nmsg.mqtt.payload = escape(msg.payload);\n\n// Timestamp\nmsg.mqtt.timestamp = new Date().getTime();\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3379,12 +3613,12 @@
         "wires": []
     },
     {
-        "id": "ec36b0fb3abffc7a",
+        "id": "7668a9aa2f66d7f2",
         "type": "debug",
         "z": "e201e2d1a09b1eed",
         "g": "5d6dc5b2b03096cd",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -3436,24 +3670,6 @@
         ]
     },
     {
-        "id": "a4c478c62c932d4c",
-        "type": "debug",
-        "z": "471ac2a8a5e8653b",
-        "g": "b172ae4261416e78",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 730,
-        "y": 300,
-        "wires": []
-    },
-    {
         "id": "febc1d17fe23f57e",
         "type": "mysql",
         "z": "471ac2a8a5e8653b",
@@ -3487,7 +3703,7 @@
         "y": 300,
         "wires": [
             [
-                "a4c478c62c932d4c"
+                "75ee3710a7f713cd"
             ]
         ]
     },
@@ -4093,13 +4309,13 @@
         "id": "52b058fd5cb5b506",
         "type": "http in",
         "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
+        "g": "705b33b727722b8f",
         "name": "",
-        "url": "/scale/:topic/:payload/:timestamp",
-        "method": "post",
+        "url": "/decrease/:topic/:cid/:payload/:timestamp",
+        "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 190,
+        "x": 220,
         "y": 920,
         "wires": [
             [
@@ -4119,7 +4335,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 490,
+        "x": 530,
         "y": 980,
         "wires": [
             [
@@ -4134,7 +4350,7 @@
         "g": "dce3be978a1f0dc6",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 660,
+        "x": 700,
         "y": 980,
         "wires": [
             [
@@ -4146,10 +4362,10 @@
         "id": "ac06a2cc3f547450",
         "type": "comment",
         "z": "471ac2a8a5e8653b",
-        "g": "bae83060d3dc982e",
-        "name": "StoreDecrease",
+        "g": "705b33b727722b8f",
+        "name": "ReST/GET Decrease Amount",
         "info": "",
-        "x": 120,
+        "x": 160,
         "y": 880,
         "wires": []
     },
@@ -4177,132 +4393,8 @@
         "g": "dce3be978a1f0dc6",
         "name": "DB/SELECT Differences",
         "info": "",
-        "x": 520,
+        "x": 560,
         "y": 940,
-        "wires": []
-    },
-    {
-        "id": "541a182f719b1b1a",
-        "type": "function",
-        "z": "471ac2a8a5e8653b",
-        "g": "eccdd3341675c67f",
-        "name": "CreateQuery",
-        "func": "let diff = 0;\n\nif(msg.payload.length == 1 && msg.payload[0][\"diff\"] > 0) {\n    diff = msg.payload[0][\"diff\"];\n}\n\nmsg.topic = \"UPDATE dailyData\" +\n            \" SET total_decr = total_decr + \" + diff +\n            \" WHERE topic = '\" + msg.req.params.topic + \"'\" +\n            \" AND date = CURDATE();\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 490,
-        "y": 1120,
-        "wires": [
-            [
-                "081805a62242bda3"
-            ]
-        ]
-    },
-    {
-        "id": "081805a62242bda3",
-        "type": "mysql",
-        "z": "471ac2a8a5e8653b",
-        "g": "eccdd3341675c67f",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 660,
-        "y": 1120,
-        "wires": [
-            [
-                "d65bb5b65d13d763"
-            ]
-        ]
-    },
-    {
-        "id": "9574a7e12874334c",
-        "type": "comment",
-        "z": "471ac2a8a5e8653b",
-        "g": "eccdd3341675c67f",
-        "name": "DB/UPDATE Daily Decrease",
-        "info": "",
-        "x": 540,
-        "y": 1080,
-        "wires": []
-    },
-    {
-        "id": "d65bb5b65d13d763",
-        "type": "switch",
-        "z": "471ac2a8a5e8653b",
-        "g": "72d880c1ddc03bbe",
-        "name": "AffectedRows",
-        "property": "payload.affectedRows",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 500,
-        "y": 1300,
-        "wires": [
-            [
-                "1c9409a84653f09a"
-            ],
-            [
-                "437a832f30ee7b56"
-            ]
-        ]
-    },
-    {
-        "id": "1c9409a84653f09a",
-        "type": "function",
-        "z": "471ac2a8a5e8653b",
-        "g": "72d880c1ddc03bbe",
-        "name": "CreateQuery",
-        "func": "msg.topic = \"INSERT INTO dailyData\" +\n            \" (topic, date, total_decr)\" +\n            \" VALUES ('\" + msg.req.params.topic + \"', CURDATE(), 0);\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 690,
-        "y": 1260,
-        "wires": [
-            [
-                "f53906daa33a245d"
-            ]
-        ]
-    },
-    {
-        "id": "f53906daa33a245d",
-        "type": "mysql",
-        "z": "471ac2a8a5e8653b",
-        "g": "72d880c1ddc03bbe",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 860,
-        "y": 1260,
-        "wires": [
-            [
-                "437a832f30ee7b56"
-            ]
-        ]
-    },
-    {
-        "id": "d00ae14703c5d95b",
-        "type": "comment",
-        "z": "471ac2a8a5e8653b",
-        "g": "72d880c1ddc03bbe",
-        "name": "DB/INSERT When Record Not Found",
-        "info": "",
-        "x": 570,
-        "y": 1220,
         "wires": []
     },
     {
@@ -4361,22 +4453,243 @@
         "wires": []
     },
     {
-        "id": "87dbd4b1f03a57b0",
+        "id": "75ee3710a7f713cd",
+        "type": "debug",
+        "z": "471ac2a8a5e8653b",
+        "g": "b172ae4261416e78",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 730,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "06626f0390ba708e",
+        "type": "link out",
+        "z": "471ac2a8a5e8653b",
+        "g": "705b33b727722b8f",
+        "name": "Calculate Decrease Event Out",
+        "mode": "link",
+        "links": [],
+        "x": 795,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "79ae4379f43a37c6",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "705b33b727722b8f",
+        "name": "Calculate Decrease Event Out",
+        "info": "msg.payload = {\n    diff: $difference,\n    topic: $mqtt-topic,\n    timestamp: $timestamp,\n}",
+        "x": 940,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "4fabf4c5ce1a72fb",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "name": "StoreDecrease",
+        "info": "",
+        "x": 120,
+        "y": 1680,
+        "wires": []
+    },
+    {
+        "id": "fc008c3870619ad1",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "4ab8d85b109120ad",
+        "name": "CreateQuery",
+        "func": "// build the sql query\nmsg.topic =\n    \"SELECT (payload-\" + escape(msg.req.params.payload) + \") AS diff \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"AND timestamp<>'\" + escape(msg.req.params.timestamp) + \"' \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT 1;\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 1780,
+        "wires": [
+            [
+                "23aaec7e4fd2edb6"
+            ]
+        ]
+    },
+    {
+        "id": "23aaec7e4fd2edb6",
+        "type": "mysql",
+        "z": "471ac2a8a5e8653b",
+        "g": "4ab8d85b109120ad",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 660,
+        "y": 1780,
+        "wires": [
+            [
+                "55beb0dfb9534654"
+            ]
+        ]
+    },
+    {
+        "id": "9244f43e4870fab2",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "4ab8d85b109120ad",
+        "name": "DB/SELECT Differences",
+        "info": "",
+        "x": 520,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "55beb0dfb9534654",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "b36d157603fc720f",
+        "name": "CreateQuery",
+        "func": "let diff = 0;\n\nif(msg.payload.length == 1 && msg.payload[0][\"diff\"] > 0) {\n    diff = msg.payload[0][\"diff\"];\n}\n\nmsg.payload = {\n    diff,\n    topic: escape(msg.req.params.topic),\n    timestamp: msg.req.params.timestamp,\n};\n\nmsg.topic = \"UPDATE dailyData\" +\n            \" SET total_decr = total_decr + \" + diff +\n            \" WHERE topic = '\" + msg.req.params.topic + \"'\" +\n            \" AND date = CURDATE();\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 1920,
+        "wires": [
+            [
+                "6cf196b90168b1be",
+                "799913fac90e2cac"
+            ]
+        ]
+    },
+    {
+        "id": "6cf196b90168b1be",
+        "type": "mysql",
+        "z": "471ac2a8a5e8653b",
+        "g": "b36d157603fc720f",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 660,
+        "y": 1920,
+        "wires": [
+            [
+                "cb4d9bc0f8b57f01"
+            ]
+        ]
+    },
+    {
+        "id": "911de99a7389b9f9",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "b36d157603fc720f",
+        "name": "DB/UPDATE Daily Decrease",
+        "info": "",
+        "x": 540,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "cb4d9bc0f8b57f01",
+        "type": "switch",
+        "z": "471ac2a8a5e8653b",
+        "g": "bd78b621430919ea",
+        "name": "AffectedRows",
+        "property": "payload.affectedRows",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 500,
+        "y": 2100,
+        "wires": [
+            [
+                "b20916a1ed3f234c"
+            ],
+            [
+                "29e60baafe8dab10"
+            ]
+        ]
+    },
+    {
+        "id": "b20916a1ed3f234c",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "bd78b621430919ea",
+        "name": "CreateQuery",
+        "func": "msg.topic = \"INSERT INTO dailyData\" +\n            \" (topic, date, total_decr)\" +\n            \" VALUES ('\" + msg.req.params.topic + \"', CURDATE(), 0);\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 2060,
+        "wires": [
+            [
+                "46039d030ae717cf"
+            ]
+        ]
+    },
+    {
+        "id": "46039d030ae717cf",
+        "type": "mysql",
+        "z": "471ac2a8a5e8653b",
+        "g": "bd78b621430919ea",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 860,
+        "y": 2060,
+        "wires": [
+            [
+                "29e60baafe8dab10"
+            ]
+        ]
+    },
+    {
+        "id": "2abcf7999dba97c0",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "bd78b621430919ea",
+        "name": "DB/INSERT When Record Not Found",
+        "info": "",
+        "x": 570,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "6ba0bc561e6d403e",
         "type": "http response",
         "z": "471ac2a8a5e8653b",
-        "g": "77e21c8437f2396f",
+        "g": "9ba71cc5e5edaee7",
         "name": "",
         "statusCode": "",
         "headers": {},
         "x": 810,
-        "y": 1480,
+        "y": 2280,
         "wires": []
     },
     {
-        "id": "437a832f30ee7b56",
+        "id": "29e60baafe8dab10",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "77e21c8437f2396f",
+        "g": "9ba71cc5e5edaee7",
         "name": "CreateQuery",
         "func": "msg.topic = \"SELECT total_decr\" +\n            \" FROM dailyData\" +\n            \" WHERE topic = '\" + msg.req.params.topic + \"'\" +\n            \" AND date = CURDATE();\"\nreturn msg;",
         "outputs": 1,
@@ -4385,33 +4698,33 @@
         "finalize": "",
         "libs": [],
         "x": 490,
-        "y": 1440,
+        "y": 2240,
         "wires": [
             [
-                "466aaa83e869910c"
+                "2c25bf7254878b45"
             ]
         ]
     },
     {
-        "id": "466aaa83e869910c",
+        "id": "2c25bf7254878b45",
         "type": "mysql",
         "z": "471ac2a8a5e8653b",
-        "g": "77e21c8437f2396f",
+        "g": "9ba71cc5e5edaee7",
         "mydb": "1654a6d7a221376c",
         "name": "",
         "x": 540,
-        "y": 1480,
+        "y": 2280,
         "wires": [
             [
-                "f4a4d6c8aad80026"
+                "8b2e31b07c59c664"
             ]
         ]
     },
     {
-        "id": "f4a4d6c8aad80026",
+        "id": "8b2e31b07c59c664",
         "type": "function",
         "z": "471ac2a8a5e8653b",
-        "g": "77e21c8437f2396f",
+        "g": "9ba71cc5e5edaee7",
         "name": "CreateResponse",
         "func": "msg.payload = {\n    \"topic\": msg.req.params.topic,\n    \"totalDecr\": msg.payload[0].total_decr,\n}\nreturn msg;",
         "outputs": 1,
@@ -4420,19 +4733,19 @@
         "finalize": "",
         "libs": [],
         "x": 630,
-        "y": 1520,
+        "y": 2320,
         "wires": [
             [
-                "87dbd4b1f03a57b0",
-                "1ac02030b1753de6"
+                "6ba0bc561e6d403e",
+                "d0f80dc94f7cd216"
             ]
         ]
     },
     {
-        "id": "1ac02030b1753de6",
+        "id": "d0f80dc94f7cd216",
         "type": "link out",
         "z": "471ac2a8a5e8653b",
-        "g": "77e21c8437f2396f",
+        "g": "9ba71cc5e5edaee7",
         "name": "Consumption Event Out",
         "mode": "link",
         "links": [
@@ -4440,29 +4753,94 @@
             "c10d466f3bde8daf"
         ],
         "x": 775,
-        "y": 1560,
+        "y": 2360,
         "wires": []
     },
     {
-        "id": "7268087b25c4d0be",
+        "id": "a0cc3f1594e92d7b",
         "type": "comment",
         "z": "471ac2a8a5e8653b",
-        "g": "77e21c8437f2396f",
+        "g": "9ba71cc5e5edaee7",
         "name": "Consumption Event Out",
         "info": "",
         "x": 900,
-        "y": 1560,
+        "y": 2360,
         "wires": []
     },
     {
-        "id": "c635db36b57752fa",
+        "id": "c61472743923acf9",
         "type": "comment",
         "z": "471ac2a8a5e8653b",
-        "g": "77e21c8437f2396f",
+        "g": "9ba71cc5e5edaee7",
         "name": "DB/SELECT Consumption",
         "info": "",
         "x": 530,
-        "y": 1400,
+        "y": 2200,
+        "wires": []
+    },
+    {
+        "id": "799913fac90e2cac",
+        "type": "link out",
+        "z": "471ac2a8a5e8653b",
+        "name": "Calculate Decrease Event Out",
+        "mode": "link",
+        "links": [],
+        "x": 865,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "a1d3a912a9a615c7",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "name": "Calculate Decrease Event Out",
+        "info": "msg.payload = {\n    diff: $difference,\n    topic: $mqtt-topic,\n    timestamp: $timestamp,\n}",
+        "x": 1000,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "541a182f719b1b1a",
+        "type": "function",
+        "z": "471ac2a8a5e8653b",
+        "g": "07e096004b84132f",
+        "name": "Calculate Decrease",
+        "func": "let diff = 0;\n\nif(msg.payload.length == 1 && msg.payload[0][\"diff\"] > 0) {\n    diff = msg.payload[0][\"diff\"];\n}\n\nmsg.payload = {\n    diff,\n    cid: msg.req.params.cid,\n    timestamp: parseInt(msg.req.params.timestamp),\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 1120,
+        "wires": [
+            [
+                "06626f0390ba708e",
+                "154f50307afe43ba"
+            ]
+        ]
+    },
+    {
+        "id": "9574a7e12874334c",
+        "type": "comment",
+        "z": "471ac2a8a5e8653b",
+        "g": "07e096004b84132f",
+        "name": "Calculate Decrease",
+        "info": "",
+        "x": 550,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "154f50307afe43ba",
+        "type": "http response",
+        "z": "471ac2a8a5e8653b",
+        "g": "07e096004b84132f",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 730,
+        "y": 1120,
         "wires": []
     },
     {
@@ -5621,7 +5999,7 @@
         "type": "function",
         "z": "2807eb5038af723b",
         "name": "",
-        "func": "//Calculate food consumption logic\n\n\n\nreturn msg;",
+        "func": "//Calculate food consumption logic\n\n// msg.payload = [\n//     {topic:\"temperature\", payload:1, timestamp:1520527090000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527091000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527092000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527093000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527094000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527095000},\n// ]\n\nmsg.payload = [{\n    \"series\": [\"A\", \"B\", \"C\"],\n    \"data\": [\n        [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }, ]\n    ],\n    \"labels\": [\"AA\", \"BB\", \"CC\"]\n}]\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -5646,11 +6024,11 @@
         "height": 0,
         "label": "Food Consumption",
         "chartType": "line",
-        "legend": "false",
+        "legend": "true",
         "xformat": "HH:mm:ss",
         "interpolate": "linear",
         "nodata": "",
-        "dot": false,
+        "dot": true,
         "ymin": "",
         "ymax": "",
         "removeOlder": 1,
@@ -5660,12 +6038,12 @@
         "useOneColor": false,
         "useUTC": false,
         "colors": [
-            "#1f77b4",
-            "#aec7e8",
+            "#ff2600",
+            "#2ca02c",
             "#ff7f0e",
             "#2ca02c",
             "#98df8a",
-            "#d62728",
+            "#ff2600",
             "#ff9896",
             "#9467bd",
             "#c5b0d5"
@@ -5677,27 +6055,6 @@
         "y": 440,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "f30c18c67a39581f",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/bowl",
-        "qos": "1",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 3900,
-        "y": 480,
-        "wires": [
-            [
-                "31158ce5cbb7ab6e"
-            ]
         ]
     },
     {
@@ -6093,149 +6450,6 @@
         "wires": []
     },
     {
-        "id": "35ed620d2aa3ee45",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2370,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "6b9a66c81778c8cf",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2370,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "9d43962121acb980",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/water-dispenser/scale/water",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 2050,
-        "y": 300,
-        "wires": [
-            [
-                "482961077b20b713"
-            ]
-        ]
-    },
-    {
-        "id": "d3c696b8e3f8cad9",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/container",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 2050,
-        "y": 340,
-        "wires": [
-            [
-                "f8513bee9a118687"
-            ]
-        ]
-    },
-    {
-        "id": "afd191eb78971cfc",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/bowl",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 2040,
-        "y": 380,
-        "wires": [
-            [
-                "8f0b8717387ee080"
-            ]
-        ]
-    },
-    {
-        "id": "482961077b20b713",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2370,
-        "y": 300,
-        "wires": []
-    },
-    {
-        "id": "f8513bee9a118687",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2370,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "8f0b8717387ee080",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2370,
-        "y": 380,
-        "wires": []
-    },
-    {
         "id": "9df29b0bbd0668b0",
         "type": "comment",
         "z": "2807eb5038af723b",
@@ -6317,9 +6531,7 @@
         "x": 2195,
         "y": 60,
         "wires": [
-            [
-                "35ed620d2aa3ee45"
-            ]
+            []
         ]
     },
     {
@@ -6351,14 +6563,14 @@
         "g": "80d68f6c96b39e58",
         "name": "Consumption Event Listener",
         "links": [
-            "1ac02030b1753de6"
+            "1ac02030b1753de6",
+            "c6a24bb1b0339f18",
+            "d0f80dc94f7cd216"
         ],
         "x": 2145,
         "y": 160,
         "wires": [
-            [
-                "6b9a66c81778c8cf"
-            ]
+            []
         ]
     },
     {
@@ -6483,15 +6695,15 @@
         "z": "2807eb5038af723b",
         "g": "3a2feb40aae8042e",
         "group": "ad292859cba7b247",
-        "order": 4,
-        "width": 0,
-        "height": 0,
+        "order": 1,
+        "width": "5",
+        "height": "1",
         "name": "",
-        "label": "On/Off",
+        "label": "Notification Status",
         "format": "{{msg.payload.notification === 1 ? \"On\" : \"Off\"}}",
         "layout": "row-spread",
         "className": "",
-        "x": 910,
+        "x": 950,
         "y": 1140,
         "wires": []
     },
@@ -6511,11 +6723,11 @@
         "type": "ui_led",
         "z": "2807eb5038af723b",
         "g": "3a2feb40aae8042e",
-        "order": 1,
+        "order": 2,
         "group": "ad292859cba7b247",
-        "width": "6",
+        "width": "1",
         "height": "1",
-        "label": "Notification Status",
+        "label": "",
         "labelPlacement": "left",
         "labelAlignment": "left",
         "colorForValue": [
@@ -6525,7 +6737,7 @@
                 "valueType": "json"
             },
             {
-                "color": "#ff0000",
+                "color": "#808080",
                 "value": "{\"notification\":0}",
                 "valueType": "json"
             }
@@ -6545,9 +6757,9 @@
         "g": "3a2feb40aae8042e",
         "name": "",
         "group": "ad292859cba7b247",
-        "order": 2,
+        "order": 3,
         "width": "3",
-        "height": "2",
+        "height": "1",
         "passthru": false,
         "label": "Notice On",
         "tooltip": "",
@@ -6574,9 +6786,9 @@
         "g": "3a2feb40aae8042e",
         "name": "",
         "group": "ad292859cba7b247",
-        "order": 3,
+        "order": 4,
         "width": "3",
-        "height": "2",
+        "height": "1",
         "passthru": false,
         "label": "Notice Off",
         "tooltip": "",
@@ -6718,7 +6930,7 @@
         "z": "2807eb5038af723b",
         "g": "a37e1c5976c357ca",
         "group": "eba1d9cc6f3a89fd",
-        "order": 2,
+        "order": 1,
         "width": 0,
         "height": 0,
         "name": "",
@@ -6738,7 +6950,7 @@
         "name": "",
         "label": "Set E-mail Address",
         "group": "eba1d9cc6f3a89fd",
-        "order": 1,
+        "order": 2,
         "width": 0,
         "height": 0,
         "options": [
@@ -6889,7 +7101,7 @@
         "z": "2807eb5038af723b",
         "g": "2fcb3ce189b04b4d",
         "group": "b1c00c1305e6ac21",
-        "order": 3,
+        "order": 2,
         "width": 0,
         "height": 0,
         "name": "",
@@ -6907,7 +7119,7 @@
         "z": "2807eb5038af723b",
         "g": "2fcb3ce189b04b4d",
         "group": "b1c00c1305e6ac21",
-        "order": 2,
+        "order": 1,
         "width": 0,
         "height": 0,
         "name": "",
@@ -6927,7 +7139,7 @@
         "name": "",
         "label": "WhatsApp Account Settings",
         "group": "b1c00c1305e6ac21",
-        "order": 1,
+        "order": 3,
         "width": 0,
         "height": 0,
         "options": [
@@ -7214,75 +7426,21 @@
         "wires": []
     },
     {
-        "id": "678eb9b6773d42d3",
-        "type": "ui_chart",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "group": "1c59b2e42a6a75ab",
-        "order": 2,
-        "width": "6",
-        "height": "6",
-        "label": "Water Consumption",
-        "chartType": "line",
-        "legend": "false",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1f77b4",
-            "#aec7e8",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 1860,
-        "y": 1880,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "01cebc855c52442a",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "Show Water Remaining",
         "info": "",
         "x": 1380,
-        "y": 1520,
-        "wires": []
-    },
-    {
-        "id": "6b1f7043724b0ed7",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water Consumption",
-        "info": "",
-        "x": 1380,
-        "y": 1820,
+        "y": 1580,
         "wires": []
     },
     {
         "id": "e3c76292e5d759dc",
         "type": "ui_gauge",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "",
         "group": "1c59b2e42a6a75ab",
         "order": 1,
@@ -7303,7 +7461,7 @@
         "seg2": "100",
         "className": "",
         "x": 2210,
-        "y": 1600,
+        "y": 1700,
         "wires": []
     },
     {
@@ -7360,27 +7518,6 @@
         "x": 2280,
         "y": 1180,
         "wires": []
-    },
-    {
-        "id": "e4f59b5fe558ceb9",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/water-dispenser/scale/consumption",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 1460,
-        "y": 1880,
-        "wires": [
-            [
-                "678eb9b6773d42d3"
-            ]
-        ]
     },
     {
         "id": "1e2791efad22a49d",
@@ -7536,7 +7673,10 @@
         "mode": "link",
         "links": [
             "df253a0b3fe05084",
-            "fe5cd6ea4f60ed48"
+            "fe5cd6ea4f60ed48",
+            "99f3b78c0d3ee1be",
+            "f0d2857c5cada444",
+            "8bab6421f4c72681"
         ],
         "x": 1915,
         "y": 960,
@@ -7754,13 +7894,13 @@
         "id": "fe5cd6ea4f60ed48",
         "type": "link in",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "Water Supplier Selection Event Listener",
         "links": [
             "d48f225f687e0af3"
         ],
         "x": 1595,
-        "y": 1560,
+        "y": 1660,
         "wires": [
             [
                 "eac250045db34d86"
@@ -7771,11 +7911,11 @@
         "id": "d73b46a160cf656b",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "Water Supplier Selection Event Listener",
         "info": "",
         "x": 1430,
-        "y": 1560,
+        "y": 1660,
         "wires": []
     },
     {
@@ -7820,16 +7960,16 @@
         "id": "eac250045db34d86",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "DynSubscribe",
-        "func": "if(flow.get('uname') && flow.get('waterSupplier')) {\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('waterSupplier')}/scale/water`;\n    return msg;\n}\n",
+        "func": "if(flow.get('uname') && flow.get('waterSupplier')) {\n    // Unsubscribe curr\n    msg.action = \"unsubscribe\";\n    msg.topic = true;\n    node.send(msg);\n    \n    // New subscription\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('waterSupplier')}/scale/water`;\n    node.send(msg);\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 1640,
-        "y": 1600,
+        "y": 1700,
         "wires": [
             [
                 "fbad5870331e550d",
@@ -7841,7 +7981,7 @@
         "id": "fbad5870331e550d",
         "type": "mqtt in",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "",
         "topic": "",
         "qos": "2",
@@ -7852,10 +7992,11 @@
         "rh": 0,
         "inputs": 1,
         "x": 1810,
-        "y": 1560,
+        "y": 1660,
         "wires": [
             [
-                "9fb84f2411852ded"
+                "9fb84f2411852ded",
+                "98069c6e47ad8d25"
             ]
         ]
     },
@@ -7863,7 +8004,7 @@
         "id": "5ff5c950f427e565",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "PreRequest",
         "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
         "outputs": 1,
@@ -7872,7 +8013,7 @@
         "finalize": "",
         "libs": [],
         "x": 1830,
-        "y": 1640,
+        "y": 1740,
         "wires": [
             [
                 "5920a648af435001"
@@ -7883,14 +8024,14 @@
         "id": "5920a648af435001",
         "type": "link call",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "ReST/GET Latest Record",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
         "x": 1950,
-        "y": 1680,
+        "y": 1780,
         "wires": [
             [
                 "57d1b5a6d939c419"
@@ -7901,16 +8042,16 @@
         "id": "57d1b5a6d939c419",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "PostRequest",
-        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    mag.payload = 0;\n}\n\nreturn msg;",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    msg.payload = 0;\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 2050,
-        "y": 1640,
+        "y": 1740,
         "wires": [
             [
                 "e3c76292e5d759dc"
@@ -7921,7 +8062,7 @@
         "id": "9fb84f2411852ded",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "2c4a0504fadaa3d6",
+        "g": "bf4be24c050477c8",
         "name": "ParseInt",
         "func": "msg.payload = parseInt(msg.payload);\nreturn msg;",
         "outputs": 1,
@@ -7930,7 +8071,7 @@
         "finalize": "",
         "libs": [],
         "x": 2060,
-        "y": 1560,
+        "y": 1660,
         "wires": [
             [
                 "e3c76292e5d759dc"
@@ -8373,7 +8514,7 @@
         "z": "2807eb5038af723b",
         "g": "70dd97b42cce4e90",
         "name": "DynSubscribe",
-        "func": "if(flow.get('uname') && flow.get('feedMachine')) {\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/bowl`;\n    return msg;\n}\n",
+        "func": "if(flow.get('uname') && flow.get('feedMachine')) {\n    // Unsubscribe curr\n    msg.action = \"unsubscribe\";\n    msg.topic = true;\n    node.send(msg);\n    \n    // New subscription\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/bowl`;\n    node.send(msg);\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -8454,7 +8595,7 @@
         "z": "2807eb5038af723b",
         "g": "70dd97b42cce4e90",
         "name": "PostRequest",
-        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    mag.payload = 0;\n}\n\nreturn msg;",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    msg.payload = 0;\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -8492,7 +8633,7 @@
         "id": "bde2e3d8333824a0",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "Show Food Container Remaining",
         "info": "",
         "x": 2610,
@@ -8503,7 +8644,7 @@
         "id": "899d32f86ed28a3c",
         "type": "ui_gauge",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "",
         "group": "35e893befae8d648",
         "order": 1,
@@ -8531,7 +8672,7 @@
         "id": "92f189a434d251ca",
         "type": "link in",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "Feed Machine Selection Event Listener",
         "links": [
             "f3801119dcfd5901"
@@ -8548,7 +8689,7 @@
         "id": "908a8e22a62388f5",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
         "x": 2630,
@@ -8559,9 +8700,9 @@
         "id": "4271846e7bd991fd",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "DynSubscribe",
-        "func": "if(flow.get('uname') && flow.get('feedMachine')) {\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/container`;\n    return msg;\n}\n",
+        "func": "if(flow.get('uname') && flow.get('feedMachine')) {\n    // Unsubscribe curr\n    msg.action = \"unsubscribe\";\n    msg.topic = true;\n    node.send(msg);\n    \n    // New subscription\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/container`;\n    node.send(msg);\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -8580,7 +8721,7 @@
         "id": "c20f61e0a8ca70bc",
         "type": "mqtt in",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "",
         "topic": "",
         "qos": "2",
@@ -8602,7 +8743,7 @@
         "id": "3578deeb95fe02fc",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "PreRequest",
         "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
         "outputs": 1,
@@ -8622,7 +8763,7 @@
         "id": "c0df4cd1d7e78050",
         "type": "link call",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "ReST/GET Latest Record",
         "links": [
             "7986a94a1d338f6c"
@@ -8640,9 +8781,9 @@
         "id": "d9b266a200b9063f",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "PostRequest",
-        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    mag.payload = 0;\n}\n\nreturn msg;",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    msg.payload = 0;\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -8660,7 +8801,7 @@
         "id": "4f09ce5b685d23c6",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "e81927e59114b6b3",
+        "g": "5e2620e7642ef2d3",
         "name": "ParseInt",
         "func": "msg.payload = parseInt(msg.payload);\nreturn msg;",
         "outputs": 1,
@@ -9192,6 +9333,494 @@
         "className": "",
         "x": 4700,
         "y": 740,
+        "wires": []
+    },
+    {
+        "id": "acdb74dbf32ae329",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 4080,
+        "y": 340,
+        "wires": [
+            [
+                "31158ce5cbb7ab6e"
+            ]
+        ]
+    },
+    {
+        "id": "6baa2ac2d58a73e9",
+        "type": "ui_chart",
+        "z": "2807eb5038af723b",
+        "g": "62f8e1873335ab3c",
+        "name": "",
+        "group": "1c59b2e42a6a75ab",
+        "order": 2,
+        "width": "6",
+        "height": "6",
+        "label": "Water Consumption",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#d62728",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 2620,
+        "y": 2100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dfb30754afab5488",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "dd11f9225183ec86",
+        "name": "PreRequest",
+        "func": "const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('waterSupplier')}/scale/water`);\n\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/records/${topic}/after/${msg.midnight}/last/*`;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "moment",
+                "module": "moment-timezone"
+            }
+        ],
+        "x": 1710,
+        "y": 2020,
+        "wires": [
+            [
+                "678f70c0d1631edc"
+            ]
+        ]
+    },
+    {
+        "id": "678f70c0d1631edc",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "dd11f9225183ec86",
+        "name": "ReST/GET Records",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 1910,
+        "y": 2020,
+        "wires": [
+            [
+                "fe79331d5ed4c1b9"
+            ]
+        ]
+    },
+    {
+        "id": "fe79331d5ed4c1b9",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "dd11f9225183ec86",
+        "name": "CalcConsumption",
+        "func": "//  FORMAT: \n//      [ { \"x\": $timestamp, \"y\": $consumption } ]\nconst res = [\n    {\n        \"x\": msg.payload.length === 0\n            ? msg.midnight\n            : parseInt(msg.payload[0].timestamp),\n        \"y\": 0,\n    }\n];\n\nfor(let idx = 1; idx < msg.payload.length; idx++) {\n    const cur = parseInt(msg.payload[idx].payload);\n    const bef = parseInt(msg.payload[idx - 1].payload);\n    \n    res.push({\n        \"x\": parseInt(msg.payload[idx].timestamp),\n        \"y\": (cur < bef ? bef - cur : 0) + res[res.length - 1][\"y\"],\n    });\n}\n\nflow.set('waterConsumptionCache', {\n    start: msg.midnight,\n    consumption: res,\n});\n\nmsg.payload = res;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2150,
+        "y": 2020,
+        "wires": [
+            [
+                "0f5efb3bab246385"
+            ]
+        ]
+    },
+    {
+        "id": "0f5efb3bab246385",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "62f8e1873335ab3c",
+        "name": "GraphFormatter",
+        "func": "//Calculate food consumption logic\n\n// msg.payload = [{\n//     \"series\": [\"A\", \"B\", \"C\"],\n//     \"data\": [\n//         [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }],\n//     ],\n//     \"labels\": [\"\"]\n// }]\n\n// \"1645040417431\"\n// \"1504029632890\"\n\nmsg.payload = [{\n    \"series\": [\"Consumption\"],\n    \"data\": [flow.get('waterConsumptionCache').consumption],\n    \"labels\": [\"\"],\n}];\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2400,
+        "y": 2100,
+        "wires": [
+            [
+                "6baa2ac2d58a73e9"
+            ]
+        ]
+    },
+    {
+        "id": "f0d2857c5cada444",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "name": "Water Supplier Selection Event Listener",
+        "links": [
+            "d48f225f687e0af3"
+        ],
+        "x": 1575,
+        "y": 1960,
+        "wires": [
+            [
+                "896f4f5906456c34"
+            ]
+        ]
+    },
+    {
+        "id": "db8ecee8ea19e798",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Water Supplier Selection Event Listener",
+        "info": "",
+        "x": 1410,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "ea58f5c894db0458",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "dd11f9225183ec86",
+        "name": "Calculation & Save Consumption",
+        "info": "",
+        "x": 1770,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "4ad34142b7396425",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "name": "Water Scale Publish Event Listener",
+        "links": [
+            "98069c6e47ad8d25"
+        ],
+        "x": 1595,
+        "y": 2340,
+        "wires": [
+            [
+                "9986b14df18cca3c"
+            ]
+        ]
+    },
+    {
+        "id": "55794dfb0543e88a",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Water Scale Publish Event Listener",
+        "info": "",
+        "x": 1440,
+        "y": 2340,
+        "wires": []
+    },
+    {
+        "id": "896f4f5906456c34",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "dd11f9225183ec86",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1710,
+        "y": 1960,
+        "wires": [
+            [
+                "8cf2051dcf95925e"
+            ]
+        ]
+    },
+    {
+        "id": "8cf2051dcf95925e",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "dd11f9225183ec86",
+        "name": "ReST/GET Timezone",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 1920,
+        "y": 1960,
+        "wires": [
+            [
+                "77451b9b778d3933"
+            ]
+        ]
+    },
+    {
+        "id": "5bf56b14ecb6c654",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "62f8e1873335ab3c",
+        "name": "Print Graph",
+        "info": "",
+        "x": 2390,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "92b29a3808405772",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "ee4e63b1070a71a3",
+        "name": "Calculate Decrease",
+        "func": "let decr = 0;\nlet timestamp = msg.mqtt.timestamp;\n\nif(msg.payload.length == 1 && msg.payload[0][\"diff\"] > 0) {\n    decr = msg.payload[0].diff;\n    timestamp = parseInt(msg.payload[0].timestamp);\n}\n\nconst res = flow.get('waterConsumptionCache');\nconst item = {\n    \"x\": timestamp,\n    \"y\": res.consumption[res.consumption.length - 1][\"y\"] + decr,\n};\n\nres.consumption.push(item);\n\nflow.set('waterConsumptionCache', res);\n\nmsg.payload = item;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2150,
+        "y": 2200,
+        "wires": [
+            [
+                "0f5efb3bab246385"
+            ]
+        ]
+    },
+    {
+        "id": "98069c6e47ad8d25",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "bf4be24c050477c8",
+        "name": "Water Scale Publish Event Out",
+        "mode": "link",
+        "links": [
+            "4ad34142b7396425"
+        ],
+        "x": 2175,
+        "y": 1600,
+        "wires": []
+    },
+    {
+        "id": "353c649f465840ea",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "bf4be24c050477c8",
+        "name": "Water Scale Publish Event Out",
+        "info": "",
+        "x": 2330,
+        "y": 1600,
+        "wires": []
+    },
+    {
+        "id": "cced0b43202f5982",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "1492aa4f7c261798",
+        "name": "PreRequest",
+        "func": "msg.midnight = moment.tz(new Date(msg.mqtt.timestamp), msg.payload.timezone).startOf(\"day\").format('x');\n\n// Same Day\nif(msg.midnight == flow.get('waterConsumptionCache').start) {\n    \n    // Ignore error under 10 millisec\n    const timestampLike = (\"\" + msg.mqtt.timestamp).substring(0, 11) + \"%\";\n\n    // build the SQL query\n    msg.topic =\n        //\"SELECT (payload-\" + msg.mqtt.payload + \") AS diff \" +\n        `SELECT (payload - ${msg.mqtt.payload}) AS diff, timestamp ` +\n        \"FROM thingsData \" +\n        \"WHERE topic='\" + msg.mqtt.topic + \"' \" +\n        \"AND deleted=0 \" +\n        \"AND timestamp NOT LIKE '\" + timestampLike + \"' \" +\n        \"ORDER BY id DESC \" +\n        \"LIMIT 1;\";\n\n    return [msg, null];\n\n// Day Changed\n} else {\n    return [null, msg];\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "moment",
+                "module": "moment-timezone"
+            }
+        ],
+        "x": 1970,
+        "y": 2420,
+        "wires": [
+            [
+                "cb38e50eb17dddb1"
+            ],
+            [
+                "a9728267a249ebbf"
+            ]
+        ]
+    },
+    {
+        "id": "9986b14df18cca3c",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "1492aa4f7c261798",
+        "name": "PreRequest",
+        "func": "msg.mqtt = {\n    timestamp: new Date().getTime(),\n    topic: msg.topic,\n    payload: parseInt(msg.payload),\n};\n\nmsg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1730,
+        "y": 2340,
+        "wires": [
+            [
+                "165cb2eb60dd0eb3"
+            ]
+        ]
+    },
+    {
+        "id": "165cb2eb60dd0eb3",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "1492aa4f7c261798",
+        "name": "ReST/GET Timezone",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 1860,
+        "y": 2380,
+        "wires": [
+            [
+                "cced0b43202f5982"
+            ]
+        ]
+    },
+    {
+        "id": "cb38e50eb17dddb1",
+        "type": "mysql",
+        "z": "2807eb5038af723b",
+        "g": "ee4e63b1070a71a3",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 2060,
+        "y": 2160,
+        "wires": [
+            [
+                "92b29a3808405772"
+            ]
+        ]
+    },
+    {
+        "id": "99bf8f66d5649841",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "1492aa4f7c261798",
+        "name": "Detect Date Changed",
+        "info": "",
+        "x": 1760,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "a9728267a249ebbf",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "1492aa4f7c261798",
+        "name": "Date Changed Event Out",
+        "mode": "link",
+        "links": [
+            "dc0f5145315392e1"
+        ],
+        "x": 1995,
+        "y": 2460,
+        "wires": []
+    },
+    {
+        "id": "246fbc71e30c6e0c",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "1492aa4f7c261798",
+        "name": "Date Changed Event Out",
+        "info": "",
+        "x": 2130,
+        "y": 2460,
+        "wires": []
+    },
+    {
+        "id": "dc0f5145315392e1",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "name": "Date Changed Event Listener",
+        "links": [
+            "a9728267a249ebbf"
+        ],
+        "x": 1575,
+        "y": 2020,
+        "wires": [
+            [
+                "dfb30754afab5488"
+            ]
+        ]
+    },
+    {
+        "id": "6e48408d1f72271b",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Date Changed Event Listener",
+        "info": "",
+        "x": 1440,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "84d8623739b4a940",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "ee4e63b1070a71a3",
+        "name": "Calculate Decrease Amount",
+        "info": "",
+        "x": 2120,
+        "y": 2120,
+        "wires": []
+    },
+    {
+        "id": "77451b9b778d3933",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "dd11f9225183ec86",
+        "name": "CalcLocalMidnight",
+        "func": "msg.midnight = moment.tz(new Date(), msg.payload.timezone).startOf(\"day\").format('x');\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2150,
+        "y": 1960,
+        "wires": [
+            [
+                "dfb30754afab5488"
+            ]
+        ]
+    },
+    {
+        "id": "66371577025b858f",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Consumption Graph",
+        "info": "",
+        "x": 1350,
+        "y": 1860,
         "wires": []
     },
     {
@@ -10833,93 +11462,6 @@
         ]
     },
     {
-        "id": "f54faf82623a3f82",
-        "type": "link in",
-        "z": "cfdddf09d7102807",
-        "name": "getUTC",
-        "links": [],
-        "x": 1055,
-        "y": 100,
-        "wires": [
-            [
-                "4978a80267958c57"
-            ]
-        ]
-    },
-    {
-        "id": "dbb56407c993f3fc",
-        "type": "link out",
-        "z": "cfdddf09d7102807",
-        "name": "",
-        "mode": "return",
-        "links": [],
-        "x": 1595,
-        "y": 380,
-        "wires": []
-    },
-    {
-        "id": "4978a80267958c57",
-        "type": "function",
-        "z": "cfdddf09d7102807",
-        "name": "Get User Timezone",
-        "func": "msg.topic = \"SELECT JSON_EXTRACT(settings, '$.timezone') AS timezone\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + msg.req.userToken + \"';\"\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1180,
-        "y": 100,
-        "wires": [
-            [
-                "f4e1ddef36a6d96e"
-            ]
-        ]
-    },
-    {
-        "id": "f4e1ddef36a6d96e",
-        "type": "mysql",
-        "z": "cfdddf09d7102807",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 1260,
-        "y": 140,
-        "wires": [
-            [
-                "03236e4c5ff59196"
-            ]
-        ]
-    },
-    {
-        "id": "436f3a083663cdf8",
-        "type": "function",
-        "z": "cfdddf09d7102807",
-        "name": "Return UTC",
-        "func": "const twoDigit = (num) => (num < 10 ? \"0\" + num : \"\" + num);\n\nconst time = msg.req.params.time;\nconst timezone = msg.payload[0].timezone;\n\nconst local = new Date(`1970-01-01T${time}:00.000${timezone}`);\nconst utc = new Date(local.toLocaleString('en-US', { timeZone: 'Universal' }));\n\nconst minute = twoDigit(utc.getMinutes());\nconst hour = twoDigit(utc.getHours());\nmsg.utc = `${hour}:${minute}`;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1350,
-        "y": 320,
-        "wires": [
-            [
-                "dbb56407c993f3fc"
-            ]
-        ]
-    },
-    {
-        "id": "7d5ee5d5be10c5e9",
-        "type": "comment",
-        "z": "cfdddf09d7102807",
-        "name": "getUTC",
-        "info": "params:\n    msg.req.params.time:    HTTP Requested Time\n    msg.req.userToken:      HTTP Bearer Token\n    \nReturn:\n    msg.utc:                Converted UTC",
-        "x": 1090,
-        "y": 60,
-        "wires": []
-    },
-    {
         "id": "07cd26173b29320d",
         "type": "function",
         "z": "cfdddf09d7102807",
@@ -11188,46 +11730,6 @@
             [
                 "315aa27445c93d5a"
             ]
-        ]
-    },
-    {
-        "id": "a6dd10837d5f1795",
-        "type": "moment",
-        "z": "cfdddf09d7102807",
-        "name": "",
-        "topic": "",
-        "input": "",
-        "inputType": "msg",
-        "inTz": "Africa/Abidjan",
-        "adjAmount": 0,
-        "adjType": "days",
-        "adjDir": "add",
-        "format": "",
-        "locale": "C",
-        "output": "",
-        "outputType": "msg",
-        "outTz": "Africa/Abidjan",
-        "x": 1440,
-        "y": 220,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "03236e4c5ff59196",
-        "type": "function",
-        "z": "cfdddf09d7102807",
-        "name": "Refinement",
-        "func": "msg.payload = msg.payload[0].timezone;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1350,
-        "y": 180,
-        "wires": [
-            []
         ]
     },
     {
@@ -11520,7 +12022,7 @@
         "z": "5136785d38f71e48",
         "g": "617bb68c7b2284cf",
         "name": "CreateAFTERQuery",
-        "func": "// Create 'AFTER' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create 'AFTER' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard * for count stands for all records\nconst limitQuery = msg.req.params.count === \"*\"\n                    ? \"\"\n                    : \" LIMIT \" + msg.req.params.count;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID ASC\" +\n    limitQuery + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -11540,7 +12042,7 @@
         "z": "5136785d38f71e48",
         "g": "617bb68c7b2284cf",
         "name": "CreateBEFOREQuery",
-        "func": "// Create 'BEFORE' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp <= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create 'BEFORE' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard * for count stands for all records\nconst limitQuery = msg.req.params.count === \"*\"\n                    ? \"\"\n                    : \" LIMIT \" + msg.req.params.count;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic = \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic. replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp <= '\" + msg.req.params.time + \"'\" + \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID ASC\" +\n    limitQuery + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -11560,7 +12062,7 @@
         "z": "5136785d38f71e48",
         "g": "617bb68c7b2284cf",
         "name": "CreateDURATIONQuery",
-        "func": "// Create 'DURING' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic.replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.start + \"'\" + \" AND\" +\n    \" timestamp <='\" + msg.req.params.end + \"'\" +\n    \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID DESC\" +\n    \" LIMIT \" + msg.req.params.count + \";\";\n\nreturn msg;",
+        "func": "// Create 'DURING' query\n\n// if no authentication filter defined or available\n// set the default value as 1\nif(!msg.req.authFilter)\n    msg.req.authFilter = 0;\n\n// wildcard * for count stands for all records\nconst limitQuery = msg.req.params.count === \"*\"\n                    ? \"\"\n                    : \" LIMIT \" + msg.req.params.count;\n\n// wildcard used for API query is * and this needs to be converted into SQL wildcard character %\nmsg.topic =\n    \"SELECT id,topic,payload,timestamp\" +\n    \" FROM thingsData WHERE\" +\n    \" topic LIKE '\" + msg.req.params.topic.replace(/\\*/g, \"%\") + \"'\" +\n    \" AND\" +\n    \" timestamp >= '\" + msg.req.params.start + \"'\" + \" AND\" +\n    \" timestamp <='\" + msg.req.params.end + \"'\" +\n    \" AND deleted=0\" +\n    \" AND (\" + msg.req.authFilter + \")\" +\n    \" ORDER BY ID ASC\" +\n    limitQuery + \";\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -12899,5 +13401,269 @@
         "x": 610,
         "y": 800,
         "wires": []
+    },
+    {
+        "id": "aa7a28635c00b505",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "16094cbe2c1fddf3",
+        "name": "TC9: Random Publication Every 10Sec (Water)",
+        "info": "",
+        "x": 230,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "4fe3d8334951ab89",
+        "type": "function",
+        "z": "6247d9d13f3d1415",
+        "g": "16094cbe2c1fddf3",
+        "name": "CreateMSG",
+        "func": "msg.topic = \"users/petification/water-dispenser/scale/water\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 940,
+        "wires": [
+            [
+                "d63af224dc407bd9"
+            ]
+        ]
+    },
+    {
+        "id": "d63af224dc407bd9",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "16094cbe2c1fddf3",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 610,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "81cf1181f47298c6",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "aa358f7d0ae037ad",
+        "name": "TC10: Random Publication Every 10Sec (Food Bowl)",
+        "info": "",
+        "x": 250,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "1ff6cf75eda4f20f",
+        "type": "function",
+        "z": "6247d9d13f3d1415",
+        "g": "aa358f7d0ae037ad",
+        "name": "CreateMSG",
+        "func": "msg.topic = \"users/petification/food-feeder/scale/container\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 1080,
+        "wires": [
+            [
+                "6683c6c389b4d2cd"
+            ]
+        ]
+    },
+    {
+        "id": "6683c6c389b4d2cd",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "aa358f7d0ae037ad",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 610,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "1b395d4e2512bc1c",
+        "type": "comment",
+        "z": "6247d9d13f3d1415",
+        "g": "f1bed747c4a3535f",
+        "name": "TC11: Random Publication Every 10Sec (Food Container)",
+        "info": "",
+        "x": 270,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "1cb2e8c665ecc714",
+        "type": "function",
+        "z": "6247d9d13f3d1415",
+        "g": "f1bed747c4a3535f",
+        "name": "CreateMSG",
+        "func": "msg.topic = \"users/petification/food-feeder/scale/bowl\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 1220,
+        "wires": [
+            [
+                "06111fe15620dcb2"
+            ]
+        ]
+    },
+    {
+        "id": "06111fe15620dcb2",
+        "type": "mqtt out",
+        "z": "6247d9d13f3d1415",
+        "g": "f1bed747c4a3535f",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 610,
+        "y": 1220,
+        "wires": []
+    },
+    {
+        "id": "39d70b7779832bf3",
+        "type": "random",
+        "z": "6247d9d13f3d1415",
+        "g": "16094cbe2c1fddf3",
+        "name": "",
+        "low": "50",
+        "high": "100",
+        "inte": "true",
+        "property": "payload",
+        "x": 280,
+        "y": 940,
+        "wires": [
+            [
+                "4fe3d8334951ab89"
+            ]
+        ]
+    },
+    {
+        "id": "4f6f4058b4f8a86e",
+        "type": "random",
+        "z": "6247d9d13f3d1415",
+        "g": "aa358f7d0ae037ad",
+        "name": "",
+        "low": "50",
+        "high": "100",
+        "inte": "true",
+        "property": "payload",
+        "x": 280,
+        "y": 1080,
+        "wires": [
+            [
+                "1ff6cf75eda4f20f"
+            ]
+        ]
+    },
+    {
+        "id": "d59ef9e388b10299",
+        "type": "random",
+        "z": "6247d9d13f3d1415",
+        "g": "f1bed747c4a3535f",
+        "name": "",
+        "low": "50",
+        "high": "100",
+        "inte": "true",
+        "property": "payload",
+        "x": 280,
+        "y": 1220,
+        "wires": [
+            [
+                "1cb2e8c665ecc714"
+            ]
+        ]
+    },
+    {
+        "id": "970a146e03b550bf",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "16094cbe2c1fddf3",
+        "name": "TC9",
+        "props": [],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 130,
+        "y": 940,
+        "wires": [
+            [
+                "39d70b7779832bf3"
+            ]
+        ]
+    },
+    {
+        "id": "4d6d08862a084ef8",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "aa358f7d0ae037ad",
+        "name": "TC10",
+        "props": [],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 130,
+        "y": 1080,
+        "wires": [
+            [
+                "4f6f4058b4f8a86e"
+            ]
+        ]
+    },
+    {
+        "id": "f241c937eeb9d331",
+        "type": "inject",
+        "z": "6247d9d13f3d1415",
+        "g": "f1bed747c4a3535f",
+        "name": "TC11",
+        "props": [],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 130,
+        "y": 1220,
+        "wires": [
+            [
+                "d59ef9e388b10299"
+            ]
+        ]
     }
 ]
