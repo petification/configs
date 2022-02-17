@@ -87,7 +87,9 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299
+        "y": 2299,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ffff053900bb63ca",
@@ -111,7 +113,9 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739
+        "y": 2739,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -137,7 +141,9 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519
+        "y": 2519,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "ed8b5377f33374f1",
@@ -298,7 +304,9 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 339
+        "y": 339,
+        "w": 832,
+        "h": 142
     },
     {
         "id": "c5351c5c421b358c",
@@ -340,7 +348,9 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 499
+        "y": 499,
+        "w": 402,
+        "h": 122
     },
     {
         "id": "a11b1041e59fd5f1",
@@ -364,7 +374,9 @@
             "867e840cf38e4f21"
         ],
         "x": 1314,
-        "y": 19
+        "y": 19,
+        "w": 952,
+        "h": 122
     },
     {
         "id": "2ae0cb5db9c8444c",
@@ -390,7 +402,9 @@
             "210576e9a6ad8c2f"
         ],
         "x": 1314,
-        "y": 159
+        "y": 159,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "47469a4b8eaa1d6e",
@@ -416,7 +430,9 @@
             "370a61d88bdfc0c7"
         ],
         "x": 1314,
-        "y": 379
+        "y": 379,
+        "w": 952,
+        "h": 202
     },
     {
         "id": "47625275f7240e2a",
@@ -585,7 +601,9 @@
             "0409ed639d712c6c"
         ],
         "x": 14,
-        "y": 379
+        "y": 379,
+        "w": 1218,
+        "h": 442
     },
     {
         "id": "827443b04cb37fc9",
@@ -608,7 +626,9 @@
             "b172ae4261416e78"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 858,
+        "h": 348
     },
     {
         "id": "20d6d2a97d7b9fa9",
@@ -631,7 +651,9 @@
             "28196b10195ca582"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 1018,
+        "h": 308
     },
     {
         "id": "78810c964d16f3b6",
@@ -1837,30 +1859,6 @@
         "y": 1139
     },
     {
-        "id": "62f8e1873335ab3c",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "6baa2ac2d58a73e9",
-            "0f5efb3bab246385",
-            "5bf56b14ecb6c654"
-        ],
-        "x": 2174,
-        "y": 2239,
-        "w": 452,
-        "h": 122
-    },
-    {
         "id": "4ab8d85b109120ad",
         "type": "group",
         "z": "471ac2a8a5e8653b",
@@ -1879,7 +1877,9 @@
             "9244f43e4870fab2"
         ],
         "x": 394,
-        "y": 1699
+        "y": 1699,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "b36d157603fc720f",
@@ -1900,7 +1900,9 @@
             "911de99a7389b9f9"
         ],
         "x": 394,
-        "y": 1839
+        "y": 1839,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "bd78b621430919ea",
@@ -1922,7 +1924,9 @@
             "2abcf7999dba97c0"
         ],
         "x": 394,
-        "y": 1979
+        "y": 1979,
+        "w": 552,
+        "h": 162
     },
     {
         "id": "9ba71cc5e5edaee7",
@@ -1947,31 +1951,9 @@
             "c61472743923acf9"
         ],
         "x": 394,
-        "y": 2159
-    },
-    {
-        "id": "705b33b727722b8f",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "52b058fd5cb5b506",
-            "ac06a2cc3f547450",
-            "06626f0390ba708e",
-            "79ae4379f43a37c6",
-            "dce3be978a1f0dc6",
-            "07e096004b84132f"
-        ],
-        "x": 14,
-        "y": 839
+        "y": 2159,
+        "w": 632,
+        "h": 242
     },
     {
         "id": "bf4be24c050477c8",
@@ -2038,6 +2020,94 @@
         "h": 242
     },
     {
+        "id": "63607a9e6df4918a",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "dfb30754afab5488",
+            "f0d2857c5cada444",
+            "db8ecee8ea19e798",
+            "4ad34142b7396425",
+            "55794dfb0543e88a",
+            "66371577025b858f",
+            "77bee5b2268677d8",
+            "b162725a5fba9a97",
+            "62f8e1873335ab3c",
+            "53382dddfe9cc4db",
+            "38e019e76fa45767",
+            "c2d726a0664ed81b"
+        ],
+        "x": 1274,
+        "y": 2059,
+        "w": 1398,
+        "h": 628
+    },
+    {
+        "id": "a1aaf2939f6ab26e",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a3c0471d89100158",
+            "1994c8de8db6d6e7",
+            "4cc2d474c87b122e",
+            "2f90f07bfc08f747",
+            "2f3f33dabcda87b2",
+            "76b10766fb105962",
+            "c45a5d9c79d0268e",
+            "7e417690209a273a",
+            "7981b865d3b6ee03",
+            "74424c6410534350",
+            "b689701444ce75a2",
+            "451e2c6eea53c120"
+        ],
+        "x": 2674,
+        "y": 1839,
+        "w": 1398,
+        "h": 628
+    },
+    {
+        "id": "62f8e1873335ab3c",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6baa2ac2d58a73e9",
+            "0f5efb3bab246385",
+            "5bf56b14ecb6c654"
+        ],
+        "x": 2194,
+        "y": 2459,
+        "w": 452,
+        "h": 122
+    },
+    {
         "id": "53382dddfe9cc4db",
         "type": "group",
         "z": "2807eb5038af723b",
@@ -2057,8 +2127,8 @@
             "8cf2051dcf95925e",
             "77451b9b778d3933"
         ],
-        "x": 1654,
-        "y": 1899,
+        "x": 1674,
+        "y": 2119,
         "w": 472,
         "h": 202
     },
@@ -2081,8 +2151,8 @@
             "cb38e50eb17dddb1",
             "84d8623739b4a940"
         ],
-        "x": 1674,
-        "y": 2279,
+        "x": 1694,
+        "y": 2499,
         "w": 292,
         "h": 162
     },
@@ -2105,32 +2175,10 @@
             "fe79331d5ed4c1b9",
             "864d95a9d3021b54"
         ],
-        "x": 1674,
-        "y": 2139,
+        "x": 1694,
+        "y": 2359,
         "w": 472,
         "h": 122
-    },
-    {
-        "id": "dce3be978a1f0dc6",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "705b33b727722b8f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0627c62aedfa7aba",
-            "734ed70c0979e82a",
-            "aa4e5a562cf0ea1d"
-        ],
-        "x": 434,
-        "y": 899
     },
     {
         "id": "65031937e0b0efd7",
@@ -2175,7 +2223,9 @@
             "a65d4ec274dcc92b"
         ],
         "x": 274,
-        "y": 439
+        "y": 439,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "0409ed639d712c6c",
@@ -2200,7 +2250,9 @@
             "64c53d1b11cf7d48"
         ],
         "x": 594,
-        "y": 579
+        "y": 579,
+        "w": 612,
+        "h": 162
     },
     {
         "id": "5a1fee37aaaa0e70",
@@ -2222,7 +2274,9 @@
             "cc7b98ab4898a4fc"
         ],
         "x": 254,
-        "y": 79
+        "y": 79,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "b172ae4261416e78",
@@ -2245,7 +2299,9 @@
             "75ee3710a7f713cd"
         ],
         "x": 254,
-        "y": 219
+        "y": 219,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "5d6dc5b2b03096cd",
@@ -2268,7 +2324,9 @@
             "7668a9aa2f66d7f2"
         ],
         "x": 434,
-        "y": 79
+        "y": 79,
+        "w": 572,
+        "h": 122
     },
     {
         "id": "28196b10195ca582",
@@ -2289,7 +2347,9 @@
             "400a9ac35151a339"
         ],
         "x": 434,
-        "y": 219
+        "y": 219,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "42080da9808971e0",
@@ -2529,92 +2589,6 @@
         "y": 919,
         "w": 692,
         "h": 282
-    },
-    {
-        "id": "07e096004b84132f",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "705b33b727722b8f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "541a182f719b1b1a",
-            "9574a7e12874334c",
-            "154f50307afe43ba"
-        ],
-        "x": 434,
-        "y": 1039
-    },
-    {
-        "id": "63607a9e6df4918a",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "dfb30754afab5488",
-            "f0d2857c5cada444",
-            "db8ecee8ea19e798",
-            "4ad34142b7396425",
-            "55794dfb0543e88a",
-            "66371577025b858f",
-            "77bee5b2268677d8",
-            "b162725a5fba9a97",
-            "62f8e1873335ab3c",
-            "53382dddfe9cc4db",
-            "38e019e76fa45767",
-            "c2d726a0664ed81b"
-        ],
-        "x": 1254,
-        "y": 1839,
-        "w": 1398,
-        "h": 628
-    },
-    {
-        "id": "a1aaf2939f6ab26e",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "a3c0471d89100158",
-            "1994c8de8db6d6e7",
-            "4cc2d474c87b122e",
-            "2f90f07bfc08f747",
-            "2f3f33dabcda87b2",
-            "76b10766fb105962",
-            "c45a5d9c79d0268e",
-            "7e417690209a273a",
-            "7981b865d3b6ee03",
-            "74424c6410534350",
-            "b689701444ce75a2",
-            "451e2c6eea53c120"
-        ],
-        "x": 2674,
-        "y": 1839,
-        "w": 1398,
-        "h": 628
     },
     {
         "id": "7981b865d3b6ee03",
@@ -4365,70 +4339,6 @@
         "wires": []
     },
     {
-        "id": "52b058fd5cb5b506",
-        "type": "http in",
-        "z": "471ac2a8a5e8653b",
-        "g": "705b33b727722b8f",
-        "name": "",
-        "url": "/decrease/:topic/:cid/:payload/:timestamp",
-        "method": "get",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 220,
-        "y": 920,
-        "wires": [
-            [
-                "0627c62aedfa7aba"
-            ]
-        ]
-    },
-    {
-        "id": "0627c62aedfa7aba",
-        "type": "function",
-        "z": "471ac2a8a5e8653b",
-        "g": "dce3be978a1f0dc6",
-        "name": "CreateQuery",
-        "func": "// build the sql query\nmsg.topic =\n    \"SELECT (payload-\" + escape(msg.req.params.payload) + \") AS diff \" +\n    \"FROM thingsData \" +\n    \"WHERE topic='\" + escape(msg.req.params.topic) + \"' \" +\n    \"AND deleted=0 \" +\n    \"AND timestamp<>'\" + escape(msg.req.params.timestamp) + \"' \" +\n    \"ORDER BY id DESC \" +\n    \"LIMIT 1;\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 530,
-        "y": 980,
-        "wires": [
-            [
-                "734ed70c0979e82a"
-            ]
-        ]
-    },
-    {
-        "id": "734ed70c0979e82a",
-        "type": "mysql",
-        "z": "471ac2a8a5e8653b",
-        "g": "dce3be978a1f0dc6",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 700,
-        "y": 980,
-        "wires": [
-            [
-                "541a182f719b1b1a"
-            ]
-        ]
-    },
-    {
-        "id": "ac06a2cc3f547450",
-        "type": "comment",
-        "z": "471ac2a8a5e8653b",
-        "g": "705b33b727722b8f",
-        "name": "ReST/GET Decrease Amount",
-        "info": "",
-        "x": 160,
-        "y": 880,
-        "wires": []
-    },
-    {
         "id": "6a9beada022e3022",
         "type": "link in",
         "z": "471ac2a8a5e8653b",
@@ -4444,17 +4354,6 @@
                 "03dbfc58492a3571"
             ]
         ]
-    },
-    {
-        "id": "aa4e5a562cf0ea1d",
-        "type": "comment",
-        "z": "471ac2a8a5e8653b",
-        "g": "dce3be978a1f0dc6",
-        "name": "DB/SELECT Differences",
-        "info": "",
-        "x": 560,
-        "y": 940,
-        "wires": []
     },
     {
         "id": "380f591b24656790",
@@ -4526,29 +4425,6 @@
         "statusType": "auto",
         "x": 730,
         "y": 300,
-        "wires": []
-    },
-    {
-        "id": "06626f0390ba708e",
-        "type": "link out",
-        "z": "471ac2a8a5e8653b",
-        "g": "705b33b727722b8f",
-        "name": "Calculate Decrease Event Out",
-        "mode": "link",
-        "links": [],
-        "x": 795,
-        "y": 1200,
-        "wires": []
-    },
-    {
-        "id": "79ae4379f43a37c6",
-        "type": "comment",
-        "z": "471ac2a8a5e8653b",
-        "g": "705b33b727722b8f",
-        "name": "Calculate Decrease Event Out",
-        "info": "msg.payload = {\n    diff: $difference,\n    topic: $mqtt-topic,\n    timestamp: $timestamp,\n}",
-        "x": 940,
-        "y": 1200,
         "wires": []
     },
     {
@@ -4856,50 +4732,6 @@
         "info": "msg.payload = {\n    diff: $difference,\n    topic: $mqtt-topic,\n    timestamp: $timestamp,\n}",
         "x": 1000,
         "y": 1840,
-        "wires": []
-    },
-    {
-        "id": "541a182f719b1b1a",
-        "type": "function",
-        "z": "471ac2a8a5e8653b",
-        "g": "07e096004b84132f",
-        "name": "Calculate Decrease",
-        "func": "let diff = 0;\n\nif(msg.payload.length == 1 && msg.payload[0][\"diff\"] > 0) {\n    diff = msg.payload[0][\"diff\"];\n}\n\nmsg.payload = {\n    diff,\n    cid: msg.req.params.cid,\n    timestamp: parseInt(msg.req.params.timestamp),\n};\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 550,
-        "y": 1120,
-        "wires": [
-            [
-                "06626f0390ba708e",
-                "154f50307afe43ba"
-            ]
-        ]
-    },
-    {
-        "id": "9574a7e12874334c",
-        "type": "comment",
-        "z": "471ac2a8a5e8653b",
-        "g": "07e096004b84132f",
-        "name": "Calculate Decrease",
-        "info": "",
-        "x": 550,
-        "y": 1080,
-        "wires": []
-    },
-    {
-        "id": "154f50307afe43ba",
-        "type": "http response",
-        "z": "471ac2a8a5e8653b",
-        "g": "07e096004b84132f",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 730,
-        "y": 1120,
         "wires": []
     },
     {
@@ -8002,7 +7834,7 @@
         "z": "2807eb5038af723b",
         "g": "bf4be24c050477c8",
         "name": "PreRequest",
-        "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
+        "func": "if(msg.action == \"subscribe\") {\n    msg.method = \"GET\";\n    msg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\n    node.send(msg);\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -8555,7 +8387,7 @@
         "z": "2807eb5038af723b",
         "g": "70dd97b42cce4e90",
         "name": "PreRequest",
-        "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
+        "func": "if(msg.action == \"subscribe\") {\n    msg.method = \"GET\";\n    msg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\n    node.send(msg);\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -8744,7 +8576,7 @@
         "z": "2807eb5038af723b",
         "g": "5e2620e7642ef2d3",
         "name": "PreRequest",
-        "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
+        "func": "if(msg.action == \"subscribe\") {\n    msg.method = \"GET\";\n    msg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\n    node.send(msg);\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -9373,8 +9205,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 2500,
-        "y": 2320,
+        "x": 2520,
+        "y": 2540,
         "wires": [
             []
         ]
@@ -9396,8 +9228,8 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 1540,
-        "y": 2260,
+        "x": 1560,
+        "y": 2480,
         "wires": [
             [
                 "678f70c0d1631edc"
@@ -9417,8 +9249,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1790,
-        "y": 2220,
+        "x": 1810,
+        "y": 2440,
         "wires": [
             [
                 "fe79331d5ed4c1b9"
@@ -9437,8 +9269,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2030,
-        "y": 2220,
+        "x": 2050,
+        "y": 2440,
         "wires": [
             [
                 "0f5efb3bab246385"
@@ -9457,8 +9289,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2280,
-        "y": 2320,
+        "x": 2300,
+        "y": 2540,
         "wires": [
             [
                 "6baa2ac2d58a73e9"
@@ -9474,8 +9306,8 @@
         "links": [
             "d48f225f687e0af3"
         ],
-        "x": 1595,
-        "y": 1920,
+        "x": 1615,
+        "y": 2140,
         "wires": [
             [
                 "b162725a5fba9a97"
@@ -9489,8 +9321,8 @@
         "g": "63607a9e6df4918a",
         "name": "Water Supplier Selection Event Listener",
         "info": "",
-        "x": 1430,
-        "y": 1920,
+        "x": 1450,
+        "y": 2140,
         "wires": []
     },
     {
@@ -9500,8 +9332,8 @@
         "g": "53382dddfe9cc4db",
         "name": "Local Midnight",
         "info": "",
-        "x": 1760,
-        "y": 1940,
+        "x": 1780,
+        "y": 2160,
         "wires": []
     },
     {
@@ -9513,8 +9345,8 @@
         "links": [
             "98069c6e47ad8d25"
         ],
-        "x": 1575,
-        "y": 2000,
+        "x": 1595,
+        "y": 2220,
         "wires": [
             [
                 "77bee5b2268677d8"
@@ -9528,8 +9360,8 @@
         "g": "63607a9e6df4918a",
         "name": "Water Scale Publish Event Listener",
         "info": "",
-        "x": 1420,
-        "y": 2000,
+        "x": 1440,
+        "y": 2220,
         "wires": []
     },
     {
@@ -9544,8 +9376,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1750,
-        "y": 1980,
+        "x": 1770,
+        "y": 2200,
         "wires": [
             [
                 "8cf2051dcf95925e"
@@ -9562,8 +9394,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1880,
-        "y": 2020,
+        "x": 1900,
+        "y": 2240,
         "wires": [
             [
                 "77451b9b778d3933"
@@ -9577,8 +9409,8 @@
         "g": "62f8e1873335ab3c",
         "name": "Print Graph",
         "info": "",
-        "x": 2270,
-        "y": 2280,
+        "x": 2290,
+        "y": 2500,
         "wires": []
     },
     {
@@ -9593,8 +9425,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1850,
-        "y": 2400,
+        "x": 1870,
+        "y": 2620,
         "wires": [
             [
                 "0f5efb3bab246385"
@@ -9633,8 +9465,8 @@
         "g": "38e019e76fa45767",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1760,
-        "y": 2360,
+        "x": 1780,
+        "y": 2580,
         "wires": [
             [
                 "92b29a3808405772"
@@ -9648,8 +9480,8 @@
         "g": "38e019e76fa45767",
         "name": "Update Cache",
         "info": "",
-        "x": 1780,
-        "y": 2320,
+        "x": 1800,
+        "y": 2540,
         "wires": []
     },
     {
@@ -9669,8 +9501,8 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 2010,
-        "y": 2060,
+        "x": 2030,
+        "y": 2280,
         "wires": [
             [
                 "dfb30754afab5488"
@@ -9684,8 +9516,8 @@
         "g": "63607a9e6df4918a",
         "name": "Water Consumption Graph",
         "info": "",
-        "x": 1390,
-        "y": 1880,
+        "x": 1410,
+        "y": 2100,
         "wires": []
     },
     {
@@ -9700,8 +9532,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1540,
-        "y": 2040,
+        "x": 1560,
+        "y": 2260,
         "wires": [
             [
                 "896f4f5906456c34"
@@ -9720,8 +9552,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1540,
-        "y": 1960,
+        "x": 1560,
+        "y": 2180,
         "wires": [
             [
                 "896f4f5906456c34"
@@ -9735,8 +9567,8 @@
         "g": "c2d726a0664ed81b",
         "name": "Reset Cache",
         "info": "",
-        "x": 1770,
-        "y": 2180,
+        "x": 1790,
+        "y": 2400,
         "wires": []
     },
     {
