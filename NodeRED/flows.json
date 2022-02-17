@@ -64,88 +64,6 @@
         "env": []
     },
     {
-        "id": "9aea9324d5ac451d",
-        "type": "group",
-        "z": "e201e2d1a09b1eed",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "66fe01abf6fe7266",
-            "9452a8a32bbc6bc3",
-            "aad6ef1bb2073790",
-            "e02a03ae88bd28b5",
-            "5b4aa7bf2c540460",
-            "dd6a4ab68140c995",
-            "3c8220faa4d80124",
-            "3536b83ee3937a04"
-        ],
-        "x": 14,
-        "y": 2299,
-        "w": 972,
-        "h": 202
-    },
-    {
-        "id": "ffff053900bb63ca",
-        "type": "group",
-        "z": "e201e2d1a09b1eed",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "9619a5cf30052fea",
-            "aa6596d2526e659b",
-            "3e07cc69cbb8ea96",
-            "f0a2fec2ef68ac63",
-            "ddfba6492c27e12b",
-            "354271f841ef0663"
-        ],
-        "x": 14,
-        "y": 2739,
-        "w": 972,
-        "h": 122
-    },
-    {
-        "id": "6bc1d82a48ceadb0",
-        "type": "group",
-        "z": "e201e2d1a09b1eed",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "bd0a924ca05b5d11",
-            "84a7c674586bc7dd",
-            "bd52e6c83bc0d652",
-            "9b44092adc823348",
-            "effafe1b29e91ed8",
-            "64ae96c2314cc417",
-            "c0b2b2c48ff0c65b",
-            "0d81cc62a3607b9f"
-        ],
-        "x": 14,
-        "y": 2519,
-        "w": 972,
-        "h": 202
-    },
-    {
         "id": "ed8b5377f33374f1",
         "type": "group",
         "z": "5136785d38f71e48",
@@ -168,7 +86,9 @@
             "69fd65e799173d30"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 992,
+        "h": 202
     },
     {
         "id": "7457db638135fbdb",
@@ -192,7 +112,9 @@
             "edcb6c70dd6d14e2"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 1232,
+        "h": 122
     },
     {
         "id": "617bb68c7b2284cf",
@@ -220,7 +142,9 @@
             "29544c1af11d03dc"
         ],
         "x": 14,
-        "y": 379
+        "y": 379,
+        "w": 1252,
+        "h": 242
     },
     {
         "id": "778ff3b8764df908",
@@ -250,7 +174,9 @@
             "388d2936128df466"
         ],
         "x": 14,
-        "y": 639
+        "y": 639,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "08368f4a4f432e34",
@@ -280,7 +206,9 @@
             "7a1158daf4dae513"
         ],
         "x": 14,
-        "y": 959
+        "y": 959,
+        "w": 1232,
+        "h": 302
     },
     {
         "id": "2dac822f9fa8fa31",
@@ -554,7 +482,9 @@
             "cb62d5174fdbc2dc"
         ],
         "x": 14,
-        "y": 1439
+        "y": 1439,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "a429ddf13a770b14",
@@ -576,7 +506,9 @@
             "d3c7fdd2bdc2106c"
         ],
         "x": 14,
-        "y": 1279
+        "y": 1279,
+        "w": 612,
+        "h": 142
     },
     {
         "id": "f2145b5e6ee8c3d0",
@@ -676,7 +608,9 @@
             "3ce598360cdb14a1"
         ],
         "x": 1234,
-        "y": 19
+        "y": 19,
+        "w": 732,
+        "h": 142
     },
     {
         "id": "2a453a7e3ac8b7d5",
@@ -699,7 +633,9 @@
             "26c6221db2264c7e"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 978,
+        "h": 288
     },
     {
         "id": "2f09dd3159695cd2",
@@ -793,7 +729,9 @@
             "95fa81245b59cfd0"
         ],
         "x": 34,
-        "y": 19
+        "y": 19,
+        "w": 972,
+        "h": 222
     },
     {
         "id": "a341293ef5642111",
@@ -819,7 +757,9 @@
             "27a4f73bc89097c5"
         ],
         "x": 34,
-        "y": 259
+        "y": 259,
+        "w": 932,
+        "h": 222
     },
     {
         "id": "c1a92bec2d4f2ffd",
@@ -844,7 +784,9 @@
             "8539ffc872485d1e"
         ],
         "x": 34,
-        "y": 499
+        "y": 499,
+        "w": 932,
+        "h": 222
     },
     {
         "id": "bc31d529f04a3f51",
@@ -870,7 +812,9 @@
             "7ca7213ab182e8a5"
         ],
         "x": 34,
-        "y": 739
+        "y": 739,
+        "w": 932,
+        "h": 222
     },
     {
         "id": "06caf6156244f53b",
@@ -895,7 +839,9 @@
             "639051d6f7b5d18b"
         ],
         "x": 34,
-        "y": 979
+        "y": 979,
+        "w": 972,
+        "h": 222
     },
     {
         "id": "c1fd310ccc3911b0",
@@ -921,7 +867,9 @@
             "da4c070a3df2a30d"
         ],
         "x": 34,
-        "y": 1219
+        "y": 1219,
+        "w": 932,
+        "h": 222
     },
     {
         "id": "cfdc30b671169b82",
@@ -946,7 +894,9 @@
             "2097ad6da7087a33"
         ],
         "x": 34,
-        "y": 1459
+        "y": 1459,
+        "w": 972,
+        "h": 222
     },
     {
         "id": "d459d0b0a70c4a19",
@@ -972,7 +922,9 @@
             "3223e6675b9565bf"
         ],
         "x": 34,
-        "y": 1699
+        "y": 1699,
+        "w": 932,
+        "h": 222
     },
     {
         "id": "a79f34438c7bae0f",
@@ -1001,7 +953,9 @@
             "c8b663bf39e4a43e"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 1132,
+        "h": 322
     },
     {
         "id": "8381699e5b93b16c",
@@ -1026,7 +980,9 @@
             "fcfac3bfebf68a84"
         ],
         "x": 14,
-        "y": 1059
+        "y": 1059,
+        "w": 772,
+        "h": 262
     },
     {
         "id": "1013b1306a18b27b",
@@ -1051,7 +1007,9 @@
             "bf99e8eb292a2e1e"
         ],
         "x": 14,
-        "y": 1339
+        "y": 1339,
+        "w": 772,
+        "h": 262
     },
     {
         "id": "ad3407b7e112dfab",
@@ -1076,7 +1034,9 @@
             "f45d589dd0982571"
         ],
         "x": 14,
-        "y": 359
+        "y": 359,
+        "w": 1178,
+        "h": 382
     },
     {
         "id": "e696151fe100b641",
@@ -1098,7 +1058,7 @@
             "b3401fa4f95194f2",
             "de8330487978c7e4"
         ],
-        "x": 454,
+        "x": 1214,
         "y": 19,
         "w": 378,
         "h": 388
@@ -1130,37 +1090,10 @@
         "h": 448
     },
     {
-        "id": "aca29bb12e81f5db",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "d788315f4bedd8a2",
-            "7daea3ec91003b5e",
-            "edc66f109caf9265",
-            "0d11babe96377c80",
-            "d12290f515b40f63",
-            "7b903a2c2c61ce76",
-            "10c1d30aca6894c2",
-            "a93966fcf27fb00d"
-        ],
-        "x": 854,
-        "y": 19,
-        "w": 378,
-        "h": 508
-    },
-    {
         "id": "2bc9c3833257da08",
         "type": "group",
         "z": "2807eb5038af723b",
+        "g": "a3ece3656f108bbc",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -1178,8 +1111,8 @@
             "71149ecc78f59558",
             "1dc4a0307507438c"
         ],
-        "x": 1264,
-        "y": 19,
+        "x": 484,
+        "y": 79,
         "w": 322,
         "h": 242
     },
@@ -1187,6 +1120,7 @@
         "id": "1ca803c99df185bf",
         "type": "group",
         "z": "2807eb5038af723b",
+        "g": "a3ece3656f108bbc",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -1201,54 +1135,10 @@
             "c9e03a81936093bf",
             "14f61d1b2d405e6f"
         ],
-        "x": 1614,
-        "y": 19,
+        "x": 834,
+        "y": 79,
         "w": 212,
         "h": 262
-    },
-    {
-        "id": "c6e159459a9300c9",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "b8bbe1126a693417",
-            "271508462aad039e"
-        ],
-        "x": 1854,
-        "y": 19,
-        "w": 382,
-        "h": 82
-    },
-    {
-        "id": "80d68f6c96b39e58",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "14e740697b2a7cd5",
-            "c10d466f3bde8daf"
-        ],
-        "x": 1854,
-        "y": 119,
-        "w": 332,
-        "h": 82
     },
     {
         "id": "3a2feb40aae8042e",
@@ -1276,8 +1166,8 @@
             "f53e285fc6597c27",
             "c7cc03d9c217914e"
         ],
-        "x": 34,
-        "y": 959,
+        "x": 14,
+        "y": 899,
         "w": 1032,
         "h": 262
     },
@@ -1305,8 +1195,8 @@
             "2028660bb8ae853a",
             "5e201c69fc116fea"
         ],
-        "x": 34,
-        "y": 1239,
+        "x": 14,
+        "y": 1179,
         "w": 852,
         "h": 302
     },
@@ -1335,8 +1225,8 @@
             "88af194d72d5c519",
             "26bd6756c18ac347"
         ],
-        "x": 34,
-        "y": 1559,
+        "x": 14,
+        "y": 1499,
         "w": 1112,
         "h": 282
     },
@@ -1361,7 +1251,9 @@
             "3acd4e8f21edcc40"
         ],
         "x": 14,
-        "y": 759
+        "y": 759,
+        "w": 712,
+        "h": 142
     },
     {
         "id": "9a35fa969a2e7b12",
@@ -1386,7 +1278,9 @@
             "c6d491ef0b8f56a1"
         ],
         "x": 14,
-        "y": 919
+        "y": 919,
+        "w": 872,
+        "h": 182
     },
     {
         "id": "984a3b613f2b4abc",
@@ -1413,8 +1307,8 @@
             "d48f225f687e0af3",
             "3aa2a056c41f1ebb"
         ],
-        "x": 1254,
-        "y": 639,
+        "x": 1214,
+        "y": 539,
         "w": 992,
         "h": 362
     },
@@ -1441,7 +1335,9 @@
             "4d6331de40f9f25a"
         ],
         "x": 14,
-        "y": 1119
+        "y": 1119,
+        "w": 872,
+        "h": 182
     },
     {
         "id": "e17ef39765cae756",
@@ -1467,7 +1363,9 @@
             "d59067572cb17c56"
         ],
         "x": 34,
-        "y": 1939
+        "y": 1939,
+        "w": 932,
+        "h": 222
     },
     {
         "id": "ac174e7784e809ce",
@@ -1497,8 +1395,8 @@
             "186c59b9d088a899",
             "c8acbebc1b799e6d"
         ],
-        "x": 34,
-        "y": 599,
+        "x": 14,
+        "y": 539,
         "w": 1052,
         "h": 342
     },
@@ -1525,7 +1423,9 @@
             "b1ab6c1a9db2e8eb"
         ],
         "x": 14,
-        "y": 1319
+        "y": 1319,
+        "w": 932,
+        "h": 182
     },
     {
         "id": "f42877e73b463e5a",
@@ -1552,8 +1452,8 @@
             "f3801119dcfd5901",
             "b711e183002bde61"
         ],
-        "x": 2454,
-        "y": 639,
+        "x": 2654,
+        "y": 599,
         "w": 992,
         "h": 362
     },
@@ -1591,8 +1491,8 @@
             "78fd0982343ef873",
             "65031937e0b0efd7"
         ],
-        "x": 1254,
-        "y": 1019,
+        "x": 1214,
+        "y": 919,
         "w": 1132,
         "h": 442
     },
@@ -1623,8 +1523,8 @@
             "b3dcdc07f67b3d5b",
             "d881f8bd9f8555c4"
         ],
-        "x": 2454,
-        "y": 1019,
+        "x": 2654,
+        "y": 979,
         "w": 1072,
         "h": 242
     },
@@ -1647,8 +1547,8 @@
             "586327e44ffa4ffe",
             "ca92f6cd88cb9b8b"
         ],
-        "x": 3594,
-        "y": 1239,
+        "x": 2654,
+        "y": 2119,
         "w": 612,
         "h": 122
     },
@@ -1680,8 +1580,8 @@
             "5072b85543a1f166",
             "ff4f10c92e13dfe1"
         ],
-        "x": 34,
-        "y": 1859,
+        "x": 14,
+        "y": 1799,
         "w": 1172,
         "h": 462
     },
@@ -1708,7 +1608,9 @@
             "b13ad32392a2c316"
         ],
         "x": 14,
-        "y": 319
+        "y": 319,
+        "w": 832,
+        "h": 242
     },
     {
         "id": "699401b8c0ebaa1c",
@@ -1733,7 +1635,9 @@
             "98ce62d30463bb7c"
         ],
         "x": 14,
-        "y": 819
+        "y": 819,
+        "w": 732,
+        "h": 222
     },
     {
         "id": "e53c5d01e47e2909",
@@ -1759,7 +1663,9 @@
             "32e05e030777c838"
         ],
         "x": 14,
-        "y": 579
+        "y": 579,
+        "w": 912,
+        "h": 222
     },
     {
         "id": "8b61d9e21f61dbe1",
@@ -1784,8 +1690,8 @@
             "b947df7e17470543",
             "2e5dbb8d5d2b88f1"
         ],
-        "x": 3588,
-        "y": 619,
+        "x": 2648,
+        "y": 1499,
         "w": 1344,
         "h": 608
     },
@@ -1982,8 +1888,8 @@
             "98069c6e47ad8d25",
             "353c649f465840ea"
         ],
-        "x": 1254,
-        "y": 1539,
+        "x": 1214,
+        "y": 1379,
         "w": 1032,
         "h": 282
     },
@@ -2014,104 +1920,16 @@
             "9ccd70abbea3b52a",
             "d0e90e6a7f905711"
         ],
-        "x": 2454,
-        "y": 1279,
+        "x": 2654,
+        "y": 1239,
         "w": 1092,
         "h": 242
-    },
-    {
-        "id": "63607a9e6df4918a",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "dfb30754afab5488",
-            "f0d2857c5cada444",
-            "db8ecee8ea19e798",
-            "4ad34142b7396425",
-            "55794dfb0543e88a",
-            "66371577025b858f",
-            "77bee5b2268677d8",
-            "b162725a5fba9a97",
-            "62f8e1873335ab3c",
-            "53382dddfe9cc4db",
-            "38e019e76fa45767",
-            "c2d726a0664ed81b"
-        ],
-        "x": 1274,
-        "y": 2059,
-        "w": 1398,
-        "h": 628
-    },
-    {
-        "id": "a1aaf2939f6ab26e",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "a3c0471d89100158",
-            "1994c8de8db6d6e7",
-            "4cc2d474c87b122e",
-            "2f90f07bfc08f747",
-            "2f3f33dabcda87b2",
-            "76b10766fb105962",
-            "c45a5d9c79d0268e",
-            "7e417690209a273a",
-            "7981b865d3b6ee03",
-            "74424c6410534350",
-            "b689701444ce75a2",
-            "451e2c6eea53c120"
-        ],
-        "x": 2674,
-        "y": 1839,
-        "w": 1398,
-        "h": 628
-    },
-    {
-        "id": "62f8e1873335ab3c",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "6baa2ac2d58a73e9",
-            "0f5efb3bab246385",
-            "5bf56b14ecb6c654"
-        ],
-        "x": 2194,
-        "y": 2459,
-        "w": 452,
-        "h": 122
     },
     {
         "id": "53382dddfe9cc4db",
         "type": "group",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -2127,8 +1945,8 @@
             "8cf2051dcf95925e",
             "77451b9b778d3933"
         ],
-        "x": 1674,
-        "y": 2119,
+        "x": 1614,
+        "y": 1739,
         "w": 472,
         "h": 202
     },
@@ -2136,7 +1954,7 @@
         "id": "38e019e76fa45767",
         "type": "group",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -2151,8 +1969,8 @@
             "cb38e50eb17dddb1",
             "84d8623739b4a940"
         ],
-        "x": 1694,
-        "y": 2499,
+        "x": 1634,
+        "y": 2119,
         "w": 292,
         "h": 162
     },
@@ -2160,7 +1978,7 @@
         "id": "c2d726a0664ed81b",
         "type": "group",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -2175,8 +1993,8 @@
             "fe79331d5ed4c1b9",
             "864d95a9d3021b54"
         ],
-        "x": 1694,
-        "y": 2359,
+        "x": 1634,
+        "y": 1979,
         "w": 472,
         "h": 122
     },
@@ -2198,8 +2016,8 @@
             "8fb07fcb5260983e",
             "cefedacc1a9a60fe"
         ],
-        "x": 1454,
-        "y": 1219,
+        "x": 1414,
+        "y": 1119,
         "w": 382,
         "h": 82
     },
@@ -2371,7 +2189,9 @@
             "7fc8e7a46b665229"
         ],
         "x": 614,
-        "y": 399
+        "y": 399,
+        "w": 392,
+        "h": 122
     },
     {
         "id": "f45d589dd0982571",
@@ -2394,7 +2214,9 @@
             "a3658b821c559c70"
         ],
         "x": 614,
-        "y": 539
+        "y": 539,
+        "w": 552,
+        "h": 122
     },
     {
         "id": "91c825ea46b2a62d",
@@ -2416,7 +2238,9 @@
             "03b0e0d04d47db70"
         ],
         "x": 274,
-        "y": 159
+        "y": 159,
+        "w": 352,
+        "h": 122
     },
     {
         "id": "26c6221db2264c7e",
@@ -2438,7 +2262,9 @@
             "4c2abee3bd26a5b8"
         ],
         "x": 654,
-        "y": 159
+        "y": 159,
+        "w": 312,
+        "h": 122
     },
     {
         "id": "49ec07d5a9500807",
@@ -2482,31 +2308,8 @@
             "71f63defb79a6175",
             "f58387f2e46bffb0"
         ],
-        "x": 494,
+        "x": 1254,
         "y": 239,
-        "w": 312,
-        "h": 142
-    },
-    {
-        "id": "a93966fcf27fb00d",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "3b3498d77a14fe18",
-            "a68eac144d84fa33"
-        ],
-        "x": 894,
-        "y": 359,
         "w": 312,
         "h": 142
     },
@@ -2530,8 +2333,8 @@
             "ccd6ce4a5d9991e6",
             "ef23052da338b320"
         ],
-        "x": 3614,
-        "y": 779,
+        "x": 2674,
+        "y": 1659,
         "w": 552,
         "h": 202
     },
@@ -2557,8 +2360,8 @@
             "b62818cdcac224ce",
             "9f5e20d5925c5aba"
         ],
-        "x": 4214,
-        "y": 659,
+        "x": 3274,
+        "y": 1539,
         "w": 652,
         "h": 242
     },
@@ -2585,40 +2388,16 @@
             "c5a49d7524b6315f",
             "b9ef77fe4aa82872"
         ],
-        "x": 4214,
-        "y": 919,
+        "x": 3274,
+        "y": 1799,
         "w": 692,
         "h": 282
-    },
-    {
-        "id": "7981b865d3b6ee03",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "43fecccc5099944a",
-            "45a882da3339ce43",
-            "0e24c01f3a7aa62c"
-        ],
-        "x": 3614,
-        "y": 2239,
-        "w": 432,
-        "h": 122
     },
     {
         "id": "74424c6410534350",
         "type": "group",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -2634,8 +2413,8 @@
             "2b20c767724c63ed",
             "2789ef89b7811ef9"
         ],
-        "x": 3094,
-        "y": 1899,
+        "x": 3074,
+        "y": 2319,
         "w": 472,
         "h": 202
     },
@@ -2643,7 +2422,7 @@
         "id": "b689701444ce75a2",
         "type": "group",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -2658,8 +2437,8 @@
             "fbf2f0c9207dd8f8",
             "6916351ad3da3adb"
         ],
-        "x": 3114,
-        "y": 2279,
+        "x": 3094,
+        "y": 2699,
         "w": 292,
         "h": 162
     },
@@ -2667,7 +2446,7 @@
         "id": "451e2c6eea53c120",
         "type": "group",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -2682,10 +2461,196 @@
             "b0e814edcc7791cc",
             "f7e7d07687931e31"
         ],
-        "x": 3114,
-        "y": 2139,
+        "x": 3094,
+        "y": 2559,
         "w": 472,
         "h": 122
+    },
+    {
+        "id": "93f3b1d77a2a5fd9",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a0413f926e73b849",
+            "29b7a782bc5cbaf6",
+            "24450c5c32456c12",
+            "cb0a8bb82877f55c",
+            "3b9d7eb09c154c3e",
+            "daf3f0b03f9749bc",
+            "90a50b5331a17f89",
+            "18e9e0df67eaa07a"
+        ],
+        "x": 2654,
+        "y": 19,
+        "w": 378,
+        "h": 508
+    },
+    {
+        "id": "18e9e0df67eaa07a",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "282f7ac34aaa670e",
+            "55f7368904d4996c"
+        ],
+        "x": 2694,
+        "y": 359,
+        "w": 312,
+        "h": 142
+    },
+    {
+        "id": "a3ece3656f108bbc",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "80ea020bb4f8fc33",
+            "2bc9c3833257da08",
+            "1ca803c99df185bf"
+        ],
+        "x": 454,
+        "y": 19,
+        "w": 618,
+        "h": 348
+    },
+    {
+        "id": "2c3ecf0f4275bd9d",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "f636b49319806be8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6baa2ac2d58a73e9",
+            "0f5efb3bab246385",
+            "5bf56b14ecb6c654"
+        ],
+        "x": 1954,
+        "y": 2119,
+        "w": 352,
+        "h": 162
+    },
+    {
+        "id": "f636b49319806be8",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "dfb30754afab5488",
+            "f0d2857c5cada444",
+            "db8ecee8ea19e798",
+            "4ad34142b7396425",
+            "55794dfb0543e88a",
+            "66371577025b858f",
+            "77bee5b2268677d8",
+            "b162725a5fba9a97",
+            "53382dddfe9cc4db",
+            "38e019e76fa45767",
+            "c2d726a0664ed81b",
+            "2c3ecf0f4275bd9d"
+        ],
+        "x": 1214,
+        "y": 1679,
+        "w": 1118,
+        "h": 628
+    },
+    {
+        "id": "1580a0172172d6e9",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "22daf5b5e05696c0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "43fecccc5099944a",
+            "45a882da3339ce43",
+            "0e24c01f3a7aa62c"
+        ],
+        "x": 3414,
+        "y": 2699,
+        "w": 332,
+        "h": 162
+    },
+    {
+        "id": "22daf5b5e05696c0",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a3c0471d89100158",
+            "1994c8de8db6d6e7",
+            "4cc2d474c87b122e",
+            "2f90f07bfc08f747",
+            "2f3f33dabcda87b2",
+            "76b10766fb105962",
+            "c45a5d9c79d0268e",
+            "7e417690209a273a",
+            "74424c6410534350",
+            "b689701444ce75a2",
+            "451e2c6eea53c120",
+            "1580a0172172d6e9"
+        ],
+        "x": 2654,
+        "y": 2259,
+        "w": 1118,
+        "h": 628
     },
     {
         "id": "f2f86710f80408e7",
@@ -3039,370 +3004,6 @@
                 "7668a9aa2f66d7f2"
             ]
         ]
-    },
-    {
-        "id": "66fe01abf6fe7266",
-        "type": "http in",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "name": "",
-        "url": "/rules/enable/id/:id",
-        "method": "patch",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 150,
-        "y": 2380,
-        "wires": [
-            [
-                "aad6ef1bb2073790"
-            ]
-        ]
-    },
-    {
-        "id": "9452a8a32bbc6bc3",
-        "type": "http in",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "name": "",
-        "url": "/rules/disable/id/:id",
-        "method": "patch",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 150,
-        "y": 2460,
-        "wires": [
-            [
-                "e02a03ae88bd28b5"
-            ]
-        ]
-    },
-    {
-        "id": "aad6ef1bb2073790",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "name": "CreateQuery",
-        "func": "// Create query for enabling\n\nmsg.action = \"enable\";\n\nmsg.topic =\n    \"UPDATE rulesData\" +\n    \" SET active=1\" +\n    \" WHERE\" +\n    \" id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 370,
-        "y": 2380,
-        "wires": [
-            [
-                "5b4aa7bf2c540460"
-            ]
-        ]
-    },
-    {
-        "id": "e02a03ae88bd28b5",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "name": "CreateQuery",
-        "func": "// Create query for disabling\n\nmsg.action = \"disable\";\n\nmsg.topic =\n    \"UPDATE rulesData\" +\n    \" SET active=0\" +\n    \" WHERE\" +\n    \" id=\" + msg.req.params.id + \";\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 370,
-        "y": 2460,
-        "wires": [
-            [
-                "5b4aa7bf2c540460"
-            ]
-        ]
-    },
-    {
-        "id": "5b4aa7bf2c540460",
-        "type": "mysql",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 540,
-        "y": 2420,
-        "wires": [
-            [
-                "dd6a4ab68140c995"
-            ]
-        ]
-    },
-    {
-        "id": "dd6a4ab68140c995",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "name": "PrepareResponse",
-        "func": "// Prepare response\n\nmsg.payload = {\n    \"status\": msg.action + \" success\"\n};\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 730,
-        "y": 2420,
-        "wires": [
-            [
-                "3c8220faa4d80124"
-            ]
-        ]
-    },
-    {
-        "id": "3c8220faa4d80124",
-        "type": "http response",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 910,
-        "y": 2420,
-        "wires": []
-    },
-    {
-        "id": "3536b83ee3937a04",
-        "type": "comment",
-        "z": "e201e2d1a09b1eed",
-        "g": "9aea9324d5ac451d",
-        "name": "Enable/Disable Rule by ID",
-        "info": "",
-        "x": 150,
-        "y": 2340,
-        "wires": []
-    },
-    {
-        "id": "bd0a924ca05b5d11",
-        "type": "http in",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "name": "",
-        "url": "/rules/enable/all",
-        "method": "patch",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 140,
-        "y": 2600,
-        "wires": [
-            [
-                "bd52e6c83bc0d652"
-            ]
-        ]
-    },
-    {
-        "id": "84a7c674586bc7dd",
-        "type": "http in",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "name": "",
-        "url": "/rules/disable/all",
-        "method": "patch",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 140,
-        "y": 2680,
-        "wires": [
-            [
-                "9b44092adc823348"
-            ]
-        ]
-    },
-    {
-        "id": "bd52e6c83bc0d652",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "name": "CreateQuery",
-        "func": "// Create query for enabling all\n\nmsg.action = \"enable all\";\nmsg.topic = \"UPDATE rulesData SET active=1;\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 370,
-        "y": 2600,
-        "wires": [
-            [
-                "effafe1b29e91ed8"
-            ]
-        ]
-    },
-    {
-        "id": "9b44092adc823348",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "name": "CreateQuery",
-        "func": "// Create query for disabling all\n\nmsg.action = \"disable all\";\nmsg.topic = \"UPDATE rulesData SET active=0;\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 370,
-        "y": 2680,
-        "wires": [
-            [
-                "effafe1b29e91ed8"
-            ]
-        ]
-    },
-    {
-        "id": "effafe1b29e91ed8",
-        "type": "mysql",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 540,
-        "y": 2640,
-        "wires": [
-            [
-                "64ae96c2314cc417"
-            ]
-        ]
-    },
-    {
-        "id": "64ae96c2314cc417",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "name": "PrepareResponse",
-        "func": "// Prepare response\n\nmsg.payload = {\n    \"status\": msg.action + \" success\"\n};\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 730,
-        "y": 2640,
-        "wires": [
-            [
-                "c0b2b2c48ff0c65b"
-            ]
-        ]
-    },
-    {
-        "id": "c0b2b2c48ff0c65b",
-        "type": "http response",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 910,
-        "y": 2640,
-        "wires": []
-    },
-    {
-        "id": "9619a5cf30052fea",
-        "type": "http in",
-        "z": "e201e2d1a09b1eed",
-        "g": "ffff053900bb63ca",
-        "name": "",
-        "url": "/rules/:rulename",
-        "method": "post",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 140,
-        "y": 2820,
-        "wires": [
-            [
-                "aa6596d2526e659b"
-            ]
-        ]
-    },
-    {
-        "id": "0d81cc62a3607b9f",
-        "type": "comment",
-        "z": "e201e2d1a09b1eed",
-        "g": "6bc1d82a48ceadb0",
-        "name": "Enable/Disable All Rules",
-        "info": "",
-        "x": 150,
-        "y": 2560,
-        "wires": []
-    },
-    {
-        "id": "aa6596d2526e659b",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "ffff053900bb63ca",
-        "name": "CreateQuery",
-        "func": "// Create query\nvar ruleName = msg.req.params.rulename;\nvar topicPattern = msg.req.body.topicPattern;\nvar payloadPattern = msg.req.body.payloadPattern;\nvar method = msg.req.body.method;\nvar webHook = msg.req.body.webHook;\n\nmsg.topic =\n\"INSERT INTO rulesData (ruleName, topicPAttern, payloadPattern, method, webHook)\" +\n\" VALUES ('\" + ruleName + \"', '\" + topicPattern + \"', '\" + payloadPattern + \"', '\" + method + \"', '\" + webHook + \"');\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 370,
-        "y": 2820,
-        "wires": [
-            [
-                "3e07cc69cbb8ea96"
-            ]
-        ]
-    },
-    {
-        "id": "3e07cc69cbb8ea96",
-        "type": "mysql",
-        "z": "e201e2d1a09b1eed",
-        "g": "ffff053900bb63ca",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 540,
-        "y": 2820,
-        "wires": [
-            [
-                "f0a2fec2ef68ac63"
-            ]
-        ]
-    },
-    {
-        "id": "f0a2fec2ef68ac63",
-        "type": "function",
-        "z": "e201e2d1a09b1eed",
-        "g": "ffff053900bb63ca",
-        "name": "PrepareResponse",
-        "func": "// Prepare response\n\nif(msg.payload.affectedRows !== 0) {\n    msg.payload = {\n        \"status\": \"rule added\",\n        \"ruleName\": msg.req.params.rulename,\n        \"ruleId\": msg.payload.insertId\n    };\n    return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 730,
-        "y": 2820,
-        "wires": [
-            [
-                "ddfba6492c27e12b"
-            ]
-        ]
-    },
-    {
-        "id": "ddfba6492c27e12b",
-        "type": "http response",
-        "z": "e201e2d1a09b1eed",
-        "g": "ffff053900bb63ca",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 910,
-        "y": 2820,
-        "wires": []
-    },
-    {
-        "id": "354271f841ef0663",
-        "type": "comment",
-        "z": "e201e2d1a09b1eed",
-        "g": "ffff053900bb63ca",
-        "name": "Create Rule",
-        "info": "",
-        "x": 110,
-        "y": 2780,
-        "wires": []
     },
     {
         "id": "0fd8624766b2dc3b",
@@ -5684,7 +5285,7 @@
         "g": "e696151fe100b641",
         "name": "Show Water Remaining",
         "info": "Use MSG Subscription",
-        "x": 580,
+        "x": 1340,
         "y": 120,
         "wires": []
     },
@@ -5695,7 +5296,7 @@
         "g": "e696151fe100b641",
         "name": "Show Water Consumption",
         "info": "Use Event Listeners",
-        "x": 590,
+        "x": 1350,
         "y": 160,
         "wires": []
     },
@@ -5706,74 +5307,8 @@
         "g": "de8330487978c7e4",
         "name": "Show Water Consumption (Daily)",
         "info": "",
-        "x": 650,
+        "x": 1410,
         "y": 340,
-        "wires": []
-    },
-    {
-        "id": "d788315f4bedd8a2",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food Remaining (Container)",
-        "info": "Use MSG Subscription",
-        "x": 1020,
-        "y": 120,
-        "wires": []
-    },
-    {
-        "id": "7daea3ec91003b5e",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food Remaining (Bowl)",
-        "info": "Use MSG Subscription",
-        "x": 1000,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "edc66f109caf9265",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food Consumption",
-        "info": "Use Event Listeners",
-        "x": 990,
-        "y": 200,
-        "wires": []
-    },
-    {
-        "id": "3b3498d77a14fe18",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "a93966fcf27fb00d",
-        "name": "Show Food Consumption (Daily)",
-        "info": "",
-        "x": 1050,
-        "y": 460,
-        "wires": []
-    },
-    {
-        "id": "0d11babe96377c80",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Serve Food (By Button)",
-        "info": "Use MSG Publicationn",
-        "x": 980,
-        "y": 240,
-        "wires": []
-    },
-    {
-        "id": "d12290f515b40f63",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Set/Show Food Serve Schedule",
-        "info": "",
-        "x": 1010,
-        "y": 280,
         "wires": []
     },
     {
@@ -5783,19 +5318,8 @@
         "g": "e696151fe100b641",
         "name": "Show Water-Dispenser Status",
         "info": "Use Event Listeners",
-        "x": 600,
+        "x": 1360,
         "y": 200,
-        "wires": []
-    },
-    {
-        "id": "7b903a2c2c61ce76",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "Show Food-Feeder Status",
-        "info": "Use Event Listeners",
-        "x": 990,
-        "y": 320,
         "wires": []
     },
     {
@@ -5816,18 +5340,7 @@
         "g": "e696151fe100b641",
         "name": "<Water-Dispenser>",
         "info": "",
-        "x": 610,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "10c1d30aca6894c2",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "aca29bb12e81f5db",
-        "name": "<Food-Feeder>",
-        "info": "",
-        "x": 1020,
+        "x": 1370,
         "y": 60,
         "wires": []
     },
@@ -5860,29 +5373,8 @@
         "g": "de8330487978c7e4",
         "name": "Enhancement",
         "info": "",
-        "x": 590,
+        "x": 1350,
         "y": 280,
-        "wires": []
-    },
-    {
-        "id": "a68eac144d84fa33",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "a93966fcf27fb00d",
-        "name": "Enhancement",
-        "info": "",
-        "x": 990,
-        "y": 400,
-        "wires": []
-    },
-    {
-        "id": "242066ee3e34da21",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Consumption",
-        "info": "",
-        "x": 3850,
-        "y": 440,
         "wires": []
     },
     {
@@ -5891,8 +5383,8 @@
         "z": "2807eb5038af723b",
         "name": "Settings",
         "info": "",
-        "x": 100,
-        "y": 560,
+        "x": 80,
+        "y": 520,
         "wires": []
     },
     {
@@ -5925,8 +5417,8 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 150,
-        "y": 680,
+        "x": 130,
+        "y": 620,
         "wires": [
             [
                 "e8cb69dcf78297a1"
@@ -5947,8 +5439,8 @@
         "format": "{{msg.payload.token}}",
         "layout": "row-spread",
         "className": "",
-        "x": 870,
-        "y": 800,
+        "x": 850,
+        "y": 740,
         "wires": []
     },
     {
@@ -5965,8 +5457,8 @@
         "format": "{{msg.payload.uname}}",
         "layout": "row-spread",
         "className": "",
-        "x": 880,
-        "y": 860,
+        "x": 860,
+        "y": 800,
         "wires": []
     },
     {
@@ -5981,8 +5473,8 @@
         "once": true,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 270,
-        "y": 760,
+        "x": 250,
+        "y": 700,
         "wires": [
             [
                 "8828acc969c8a34e"
@@ -6009,8 +5501,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 240,
-        "y": 720,
+        "x": 220,
+        "y": 660,
         "wires": [
             [
                 "8828acc969c8a34e"
@@ -6036,8 +5528,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 410,
-        "y": 760,
+        "x": 390,
+        "y": 700,
         "wires": [
             [
                 "186c59b9d088a899"
@@ -6059,8 +5551,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 610,
-        "y": 800,
+        "x": 590,
+        "y": 740,
         "wires": [
             [
                 "1e85f3cdebd559c9",
@@ -6081,8 +5573,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 620,
-        "y": 860,
+        "x": 600,
+        "y": 800,
         "wires": [
             [
                 "1e85f3cdebd559c9",
@@ -6098,8 +5590,8 @@
         "g": "ac174e7784e809ce",
         "name": "User Info",
         "info": "",
-        "x": 120,
-        "y": 640,
+        "x": 100,
+        "y": 580,
         "wires": []
     },
     {
@@ -6117,8 +5609,8 @@
             "f53e285fc6597c27",
             "55d08b4be0e35315"
         ],
-        "x": 815,
-        "y": 900,
+        "x": 795,
+        "y": 840,
         "wires": []
     },
     {
@@ -6128,8 +5620,8 @@
         "g": "ac174e7784e809ce",
         "name": "Token Change Event Out",
         "info": "",
-        "x": 950,
-        "y": 900,
+        "x": 930,
+        "y": 840,
         "wires": []
     },
     {
@@ -6139,8 +5631,8 @@
         "g": "2bc9c3833257da08",
         "name": "HTTP In",
         "links": [],
-        "x": 1315,
-        "y": 100,
+        "x": 535,
+        "y": 160,
         "wires": [
             [
                 "2435fc8fb1087bfa"
@@ -6159,8 +5651,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1430,
-        "y": 100,
+        "x": 650,
+        "y": 160,
         "wires": [
             [
                 "063dc03feea34008"
@@ -6182,8 +5674,8 @@
         "proxy": "",
         "authType": "",
         "senderr": false,
-        "x": 1420,
-        "y": 160,
+        "x": 640,
+        "y": 220,
         "wires": [
             [
                 "35a132ca6b1ff448"
@@ -6202,8 +5694,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1420,
-        "y": 220,
+        "x": 640,
+        "y": 280,
         "wires": [
             [
                 "71149ecc78f59558"
@@ -6218,8 +5710,8 @@
         "name": "HTTP Out",
         "mode": "return",
         "links": [],
-        "x": 1545,
-        "y": 220,
+        "x": 765,
+        "y": 280,
         "wires": []
     },
     {
@@ -6229,8 +5721,8 @@
         "g": "2bc9c3833257da08",
         "name": "HTTP Adapter",
         "info": "",
-        "x": 1360,
-        "y": 60,
+        "x": 580,
+        "y": 120,
         "wires": []
     },
     {
@@ -6240,8 +5732,8 @@
         "g": "1ca803c99df185bf",
         "name": "UI Dashboard",
         "info": "",
-        "x": 1710,
-        "y": 60,
+        "x": 930,
+        "y": 120,
         "wires": []
     },
     {
@@ -6260,8 +5752,8 @@
         "resendOnRefresh": true,
         "templateScope": "global",
         "className": "",
-        "x": 1720,
-        "y": 240,
+        "x": 940,
+        "y": 300,
         "wires": [
             []
         ]
@@ -6273,133 +5765,9 @@
         "g": "1ca803c99df185bf",
         "name": "Dashboard CSS",
         "info": "",
-        "x": 1720,
-        "y": 180,
+        "x": 940,
+        "y": 240,
         "wires": []
-    },
-    {
-        "id": "9df29b0bbd0668b0",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water-Dispenser Status",
-        "info": "",
-        "x": 2620,
-        "y": 40,
-        "wires": []
-    },
-    {
-        "id": "021ee3f3a5a6f024",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food-Feeder Status",
-        "info": "",
-        "x": 2610,
-        "y": 80,
-        "wires": []
-    },
-    {
-        "id": "744c98cc17dce929",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water Consumption",
-        "info": "",
-        "x": 2610,
-        "y": 140,
-        "wires": []
-    },
-    {
-        "id": "47d89ec68e4b3994",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Consumption",
-        "info": "",
-        "x": 2610,
-        "y": 180,
-        "wires": []
-    },
-    {
-        "id": "6aa186baa8a1acef",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water Remaining",
-        "info": "",
-        "x": 2600,
-        "y": 300,
-        "wires": []
-    },
-    {
-        "id": "ba34433725e9904b",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Remaining (Container)",
-        "info": "",
-        "x": 2640,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "fa143a30b2177406",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Food Remaining (Bowl)",
-        "info": "",
-        "x": 2620,
-        "y": 380,
-        "wires": []
-    },
-    {
-        "id": "b8bbe1126a693417",
-        "type": "link in",
-        "z": "2807eb5038af723b",
-        "g": "c6e159459a9300c9",
-        "name": "Device Status Changed Event Listener",
-        "links": [
-            "82402946b66c1c49"
-        ],
-        "x": 2195,
-        "y": 60,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "271508462aad039e",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "c6e159459a9300c9",
-        "name": "Device Status Changed Event Listener",
-        "info": "Client ID:      msg.payload.cid\nDevice Status:  msg.payload.stat",
-        "x": 2030,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "14e740697b2a7cd5",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "80d68f6c96b39e58",
-        "name": "Consumption Event Listener",
-        "info": "Topic:          msg.payload.topic\nConsumption:    msg.payload.totalDecr",
-        "x": 2000,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "c10d466f3bde8daf",
-        "type": "link in",
-        "z": "2807eb5038af723b",
-        "g": "80d68f6c96b39e58",
-        "name": "Consumption Event Listener",
-        "links": [
-            "1ac02030b1753de6",
-            "c6a24bb1b0339f18",
-            "d0f80dc94f7cd216"
-        ],
-        "x": 2145,
-        "y": 160,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "12dfd1bb22fe8a8a",
@@ -6408,8 +5776,8 @@
         "g": "42c1fdbfda8baa20",
         "name": "Serve Food(By Button)",
         "info": "",
-        "x": 3720,
-        "y": 1280,
+        "x": 2780,
+        "y": 2160,
         "wires": []
     },
     {
@@ -6419,18 +5787,8 @@
         "g": "8b61d9e21f61dbe1",
         "name": "Set Food Serve Schedule",
         "info": "",
-        "x": 3730,
-        "y": 660,
-        "wires": []
-    },
-    {
-        "id": "b3858ded798f3798",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Food Feeder Controll",
-        "info": "",
-        "x": 3680,
-        "y": 600,
+        "x": 2790,
+        "y": 1540,
         "wires": []
     },
     {
@@ -6463,8 +5821,8 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 3740,
-        "y": 1320,
+        "x": 2800,
+        "y": 2200,
         "wires": [
             [
                 "586327e44ffa4ffe"
@@ -6509,8 +5867,8 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 3770,
-        "y": 860,
+        "x": 2830,
+        "y": 1740,
         "wires": [
             [
                 "19fd6e82dadd1282"
@@ -6531,8 +5889,8 @@
         "format": "{{msg.payload.notification === 1 ? \"On\" : \"Off\"}}",
         "layout": "row-spread",
         "className": "",
-        "x": 950,
-        "y": 1140,
+        "x": 930,
+        "y": 1080,
         "wires": []
     },
     {
@@ -6542,8 +5900,8 @@
         "g": "3a2feb40aae8042e",
         "name": "Set/Show Notification (On/Off)",
         "info": "",
-        "x": 180,
-        "y": 1000,
+        "x": 160,
+        "y": 940,
         "wires": []
     },
     {
@@ -6574,8 +5932,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 910,
-        "y": 1180,
+        "x": 890,
+        "y": 1120,
         "wires": []
     },
     {
@@ -6599,8 +5957,8 @@
         "payloadType": "str",
         "topic": "",
         "topicType": "str",
-        "x": 120,
-        "y": 1040,
+        "x": 100,
+        "y": 980,
         "wires": [
             [
                 "58eb663e412c8dfb"
@@ -6628,8 +5986,8 @@
         "payloadType": "str",
         "topic": "",
         "topicType": "str",
-        "x": 120,
-        "y": 1080,
+        "x": 100,
+        "y": 1020,
         "wires": [
             [
                 "58eb663e412c8dfb"
@@ -6648,8 +6006,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 290,
-        "y": 1060,
+        "x": 270,
+        "y": 1000,
         "wires": [
             [
                 "842e491697412ebc"
@@ -6668,8 +6026,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 610,
-        "y": 1120,
+        "x": 590,
+        "y": 1060,
         "wires": [
             [
                 "5e451b3e620490e1"
@@ -6686,8 +6044,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 390,
-        "y": 1100,
+        "x": 370,
+        "y": 1040,
         "wires": [
             [
                 "a5faee9225a6c99b"
@@ -6704,8 +6062,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 720,
-        "y": 1160,
+        "x": 700,
+        "y": 1100,
         "wires": [
             [
                 "4da2f82dca9d7280",
@@ -6722,8 +6080,8 @@
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 495,
-        "y": 1160,
+        "x": 475,
+        "y": 1100,
         "wires": [
             [
                 "a5faee9225a6c99b"
@@ -6737,8 +6095,8 @@
         "g": "3a2feb40aae8042e",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 360,
-        "y": 1160,
+        "x": 340,
+        "y": 1100,
         "wires": []
     },
     {
@@ -6748,8 +6106,8 @@
         "g": "a37e1c5976c357ca",
         "name": "Set/Show E-Mail Address",
         "info": "",
-        "x": 170,
-        "y": 1280,
+        "x": 150,
+        "y": 1220,
         "wires": []
     },
     {
@@ -6766,8 +6124,8 @@
         "format": "{{msg.payload.email}}",
         "layout": "col-center",
         "className": "",
-        "x": 780,
-        "y": 1500,
+        "x": 760,
+        "y": 1440,
         "wires": []
     },
     {
@@ -6800,8 +6158,8 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 150,
-        "y": 1320,
+        "x": 130,
+        "y": 1260,
         "wires": [
             [
                 "198abdbade9ccfc5"
@@ -6820,8 +6178,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 250,
-        "y": 1360,
+        "x": 230,
+        "y": 1300,
         "wires": [
             [
                 "8ad245ec97dca623"
@@ -6840,8 +6198,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 570,
-        "y": 1420,
+        "x": 550,
+        "y": 1360,
         "wires": [
             [
                 "9c43ac31675fac87"
@@ -6858,8 +6216,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 360,
-        "y": 1400,
+        "x": 340,
+        "y": 1340,
         "wires": [
             [
                 "525ea2738c28d1c4"
@@ -6876,8 +6234,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 670,
-        "y": 1460,
+        "x": 650,
+        "y": 1400,
         "wires": [
             [
                 "a00f359bf3dbcb9f"
@@ -6893,8 +6251,8 @@
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 455,
-        "y": 1460,
+        "x": 435,
+        "y": 1400,
         "wires": [
             [
                 "525ea2738c28d1c4"
@@ -6908,8 +6266,8 @@
         "g": "a37e1c5976c357ca",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 320,
-        "y": 1460,
+        "x": 300,
+        "y": 1400,
         "wires": []
     },
     {
@@ -6919,8 +6277,8 @@
         "g": "2fcb3ce189b04b4d",
         "name": "Set/Show Whatsapp API & PhoneNum",
         "info": "",
-        "x": 210,
-        "y": 1600,
+        "x": 190,
+        "y": 1540,
         "wires": []
     },
     {
@@ -6937,8 +6295,8 @@
         "format": "{{msg.payload.apikey}}",
         "layout": "col-center",
         "className": "",
-        "x": 980,
-        "y": 1760,
+        "x": 960,
+        "y": 1700,
         "wires": []
     },
     {
@@ -6955,8 +6313,8 @@
         "format": "{{msg.payload.phonenum}}",
         "layout": "col-center",
         "className": "",
-        "x": 1010,
-        "y": 1800,
+        "x": 990,
+        "y": 1740,
         "wires": []
     },
     {
@@ -6997,8 +6355,8 @@
         "topicType": "str",
         "splitLayout": false,
         "className": "",
-        "x": 180,
-        "y": 1640,
+        "x": 160,
+        "y": 1580,
         "wires": [
             [
                 "1e06b071bd1b01a2"
@@ -7017,8 +6375,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 310,
-        "y": 1680,
+        "x": 290,
+        "y": 1620,
         "wires": [
             [
                 "c0e6186262639ba6"
@@ -7037,8 +6395,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 650,
-        "y": 1740,
+        "x": 630,
+        "y": 1680,
         "wires": [
             [
                 "6d8c453420c81034"
@@ -7055,8 +6413,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 430,
-        "y": 1720,
+        "x": 410,
+        "y": 1660,
         "wires": [
             [
                 "564b622117aa89c6"
@@ -7073,8 +6431,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 760,
-        "y": 1780,
+        "x": 740,
+        "y": 1720,
         "wires": [
             [
                 "ad09774f60e026c1",
@@ -7091,8 +6449,8 @@
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 535,
-        "y": 1780,
+        "x": 515,
+        "y": 1720,
         "wires": [
             [
                 "564b622117aa89c6"
@@ -7106,8 +6464,8 @@
         "g": "2fcb3ce189b04b4d",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 400,
-        "y": 1780,
+        "x": 380,
+        "y": 1720,
         "wires": []
     },
     {
@@ -7124,8 +6482,8 @@
         "format": "{{msg.payload.timezone}}",
         "layout": "col-center",
         "className": "",
-        "x": 1090,
-        "y": 2280,
+        "x": 1070,
+        "y": 2220,
         "wires": []
     },
     {
@@ -7135,8 +6493,8 @@
         "g": "67a563a3d4b27dd2",
         "name": "Set/Show Timezone",
         "info": "",
-        "x": 150,
-        "y": 1900,
+        "x": 130,
+        "y": 1840,
         "wires": []
     },
     {
@@ -7151,8 +6509,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 510,
-        "y": 2140,
+        "x": 490,
+        "y": 2080,
         "wires": [
             [
                 "f2b4c1c73a6b3a6c"
@@ -7171,8 +6529,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 850,
-        "y": 2200,
+        "x": 830,
+        "y": 2140,
         "wires": [
             [
                 "18da557133285e3a"
@@ -7189,8 +6547,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 630,
-        "y": 2180,
+        "x": 610,
+        "y": 2120,
         "wires": [
             [
                 "c455f4853c45958b"
@@ -7207,8 +6565,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 960,
-        "y": 2240,
+        "x": 940,
+        "y": 2180,
         "wires": [
             [
                 "898ae72159457af1"
@@ -7224,8 +6582,8 @@
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 735,
-        "y": 2240,
+        "x": 715,
+        "y": 2180,
         "wires": [
             [
                 "c455f4853c45958b"
@@ -7239,8 +6597,8 @@
         "g": "67a563a3d4b27dd2",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 600,
-        "y": 2240,
+        "x": 580,
+        "y": 2180,
         "wires": []
     },
     {
@@ -7249,8 +6607,8 @@
         "z": "2807eb5038af723b",
         "name": "Water-Dispenser",
         "info": "",
-        "x": 1340,
-        "y": 600,
+        "x": 1300,
+        "y": 520,
         "wires": []
     },
     {
@@ -7260,8 +6618,8 @@
         "g": "bf4be24c050477c8",
         "name": "Show Water Remaining",
         "info": "",
-        "x": 1380,
-        "y": 1580,
+        "x": 1340,
+        "y": 1420,
         "wires": []
     },
     {
@@ -7288,8 +6646,8 @@
         "seg1": "50",
         "seg2": "100",
         "className": "",
-        "x": 2210,
-        "y": 1700,
+        "x": 2170,
+        "y": 1540,
         "wires": []
     },
     {
@@ -7325,8 +6683,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 2250,
-        "y": 1260,
+        "x": 2210,
+        "y": 1160,
         "wires": []
     },
     {
@@ -7343,8 +6701,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 2280,
-        "y": 1180,
+        "x": 2240,
+        "y": 1080,
         "wires": []
     },
     {
@@ -7367,8 +6725,8 @@
         "topic": "",
         "topicType": "str",
         "className": "",
-        "x": 1830,
-        "y": 880,
+        "x": 1790,
+        "y": 780,
         "wires": [
             [
                 "4aa414140e06236c"
@@ -7384,8 +6742,8 @@
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 1535,
-        "y": 720,
+        "x": 1495,
+        "y": 620,
         "wires": [
             [
                 "e7b02ce801986909"
@@ -7399,8 +6757,8 @@
         "g": "984a3b613f2b4abc",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 1400,
-        "y": 720,
+        "x": 1360,
+        "y": 620,
         "wires": []
     },
     {
@@ -7415,8 +6773,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1550,
-        "y": 760,
+        "x": 1510,
+        "y": 660,
         "wires": [
             [
                 "f93951d199f6561c"
@@ -7433,8 +6791,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1650,
-        "y": 800,
+        "x": 1610,
+        "y": 700,
         "wires": [
             [
                 "64eb80a6f67da9c4"
@@ -7453,8 +6811,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1750,
-        "y": 840,
+        "x": 1710,
+        "y": 740,
         "wires": [
             [
                 "1e2791efad22a49d"
@@ -7473,8 +6831,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1900,
-        "y": 920,
+        "x": 1860,
+        "y": 820,
         "wires": [
             [
                 "d48f225f687e0af3"
@@ -7488,8 +6846,8 @@
         "g": "984a3b613f2b4abc",
         "name": "Water Supplier Selection",
         "info": "",
-        "x": 1390,
-        "y": 680,
+        "x": 1350,
+        "y": 580,
         "wires": []
     },
     {
@@ -7506,8 +6864,8 @@
             "f0d2857c5cada444",
             "8bab6421f4c72681"
         ],
-        "x": 1915,
-        "y": 960,
+        "x": 1875,
+        "y": 860,
         "wires": []
     },
     {
@@ -7517,8 +6875,8 @@
         "g": "984a3b613f2b4abc",
         "name": "Water Supplier Selection Event Out",
         "info": "",
-        "x": 2080,
-        "y": 960,
+        "x": 2040,
+        "y": 860,
         "wires": []
     },
     {
@@ -7530,8 +6888,8 @@
         "links": [
             "82402946b66c1c49"
         ],
-        "x": 1795,
-        "y": 1260,
+        "x": 1755,
+        "y": 1160,
         "wires": [
             [
                 "714efe09bcdb14c5"
@@ -7545,8 +6903,8 @@
         "g": "65031937e0b0efd7",
         "name": "Device Status Changed Event Listener",
         "info": "Client ID:      msg.payload.cid\nDevice Status:  msg.payload.stat",
-        "x": 1630,
-        "y": 1260,
+        "x": 1590,
+        "y": 1160,
         "wires": []
     },
     {
@@ -7558,8 +6916,8 @@
         "links": [
             "d48f225f687e0af3"
         ],
-        "x": 1595,
-        "y": 1100,
+        "x": 1555,
+        "y": 1000,
         "wires": [
             [
                 "a24de4eeb2510f89"
@@ -7573,8 +6931,8 @@
         "g": "4b04d086ad5de92b",
         "name": "Water Supplier Selection Event Listener",
         "info": "",
-        "x": 1430,
-        "y": 1100,
+        "x": 1390,
+        "y": 1000,
         "wires": []
     },
     {
@@ -7589,8 +6947,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1610,
-        "y": 1140,
+        "x": 1570,
+        "y": 1040,
         "wires": [
             [
                 "95ccd9f3332e4585"
@@ -7607,8 +6965,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1690,
-        "y": 1180,
+        "x": 1650,
+        "y": 1080,
         "wires": [
             [
                 "12402ffb8a74c09b"
@@ -7627,8 +6985,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1910,
-        "y": 1260,
+        "x": 1870,
+        "y": 1160,
         "wires": [
             [
                 "4a40bec7c63ea06c"
@@ -7650,8 +7008,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1890,
-        "y": 1180,
+        "x": 1850,
+        "y": 1080,
         "wires": [
             [
                 "4a40bec7c63ea06c"
@@ -7698,8 +7056,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2080,
-        "y": 1220,
+        "x": 2040,
+        "y": 1120,
         "wires": [
             [
                 "fd6e032637506e5e",
@@ -7714,8 +7072,8 @@
         "g": "4b04d086ad5de92b",
         "name": "Device Health",
         "info": "",
-        "x": 1350,
-        "y": 1060,
+        "x": 1310,
+        "y": 960,
         "wires": []
     },
     {
@@ -7727,8 +7085,8 @@
         "links": [
             "d48f225f687e0af3"
         ],
-        "x": 1595,
-        "y": 1660,
+        "x": 1555,
+        "y": 1500,
         "wires": [
             [
                 "eac250045db34d86"
@@ -7742,8 +7100,8 @@
         "g": "bf4be24c050477c8",
         "name": "Water Supplier Selection Event Listener",
         "info": "",
-        "x": 1430,
-        "y": 1660,
+        "x": 1390,
+        "y": 1500,
         "wires": []
     },
     {
@@ -7758,8 +7116,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 610,
-        "y": 680,
+        "x": 590,
+        "y": 620,
         "wires": [
             [
                 "c8acbebc1b799e6d"
@@ -7776,8 +7134,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 640,
-        "y": 740,
+        "x": 620,
+        "y": 680,
         "wires": [
             [
                 "73352e99e5f755bf"
@@ -7796,8 +7154,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1640,
-        "y": 1700,
+        "x": 1600,
+        "y": 1540,
         "wires": [
             [
                 "fbad5870331e550d",
@@ -7819,8 +7177,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 1,
-        "x": 1810,
-        "y": 1660,
+        "x": 1770,
+        "y": 1500,
         "wires": [
             [
                 "9fb84f2411852ded",
@@ -7840,8 +7198,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1830,
-        "y": 1740,
+        "x": 1790,
+        "y": 1580,
         "wires": [
             [
                 "5920a648af435001"
@@ -7858,8 +7216,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1950,
-        "y": 1780,
+        "x": 1910,
+        "y": 1620,
         "wires": [
             [
                 "57d1b5a6d939c419"
@@ -7878,8 +7236,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2050,
-        "y": 1740,
+        "x": 2010,
+        "y": 1580,
         "wires": [
             [
                 "e3c76292e5d759dc"
@@ -7898,8 +7256,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2060,
-        "y": 1660,
+        "x": 2020,
+        "y": 1500,
         "wires": [
             [
                 "e3c76292e5d759dc"
@@ -7926,8 +7284,8 @@
         "topic": "",
         "topicType": "str",
         "className": "",
-        "x": 3030,
-        "y": 880,
+        "x": 3230,
+        "y": 840,
         "wires": [
             [
                 "fdd855824429cf5d"
@@ -7943,8 +7301,8 @@
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 2735,
-        "y": 720,
+        "x": 2935,
+        "y": 680,
         "wires": [
             [
                 "c9f5951acd620585"
@@ -7958,8 +7316,8 @@
         "g": "f42877e73b463e5a",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 2600,
-        "y": 720,
+        "x": 2800,
+        "y": 680,
         "wires": []
     },
     {
@@ -7974,8 +7332,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2750,
-        "y": 760,
+        "x": 2950,
+        "y": 720,
         "wires": [
             [
                 "5033acfb7a40ff58"
@@ -7992,8 +7350,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 2850,
-        "y": 800,
+        "x": 3050,
+        "y": 760,
         "wires": [
             [
                 "fbac775c76bc33c3"
@@ -8012,8 +7370,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2950,
-        "y": 840,
+        "x": 3150,
+        "y": 800,
         "wires": [
             [
                 "a684c6dc311cf248"
@@ -8032,8 +7390,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3100,
-        "y": 920,
+        "x": 3300,
+        "y": 880,
         "wires": [
             [
                 "f3801119dcfd5901"
@@ -8047,8 +7405,8 @@
         "g": "f42877e73b463e5a",
         "name": "Device Selection",
         "info": "",
-        "x": 2560,
-        "y": 680,
+        "x": 2760,
+        "y": 640,
         "wires": []
     },
     {
@@ -8065,8 +7423,8 @@
             "4f8c02041511ef4f",
             "1994c8de8db6d6e7"
         ],
-        "x": 3115,
-        "y": 960,
+        "x": 3315,
+        "y": 920,
         "wires": []
     },
     {
@@ -8076,8 +7434,8 @@
         "g": "f42877e73b463e5a",
         "name": "Feed Machine Selection Event Out",
         "info": "",
-        "x": 3280,
-        "y": 960,
+        "x": 3480,
+        "y": 920,
         "wires": []
     },
     {
@@ -8113,8 +7471,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 2250,
-        "y": 1400,
+        "x": 2210,
+        "y": 1300,
         "wires": []
     },
     {
@@ -8131,8 +7489,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 2280,
-        "y": 1320,
+        "x": 2240,
+        "y": 1220,
         "wires": []
     },
     {
@@ -8175,8 +7533,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2080,
-        "y": 1360,
+        "x": 2040,
+        "y": 1260,
         "wires": [
             [
                 "990cf4a3e6b73f38",
@@ -8193,8 +7551,8 @@
         "links": [
             "f3801119dcfd5901"
         ],
-        "x": 1595,
-        "y": 1340,
+        "x": 1555,
+        "y": 1240,
         "wires": [
             [
                 "69562e4061824b1b"
@@ -8208,8 +7566,8 @@
         "g": "4b04d086ad5de92b",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
-        "x": 1430,
-        "y": 1340,
+        "x": 1390,
+        "y": 1240,
         "wires": []
     },
     {
@@ -8224,8 +7582,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1610,
-        "y": 1380,
+        "x": 1570,
+        "y": 1280,
         "wires": [
             [
                 "714957262501b7e1"
@@ -8242,8 +7600,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1690,
-        "y": 1420,
+        "x": 1650,
+        "y": 1320,
         "wires": [
             [
                 "78fd0982343ef873"
@@ -8262,8 +7620,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1890,
-        "y": 1420,
+        "x": 1850,
+        "y": 1320,
         "wires": [
             [
                 "f3e912f35040ce3e"
@@ -8277,8 +7635,8 @@
         "g": "70dd97b42cce4e90",
         "name": "Show Food Bowl Remaining",
         "info": "",
-        "x": 2600,
-        "y": 1060,
+        "x": 2800,
+        "y": 1020,
         "wires": []
     },
     {
@@ -8305,8 +7663,8 @@
         "seg1": "50",
         "seg2": "100",
         "className": "",
-        "x": 3430,
-        "y": 1140,
+        "x": 3630,
+        "y": 1100,
         "wires": []
     },
     {
@@ -8318,8 +7676,8 @@
         "links": [
             "f3801119dcfd5901"
         ],
-        "x": 2795,
-        "y": 1100,
+        "x": 2995,
+        "y": 1060,
         "wires": [
             [
                 "ddb937c60cd1dd16"
@@ -8333,8 +7691,8 @@
         "g": "70dd97b42cce4e90",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
-        "x": 2630,
-        "y": 1100,
+        "x": 2830,
+        "y": 1060,
         "wires": []
     },
     {
@@ -8349,8 +7707,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2840,
-        "y": 1140,
+        "x": 3040,
+        "y": 1100,
         "wires": [
             [
                 "fe29708ada8ca4c1",
@@ -8372,8 +7730,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 1,
-        "x": 3010,
-        "y": 1100,
+        "x": 3210,
+        "y": 1060,
         "wires": [
             [
                 "98124579dd5b1f63",
@@ -8393,8 +7751,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3030,
-        "y": 1180,
+        "x": 3230,
+        "y": 1140,
         "wires": [
             [
                 "b4921c8a73239b9f"
@@ -8411,8 +7769,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 3150,
-        "y": 1220,
+        "x": 3350,
+        "y": 1180,
         "wires": [
             [
                 "f6cc12bd9ba0f418"
@@ -8431,8 +7789,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3250,
-        "y": 1180,
+        "x": 3450,
+        "y": 1140,
         "wires": [
             [
                 "372ff5131e0a9d21"
@@ -8451,8 +7809,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3260,
-        "y": 1100,
+        "x": 3460,
+        "y": 1060,
         "wires": [
             [
                 "372ff5131e0a9d21"
@@ -8466,8 +7824,8 @@
         "g": "5e2620e7642ef2d3",
         "name": "Show Food Container Remaining",
         "info": "",
-        "x": 2610,
-        "y": 1320,
+        "x": 2810,
+        "y": 1280,
         "wires": []
     },
     {
@@ -8494,8 +7852,8 @@
         "seg1": "50",
         "seg2": "100",
         "className": "",
-        "x": 3440,
-        "y": 1400,
+        "x": 3640,
+        "y": 1360,
         "wires": []
     },
     {
@@ -8507,8 +7865,8 @@
         "links": [
             "f3801119dcfd5901"
         ],
-        "x": 2795,
-        "y": 1360,
+        "x": 2995,
+        "y": 1320,
         "wires": [
             [
                 "4271846e7bd991fd"
@@ -8522,8 +7880,8 @@
         "g": "5e2620e7642ef2d3",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
-        "x": 2630,
-        "y": 1360,
+        "x": 2830,
+        "y": 1320,
         "wires": []
     },
     {
@@ -8538,8 +7896,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2840,
-        "y": 1400,
+        "x": 3040,
+        "y": 1360,
         "wires": [
             [
                 "c20f61e0a8ca70bc",
@@ -8561,8 +7919,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 1,
-        "x": 3010,
-        "y": 1360,
+        "x": 3210,
+        "y": 1320,
         "wires": [
             [
                 "4f09ce5b685d23c6",
@@ -8582,8 +7940,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3030,
-        "y": 1440,
+        "x": 3230,
+        "y": 1400,
         "wires": [
             [
                 "c0df4cd1d7e78050"
@@ -8600,8 +7958,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 3150,
-        "y": 1480,
+        "x": 3350,
+        "y": 1440,
         "wires": [
             [
                 "d9b266a200b9063f"
@@ -8620,8 +7978,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3250,
-        "y": 1440,
+        "x": 3450,
+        "y": 1400,
         "wires": [
             [
                 "899d32f86ed28a3c"
@@ -8640,8 +7998,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3260,
-        "y": 1360,
+        "x": 3460,
+        "y": 1320,
         "wires": [
             [
                 "899d32f86ed28a3c"
@@ -8660,8 +8018,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3970,
-        "y": 1320,
+        "x": 3030,
+        "y": 2200,
         "wires": [
             [
                 "ca92f6cd88cb9b8b"
@@ -8683,8 +8041,8 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 4130,
-        "y": 1320,
+        "x": 3190,
+        "y": 2200,
         "wires": []
     },
     {
@@ -8731,8 +8089,8 @@
         ],
         "outputs": 1,
         "cts": true,
-        "x": 4600,
-        "y": 860,
+        "x": 3660,
+        "y": 1740,
         "wires": [
             [
                 "66abe7a7c40f4767"
@@ -8751,8 +8109,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3910,
-        "y": 900,
+        "x": 2970,
+        "y": 1780,
         "wires": [
             [
                 "ccd6ce4a5d9991e6"
@@ -8769,8 +8127,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 4040,
-        "y": 940,
+        "x": 3100,
+        "y": 1820,
         "wires": [
             [
                 "62993187ae4b034e"
@@ -8786,8 +8144,8 @@
         "links": [
             "f3801119dcfd5901"
         ],
-        "x": 4155,
-        "y": 700,
+        "x": 3215,
+        "y": 1580,
         "wires": [
             [
                 "62993187ae4b034e"
@@ -8801,8 +8159,8 @@
         "g": "8b61d9e21f61dbe1",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
-        "x": 3990,
-        "y": 700,
+        "x": 3050,
+        "y": 1580,
         "wires": []
     },
     {
@@ -8817,8 +8175,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4310,
-        "y": 740,
+        "x": 3370,
+        "y": 1620,
         "wires": [
             [
                 "60d7d8d0453f9fbb"
@@ -8835,8 +8193,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 4420,
-        "y": 780,
+        "x": 3480,
+        "y": 1660,
         "wires": [
             [
                 "4c35fb61563899fa"
@@ -8855,8 +8213,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 190,
-        "y": 1980,
+        "x": 170,
+        "y": 1920,
         "wires": [
             [
                 "03adfc778873b29d"
@@ -8883,8 +8241,8 @@
         "topic": "topic",
         "topicType": "msg",
         "className": "",
-        "x": 290,
-        "y": 2020,
+        "x": 270,
+        "y": 1960,
         "wires": [
             [
                 "5072b85543a1f166"
@@ -8903,8 +8261,8 @@
         "once": true,
         "onceDelay": 0.1,
         "topic": "",
-        "x": 130,
-        "y": 1940,
+        "x": 110,
+        "y": 1880,
         "wires": [
             [
                 "72a4115908d159dd"
@@ -8923,8 +8281,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 370,
-        "y": 2060,
+        "x": 350,
+        "y": 2000,
         "wires": [
             [
                 "ff4f10c92e13dfe1"
@@ -8952,8 +8310,8 @@
         "payloadType": "flow",
         "topic": "topic",
         "topicType": "msg",
-        "x": 430,
-        "y": 2100,
+        "x": 410,
+        "y": 2040,
         "wires": [
             [
                 "140d5f4901347771"
@@ -8972,8 +8330,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4520,
-        "y": 820,
+        "x": 3580,
+        "y": 1700,
         "wires": [
             [
                 "3a072ccc2e6d7d23"
@@ -8996,8 +8354,8 @@
         "className": "",
         "topic": "",
         "name": "",
-        "x": 4390,
-        "y": 1040,
+        "x": 3450,
+        "y": 1920,
         "wires": [
             [
                 "fbf869e7dd7f2cc9"
@@ -9016,8 +8374,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4310,
-        "y": 1000,
+        "x": 3370,
+        "y": 1880,
         "wires": [
             [
                 "9fba4c58e4832285"
@@ -9036,8 +8394,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4460,
-        "y": 1080,
+        "x": 3520,
+        "y": 1960,
         "wires": [
             [
                 "0a2584dcd3238481"
@@ -9054,8 +8412,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 4570,
-        "y": 1120,
+        "x": 3630,
+        "y": 2000,
         "wires": [
             [
                 "a2b15791680a05d4"
@@ -9072,8 +8430,8 @@
         "links": [
             "fd9681c5376095c3"
         ],
-        "x": 4635,
-        "y": 1160,
+        "x": 3695,
+        "y": 2040,
         "wires": []
     },
     {
@@ -9085,8 +8443,8 @@
         "links": [
             "a2b15791680a05d4"
         ],
-        "x": 4155,
-        "y": 740,
+        "x": 3215,
+        "y": 1620,
         "wires": [
             [
                 "62993187ae4b034e"
@@ -9100,8 +8458,8 @@
         "g": "8b61d9e21f61dbe1",
         "name": "Schedule Delete Event Listener",
         "info": "",
-        "x": 4010,
-        "y": 740,
+        "x": 3070,
+        "y": 1620,
         "wires": []
     },
     {
@@ -9111,8 +8469,8 @@
         "g": "2e5dbb8d5d2b88f1",
         "name": "Schedule Delete Event Out",
         "info": "",
-        "x": 4770,
-        "y": 1160,
+        "x": 3830,
+        "y": 2040,
         "wires": []
     },
     {
@@ -9122,8 +8480,8 @@
         "g": "97b7444c24969a61",
         "name": "Add New Schedule",
         "info": "",
-        "x": 3730,
-        "y": 820,
+        "x": 2790,
+        "y": 1700,
         "wires": []
     },
     {
@@ -9133,8 +8491,8 @@
         "g": "b947df7e17470543",
         "name": "Show Schedule Table",
         "info": "",
-        "x": 4340,
-        "y": 700,
+        "x": 3400,
+        "y": 1580,
         "wires": []
     },
     {
@@ -9144,8 +8502,8 @@
         "g": "2e5dbb8d5d2b88f1",
         "name": "Click to Delete Schedule",
         "info": "",
-        "x": 4350,
-        "y": 960,
+        "x": 3410,
+        "y": 1840,
         "wires": []
     },
     {
@@ -9162,15 +8520,15 @@
         "format": "",
         "layout": "row-spread",
         "className": "",
-        "x": 4700,
-        "y": 740,
+        "x": 3760,
+        "y": 1620,
         "wires": []
     },
     {
         "id": "6baa2ac2d58a73e9",
         "type": "ui_chart",
         "z": "2807eb5038af723b",
-        "g": "62f8e1873335ab3c",
+        "g": "2c3ecf0f4275bd9d",
         "name": "",
         "group": "1c59b2e42a6a75ab",
         "order": 2,
@@ -9205,8 +8563,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 2520,
-        "y": 2540,
+        "x": 2180,
+        "y": 2240,
         "wires": [
             []
         ]
@@ -9215,7 +8573,7 @@
         "id": "dfb30754afab5488",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "CacheChecker",
         "func": "// Consumption cache empty\n// Device selection changed\n// Date changed\n// --> Reset consumption cache\nif (!flow.get('waterConsumptionCache')\n    || msg.deviceChanged\n    || msg.timestamp.midnight != flow.get('waterConsumptionCache').start) {\n    const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('waterSupplier')}/scale/water`);\n    \n    msg.method = \"GET\";\n    msg.url = `https://petificationblue.ddns.net:1880/records/${topic}/after/${msg.timestamp.midnight}/last/*`;\n    \n    node.send([msg, null]);\n    \n// Update consumption cache\n} else if(msg.mqtt) {\n    // Ignore error under 10 millisec\n    const timestampLike = (\"\" + msg.timestamp.now).substring(0, 11) + \"%\";\n\n    // build the SQL query\n    msg.topic =\n        //\"SELECT (payload-\" + msg.mqtt.payload + \") AS diff \" +\n        `SELECT (payload - ${msg.mqtt.payload}) AS diff, timestamp ` +\n        \"FROM thingsData \" +\n        \"WHERE topic='\" + msg.mqtt.topic + \"' \" +\n        \"AND deleted=0 \" +\n        \"AND timestamp NOT LIKE '\" + timestampLike + \"' \" +\n        \"ORDER BY id DESC \" +\n        \"LIMIT 1;\";\n\n    node.send([null, msg]);\n}",
         "outputs": 2,
@@ -9228,8 +8586,8 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 1560,
-        "y": 2480,
+        "x": 1500,
+        "y": 2100,
         "wires": [
             [
                 "678f70c0d1631edc"
@@ -9249,8 +8607,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1810,
-        "y": 2440,
+        "x": 1750,
+        "y": 2060,
         "wires": [
             [
                 "fe79331d5ed4c1b9"
@@ -9269,8 +8627,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2050,
-        "y": 2440,
+        "x": 1990,
+        "y": 2060,
         "wires": [
             [
                 "0f5efb3bab246385"
@@ -9281,7 +8639,7 @@
         "id": "0f5efb3bab246385",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "62f8e1873335ab3c",
+        "g": "2c3ecf0f4275bd9d",
         "name": "GraphFormatter",
         "func": "//Calculate food consumption logic\n\n// **EXAMPLE**\n// msg.payload = [{\n//     \"series\": [\"A\", \"B\", \"C\"],\n//     \"data\": [\n//         [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }],\n//     ],\n//     \"labels\": [\"\"]\n// }]\n\nmsg.payload = [{\n    \"series\": [\"Consumption\"],\n    \"data\": [flow.get('waterConsumptionCache').consumption],\n    \"labels\": [\"\"],\n}];\n\nreturn msg;",
         "outputs": 1,
@@ -9289,8 +8647,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2300,
-        "y": 2540,
+        "x": 2060,
+        "y": 2200,
         "wires": [
             [
                 "6baa2ac2d58a73e9"
@@ -9301,13 +8659,13 @@
         "id": "f0d2857c5cada444",
         "type": "link in",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "Water Supplier Selection Event Listener",
         "links": [
             "d48f225f687e0af3"
         ],
-        "x": 1615,
-        "y": 2140,
+        "x": 1555,
+        "y": 1760,
         "wires": [
             [
                 "b162725a5fba9a97"
@@ -9318,11 +8676,11 @@
         "id": "db8ecee8ea19e798",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "Water Supplier Selection Event Listener",
         "info": "",
-        "x": 1450,
-        "y": 2140,
+        "x": 1390,
+        "y": 1760,
         "wires": []
     },
     {
@@ -9332,21 +8690,21 @@
         "g": "53382dddfe9cc4db",
         "name": "Local Midnight",
         "info": "",
-        "x": 1780,
-        "y": 2160,
+        "x": 1720,
+        "y": 1780,
         "wires": []
     },
     {
         "id": "4ad34142b7396425",
         "type": "link in",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "Water Scale Publish Event Listener",
         "links": [
             "98069c6e47ad8d25"
         ],
-        "x": 1595,
-        "y": 2220,
+        "x": 1535,
+        "y": 1840,
         "wires": [
             [
                 "77bee5b2268677d8"
@@ -9357,11 +8715,11 @@
         "id": "55794dfb0543e88a",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "Water Scale Publish Event Listener",
         "info": "",
-        "x": 1440,
-        "y": 2220,
+        "x": 1380,
+        "y": 1840,
         "wires": []
     },
     {
@@ -9376,8 +8734,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1770,
-        "y": 2200,
+        "x": 1710,
+        "y": 1820,
         "wires": [
             [
                 "8cf2051dcf95925e"
@@ -9394,8 +8752,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1900,
-        "y": 2240,
+        "x": 1840,
+        "y": 1860,
         "wires": [
             [
                 "77451b9b778d3933"
@@ -9406,11 +8764,11 @@
         "id": "5bf56b14ecb6c654",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "62f8e1873335ab3c",
+        "g": "2c3ecf0f4275bd9d",
         "name": "Print Graph",
         "info": "",
-        "x": 2290,
-        "y": 2500,
+        "x": 2050,
+        "y": 2160,
         "wires": []
     },
     {
@@ -9425,8 +8783,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1870,
-        "y": 2620,
+        "x": 1810,
+        "y": 2240,
         "wires": [
             [
                 "0f5efb3bab246385"
@@ -9443,8 +8801,8 @@
         "links": [
             "4ad34142b7396425"
         ],
-        "x": 1915,
-        "y": 1600,
+        "x": 1875,
+        "y": 1440,
         "wires": []
     },
     {
@@ -9454,8 +8812,8 @@
         "g": "bf4be24c050477c8",
         "name": "Water Scale Publish Event Out",
         "info": "",
-        "x": 2070,
-        "y": 1600,
+        "x": 2030,
+        "y": 1440,
         "wires": []
     },
     {
@@ -9465,8 +8823,8 @@
         "g": "38e019e76fa45767",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 1780,
-        "y": 2580,
+        "x": 1720,
+        "y": 2200,
         "wires": [
             [
                 "92b29a3808405772"
@@ -9480,8 +8838,8 @@
         "g": "38e019e76fa45767",
         "name": "Update Cache",
         "info": "",
-        "x": 1800,
-        "y": 2540,
+        "x": 1740,
+        "y": 2160,
         "wires": []
     },
     {
@@ -9501,8 +8859,8 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 2030,
-        "y": 2280,
+        "x": 1970,
+        "y": 1900,
         "wires": [
             [
                 "dfb30754afab5488"
@@ -9513,18 +8871,18 @@
         "id": "66371577025b858f",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "Water Consumption Graph",
         "info": "",
-        "x": 1410,
-        "y": 2100,
+        "x": 1350,
+        "y": 1720,
         "wires": []
     },
     {
         "id": "77bee5b2268677d8",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "SaveMSG",
         "func": "msg.mqtt = {\n    topic: msg.topic,\n    payload: parseInt(msg.payload),\n};\n\nreturn msg;",
         "outputs": 1,
@@ -9532,8 +8890,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1560,
-        "y": 2260,
+        "x": 1500,
+        "y": 1880,
         "wires": [
             [
                 "896f4f5906456c34"
@@ -9544,7 +8902,7 @@
         "id": "b162725a5fba9a97",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "63607a9e6df4918a",
+        "g": "f636b49319806be8",
         "name": "SetFlag",
         "func": "msg.deviceChanged = true;\nreturn msg;",
         "outputs": 1,
@@ -9552,8 +8910,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1560,
-        "y": 2180,
+        "x": 1500,
+        "y": 1800,
         "wires": [
             [
                 "896f4f5906456c34"
@@ -9567,15 +8925,15 @@
         "g": "c2d726a0664ed81b",
         "name": "Reset Cache",
         "info": "",
-        "x": 1790,
-        "y": 2400,
+        "x": 1730,
+        "y": 2020,
         "wires": []
     },
     {
         "id": "a3c0471d89100158",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "CacheChecker",
         "func": "// Consumption cache empty\n// Device selection changed\n// Date changed\n// --> Reset consumption cache\nif (!flow.get('foodConsumptionCache')\n    || msg.deviceChanged\n    || msg.timestamp.midnight != flow.get('foodConsumptionCache').start) {\n    const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/bowl`);\n    \n    msg.method = \"GET\";\n    msg.url = `https://petificationblue.ddns.net:1880/records/${topic}/after/${msg.timestamp.midnight}/last/*`;\n    \n    node.send([msg, null]);\n    \n// Update consumption cache\n} else if(msg.mqtt) {\n    // Ignore error under 10 millisec\n    const timestampLike = (\"\" + msg.timestamp.now).substring(0, 11) + \"%\";\n\n    // build the SQL query\n    msg.topic =\n        //\"SELECT (payload-\" + msg.mqtt.payload + \") AS diff \" +\n        `SELECT (payload - ${msg.mqtt.payload}) AS diff, timestamp ` +\n        \"FROM thingsData \" +\n        \"WHERE topic='\" + msg.mqtt.topic + \"' \" +\n        \"AND deleted=0 \" +\n        \"AND timestamp NOT LIKE '\" + timestampLike + \"' \" +\n        \"ORDER BY id DESC \" +\n        \"LIMIT 1;\";\n\n    node.send([null, msg]);\n}",
         "outputs": 2,
@@ -9588,8 +8946,8 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 2980,
-        "y": 2260,
+        "x": 2960,
+        "y": 2680,
         "wires": [
             [
                 "3e013854bc275f3d"
@@ -9603,13 +8961,13 @@
         "id": "1994c8de8db6d6e7",
         "type": "link in",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "Feed Machine Selection Event Listener",
         "links": [
             "f3801119dcfd5901"
         ],
-        "x": 3035,
-        "y": 1920,
+        "x": 3015,
+        "y": 2340,
         "wires": [
             [
                 "7e417690209a273a"
@@ -9620,24 +8978,24 @@
         "id": "4cc2d474c87b122e",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
-        "x": 2870,
-        "y": 1920,
+        "x": 2850,
+        "y": 2340,
         "wires": []
     },
     {
         "id": "2f90f07bfc08f747",
         "type": "link in",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "Food Bowl Scale Publish Event Listener",
         "links": [
             "b3dcdc07f67b3d5b"
         ],
-        "x": 3015,
-        "y": 2000,
+        "x": 2995,
+        "y": 2420,
         "wires": [
             [
                 "c45a5d9c79d0268e"
@@ -9648,29 +9006,29 @@
         "id": "2f3f33dabcda87b2",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "Food Bowl Scale Publish Event Listener",
         "info": "",
-        "x": 2850,
-        "y": 2000,
+        "x": 2830,
+        "y": 2420,
         "wires": []
     },
     {
         "id": "76b10766fb105962",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "Food Consumption Graph",
         "info": "",
-        "x": 2830,
-        "y": 1880,
+        "x": 2810,
+        "y": 2300,
         "wires": []
     },
     {
         "id": "c45a5d9c79d0268e",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "SaveMSG",
         "func": "msg.mqtt = {\n    topic: msg.topic,\n    payload: parseInt(msg.payload),\n};\n\nreturn msg;",
         "outputs": 1,
@@ -9678,8 +9036,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2980,
-        "y": 2040,
+        "x": 2960,
+        "y": 2460,
         "wires": [
             [
                 "aa1d5a7e1aeda619"
@@ -9690,7 +9048,7 @@
         "id": "7e417690209a273a",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "a1aaf2939f6ab26e",
+        "g": "22daf5b5e05696c0",
         "name": "SetFlag",
         "func": "msg.deviceChanged = true;\nreturn msg;",
         "outputs": 1,
@@ -9698,8 +9056,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2980,
-        "y": 1960,
+        "x": 2960,
+        "y": 2380,
         "wires": [
             [
                 "aa1d5a7e1aeda619"
@@ -9710,7 +9068,7 @@
         "id": "43fecccc5099944a",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "7981b865d3b6ee03",
+        "g": "1580a0172172d6e9",
         "name": "GraphFormatter",
         "func": "//Calculate food consumption logic\n\n// **EXAMPLE**\n// msg.payload = [{\n//     \"series\": [\"A\", \"B\", \"C\"],\n//     \"data\": [\n//         [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }],\n//     ],\n//     \"labels\": [\"\"]\n// }]\n\nmsg.payload = [{\n    \"series\": [\"Consumption\"],\n    \"data\": [flow.get('foodConsumptionCache').consumption],\n    \"labels\": [\"\"],\n}];\n\nreturn msg;",
         "outputs": 1,
@@ -9718,8 +9076,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3720,
-        "y": 2320,
+        "x": 3520,
+        "y": 2780,
         "wires": [
             [
                 "0e24c01f3a7aa62c"
@@ -9730,11 +9088,11 @@
         "id": "45a882da3339ce43",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "7981b865d3b6ee03",
+        "g": "1580a0172172d6e9",
         "name": "Print Graph",
         "info": "",
-        "x": 3710,
-        "y": 2280,
+        "x": 3510,
+        "y": 2740,
         "wires": []
     },
     {
@@ -9744,8 +9102,8 @@
         "g": "74424c6410534350",
         "name": "Local Midnight",
         "info": "",
-        "x": 3200,
-        "y": 1940,
+        "x": 3180,
+        "y": 2360,
         "wires": []
     },
     {
@@ -9760,8 +9118,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3190,
-        "y": 1980,
+        "x": 3170,
+        "y": 2400,
         "wires": [
             [
                 "2b20c767724c63ed"
@@ -9778,8 +9136,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 3320,
-        "y": 2020,
+        "x": 3300,
+        "y": 2440,
         "wires": [
             [
                 "2789ef89b7811ef9"
@@ -9803,8 +9161,8 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 3450,
-        "y": 2060,
+        "x": 3430,
+        "y": 2480,
         "wires": [
             [
                 "a3c0471d89100158"
@@ -9823,8 +9181,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3290,
-        "y": 2400,
+        "x": 3270,
+        "y": 2820,
         "wires": [
             [
                 "43fecccc5099944a"
@@ -9838,8 +9196,8 @@
         "g": "b689701444ce75a2",
         "mydb": "1654a6d7a221376c",
         "name": "",
-        "x": 3200,
-        "y": 2360,
+        "x": 3180,
+        "y": 2780,
         "wires": [
             [
                 "ca057a0e4da918a2"
@@ -9853,8 +9211,8 @@
         "g": "b689701444ce75a2",
         "name": "Update Cache",
         "info": "",
-        "x": 3220,
-        "y": 2320,
+        "x": 3200,
+        "y": 2740,
         "wires": []
     },
     {
@@ -9867,8 +9225,8 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 3230,
-        "y": 2220,
+        "x": 3210,
+        "y": 2640,
         "wires": [
             [
                 "b0e814edcc7791cc"
@@ -9887,8 +9245,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3470,
-        "y": 2220,
+        "x": 3450,
+        "y": 2640,
         "wires": [
             [
                 "43fecccc5099944a"
@@ -9902,8 +9260,8 @@
         "g": "451e2c6eea53c120",
         "name": "Reset Cache",
         "info": "",
-        "x": 3210,
-        "y": 2180,
+        "x": 3190,
+        "y": 2600,
         "wires": []
     },
     {
@@ -9916,8 +9274,8 @@
         "links": [
             "2f90f07bfc08f747"
         ],
-        "x": 3095,
-        "y": 1060,
+        "x": 3295,
+        "y": 1020,
         "wires": []
     },
     {
@@ -9927,8 +9285,8 @@
         "g": "70dd97b42cce4e90",
         "name": "Food Bowl Scale Publish Event Out",
         "info": "",
-        "x": 3260,
-        "y": 1060,
+        "x": 3460,
+        "y": 1020,
         "wires": []
     },
     {
@@ -9939,8 +9297,8 @@
         "name": "Food Container Scale Publish Event Out",
         "mode": "link",
         "links": [],
-        "x": 3095,
-        "y": 1320,
+        "x": 3295,
+        "y": 1280,
         "wires": []
     },
     {
@@ -9950,15 +9308,15 @@
         "g": "5e2620e7642ef2d3",
         "name": "Food Container Scale Publish Event Out",
         "info": "",
-        "x": 3280,
-        "y": 1320,
+        "x": 3480,
+        "y": 1280,
         "wires": []
     },
     {
         "id": "0e24c01f3a7aa62c",
         "type": "ui_chart",
         "z": "2807eb5038af723b",
-        "g": "7981b865d3b6ee03",
+        "g": "1580a0172172d6e9",
         "name": "",
         "group": "35e893befae8d648",
         "order": 3,
@@ -9993,11 +9351,131 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 3930,
-        "y": 2320,
+        "x": 3630,
+        "y": 2820,
         "wires": [
             []
         ]
+    },
+    {
+        "id": "a0413f926e73b849",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "name": "Show Food Remaining (Container)",
+        "info": "Use MSG Subscription",
+        "x": 2820,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "29b7a782bc5cbaf6",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "name": "Show Food Remaining (Bowl)",
+        "info": "Use MSG Subscription",
+        "x": 2800,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "24450c5c32456c12",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "name": "Show Food Consumption",
+        "info": "Use Event Listeners",
+        "x": 2790,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "cb0a8bb82877f55c",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "name": "Serve Food (By Button)",
+        "info": "Use MSG Publicationn",
+        "x": 2780,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "3b9d7eb09c154c3e",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "name": "Set/Show Food Serve Schedule",
+        "info": "",
+        "x": 2810,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "daf3f0b03f9749bc",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "name": "Show Food-Feeder Status",
+        "info": "Use Event Listeners",
+        "x": 2790,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "90a50b5331a17f89",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "93f3b1d77a2a5fd9",
+        "name": "<Food-Feeder>",
+        "info": "",
+        "x": 2820,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "282f7ac34aaa670e",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "18e9e0df67eaa07a",
+        "name": "Show Food Consumption (Daily)",
+        "info": "",
+        "x": 2850,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "55f7368904d4996c",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "18e9e0df67eaa07a",
+        "name": "Enhancement",
+        "info": "",
+        "x": 2790,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "df296ab9d3bf1ad0",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "<Food-Feeder>",
+        "info": "",
+        "x": 2740,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "80ea020bb4f8fc33",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "a3ece3656f108bbc",
+        "name": "Adapters",
+        "info": "",
+        "x": 540,
+        "y": 60,
+        "wires": []
     },
     {
         "id": "eb03c4c4206e34a0",
