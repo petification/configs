@@ -87,9 +87,7 @@
             "3536b83ee3937a04"
         ],
         "x": 14,
-        "y": 2299,
-        "w": 972,
-        "h": 202
+        "y": 2299
     },
     {
         "id": "ffff053900bb63ca",
@@ -113,9 +111,7 @@
             "354271f841ef0663"
         ],
         "x": 14,
-        "y": 2739,
-        "w": 972,
-        "h": 122
+        "y": 2739
     },
     {
         "id": "6bc1d82a48ceadb0",
@@ -141,9 +137,7 @@
             "0d81cc62a3607b9f"
         ],
         "x": 14,
-        "y": 2519,
-        "w": 972,
-        "h": 202
+        "y": 2519
     },
     {
         "id": "ed8b5377f33374f1",
@@ -168,9 +162,7 @@
             "69fd65e799173d30"
         ],
         "x": 14,
-        "y": 19,
-        "w": 992,
-        "h": 202
+        "y": 19
     },
     {
         "id": "7457db638135fbdb",
@@ -194,9 +186,7 @@
             "edcb6c70dd6d14e2"
         ],
         "x": 14,
-        "y": 239,
-        "w": 1232,
-        "h": 122
+        "y": 239
     },
     {
         "id": "617bb68c7b2284cf",
@@ -224,9 +214,7 @@
             "29544c1af11d03dc"
         ],
         "x": 14,
-        "y": 379,
-        "w": 1252,
-        "h": 242
+        "y": 379
     },
     {
         "id": "778ff3b8764df908",
@@ -256,9 +244,7 @@
             "388d2936128df466"
         ],
         "x": 14,
-        "y": 639,
-        "w": 1232,
-        "h": 302
+        "y": 639
     },
     {
         "id": "08368f4a4f432e34",
@@ -288,9 +274,7 @@
             "7a1158daf4dae513"
         ],
         "x": 14,
-        "y": 959,
-        "w": 1232,
-        "h": 302
+        "y": 959
     },
     {
         "id": "2dac822f9fa8fa31",
@@ -314,9 +298,7 @@
             "c58f1a558f26bfe6"
         ],
         "x": 14,
-        "y": 339,
-        "w": 832,
-        "h": 142
+        "y": 339
     },
     {
         "id": "c5351c5c421b358c",
@@ -337,9 +319,7 @@
             "247061156250feef"
         ],
         "x": 34,
-        "y": 19,
-        "w": 332,
-        "h": 122
+        "y": 19
     },
     {
         "id": "4b08a40382bbc675",
@@ -360,9 +340,7 @@
             "7ce853131aab1b80"
         ],
         "x": 14,
-        "y": 499,
-        "w": 402,
-        "h": 122
+        "y": 499
     },
     {
         "id": "a11b1041e59fd5f1",
@@ -386,9 +364,7 @@
             "867e840cf38e4f21"
         ],
         "x": 1314,
-        "y": 19,
-        "w": 952,
-        "h": 122
+        "y": 19
     },
     {
         "id": "2ae0cb5db9c8444c",
@@ -414,9 +390,7 @@
             "210576e9a6ad8c2f"
         ],
         "x": 1314,
-        "y": 159,
-        "w": 972,
-        "h": 202
+        "y": 159
     },
     {
         "id": "47469a4b8eaa1d6e",
@@ -442,9 +416,7 @@
             "370a61d88bdfc0c7"
         ],
         "x": 1314,
-        "y": 379,
-        "w": 952,
-        "h": 202
+        "y": 379
     },
     {
         "id": "47625275f7240e2a",
@@ -465,9 +437,7 @@
             "3ea44f65a91ee26c"
         ],
         "x": 34,
-        "y": 159,
-        "w": 392,
-        "h": 122
+        "y": 159
     },
     {
         "id": "2e8c563c95931cf4",
@@ -488,9 +458,7 @@
             "556876be6c6ceeff"
         ],
         "x": 34,
-        "y": 299,
-        "w": 372,
-        "h": 122
+        "y": 299
     },
     {
         "id": "e4ec5a08b48d755b",
@@ -506,9 +474,7 @@
             "0d5b1751af6329c2"
         ],
         "x": 514,
-        "y": 19,
-        "w": 312,
-        "h": 122
+        "y": 19
     },
     {
         "id": "37e07ac837df916b",
@@ -529,9 +495,7 @@
             "d31aab6cc8c7ec1c"
         ],
         "x": 514,
-        "y": 159,
-        "w": 372,
-        "h": 122
+        "y": 159
     },
     {
         "id": "ac8de8dddde18929",
@@ -552,9 +516,7 @@
             "2a4d9107a01bafb6"
         ],
         "x": 514,
-        "y": 299,
-        "w": 352,
-        "h": 122
+        "y": 299
     },
     {
         "id": "9ea8eb5fbd9fba9b",
@@ -576,9 +538,7 @@
             "cb62d5174fdbc2dc"
         ],
         "x": 14,
-        "y": 1439,
-        "w": 672,
-        "h": 142
+        "y": 1439
     },
     {
         "id": "a429ddf13a770b14",
@@ -600,9 +560,7 @@
             "d3c7fdd2bdc2106c"
         ],
         "x": 14,
-        "y": 1279,
-        "w": 612,
-        "h": 142
+        "y": 1279
     },
     {
         "id": "f2145b5e6ee8c3d0",
@@ -627,9 +585,7 @@
             "0409ed639d712c6c"
         ],
         "x": 14,
-        "y": 379,
-        "w": 1218,
-        "h": 442
+        "y": 379
     },
     {
         "id": "827443b04cb37fc9",
@@ -652,9 +608,7 @@
             "b172ae4261416e78"
         ],
         "x": 14,
-        "y": 19,
-        "w": 858,
-        "h": 348
+        "y": 19
     },
     {
         "id": "20d6d2a97d7b9fa9",
@@ -677,9 +631,7 @@
             "28196b10195ca582"
         ],
         "x": 14,
-        "y": 19,
-        "w": 1018,
-        "h": 308
+        "y": 19
     },
     {
         "id": "78810c964d16f3b6",
@@ -702,9 +654,7 @@
             "3ce598360cdb14a1"
         ],
         "x": 1234,
-        "y": 19,
-        "w": 732,
-        "h": 142
+        "y": 19
     },
     {
         "id": "2a453a7e3ac8b7d5",
@@ -750,9 +700,7 @@
             "0d68f82b9254cd4a"
         ],
         "x": 34,
-        "y": 439,
-        "w": 652,
-        "h": 122
+        "y": 439
     },
     {
         "id": "836b236884538e1e",
@@ -775,9 +723,7 @@
             "075beec50ea49c1f"
         ],
         "x": 34,
-        "y": 579,
-        "w": 652,
-        "h": 122
+        "y": 579
     },
     {
         "id": "dc25248d8126293c",
@@ -800,9 +746,7 @@
             "35a0818c8e8895c8"
         ],
         "x": 34,
-        "y": 719,
-        "w": 652,
-        "h": 122
+        "y": 719
     },
     {
         "id": "926801c45750aac7",
@@ -1035,9 +979,7 @@
             "c8b663bf39e4a43e"
         ],
         "x": 14,
-        "y": 19,
-        "w": 1132,
-        "h": 322
+        "y": 19
     },
     {
         "id": "8381699e5b93b16c",
@@ -1112,9 +1054,7 @@
             "f45d589dd0982571"
         ],
         "x": 14,
-        "y": 359,
-        "w": 1178,
-        "h": 382
+        "y": 359
     },
     {
         "id": "e696151fe100b641",
@@ -1399,9 +1339,7 @@
             "3acd4e8f21edcc40"
         ],
         "x": 14,
-        "y": 759,
-        "w": 712,
-        "h": 142
+        "y": 759
     },
     {
         "id": "9a35fa969a2e7b12",
@@ -1426,9 +1364,7 @@
             "c6d491ef0b8f56a1"
         ],
         "x": 14,
-        "y": 919,
-        "w": 872,
-        "h": 182
+        "y": 919
     },
     {
         "id": "984a3b613f2b4abc",
@@ -1483,9 +1419,7 @@
             "4d6331de40f9f25a"
         ],
         "x": 14,
-        "y": 1119,
-        "w": 872,
-        "h": 182
+        "y": 1119
     },
     {
         "id": "e17ef39765cae756",
@@ -1569,9 +1503,7 @@
             "b1ab6c1a9db2e8eb"
         ],
         "x": 14,
-        "y": 1319,
-        "w": 932,
-        "h": 182
+        "y": 1319
     },
     {
         "id": "f42877e73b463e5a",
@@ -1665,7 +1597,9 @@
             "bb0c539d7e2eca54",
             "b4921c8a73239b9f",
             "f6cc12bd9ba0f418",
-            "98124579dd5b1f63"
+            "98124579dd5b1f63",
+            "b3dcdc07f67b3d5b",
+            "d881f8bd9f8555c4"
         ],
         "x": 2454,
         "y": 1019,
@@ -1854,9 +1788,7 @@
             "970a146e03b550bf"
         ],
         "x": 34,
-        "y": 859,
-        "w": 652,
-        "h": 122
+        "y": 859
     },
     {
         "id": "aa358f7d0ae037ad",
@@ -1879,9 +1811,7 @@
             "4d6d08862a084ef8"
         ],
         "x": 34,
-        "y": 999,
-        "w": 652,
-        "h": 122
+        "y": 999
     },
     {
         "id": "f1bed747c4a3535f",
@@ -1904,38 +1834,13 @@
             "f241c937eeb9d331"
         ],
         "x": 34,
-        "y": 1139,
-        "w": 652,
-        "h": 122
-    },
-    {
-        "id": "dce3be978a1f0dc6",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "g": "705b33b727722b8f",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0627c62aedfa7aba",
-            "734ed70c0979e82a",
-            "aa4e5a562cf0ea1d"
-        ],
-        "x": 434,
-        "y": 899,
-        "w": 352,
-        "h": 122
+        "y": 1139
     },
     {
         "id": "62f8e1873335ab3c",
         "type": "group",
         "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -1950,8 +1855,8 @@
             "0f5efb3bab246385",
             "5bf56b14ecb6c654"
         ],
-        "x": 2294,
-        "y": 2019,
+        "x": 2174,
+        "y": 2239,
         "w": 452,
         "h": 122
     },
@@ -1974,9 +1879,7 @@
             "9244f43e4870fab2"
         ],
         "x": 394,
-        "y": 1699,
-        "w": 352,
-        "h": 122
+        "y": 1699
     },
     {
         "id": "b36d157603fc720f",
@@ -1997,9 +1900,7 @@
             "911de99a7389b9f9"
         ],
         "x": 394,
-        "y": 1839,
-        "w": 352,
-        "h": 122
+        "y": 1839
     },
     {
         "id": "bd78b621430919ea",
@@ -2021,9 +1922,7 @@
             "2abcf7999dba97c0"
         ],
         "x": 394,
-        "y": 1979,
-        "w": 552,
-        "h": 162
+        "y": 1979
     },
     {
         "id": "9ba71cc5e5edaee7",
@@ -2048,9 +1947,190 @@
             "c61472743923acf9"
         ],
         "x": 394,
-        "y": 2159,
-        "w": 632,
+        "y": 2159
+    },
+    {
+        "id": "705b33b727722b8f",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "52b058fd5cb5b506",
+            "ac06a2cc3f547450",
+            "06626f0390ba708e",
+            "79ae4379f43a37c6",
+            "dce3be978a1f0dc6",
+            "07e096004b84132f"
+        ],
+        "x": 14,
+        "y": 839
+    },
+    {
+        "id": "bf4be24c050477c8",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "01cebc855c52442a",
+            "e3c76292e5d759dc",
+            "fe5cd6ea4f60ed48",
+            "d73b46a160cf656b",
+            "eac250045db34d86",
+            "fbad5870331e550d",
+            "5ff5c950f427e565",
+            "5920a648af435001",
+            "57d1b5a6d939c419",
+            "9fb84f2411852ded",
+            "98069c6e47ad8d25",
+            "353c649f465840ea"
+        ],
+        "x": 1254,
+        "y": 1539,
+        "w": 1032,
+        "h": 282
+    },
+    {
+        "id": "5e2620e7642ef2d3",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bde2e3d8333824a0",
+            "899d32f86ed28a3c",
+            "92f189a434d251ca",
+            "908a8e22a62388f5",
+            "4271846e7bd991fd",
+            "c20f61e0a8ca70bc",
+            "3578deeb95fe02fc",
+            "c0df4cd1d7e78050",
+            "d9b266a200b9063f",
+            "4f09ce5b685d23c6",
+            "9ccd70abbea3b52a",
+            "d0e90e6a7f905711"
+        ],
+        "x": 2454,
+        "y": 1279,
+        "w": 1092,
         "h": 242
+    },
+    {
+        "id": "53382dddfe9cc4db",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ea58f5c894db0458",
+            "896f4f5906456c34",
+            "8cf2051dcf95925e",
+            "77451b9b778d3933"
+        ],
+        "x": 1654,
+        "y": 1899,
+        "w": 472,
+        "h": 202
+    },
+    {
+        "id": "38e019e76fa45767",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "92b29a3808405772",
+            "cb38e50eb17dddb1",
+            "84d8623739b4a940"
+        ],
+        "x": 1674,
+        "y": 2279,
+        "w": 292,
+        "h": 162
+    },
+    {
+        "id": "c2d726a0664ed81b",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "678f70c0d1631edc",
+            "fe79331d5ed4c1b9",
+            "864d95a9d3021b54"
+        ],
+        "x": 1674,
+        "y": 2139,
+        "w": 472,
+        "h": 122
+    },
+    {
+        "id": "dce3be978a1f0dc6",
+        "type": "group",
+        "z": "471ac2a8a5e8653b",
+        "g": "705b33b727722b8f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0627c62aedfa7aba",
+            "734ed70c0979e82a",
+            "aa4e5a562cf0ea1d"
+        ],
+        "x": 434,
+        "y": 899
     },
     {
         "id": "65031937e0b0efd7",
@@ -2095,9 +2175,7 @@
             "a65d4ec274dcc92b"
         ],
         "x": 274,
-        "y": 439,
-        "w": 352,
-        "h": 122
+        "y": 439
     },
     {
         "id": "0409ed639d712c6c",
@@ -2122,9 +2200,7 @@
             "64c53d1b11cf7d48"
         ],
         "x": 594,
-        "y": 579,
-        "w": 612,
-        "h": 162
+        "y": 579
     },
     {
         "id": "5a1fee37aaaa0e70",
@@ -2146,9 +2222,7 @@
             "cc7b98ab4898a4fc"
         ],
         "x": 254,
-        "y": 79,
-        "w": 352,
-        "h": 122
+        "y": 79
     },
     {
         "id": "b172ae4261416e78",
@@ -2171,9 +2245,7 @@
             "75ee3710a7f713cd"
         ],
         "x": 254,
-        "y": 219,
-        "w": 592,
-        "h": 122
+        "y": 219
     },
     {
         "id": "5d6dc5b2b03096cd",
@@ -2196,9 +2268,7 @@
             "7668a9aa2f66d7f2"
         ],
         "x": 434,
-        "y": 79,
-        "w": 572,
-        "h": 122
+        "y": 79
     },
     {
         "id": "28196b10195ca582",
@@ -2219,9 +2289,7 @@
             "400a9ac35151a339"
         ],
         "x": 434,
-        "y": 219,
-        "w": 272,
-        "h": 82
+        "y": 219
     },
     {
         "id": "42080da9808971e0",
@@ -2243,9 +2311,7 @@
             "7fc8e7a46b665229"
         ],
         "x": 614,
-        "y": 399,
-        "w": 392,
-        "h": 122
+        "y": 399
     },
     {
         "id": "f45d589dd0982571",
@@ -2268,9 +2334,7 @@
             "a3658b821c559c70"
         ],
         "x": 614,
-        "y": 539,
-        "w": 552,
-        "h": 122
+        "y": 539
     },
     {
         "id": "91c825ea46b2a62d",
@@ -2486,123 +2550,10 @@
             "154f50307afe43ba"
         ],
         "x": 434,
-        "y": 1039,
-        "w": 372,
-        "h": 122
+        "y": 1039
     },
     {
-        "id": "705b33b727722b8f",
-        "type": "group",
-        "z": "471ac2a8a5e8653b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "52b058fd5cb5b506",
-            "ac06a2cc3f547450",
-            "06626f0390ba708e",
-            "79ae4379f43a37c6",
-            "dce3be978a1f0dc6",
-            "07e096004b84132f"
-        ],
-        "x": 14,
-        "y": 839,
-        "w": 1072,
-        "h": 402
-    },
-    {
-        "id": "bf4be24c050477c8",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "01cebc855c52442a",
-            "e3c76292e5d759dc",
-            "fe5cd6ea4f60ed48",
-            "d73b46a160cf656b",
-            "eac250045db34d86",
-            "fbad5870331e550d",
-            "5ff5c950f427e565",
-            "5920a648af435001",
-            "57d1b5a6d939c419",
-            "9fb84f2411852ded",
-            "98069c6e47ad8d25",
-            "353c649f465840ea"
-        ],
-        "x": 1254,
-        "y": 1539,
-        "w": 1232,
-        "h": 282
-    },
-    {
-        "id": "ee4e63b1070a71a3",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "92b29a3808405772",
-            "cb38e50eb17dddb1",
-            "84d8623739b4a940"
-        ],
-        "x": 1974,
-        "y": 2079,
-        "w": 292,
-        "h": 162
-    },
-    {
-        "id": "5e2620e7642ef2d3",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "bde2e3d8333824a0",
-            "899d32f86ed28a3c",
-            "92f189a434d251ca",
-            "908a8e22a62388f5",
-            "4271846e7bd991fd",
-            "c20f61e0a8ca70bc",
-            "3578deeb95fe02fc",
-            "c0df4cd1d7e78050",
-            "d9b266a200b9063f",
-            "4f09ce5b685d23c6"
-        ],
-        "x": 2454,
-        "y": 1279,
-        "w": 1092,
-        "h": 242
-    },
-    {
-        "id": "dd11f9225183ec86",
+        "id": "63607a9e6df4918a",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -2616,20 +2567,25 @@
         },
         "nodes": [
             "dfb30754afab5488",
-            "678f70c0d1631edc",
-            "fe79331d5ed4c1b9",
-            "ea58f5c894db0458",
-            "896f4f5906456c34",
-            "8cf2051dcf95925e",
-            "77451b9b778d3933"
+            "f0d2857c5cada444",
+            "db8ecee8ea19e798",
+            "4ad34142b7396425",
+            "55794dfb0543e88a",
+            "66371577025b858f",
+            "77bee5b2268677d8",
+            "b162725a5fba9a97",
+            "62f8e1873335ab3c",
+            "53382dddfe9cc4db",
+            "38e019e76fa45767",
+            "c2d726a0664ed81b"
         ],
-        "x": 1614,
-        "y": 1879,
-        "w": 652,
-        "h": 182
+        "x": 1254,
+        "y": 1839,
+        "w": 1398,
+        "h": 628
     },
     {
-        "id": "1492aa4f7c261798",
+        "id": "a1aaf2939f6ab26e",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -2642,17 +2598,120 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "cced0b43202f5982",
-            "9986b14df18cca3c",
-            "165cb2eb60dd0eb3",
-            "99bf8f66d5649841",
-            "a9728267a249ebbf",
-            "246fbc71e30c6e0c"
+            "a3c0471d89100158",
+            "1994c8de8db6d6e7",
+            "4cc2d474c87b122e",
+            "2f90f07bfc08f747",
+            "2f3f33dabcda87b2",
+            "76b10766fb105962",
+            "c45a5d9c79d0268e",
+            "7e417690209a273a",
+            "7981b865d3b6ee03",
+            "74424c6410534350",
+            "b689701444ce75a2",
+            "451e2c6eea53c120"
         ],
-        "x": 1634,
-        "y": 2259,
-        "w": 632,
-        "h": 242
+        "x": 2674,
+        "y": 1839,
+        "w": 1398,
+        "h": 628
+    },
+    {
+        "id": "7981b865d3b6ee03",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "43fecccc5099944a",
+            "45a882da3339ce43",
+            "0e24c01f3a7aa62c"
+        ],
+        "x": 3614,
+        "y": 2239,
+        "w": 432,
+        "h": 122
+    },
+    {
+        "id": "74424c6410534350",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c1495d265f29d216",
+            "aa1d5a7e1aeda619",
+            "2b20c767724c63ed",
+            "2789ef89b7811ef9"
+        ],
+        "x": 3094,
+        "y": 1899,
+        "w": 472,
+        "h": 202
+    },
+    {
+        "id": "b689701444ce75a2",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ca057a0e4da918a2",
+            "fbf2f0c9207dd8f8",
+            "6916351ad3da3adb"
+        ],
+        "x": 3114,
+        "y": 2279,
+        "w": 292,
+        "h": 162
+    },
+    {
+        "id": "451e2c6eea53c120",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3e013854bc275f3d",
+            "b0e814edcc7791cc",
+            "f7e7d07687931e31"
+        ],
+        "x": 3114,
+        "y": 2139,
+        "w": 472,
+        "h": 122
     },
     {
         "id": "f2f86710f80408e7",
@@ -5995,69 +6054,6 @@
         "wires": []
     },
     {
-        "id": "31158ce5cbb7ab6e",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "func": "//Calculate food consumption logic\n\n// msg.payload = [\n//     {topic:\"temperature\", payload:1, timestamp:1520527090000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527091000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527092000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527093000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527094000},\n//     {topic:\"temperature\", payload:1, timestamp:1520527095000},\n// ]\n\nmsg.payload = [{\n    \"series\": [\"A\", \"B\", \"C\"],\n    \"data\": [\n        [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }, ]\n    ],\n    \"labels\": [\"AA\", \"BB\", \"CC\"]\n}]\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 4120,
-        "y": 440,
-        "wires": [
-            [
-                "40dc2fb9fd1ddd84"
-            ]
-        ]
-    },
-    {
-        "id": "40dc2fb9fd1ddd84",
-        "type": "ui_chart",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "group": "35e893befae8d648",
-        "order": 3,
-        "width": 0,
-        "height": 0,
-        "label": "Food Consumption",
-        "chartType": "line",
-        "legend": "true",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": true,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#ff2600",
-            "#2ca02c",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#ff2600",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 4290,
-        "y": 440,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "81dd938944170e06",
         "type": "comment",
         "z": "2807eb5038af723b",
@@ -8234,7 +8230,8 @@
             "fdb462b8da6f3143",
             "ebf0719a6b2852db",
             "92f189a434d251ca",
-            "4f8c02041511ef4f"
+            "4f8c02041511ef4f",
+            "1994c8de8db6d6e7"
         ],
         "x": 3115,
         "y": 960,
@@ -8547,7 +8544,8 @@
         "y": 1100,
         "wires": [
             [
-                "98124579dd5b1f63"
+                "98124579dd5b1f63",
+                "b3dcdc07f67b3d5b"
             ]
         ]
     },
@@ -8735,7 +8733,8 @@
         "y": 1360,
         "wires": [
             [
-                "4f09ce5b685d23c6"
+                "4f09ce5b685d23c6",
+                "9ccd70abbea3b52a"
             ]
         ]
     },
@@ -9336,25 +9335,6 @@
         "wires": []
     },
     {
-        "id": "acdb74dbf32ae329",
-        "type": "inject",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "props": [],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 4080,
-        "y": 340,
-        "wires": [
-            [
-                "31158ce5cbb7ab6e"
-            ]
-        ]
-    },
-    {
         "id": "6baa2ac2d58a73e9",
         "type": "ui_chart",
         "z": "2807eb5038af723b",
@@ -9393,8 +9373,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 2620,
-        "y": 2100,
+        "x": 2500,
+        "y": 2320,
         "wires": [
             []
         ]
@@ -9403,10 +9383,10 @@
         "id": "dfb30754afab5488",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "dd11f9225183ec86",
-        "name": "PreRequest",
-        "func": "const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('waterSupplier')}/scale/water`);\n\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/records/${topic}/after/${msg.midnight}/last/*`;\n\nreturn msg;",
-        "outputs": 1,
+        "g": "63607a9e6df4918a",
+        "name": "CacheChecker",
+        "func": "// Consumption cache empty\n// Device selection changed\n// Date changed\n// --> Reset consumption cache\nif (!flow.get('waterConsumptionCache')\n    || msg.deviceChanged\n    || msg.timestamp.midnight != flow.get('waterConsumptionCache').start) {\n    const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('waterSupplier')}/scale/water`);\n    \n    msg.method = \"GET\";\n    msg.url = `https://petificationblue.ddns.net:1880/records/${topic}/after/${msg.timestamp.midnight}/last/*`;\n    \n    node.send([msg, null]);\n    \n// Update consumption cache\n} else if(msg.mqtt) {\n    // Ignore error under 10 millisec\n    const timestampLike = (\"\" + msg.timestamp.now).substring(0, 11) + \"%\";\n\n    // build the SQL query\n    msg.topic =\n        //\"SELECT (payload-\" + msg.mqtt.payload + \") AS diff \" +\n        `SELECT (payload - ${msg.mqtt.payload}) AS diff, timestamp ` +\n        \"FROM thingsData \" +\n        \"WHERE topic='\" + msg.mqtt.topic + \"' \" +\n        \"AND deleted=0 \" +\n        \"AND timestamp NOT LIKE '\" + timestampLike + \"' \" +\n        \"ORDER BY id DESC \" +\n        \"LIMIT 1;\";\n\n    node.send([null, msg]);\n}",
+        "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -9416,11 +9396,14 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 1710,
-        "y": 2020,
+        "x": 1540,
+        "y": 2260,
         "wires": [
             [
                 "678f70c0d1631edc"
+            ],
+            [
+                "cb38e50eb17dddb1"
             ]
         ]
     },
@@ -9428,14 +9411,14 @@
         "id": "678f70c0d1631edc",
         "type": "link call",
         "z": "2807eb5038af723b",
-        "g": "dd11f9225183ec86",
+        "g": "c2d726a0664ed81b",
         "name": "ReST/GET Records",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1910,
-        "y": 2020,
+        "x": 1790,
+        "y": 2220,
         "wires": [
             [
                 "fe79331d5ed4c1b9"
@@ -9446,16 +9429,16 @@
         "id": "fe79331d5ed4c1b9",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "dd11f9225183ec86",
+        "g": "c2d726a0664ed81b",
         "name": "CalcConsumption",
-        "func": "//  FORMAT: \n//      [ { \"x\": $timestamp, \"y\": $consumption } ]\nconst res = [\n    {\n        \"x\": msg.payload.length === 0\n            ? msg.midnight\n            : parseInt(msg.payload[0].timestamp),\n        \"y\": 0,\n    }\n];\n\nfor(let idx = 1; idx < msg.payload.length; idx++) {\n    const cur = parseInt(msg.payload[idx].payload);\n    const bef = parseInt(msg.payload[idx - 1].payload);\n    \n    res.push({\n        \"x\": parseInt(msg.payload[idx].timestamp),\n        \"y\": (cur < bef ? bef - cur : 0) + res[res.length - 1][\"y\"],\n    });\n}\n\nflow.set('waterConsumptionCache', {\n    start: msg.midnight,\n    consumption: res,\n});\n\nmsg.payload = res;\nreturn msg;",
+        "func": "//  FORMAT: \n//      [ { \"x\": $timestamp, \"y\": $consumption } ]\nconst res = [\n    {\n        \"x\": msg.payload.length === 0\n            ? msg.timestamp.midnight\n            : parseInt(msg.payload[0].timestamp),\n        \"y\": 0,\n    }\n];\n\nfor(let idx = 1; idx < msg.payload.length; idx++) {\n    const cur = parseInt(msg.payload[idx].payload);\n    const bef = parseInt(msg.payload[idx - 1].payload);\n    \n    res.push({\n        \"x\": parseInt(msg.payload[idx].timestamp),\n        \"y\": (cur < bef ? bef - cur : 0) + res[res.length - 1][\"y\"],\n    });\n}\n\nflow.set('waterConsumptionCache', {\n    start: msg.timestamp.midnight,\n    consumption: res,\n});\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2150,
-        "y": 2020,
+        "x": 2030,
+        "y": 2220,
         "wires": [
             [
                 "0f5efb3bab246385"
@@ -9468,14 +9451,14 @@
         "z": "2807eb5038af723b",
         "g": "62f8e1873335ab3c",
         "name": "GraphFormatter",
-        "func": "//Calculate food consumption logic\n\n// msg.payload = [{\n//     \"series\": [\"A\", \"B\", \"C\"],\n//     \"data\": [\n//         [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }],\n//     ],\n//     \"labels\": [\"\"]\n// }]\n\n// \"1645040417431\"\n// \"1504029632890\"\n\nmsg.payload = [{\n    \"series\": [\"Consumption\"],\n    \"data\": [flow.get('waterConsumptionCache').consumption],\n    \"labels\": [\"\"],\n}];\n\nreturn msg;",
+        "func": "//Calculate food consumption logic\n\n// **EXAMPLE**\n// msg.payload = [{\n//     \"series\": [\"A\", \"B\", \"C\"],\n//     \"data\": [\n//         [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }],\n//     ],\n//     \"labels\": [\"\"]\n// }]\n\nmsg.payload = [{\n    \"series\": [\"Consumption\"],\n    \"data\": [flow.get('waterConsumptionCache').consumption],\n    \"labels\": [\"\"],\n}];\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2400,
-        "y": 2100,
+        "x": 2280,
+        "y": 2320,
         "wires": [
             [
                 "6baa2ac2d58a73e9"
@@ -9486,15 +9469,16 @@
         "id": "f0d2857c5cada444",
         "type": "link in",
         "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
         "name": "Water Supplier Selection Event Listener",
         "links": [
             "d48f225f687e0af3"
         ],
-        "x": 1575,
-        "y": 1960,
+        "x": 1595,
+        "y": 1920,
         "wires": [
             [
-                "896f4f5906456c34"
+                "b162725a5fba9a97"
             ]
         ]
     },
@@ -9502,36 +9486,38 @@
         "id": "db8ecee8ea19e798",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
         "name": "Water Supplier Selection Event Listener",
         "info": "",
-        "x": 1410,
-        "y": 1960,
+        "x": 1430,
+        "y": 1920,
         "wires": []
     },
     {
         "id": "ea58f5c894db0458",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "dd11f9225183ec86",
-        "name": "Calculation & Save Consumption",
+        "g": "53382dddfe9cc4db",
+        "name": "Local Midnight",
         "info": "",
-        "x": 1770,
-        "y": 1920,
+        "x": 1760,
+        "y": 1940,
         "wires": []
     },
     {
         "id": "4ad34142b7396425",
         "type": "link in",
         "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
         "name": "Water Scale Publish Event Listener",
         "links": [
             "98069c6e47ad8d25"
         ],
-        "x": 1595,
-        "y": 2340,
+        "x": 1575,
+        "y": 2000,
         "wires": [
             [
-                "9986b14df18cca3c"
+                "77bee5b2268677d8"
             ]
         ]
     },
@@ -9539,26 +9525,27 @@
         "id": "55794dfb0543e88a",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
         "name": "Water Scale Publish Event Listener",
         "info": "",
-        "x": 1440,
-        "y": 2340,
+        "x": 1420,
+        "y": 2000,
         "wires": []
     },
     {
         "id": "896f4f5906456c34",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "dd11f9225183ec86",
+        "g": "53382dddfe9cc4db",
         "name": "PreRequest",
-        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\nnode.send(msg);",
+        "func": "msg.timestamp = {\n    now: new Date().getTime(),\n}\n\nmsg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\nnode.send(msg);",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1710,
-        "y": 1960,
+        "x": 1750,
+        "y": 1980,
         "wires": [
             [
                 "8cf2051dcf95925e"
@@ -9569,14 +9556,14 @@
         "id": "8cf2051dcf95925e",
         "type": "link call",
         "z": "2807eb5038af723b",
-        "g": "dd11f9225183ec86",
+        "g": "53382dddfe9cc4db",
         "name": "ReST/GET Timezone",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1920,
-        "y": 1960,
+        "x": 1880,
+        "y": 2020,
         "wires": [
             [
                 "77451b9b778d3933"
@@ -9590,24 +9577,24 @@
         "g": "62f8e1873335ab3c",
         "name": "Print Graph",
         "info": "",
-        "x": 2390,
-        "y": 2060,
+        "x": 2270,
+        "y": 2280,
         "wires": []
     },
     {
         "id": "92b29a3808405772",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "ee4e63b1070a71a3",
+        "g": "38e019e76fa45767",
         "name": "Calculate Decrease",
-        "func": "let decr = 0;\nlet timestamp = msg.mqtt.timestamp;\n\nif(msg.payload.length == 1 && msg.payload[0][\"diff\"] > 0) {\n    decr = msg.payload[0].diff;\n    timestamp = parseInt(msg.payload[0].timestamp);\n}\n\nconst res = flow.get('waterConsumptionCache');\nconst item = {\n    \"x\": timestamp,\n    \"y\": res.consumption[res.consumption.length - 1][\"y\"] + decr,\n};\n\nres.consumption.push(item);\n\nflow.set('waterConsumptionCache', res);\n\nmsg.payload = item;\n\nreturn msg;",
+        "func": "let decr = 0;\nlet timestamp = msg.timestamp.now;\n\nif(msg.payload.length == 1) {\n    timestamp = parseInt(msg.payload[0].timestamp);\n    if(msg.payload[0].diff > 0) {\n        decr = msg.payload[0].diff;\n    }\n}\n\nconst res = flow.get('waterConsumptionCache');\nconst item = {\n    \"x\": timestamp,\n    \"y\": res.consumption[res.consumption.length - 1][\"y\"] + decr,\n};\n\nres.consumption.push(item);\nflow.set('waterConsumptionCache', res);\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2150,
-        "y": 2200,
+        "x": 1850,
+        "y": 2400,
         "wires": [
             [
                 "0f5efb3bab246385"
@@ -9624,7 +9611,7 @@
         "links": [
             "4ad34142b7396425"
         ],
-        "x": 2175,
+        "x": 1915,
         "y": 1600,
         "wires": []
     },
@@ -9635,18 +9622,44 @@
         "g": "bf4be24c050477c8",
         "name": "Water Scale Publish Event Out",
         "info": "",
-        "x": 2330,
+        "x": 2070,
         "y": 1600,
         "wires": []
     },
     {
-        "id": "cced0b43202f5982",
+        "id": "cb38e50eb17dddb1",
+        "type": "mysql",
+        "z": "2807eb5038af723b",
+        "g": "38e019e76fa45767",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 1760,
+        "y": 2360,
+        "wires": [
+            [
+                "92b29a3808405772"
+            ]
+        ]
+    },
+    {
+        "id": "84d8623739b4a940",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "38e019e76fa45767",
+        "name": "Update Cache",
+        "info": "",
+        "x": 1780,
+        "y": 2320,
+        "wires": []
+    },
+    {
+        "id": "77451b9b778d3933",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "1492aa4f7c261798",
-        "name": "PreRequest",
-        "func": "msg.midnight = moment.tz(new Date(msg.mqtt.timestamp), msg.payload.timezone).startOf(\"day\").format('x');\n\n// Same Day\nif(msg.midnight == flow.get('waterConsumptionCache').start) {\n    \n    // Ignore error under 10 millisec\n    const timestampLike = (\"\" + msg.mqtt.timestamp).substring(0, 11) + \"%\";\n\n    // build the SQL query\n    msg.topic =\n        //\"SELECT (payload-\" + msg.mqtt.payload + \") AS diff \" +\n        `SELECT (payload - ${msg.mqtt.payload}) AS diff, timestamp ` +\n        \"FROM thingsData \" +\n        \"WHERE topic='\" + msg.mqtt.topic + \"' \" +\n        \"AND deleted=0 \" +\n        \"AND timestamp NOT LIKE '\" + timestampLike + \"' \" +\n        \"ORDER BY id DESC \" +\n        \"LIMIT 1;\";\n\n    return [msg, null];\n\n// Day Changed\n} else {\n    return [null, msg];\n}",
-        "outputs": 2,
+        "g": "53382dddfe9cc4db",
+        "name": "CalcLocalMidnight",
+        "func": "msg.timestamp.midnight = parseInt(moment.tz(msg.timestamp.now, msg.payload.timezone)\n        .startOf(\"day\")\n        .format('x'));\nreturn msg;",
+        "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -9656,157 +9669,8 @@
                 "module": "moment-timezone"
             }
         ],
-        "x": 1970,
-        "y": 2420,
-        "wires": [
-            [
-                "cb38e50eb17dddb1"
-            ],
-            [
-                "a9728267a249ebbf"
-            ]
-        ]
-    },
-    {
-        "id": "9986b14df18cca3c",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "1492aa4f7c261798",
-        "name": "PreRequest",
-        "func": "msg.mqtt = {\n    timestamp: new Date().getTime(),\n    topic: msg.topic,\n    payload: parseInt(msg.payload),\n};\n\nmsg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1730,
-        "y": 2340,
-        "wires": [
-            [
-                "165cb2eb60dd0eb3"
-            ]
-        ]
-    },
-    {
-        "id": "165cb2eb60dd0eb3",
-        "type": "link call",
-        "z": "2807eb5038af723b",
-        "g": "1492aa4f7c261798",
-        "name": "ReST/GET Timezone",
-        "links": [
-            "7986a94a1d338f6c"
-        ],
-        "timeout": "30",
-        "x": 1860,
-        "y": 2380,
-        "wires": [
-            [
-                "cced0b43202f5982"
-            ]
-        ]
-    },
-    {
-        "id": "cb38e50eb17dddb1",
-        "type": "mysql",
-        "z": "2807eb5038af723b",
-        "g": "ee4e63b1070a71a3",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 2060,
-        "y": 2160,
-        "wires": [
-            [
-                "92b29a3808405772"
-            ]
-        ]
-    },
-    {
-        "id": "99bf8f66d5649841",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "1492aa4f7c261798",
-        "name": "Detect Date Changed",
-        "info": "",
-        "x": 1760,
-        "y": 2300,
-        "wires": []
-    },
-    {
-        "id": "a9728267a249ebbf",
-        "type": "link out",
-        "z": "2807eb5038af723b",
-        "g": "1492aa4f7c261798",
-        "name": "Date Changed Event Out",
-        "mode": "link",
-        "links": [
-            "dc0f5145315392e1"
-        ],
-        "x": 1995,
-        "y": 2460,
-        "wires": []
-    },
-    {
-        "id": "246fbc71e30c6e0c",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "1492aa4f7c261798",
-        "name": "Date Changed Event Out",
-        "info": "",
-        "x": 2130,
-        "y": 2460,
-        "wires": []
-    },
-    {
-        "id": "dc0f5145315392e1",
-        "type": "link in",
-        "z": "2807eb5038af723b",
-        "name": "Date Changed Event Listener",
-        "links": [
-            "a9728267a249ebbf"
-        ],
-        "x": 1575,
-        "y": 2020,
-        "wires": [
-            [
-                "dfb30754afab5488"
-            ]
-        ]
-    },
-    {
-        "id": "6e48408d1f72271b",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Date Changed Event Listener",
-        "info": "",
-        "x": 1440,
-        "y": 2020,
-        "wires": []
-    },
-    {
-        "id": "84d8623739b4a940",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "ee4e63b1070a71a3",
-        "name": "Calculate Decrease Amount",
-        "info": "",
-        "x": 2120,
-        "y": 2120,
-        "wires": []
-    },
-    {
-        "id": "77451b9b778d3933",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "dd11f9225183ec86",
-        "name": "CalcLocalMidnight",
-        "func": "msg.midnight = moment.tz(new Date(), msg.payload.timezone).startOf(\"day\").format('x');\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2150,
-        "y": 1960,
+        "x": 2010,
+        "y": 2060,
         "wires": [
             [
                 "dfb30754afab5488"
@@ -9817,11 +9681,491 @@
         "id": "66371577025b858f",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "name": "Consumption Graph",
+        "g": "63607a9e6df4918a",
+        "name": "Water Consumption Graph",
         "info": "",
-        "x": 1350,
-        "y": 1860,
+        "x": 1390,
+        "y": 1880,
         "wires": []
+    },
+    {
+        "id": "77bee5b2268677d8",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
+        "name": "SaveMSG",
+        "func": "msg.mqtt = {\n    topic: msg.topic,\n    payload: parseInt(msg.payload),\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 2040,
+        "wires": [
+            [
+                "896f4f5906456c34"
+            ]
+        ]
+    },
+    {
+        "id": "b162725a5fba9a97",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "63607a9e6df4918a",
+        "name": "SetFlag",
+        "func": "msg.deviceChanged = true;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 1960,
+        "wires": [
+            [
+                "896f4f5906456c34"
+            ]
+        ]
+    },
+    {
+        "id": "864d95a9d3021b54",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "c2d726a0664ed81b",
+        "name": "Reset Cache",
+        "info": "",
+        "x": 1770,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "a3c0471d89100158",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "CacheChecker",
+        "func": "// Consumption cache empty\n// Device selection changed\n// Date changed\n// --> Reset consumption cache\nif (!flow.get('foodConsumptionCache')\n    || msg.deviceChanged\n    || msg.timestamp.midnight != flow.get('foodConsumptionCache').start) {\n    const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/bowl`);\n    \n    msg.method = \"GET\";\n    msg.url = `https://petificationblue.ddns.net:1880/records/${topic}/after/${msg.timestamp.midnight}/last/*`;\n    \n    node.send([msg, null]);\n    \n// Update consumption cache\n} else if(msg.mqtt) {\n    // Ignore error under 10 millisec\n    const timestampLike = (\"\" + msg.timestamp.now).substring(0, 11) + \"%\";\n\n    // build the SQL query\n    msg.topic =\n        //\"SELECT (payload-\" + msg.mqtt.payload + \") AS diff \" +\n        `SELECT (payload - ${msg.mqtt.payload}) AS diff, timestamp ` +\n        \"FROM thingsData \" +\n        \"WHERE topic='\" + msg.mqtt.topic + \"' \" +\n        \"AND deleted=0 \" +\n        \"AND timestamp NOT LIKE '\" + timestampLike + \"' \" +\n        \"ORDER BY id DESC \" +\n        \"LIMIT 1;\";\n\n    node.send([null, msg]);\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "moment",
+                "module": "moment-timezone"
+            }
+        ],
+        "x": 2980,
+        "y": 2260,
+        "wires": [
+            [
+                "3e013854bc275f3d"
+            ],
+            [
+                "fbf2f0c9207dd8f8"
+            ]
+        ]
+    },
+    {
+        "id": "1994c8de8db6d6e7",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "Feed Machine Selection Event Listener",
+        "links": [
+            "f3801119dcfd5901"
+        ],
+        "x": 3035,
+        "y": 1920,
+        "wires": [
+            [
+                "7e417690209a273a"
+            ]
+        ]
+    },
+    {
+        "id": "4cc2d474c87b122e",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "Feed Machine Selection Event Listener",
+        "info": "",
+        "x": 2870,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "2f90f07bfc08f747",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "Food Bowl Scale Publish Event Listener",
+        "links": [
+            "b3dcdc07f67b3d5b"
+        ],
+        "x": 3015,
+        "y": 2000,
+        "wires": [
+            [
+                "c45a5d9c79d0268e"
+            ]
+        ]
+    },
+    {
+        "id": "2f3f33dabcda87b2",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "Food Bowl Scale Publish Event Listener",
+        "info": "",
+        "x": 2850,
+        "y": 2000,
+        "wires": []
+    },
+    {
+        "id": "76b10766fb105962",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "Food Consumption Graph",
+        "info": "",
+        "x": 2830,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "c45a5d9c79d0268e",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "SaveMSG",
+        "func": "msg.mqtt = {\n    topic: msg.topic,\n    payload: parseInt(msg.payload),\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2980,
+        "y": 2040,
+        "wires": [
+            [
+                "aa1d5a7e1aeda619"
+            ]
+        ]
+    },
+    {
+        "id": "7e417690209a273a",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "a1aaf2939f6ab26e",
+        "name": "SetFlag",
+        "func": "msg.deviceChanged = true;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2980,
+        "y": 1960,
+        "wires": [
+            [
+                "aa1d5a7e1aeda619"
+            ]
+        ]
+    },
+    {
+        "id": "43fecccc5099944a",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "7981b865d3b6ee03",
+        "name": "GraphFormatter",
+        "func": "//Calculate food consumption logic\n\n// **EXAMPLE**\n// msg.payload = [{\n//     \"series\": [\"A\", \"B\", \"C\"],\n//     \"data\": [\n//         [{ \"x\": 1504029632890, \"y\": 5 }, { \"x\": 1504029633514, \"y\": 6 }, { \"x\": 1504029634400, \"y\": 7 }],\n//     ],\n//     \"labels\": [\"\"]\n// }]\n\nmsg.payload = [{\n    \"series\": [\"Consumption\"],\n    \"data\": [flow.get('foodConsumptionCache').consumption],\n    \"labels\": [\"\"],\n}];\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3720,
+        "y": 2320,
+        "wires": [
+            [
+                "0e24c01f3a7aa62c"
+            ]
+        ]
+    },
+    {
+        "id": "45a882da3339ce43",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "7981b865d3b6ee03",
+        "name": "Print Graph",
+        "info": "",
+        "x": 3710,
+        "y": 2280,
+        "wires": []
+    },
+    {
+        "id": "c1495d265f29d216",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "74424c6410534350",
+        "name": "Local Midnight",
+        "info": "",
+        "x": 3200,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "aa1d5a7e1aeda619",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "74424c6410534350",
+        "name": "PreRequest",
+        "func": "msg.timestamp = {\n    now: new Date().getTime(),\n}\n\nmsg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3190,
+        "y": 1980,
+        "wires": [
+            [
+                "2b20c767724c63ed"
+            ]
+        ]
+    },
+    {
+        "id": "2b20c767724c63ed",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "74424c6410534350",
+        "name": "ReST/GET Timezone",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 3320,
+        "y": 2020,
+        "wires": [
+            [
+                "2789ef89b7811ef9"
+            ]
+        ]
+    },
+    {
+        "id": "2789ef89b7811ef9",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "74424c6410534350",
+        "name": "CalcLocalMidnight",
+        "func": "msg.timestamp.midnight = parseInt(moment.tz(msg.timestamp.now, msg.payload.timezone)\n        .startOf(\"day\")\n        .format('x'));\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "moment",
+                "module": "moment-timezone"
+            }
+        ],
+        "x": 3450,
+        "y": 2060,
+        "wires": [
+            [
+                "a3c0471d89100158"
+            ]
+        ]
+    },
+    {
+        "id": "ca057a0e4da918a2",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "b689701444ce75a2",
+        "name": "Calculate Decrease",
+        "func": "let decr = 0;\nlet timestamp = msg.timestamp.now;\n\nif(msg.payload.length == 1) {\n    timestamp = parseInt(msg.payload[0].timestamp);\n    if(msg.payload[0].diff > 0) {\n        decr = msg.payload[0].diff;\n    }\n}\n\nconst res = flow.get('foodConsumptionCache');\nconst item = {\n    \"x\": timestamp,\n    \"y\": res.consumption[res.consumption.length - 1][\"y\"] + decr,\n};\n\nres.consumption.push(item);\nflow.set('foodConsumptionCache', res);\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3290,
+        "y": 2400,
+        "wires": [
+            [
+                "43fecccc5099944a"
+            ]
+        ]
+    },
+    {
+        "id": "fbf2f0c9207dd8f8",
+        "type": "mysql",
+        "z": "2807eb5038af723b",
+        "g": "b689701444ce75a2",
+        "mydb": "1654a6d7a221376c",
+        "name": "",
+        "x": 3200,
+        "y": 2360,
+        "wires": [
+            [
+                "ca057a0e4da918a2"
+            ]
+        ]
+    },
+    {
+        "id": "6916351ad3da3adb",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "b689701444ce75a2",
+        "name": "Update Cache",
+        "info": "",
+        "x": 3220,
+        "y": 2320,
+        "wires": []
+    },
+    {
+        "id": "3e013854bc275f3d",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "451e2c6eea53c120",
+        "name": "ReST/GET Records",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 3230,
+        "y": 2220,
+        "wires": [
+            [
+                "b0e814edcc7791cc"
+            ]
+        ]
+    },
+    {
+        "id": "b0e814edcc7791cc",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "451e2c6eea53c120",
+        "name": "CalcConsumption",
+        "func": "//  FORMAT: \n//      [ { \"x\": $timestamp, \"y\": $consumption } ]\nconst res = [\n    {\n        \"x\": msg.payload.length === 0\n            ? msg.timestamp.midnight\n            : parseInt(msg.payload[0].timestamp),\n        \"y\": 0,\n    }\n];\n\nfor(let idx = 1; idx < msg.payload.length; idx++) {\n    const cur = parseInt(msg.payload[idx].payload);\n    const bef = parseInt(msg.payload[idx - 1].payload);\n    \n    res.push({\n        \"x\": parseInt(msg.payload[idx].timestamp),\n        \"y\": (cur < bef ? bef - cur : 0) + res[res.length - 1][\"y\"],\n    });\n}\n\nflow.set('foodConsumptionCache', {\n    start: msg.timestamp.midnight,\n    consumption: res,\n});\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3470,
+        "y": 2220,
+        "wires": [
+            [
+                "43fecccc5099944a"
+            ]
+        ]
+    },
+    {
+        "id": "f7e7d07687931e31",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "451e2c6eea53c120",
+        "name": "Reset Cache",
+        "info": "",
+        "x": 3210,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "b3dcdc07f67b3d5b",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "Food Bowl Scale Publish Event Out",
+        "mode": "link",
+        "links": [
+            "2f90f07bfc08f747"
+        ],
+        "x": 3095,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "d881f8bd9f8555c4",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "Food Bowl Scale Publish Event Out",
+        "info": "",
+        "x": 3260,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "9ccd70abbea3b52a",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "5e2620e7642ef2d3",
+        "name": "Food Container Scale Publish Event Out",
+        "mode": "link",
+        "links": [],
+        "x": 3095,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "d0e90e6a7f905711",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "5e2620e7642ef2d3",
+        "name": "Food Container Scale Publish Event Out",
+        "info": "",
+        "x": 3280,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "0e24c01f3a7aa62c",
+        "type": "ui_chart",
+        "z": "2807eb5038af723b",
+        "g": "7981b865d3b6ee03",
+        "name": "",
+        "group": "35e893befae8d648",
+        "order": 3,
+        "width": "6",
+        "height": "7",
+        "label": "Food Consumption",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#ff2600",
+            "#2ca02c",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#ff2600",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 3930,
+        "y": 2320,
+        "wires": [
+            []
+        ]
     },
     {
         "id": "eb03c4c4206e34a0",
