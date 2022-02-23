@@ -1,4 +1,4 @@
-# PETIFICATION
+# Petification/Platform
 Configs, Shell-scripts, NodeRED-Flows
 
 ## Index
@@ -36,6 +36,18 @@ Configs, Shell-scripts, NodeRED-Flows
 ```
 ./manage.sh --log
 ```
+#### user.sh
+- Managing MQTT security setting (user)
+1. Add user
+```
+./user.sh --new
+```
+2. Show all users
+```
+./user.sh --all
+```
+### MySQL
+- `MySQL` sql file for creating table scheme
 ### NodeRED
 #### export.sh
 - Export NodeRED flows & settings.
