@@ -77,8 +77,8 @@ module.exports = {
     adminAuth: {
         type: "credentials",
         users: [{
-            username: "blue",
-            password: "$2b$08$AK9fvgiyVbQ7WXUkO3Olc.iecVsgrsnMow6U4a9zG8Gq7tINwg9qa",
+            username: "$NODERED_ADMIN",
+            password: "$PASSWORD_DIGEST",
             permissions: "*"
         }]
     },
@@ -217,9 +217,9 @@ module.exports = {
 
             const connection = require('mysql').createConnection({
                 host: 'localhost',
-                user: 'blue',
-                password: 'oQvfYwOC31kliuDf',
-                database: 'tSeriesDB'
+                user: '$DB_USER',
+                password: '$DB_PASSWORD',
+                database: '$DB_DBNAME'
             });
 
             connection.query(query, function(err, rows, fields) {

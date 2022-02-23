@@ -36,16 +36,6 @@ CREATE TABLE `deviceData` (
   `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `deviceData`
---
-
-INSERT INTO `deviceData` (`cid`, `name`, `type`, `status`, `statusInfo`, `uid`, `last_update`) VALUES
-('7a88220b-fac7-4c9b-a89b-8c6615fcc306', 'Water Supplier', 1, 0, 'Connected', 't00Rt00R', '2022-02-17 22:38:02'),
-('a6fbc88d-2512-43ec-9a83-0b442dec6a9c', 'Feed Machine', 0, 1, 'Disconnected', 't00Rt00R', '2022-02-18 02:07:16'),
-('food-feeder', 'Feed Machine (Virtual)', 0, 0, 'Connected', 't00Rt00R', '2022-02-17 14:17:15'),
-('water-dispenser', 'Water Supplier (Virtual)', 1, 0, 'Connected', 't00Rt00R', '2022-02-18 01:15:43');
-
 -- --------------------------------------------------------
 
 --
@@ -115,13 +105,6 @@ CREATE TABLE `userData` (
   `settings` json NOT NULL,
   `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `userData`
---
-
-INSERT INTO `userData` (`token`, `uname`, `notification`, `settings`, `last_update`) VALUES
-('t00Rt00R', 'petification', 0, '{\"email\": \"ewqdsacxz2345@gmail.com\", \"timezone\": \"America/Indiana/Indianapolis\", \"wa-apikey\": \"869940\", \"wa-phonenum\": \"+15622416686\"}', '2022-02-16 06:02:28');
 
 --
 -- Indexes for dumped tables

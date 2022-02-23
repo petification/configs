@@ -9,16 +9,16 @@ topic read timestamp/#
 
 # ADMINISTRATOR
 #   Allow administrator to publish or subscribe any topic
-user blue
+user $ADMIN
 topic readwrite #
 
 # APPLICATION AS A USER
-user petification
+user $APP_USER
 topic read timestamp/#
 #   Allow user to publish or subscribe for given topic and subtopic that is named Client_ID
 #   For example, when username "a" connects with Client_ID "aa" and <topic-name> is "testTopic",
 #   user "a" will have permission to publish or subscribe for topic "testTopic/aa/#" (note that # means all).
-topic readwrite petification/%c/#
+topic readwrite $APP_USER/%c/#
 
 # PATTERNS
 topic read timestamp/#

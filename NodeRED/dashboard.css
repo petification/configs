@@ -1,0 +1,185 @@
+<style id="blue-dashboard">
+
+body.nr-dashboard-theme {
+    background: linear-gradient(180deg, #6FD7F4 10.32%, #B9D1DF 64.55%, #C1CAE3 100%);
+}
+
+body.nr-dashboard-theme md-toolbar {
+   background:rgba(85, 149, 176, 0.56);
+}
+
+/* side-navi */
+
+body.nr-dashboard-theme md-sidenav {
+    background: linear-gradient(270deg, #59D1F2 10.06%, #72D8F4 40.45%, #90DEF4 65.97%, #B9E7F4 89.41%);
+}
+
+body.nr-dashboard-theme md-sidenav div.md-list-item-inner {
+    color: rgb(0 0 0);
+    background-color: transparent;
+}
+
+/*
+
+each card panel
+
+    justify-content:space-around;
+*/
+body.nr-dashboard-theme ui-card-panel {
+    position: absolute;
+    margin-top : 7%; /* additional property*/
+    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+    border: 5px solid #4B539C;
+    border-radius: 1em;
+    box-shadow: 0 0 1em 0em rgb(0 0 100 / 50%);
+}
+
+body.nr-dashboard-theme md-content md-card {
+    background: transparent;
+    color: rgb(75,83,156); /* Basic : rgb(215 223 245); */
+    font-weight: bold; /* additional property */
+   
+    
+}
+
+
+.nr-dashboard-theme .nr-dashboard-template {
+    background:transparent;
+}
+
+
+
+.nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {
+    color: #000000; /* additional property*/
+    font-size: 25px; /* additional property*/
+    text-shadow: 1px 1px 0px rgb(0 0 0 / 50%);
+    font-weight: bolder; /* additional property*/
+}
+
+
+.md-button{
+    border-radius:0.6em;
+    color: #000000; /*fixed. but I don't know what this code do. */
+}
+
+
+
+.nr-dashboard-theme .nr-dashboard-button .md-button {
+    background-color: #053ea8; 
+    color:rgb(215 223 245);
+    font-size: 15px; /* additional property*/
+    font-weight: bold; /* additional property*/
+}
+
+.nr-dashboard-theme .nr-dashboard-button .md-button:hover {
+    background-color: #8AA9E1;
+}
+.nr-dashboard-theme .nr-dashboard-button .md-button:focus {
+    background-color: #8AA9E1;
+}
+
+/* here now */
+
+.nr-dashboard-theme .nr-dashboard-numeric .value {
+    background:unset;
+    color: rgb(215 223 245);
+}
+.nr-dashboard-theme .nr-dashboard-form {
+    color:rgb(215 223 245);
+}
+.nr-dashboard-theme .nr-dashboard-form-button {
+    background-color: #053ea8;
+    color:rgb(215 223 245);
+}
+
+.nr-dashboard-theme .nr-dashboard-form-button:hover {
+    background-color: #0646bd !important;
+}
+.nr-dashboard-theme .nr-dashboard-form-button:focus {
+    background-color: #0646bd !important;
+}
+.nr-dashboard-theme md-input-container.md-default-theme .md-input, md-input-container .md-input {
+     color:rgb(215 223 245);
+    border-color: #074fd4 !important;
+}
+.nr-dashboard-theme .nr-dashboard-switch md-switch .md-thumb {
+    background-color: rgb(25 31 153);
+}
+.nr-dashboard-theme .nr-dashboard-switch md-switch .md-bar {
+    background-color: rgb(94 94 177);
+    box-shadow: inset 0 0 1px #0000005e;
+}
+.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-bar {
+    background-color: rgb(94 94 177);
+     box-shadow: 0 0 10px 0px #101086;
+}
+.nr-dashboard-theme .nr-dashboard-switch md-switch.md-checked .md-thumb {
+    background-color: rgb(61 107 232);
+    box-shadow: 0 0 10px 0px #101086;
+}
+.nr-dashboard-theme .nr-dashboard-slider .md-track {
+    background-color: rgb(125 172 249 / 35%);
+}
+md-slider .md-thumb {
+    box-shadow: 0 0 10px 0px #101086;
+}
+
+.nr-dashboard-theme .nr-dashboard-slider .md-thumb:after {
+    background-color: #3d6be8;
+    border-color: #3d6be8;
+}
+
+.nr-dashboard-theme md-select-menu, .nr-dashboard-theme md-select-menu md-option {
+    background-color: rgb(0 0 0 / 12%);
+    color:rgb(215 223 245);
+    border-radius:0.8em;
+}
+
+.nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value, .nr-dashboard-theme .nr-dashboard-dropdown md-select .md-select-value.md-select-placeholder {
+    margin-top: -3px;
+    border-color: #eeeeee7a;
+    
+}
+.nr-dashboard-theme .md-select-menu-container {
+    max-height: 85%;
+    overflow-y: auto;
+    border: none;
+    border-radius: 0.8em;
+}
+.nr-dashboard-theme .nr-dashboard-dropdown .md-select-icon {
+
+}
+.nr-dashboard-theme md-select-menu md-option {
+    background-color: rgb(40 53 147);
+   
+    height: 29px;
+    border-radius: 0.6em;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+    box-shadow: 0 0 6px 6px #24202133;
+    transition: 0.3s;
+}
+.nr-dashboard-theme md-select-menu md-option[selected] {
+    color: rgb(130 177 255) !important;
+    background-color: rgb(27 90 197) !important;
+}
+.nr-dashboard-theme md-select-menu md-option:nth-child(even) {
+    background-color: rgb(31 31 152);
+}
+.nr-dashboard-theme md-select-menu md-option:last-child {
+   margin-bottom: 8px;
+}
+.nr-dashboard-theme md-select-menu md-option:hover {
+    background-color: rgb(20 91 211) !important;
+    padding-left: 26px;
+}
+.nr-dashboard-theme md-select-menu md-option > .md-ripple-container{
+     border-radius: 14px;
+}
+
+.formlabel{
+    color : black;
+}
+
+</style>
